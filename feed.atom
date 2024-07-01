@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T04:58:16.787Z</updated>
+    <updated>2024-07-01T04:58:34.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
@@ -132,7 +132,7 @@ Also:
         <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/</id>
         <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/"/>
         <updated>2024-06-30T06:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:La matematica è piena di Eulero!: La più bella…La matematica unisce - Giornata Internazionale della…Racconta la tua vita a matematica […]]]></summary>
+        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Giocare con la matematica - Giornata Internazionale…La matematica del colore - parte 4: E CIE fu…La Matematica unisce – Giornata […]]]></summary>
         <author>
             <name>Maddmaths!</name>
         </author>
@@ -1385,6 +1385,7 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/</id>
         <link href="https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/"/>
         <updated>2024-06-24T19:00:24.000Z</updated>
+        <summary type="html"><![CDATA[New Computational Model of Real Neurons Could Lead to Better AI on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -2742,6 +2743,7 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/</id>
         <link href="https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/"/>
         <updated>2024-06-17T15:44:21.000Z</updated>
+        <summary type="html"><![CDATA[The Simons Foundation has announced the new Simons Dissertation Fellowship in Mathematics to provide research support to graduate students in the final years of their Ph.D. program.]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -2751,6 +2753,7 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/17/two-neuroscience-laws-governing-how-we-sense-the-world-finally-united-after-67-years/</id>
         <link href="https://www.simonsfoundation.org/2024/06/17/two-neuroscience-laws-governing-how-we-sense-the-world-finally-united-after-67-years/"/>
         <updated>2024-06-17T13:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Two Neuroscience Laws Governing How We Sense the World Finally United After 67 Years on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -3483,6 +3486,7 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/12/simons-foundation-funds-14-projects-exploring-earth-cooling-techniques-as-part-of-new-international-research-program/</id>
         <link href="https://www.simonsfoundation.org/2024/06/12/simons-foundation-funds-14-projects-exploring-earth-cooling-techniques-as-part-of-new-international-research-program/"/>
         <updated>2024-06-12T15:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Simons Foundation Funds 14 Projects Exploring Earth-Cooling Techniques as Part of New International Research Program on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -4310,6 +4314,7 @@ I finally published my grandmother’s autobiography. I doubt anyone outside of 
         <id>https://johncarlosbaez.wordpress.com/2024/06/05/agent-based-models-part-12/</id>
         <link href="https://johncarlosbaez.wordpress.com/2024/06/05/agent-based-models-part-12/"/>
         <updated>2024-06-05T20:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Today I’d like to wrap up my discussion of how to implement the Game of Life in our agent-based model software called AlgebraicABMs. Kris Brown’s software for the Game of Life is here: …]]></summary>
         <author>
             <name>Azimuth</name>
         </author>
