@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T04:58:34.403Z</updated>
+    <updated>2024-07-02T00:33:09.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guest Post: “Daniël Lakens: How were we supposed to move beyond  p < .05, and why didn’t we? “(part 1 of 2):]]></title>
+        <id>https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/</id>
+        <link href="https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/"/>
+        <updated>2024-07-01T19:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology *[Some earlier posts by D. Lakens on this topic are listed at the end of part 2, forthcoming this week] How w…]]></summary>
+        <author>
+            <name>Error Statistics Philosophy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New image by Joe Wu]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html"/>
+        <updated>2024-07-01T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Artwork by Joe Wu   https://im-possible.info/english/art/rendering/joe-wu.html#007    Author -  https://im3djoe.artstation.com/]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henrique Boschi-Filho]]></title>
+        <id>https://ncatlab.org/nlab/show/Henrique+Boschi-Filho</id>
+        <link href="https://ncatlab.org/nlab/show/Henrique+Boschi-Filho"/>
+        <updated>2024-07-01T16:45:07.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nelson R. F. Braga]]></title>
+        <id>https://ncatlab.org/nlab/show/Nelson+R.+F.+Braga</id>
+        <link href="https://ncatlab.org/nlab/show/Nelson+R.+F.+Braga"/>
+        <updated>2024-07-01T16:42:47.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two sequential spaces whose product is not sequential]]></title>
+        <id>https://dantopology.wordpress.com/2024/07/01/two-sequential-spaces-whose-product-is-not-sequential/</id>
+        <link href="https://dantopology.wordpress.com/2024/07/01/two-sequential-spaces-whose-product-is-not-sequential/"/>
+        <updated>2024-07-01T16:14:26.000Z</updated>
+        <summary type="html"><![CDATA[It is well known that the product of two sequential spaces needs not be a sequential space. In fact, the product of a a metric space (or metrizable space) with a sequential space needs not be a seq…]]></summary>
+        <author>
+            <name>Dan Ma's Topology Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flatiron Institute Launches Initiative for Computational Catalysis]]></title>
+        <id>https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/</id>
+        <link href="https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/"/>
+        <updated>2024-07-01T15:00:41.000Z</updated>
+        <author>
+            <name>Simons Foundation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Category Theory — a full draft, at last!]]></title>
+        <id>https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/</id>
+        <link href="https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/"/>
+        <updated>2024-07-01T14:50:51.000Z</updated>
+        <summary type="html"><![CDATA[There is now, at last, a full draft of Introducing Category Theory. You can download the PDF here. The second half still needs more proof-reading and needs indexing. But I don’t envisage adding significantly to the content. After all — rather crazily for a book I didn’t originally set out to write — it is […]]]></summary>
+        <author>
+            <name>Logic Matters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive and Automated Data Analysis:  thoughts from Di Cook, Hadley Wickham, Jessica Hullman, and others]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/"/>
+        <updated>2024-07-01T13:38:27.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Clausen function]]></title>
+        <id>https://www.johndcook.com/blog/2024/07/01/the-clausen-function/</id>
+        <link href="https://www.johndcook.com/blog/2024/07/01/the-clausen-function/"/>
+        <updated>2024-07-01T12:26:20.000Z</updated>
+        <summary type="html"><![CDATA[The Clausen function looks, and sounds, like something between a sine wave and a sawtooth wave.]]></summary>
+        <author>
+            <name>John D. Cook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We authors paid a heavy price’: Journal retracts all 23 articles in special issue]]></title>
+        <id>https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/</id>
+        <link href="https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/"/>
+        <updated>2024-07-01T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[A journal has retracted an entire special issue over concerns the guest-edited papers underwent a “compromised” peer review process.  In a supplement to Volume 337 Issue 1 of Annals of Operations R…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This month in Mathlib (May 2024)]]></title>
+        <id>https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/</id>
+        <link href="https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/"/>
+        <updated>2024-07-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The last Month in Mathlib posts date from before the port started, in November 2022. We apologise for the momentary disappearance. We aim to keep it a monthly occurrence from now on.
+There were 667 PR]]></summary>
+        <author>
+            <name>Lean community blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve years ago -- Time to revisit the locavore non-debate]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html"/>
+        <updated>2024-07-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The mystery of why this attack on the locavore movement was so bad when legitimate criticisms were so easy to come by would have first gott...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 millions of far-rightists]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/01/12-millions-of-far-rightists/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/01/12-millions-of-far-rightists/"/>
+        <updated>2024-07-01T10:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age differences between world leaders and the populations they serve]]></title>
+        <id>https://flowingdata.com/2024/07/01/age-differences-between-world-leaders-and-the-populations-they-serve/</id>
+        <link href="https://flowingdata.com/2024/07/01/age-differences-between-world-leaders-and-the-populations-they-serve/"/>
+        <updated>2024-07-01T08:28:21.000Z</updated>
+        <summary type="html"><![CDATA[The ages of American presidential candidates are old when compared to the ages of world leaders. Some of that is related to the age of the populations the leaders serve but not a lot. For the Washi…]]></summary>
+        <author>
+            <name>FlowingData</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Internet Math-Off 2024, Round 1, Match 1]]></title>
+        <id>https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-1/</id>
+        <link href="https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-1/"/>
+        <updated>2024-07-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s math-off time! Here’s the first match in this year’s Big Internet Math-Off. Today, we’re pitting Katie Steckles against Benjamin Dickman. Take a look at both pitches, v…]]></summary>
+        <author>
+            <name>The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Created the Birthday Problem, and Even One More Version]]></title>
+        <id>https://pballew.blogspot.com/2024/07/who-created-birthday-problem-and-even.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/who-created-birthday-problem-and-even.html"/>
+        <updated>2024-07-01T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Steven Coyler who blogs at Multiplication by Infinity sent me a nice comment on my last blog that included a time line of big moments in th...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 1]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-1.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-1.html"/>
+        <updated>2024-07-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mathematics, rightly viewed, possesses not only truth, but supreme beauty a beauty cold and austere, like that of sculpture,  without app...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Σαν σήμερα. Ο "ακούραστος" κύριος Bucky!]]></title>
         <id>https://mathhmagic.blogspot.com/2024/07/bucky.html</id>
@@ -132,7 +299,7 @@ Also:
         <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/</id>
         <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/"/>
         <updated>2024-06-30T06:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Giocare con la matematica - Giornata Internazionale…La matematica del colore - parte 4: E CIE fu…La Matematica unisce – Giornata […]]]></summary>
+        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Carnevale della Matematica #168: Matematica e…La Lente MatematicaLa matematica del colore - parte 4: E CIE fu…PAM - PodcAst di […]]]></summary>
         <author>
             <name>Maddmaths!</name>
         </author>
@@ -192,15 +359,6 @@ Also:
         <summary type="html"><![CDATA[ok so hear me out]]></summary>
         <author>
             <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abstract polytope]]></title>
-        <id>https://ncatlab.org/nlab/show/abstract+polytope</id>
-        <link href="https://ncatlab.org/nlab/show/abstract+polytope"/>
-        <updated>2024-06-30T01:30:14.000Z</updated>
-        <author>
-            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -438,15 +596,6 @@ I hope this photographer won a prize]]></title>
         <summary type="html"><![CDATA[marlynnofmany: “I hope this photographer won a prize ”]]></summary>
         <author>
             <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D=2 Yang-Mills theory]]></title>
-        <id>https://ncatlab.org/nlab/show/D%3D2+Yang-Mills+theory</id>
-        <link href="https://ncatlab.org/nlab/show/D%253D2+Yang-Mills+theory"/>
-        <updated>2024-06-28T13:27:02.000Z</updated>
-        <author>
-            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -864,7 +1013,6 @@ The VPAT template asks you to list, for each of the WCAG criteria, whether you s
         <id>https://www.simonsfoundation.org/2024/06/26/10-years-of-supporting-the-advancement-of-physicists-worldwide/</id>
         <link href="https://www.simonsfoundation.org/2024/06/26/10-years-of-supporting-the-advancement-of-physicists-worldwide/"/>
         <updated>2024-06-26T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[10 Years of Supporting the Advancement of Physicists Worldwide on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -1385,7 +1533,6 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/</id>
         <link href="https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/"/>
         <updated>2024-06-24T19:00:24.000Z</updated>
-        <summary type="html"><![CDATA[New Computational Model of Real Neurons Could Lead to Better AI on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -1559,16 +1706,6 @@ Also:
 6 + 2 = 32 / 4]]></summary>
         <author>
             <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[integral priors for multiple comparison]]></title>
-        <id>https://xianblog.wordpress.com/2024/06/24/integral-priors-for-multiple-comparison/</id>
-        <link href="https://xianblog.wordpress.com/2024/06/24/integral-priors-for-multiple-comparison/"/>
-        <updated>2024-06-23T22:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Diego Salmerón and I just arXived a paper on integral priors for multiple model comparison, about deriving reference priors for multiple hypothesis testing. As (so-called) noninformative priors con…]]></summary>
-        <author>
-            <name>Xi'an's Og</name>
         </author>
     </entry>
     <entry>
@@ -1887,16 +2024,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superconductor researcher loses fifth paper]]></title>
-        <id>https://retractionwatch.com/2024/06/21/superconductor-researcher-loses-fifth-paper/</id>
-        <link href="https://retractionwatch.com/2024/06/21/superconductor-researcher-loses-fifth-paper/"/>
-        <updated>2024-06-21T18:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Ranga Dias Ranga Dias, the physics researcher whose work on room-temperature superconductors has been retracted after coauthors raised concerns about the data, has lost another paper for the same r…]]></summary>
-        <author>
-            <name>Retraction Watch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peut-on diversifier des risques extrêmes ?]]></title>
         <id>https://freakonometrics.hypotheses.org/75989</id>
         <link href="https://freakonometrics.hypotheses.org/75989"/>
@@ -2194,16 +2321,6 @@ Also:
         <summary type="html"><![CDATA[I modelli matematici possono supportare le scelte sulla gestione delle risorse. È il caso del modello di Ricker per la pesca.]]></summary>
         <author>
             <name>Maddmaths!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-generated email from a friend]]></title>
-        <id>https://flowingdata.com/2024/06/20/ai-generated-email-from-a-friend/</id>
-        <link href="https://flowingdata.com/2024/06/20/ai-generated-email-from-a-friend/"/>
-        <updated>2024-06-20T07:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Neven Mrgan describes what it was like to get an AI-generated email from a friend: I knew that I didn’t want an algorithm to design layouts and draw illustrations “so I don’t have to,” but prior to…]]></summary>
-        <author>
-            <name>FlowingData</name>
         </author>
     </entry>
     <entry>
@@ -2714,6 +2831,7 @@ Also:
         <id>https://johncarlosbaez.wordpress.com/2024/06/17/van-der-waals-forces/</id>
         <link href="https://johncarlosbaez.wordpress.com/2024/06/17/van-der-waals-forces/"/>
         <updated>2024-06-17T18:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Even though helium is the least reactive of the noble gases, you can make a molecule of two helium atoms! Yes, He2 is a thing! It’s called ‘dihelium’ or the helium dimer. But the …]]></summary>
         <author>
             <name>Azimuth</name>
         </author>
@@ -2743,7 +2861,6 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/</id>
         <link href="https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/"/>
         <updated>2024-06-17T15:44:21.000Z</updated>
-        <summary type="html"><![CDATA[The Simons Foundation has announced the new Simons Dissertation Fellowship in Mathematics to provide research support to graduate students in the final years of their Ph.D. program.]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -2753,7 +2870,6 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/17/two-neuroscience-laws-governing-how-we-sense-the-world-finally-united-after-67-years/</id>
         <link href="https://www.simonsfoundation.org/2024/06/17/two-neuroscience-laws-governing-how-we-sense-the-world-finally-united-after-67-years/"/>
         <updated>2024-06-17T13:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Two Neuroscience Laws Governing How We Sense the World Finally United After 67 Years on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -3482,16 +3598,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simons Foundation Funds 14 Projects Exploring Earth-Cooling Techniques as Part of New International Research Program]]></title>
-        <id>https://www.simonsfoundation.org/2024/06/12/simons-foundation-funds-14-projects-exploring-earth-cooling-techniques-as-part-of-new-international-research-program/</id>
-        <link href="https://www.simonsfoundation.org/2024/06/12/simons-foundation-funds-14-projects-exploring-earth-cooling-techniques-as-part-of-new-international-research-program/"/>
-        <updated>2024-06-12T15:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Simons Foundation Funds 14 Projects Exploring Earth-Cooling Techniques as Part of New International Research Program on Simons Foundation]]></summary>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blog moving to new location]]></title>
         <id>https://byorgey.wordpress.com/2024/06/12/blog-moving-to-new-location/</id>
         <link href="https://byorgey.wordpress.com/2024/06/12/blog-moving-to-new-location/"/>
@@ -3597,16 +3703,6 @@ Also:
         <summary type="html"><![CDATA[Cartoons by Dan Piraro (bizarro)   https://im-possible.info/english/art/cartoons/dan-piraro.html#the-fall-of-the-house-of-escher Author - ...]]></summary>
         <author>
             <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On This Day in Math - June 12]]></title>
-        <id>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-12.html</id>
-        <link href="https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-12.html"/>
-        <updated>2024-06-12T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My work always tried to unite the true with the beautiful, but when I had to choose...  I usually chose the beautiful. ~ Hermann Weyl The...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
         </author>
     </entry>
     <entry>
@@ -3723,16 +3819,6 @@ Irregular polygons are awesome. You can do so much more with them, in so many ar
         <summary type="html"><![CDATA[Fifteen years! 15 years, that’s 5479 days, including 4 days for leap years, that’s 328,740 minutes, or 19,724,400 incredible seconds the Renaissance Mathematicus has polluted the Internet. I am mor…]]></summary>
         <author>
             <name>The Renaissance Mathematicus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On This Day in Math - June 11]]></title>
-        <id>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-11.html</id>
-        <link href="https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-11.html"/>
-        <updated>2024-06-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All truths are easy to understand once they are discovered; the point is to discover them. ~Galileo Galilei The 162nd day of the year; 162...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
         </author>
     </entry>
     <entry>
@@ -3919,6 +4005,7 @@ Also:
         <id>https://johncarlosbaez.wordpress.com/2024/06/09/the-grotthuss-mechanism/</id>
         <link href="https://johncarlosbaez.wordpress.com/2024/06/09/the-grotthuss-mechanism/"/>
         <updated>2024-06-09T22:45:22.000Z</updated>
+        <summary type="html"><![CDATA[If you could watch an individual water molecule, once in a while you’d see it do this. As it bounces around, every so often it hits another water molecule hard enough enough for one to steal …]]></summary>
         <author>
             <name>Azimuth</name>
         </author>
@@ -4720,84 +4807,6 @@ I finally published my grandmother’s autobiography. I doubt anyone outside of 
         <updated>2024-06-02T13:16:25.000Z</updated>
         <author>
             <name>neverendingbooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another round with ChatGPT]]></title>
-        <id>https://www.logicmatters.net/2024/06/02/another-round-with-chatgpt/</id>
-        <link href="https://www.logicmatters.net/2024/06/02/another-round-with-chatgpt/"/>
-        <updated>2024-06-02T08:31:17.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT is utterly unreliable when it comes to reproducing even very simple mathematical proofs. It is like a weak C-grade student, producing scripts that look like proofs but mostly are garbled or question-begging at crucial points. Or at least, that’s been my experience when asking for (very elementary) category-theoretic proofs. Not at all surprising, given […]]]></summary>
-        <author>
-            <name>Logic Matters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical Miscellany #98]]></title>
-        <id>https://colleenyoung.org/2024/06/02/mathematical-miscellany-98/</id>
-        <link href="https://colleenyoung.org/2024/06/02/mathematical-miscellany-98/"/>
-        <updated>2024-06-02T07:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Mathematical Miscellany #98, Exam Revision, Knowledge Organisers, A triangle calculator and Teaching and Learning Principles.]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical Miscellany #98]]></title>
-        <id>https://colleenyoung.org/2024/06/02/mathematical-miscellany-98/</id>
-        <link href="https://colleenyoung.org/2024/06/02/mathematical-miscellany-98/"/>
-        <updated>2024-06-02T07:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Mathematical Miscellany #98, Exam Revision, Knowledge Organisers, A triangle calculator and Teaching and Learning Principles.]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impossible triangle]]></title>
-        <id>http://impossible-world.blogspot.com/2024/06/impossible-triangle.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/06/impossible-triangle.html"/>
-        <updated>2024-06-02T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Image by 35-Elissandro   https://im-possible.info/english/art/montage/35-elissandro.html    Author -  https://www.deviantart.com/35-elissa...]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical Induction]]></title>
-        <id>https://www.piecesofmathematics.com/2024/06/02/Mathematical-Induction.html</id>
-        <link href="https://www.piecesofmathematics.com/2024/06/02/Mathematical-Induction.html"/>
-        <updated>2024-06-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract Mathematical induction, a deductive process, is known to be a proof method for proving statements about positive integers. This article provides an overview of this proof technique, ranging from the terminological aspects to the actual description of the proof.]]></summary>
-        <author>
-            <name>Pieces of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeilberger + ChatGPT]]></title>
-        <id>https://www.galoisrepresentations.com/2024/06/01/zeilberger-chatgpt/</id>
-        <link href="https://www.galoisrepresentations.com/2024/06/01/zeilberger-chatgpt/"/>
-        <updated>2024-06-01T23:14:04.000Z</updated>
-        <author>
-            <name>Persiflage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update on “the hat”:  It’s “the spectre,” a single shape that can tile the plane aperiodically but not periodically, and doesn’t require flipping]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/01/update-on-the-hat-a-single-shape-that-can-tile-the-plane-aperiodically-but-not-periodically-and-doesnt-require-flipping/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/01/update-on-the-hat-a-single-shape-that-can-tile-the-plane-aperiodically-but-not-periodically-and-doesnt-require-flipping/"/>
-        <updated>2024-06-01T22:25:14.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bagel, cream cheese, and kimchi]]></title>
-        <id>https://quomodocumque.wordpress.com/2024/06/01/bagel-cream-cheese-and-kimchi/</id>
-        <link href="https://quomodocumque.wordpress.com/2024/06/01/bagel-cream-cheese-and-kimchi/"/>
-        <updated>2024-06-01T17:22:25.000Z</updated>
-        <summary type="html"><![CDATA[That’s it. No more to say. A bagel with cream cheese and kimchi is a great combination and I recommend it.]]></summary>
-        <author>
-            <name>Quomodocumque</name>
         </author>
     </entry>
 </feed>
