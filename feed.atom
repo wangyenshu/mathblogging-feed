@@ -2,10 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T00:32:57.630Z</updated>
+    <updated>2024-07-06T00:32:07.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK party gains and winners]]></title>
+        <id>https://flowingdata.com/2024/07/05/uk-party-gains-and-winners/</id>
+        <link href="https://flowingdata.com/2024/07/05/uk-party-gains-and-winners/"/>
+        <updated>2024-07-05T20:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Speaking of Conservatives losing, Andre Tartar and Demetrios Pogkas for Bloomberg show the other end with party gains. Angled arrows have become a staple to visualize net differences for regions on…]]></summary>
+        <author>
+            <name>FlowingData</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Croissance, décroissance, de quoi parle-t-on ?]]></title>
+        <id>https://freakonometrics.hypotheses.org/76513</id>
+        <link href="https://freakonometrics.hypotheses.org/76513"/>
+        <updated>2024-07-05T19:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Notre article, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 5, 2024 from https://freakonometrics.hypotheses.org/76513]]></summary>
+        <author>
+            <name>Freakonometrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conservatives lose UK election by a lot]]></title>
+        <id>https://flowingdata.com/2024/07/05/conservatives-lose-uk-election-by-a-lot/</id>
+        <link href="https://flowingdata.com/2024/07/05/conservatives-lose-uk-election-by-a-lot/"/>
+        <updated>2024-07-05T18:25:57.000Z</updated>
+        <summary type="html"><![CDATA[For the New York Times, Josh Holder and Lauren Leatherby show how the Conservatives lost the election from multiple angles: lost seats, historical vote share, shift of support to Reform, an easy wi…]]></summary>
+        <author>
+            <name>FlowingData</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A triviality about numbers that look like abbc]]></title>
+        <id>https://blog.plover.com/math/multiple-of-37.html</id>
+        <link href="https://blog.plover.com/math/multiple-of-37.html"/>
+        <updated>2024-07-05T18:22:00.000Z</updated>
+        <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
+        <author>
+            <name>The Universe of Discourse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good bye, Arno Penzias]]></title>
+        <id>http://docmadhattan.fieldofscience.com/2024/07/good-bye-arno-penzias.html</id>
+        <link href="http://docmadhattan.fieldofscience.com/2024/07/good-bye-arno-penzias.html"/>
+        <updated>2024-07-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately I heared of this news  now through the Physics World  newsletter, whose releases from the beginning of the year I am guilty ...]]></summary>
+        <author>
+            <name>Doc Madhattan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Momma Math]]></title>
+        <id>https://poetrywithmathematics.blogspot.com/2024/07/black-momma-math.html</id>
+        <link href="https://poetrywithmathematics.blogspot.com/2024/07/black-momma-math.html"/>
+        <updated>2024-07-05T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[mathematics poetry]]></summary>
+        <author>
+            <name>Intersections -- Poetry with Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursed office building]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/cursed-office-building.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/cursed-office-building.html"/>
+        <updated>2024-07-05T17:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon by Eviack   https://im-possible.info/english/art/cartoons/eviack.html]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computation and Visualization]]></title>
+        <id>https://jbuzzi.wordpress.com/2024/07/05/computation-and-visualization/</id>
+        <link href="https://jbuzzi.wordpress.com/2024/07/05/computation-and-visualization/"/>
+        <updated>2024-07-05T14:58:40.000Z</updated>
+        <summary type="html"><![CDATA[I participated in a conference in Pisa (June 18-21, 2024) on the use of computers for the development of mathematical dynamical systems theory. I gave a talk underlining the many difficulties to sa…]]></summary>
+        <author>
+            <name>Jérôme Buzzi’s</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebra+ 09 - Progressions: UNIZOR.COM - Math+ & Problems - Algebra]]></title>
+        <id>https://unizor.blogspot.com/2024/07/algebra-09-progressions-unizorcom-math.html</id>
+        <link href="https://unizor.blogspot.com/2024/07/algebra-09-progressions-unizorcom-math.html"/>
+        <updated>2024-07-05T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Algebra+ 09 - Progression   Problem A   Solve the following equation  X 3 +7·X 2 −21·X...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endlich Sommerferien – aber ein wirklich schönes Ende!]]></title>
+        <id>https://halbtagsblog.de/2024/07/05/endlich-sommerferien-aber-ein-wirklich-schoenes-ende/</id>
+        <link href="https://halbtagsblog.de/2024/07/05/endlich-sommerferien-aber-ein-wirklich-schoenes-ende/"/>
+        <updated>2024-07-05T13:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Manchmal sind es die Kleinigkeiten, die den Kindern am meisten Freude bereiten.]]></summary>
+        <author>
+            <name>Schule, Schulleitung, Familie, DIY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can guarantee that the term “statistical guarantee” will irritate me.  Here’s why, and let’s go into some details.]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/05/you-can-guarantee-that-the-term-statistical-guarantee-will-irritate-me-heres-why-and-lets-go-into-some-details/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/05/you-can-guarantee-that-the-term-statistical-guarantee-will-irritate-me-heres-why-and-lets-go-into-some-details/"/>
+        <updated>2024-07-05T13:08:22.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From τὰ φυσικά (ta physika) to physics – XXIV]]></title>
+        <id>https://thonyc.wordpress.com/2024/07/05/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-xxiv/</id>
+        <link href="https://thonyc.wordpress.com/2024/07/05/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-xxiv/"/>
+        <updated>2024-07-05T13:06:51.000Z</updated>
+        <author>
+            <name>The Renaissance Mathematicus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How you can help improve the visibility of retractions: Introducing NISO’s Recommended Practice for Communication of Retractions, Removals, and Expressions of Concern (CREC)]]></title>
+        <id>https://retractionwatch.com/2024/07/05/how-you-can-help-improve-the-visibility-of-retractions-introducing-nisos-recommended-practice-for-communication-of-retractions-removals-and-expressions-of-concern-crec/</id>
+        <link href="https://retractionwatch.com/2024/07/05/how-you-can-help-improve-the-visibility-of-retractions-introducing-nisos-recommended-practice-for-communication-of-retractions-removals-and-expressions-of-concern-crec/"/>
+        <updated>2024-07-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maria Zalm Despite their retracted status, problematic articles that present unreliable information, critical errors, non-reproducible results, or fabricated data frequently continue to be propagat…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coffeezilla vs Rabbit]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html"/>
+        <updated>2024-07-05T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Coffeezilla first got on my radar when the Financial Times quoted his investigation of a shady crypto deal. I've been watching his channel e...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visually navigate code as stars and galaxies]]></title>
+        <id>https://flowingdata.com/2024/07/05/visually-navigate-code-as-stars-and-galaxies/</id>
+        <link href="https://flowingdata.com/2024/07/05/visually-navigate-code-as-stars-and-galaxies/"/>
+        <updated>2024-07-05T07:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Andrei Kashcha visualized major software packages as galaxies that you can fly through. Every dot here is a package. Position of a package is determined by force based graph layout algorithm and us…]]></summary>
+        <author>
+            <name>FlowingData</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Internet Math-Off 2024, Round 1, Match 5]]></title>
+        <id>https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-5/</id>
+        <link href="https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-5/"/>
+        <updated>2024-07-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s the fifth match in Round 1 of The Big Internet Math-Off. Today, we’re pitting Matt Peperell against Fran Watson. Take a look at both pitches, vote for the bit of maths that made …]]></summary>
+        <author>
+            <name>The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 5]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-5.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-5.html"/>
+        <updated>2024-07-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no smallest among the small and no largest among the large, But always something still smaller and something still larger. Quote...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cult αντικείμενα]]></title>
+        <id>https://mathhmagic.blogspot.com/2024/07/cult.html</id>
+        <link href="https://mathhmagic.blogspot.com/2024/07/cult.html"/>
+        <updated>2024-07-05T04:32:00.000Z</updated>
+        <author>
+            <name>Μαθη...μαγικά</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[veniSBA³]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/05/venisba%c2%b3/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/05/venisba%25c2%25b3/"/>
+        <updated>2024-07-04T22:24:49.000Z</updated>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/4/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/755105826817130496</id>
+        <link href="https://purenumbers.tumblr.com/post/755105826817130496"/>
+        <updated>2024-07-04T20:30:33.000Z</updated>
+        <summary type="html"><![CDATA[(7 - 4)! = 2 + 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guest Post (part 2 of 2): Daniël Lakens: “How were we supposed to move beyond  p < .05, and why didn’t we?”]]></title>
         <id>https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/</id>
@@ -105,15 +301,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[empty 220]]></title>
-        <id>https://ncatlab.org/nlab/show/empty+220</id>
-        <link href="https://ncatlab.org/nlab/show/empty+220"/>
-        <updated>2024-07-04T11:09:17.000Z</updated>
-        <author>
-            <name>nLab</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[why the French far right triumphed [reposted]]]></title>
         <id>https://xianblog.wordpress.com/2024/07/04/why-the-french-far-right-triumphed-reposted/</id>
         <link href="https://xianblog.wordpress.com/2024/07/04/why-the-french-far-right-triumphed-reposted/"/>
@@ -131,15 +318,6 @@
         <summary type="html"><![CDATA[L'indice del rossetto è un famoso caso di errata correlazione tra due grandezze che aumentano contemporaneamente.]]></summary>
         <author>
             <name>Maddmaths!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marcel Grossmann]]></title>
-        <id>https://ncatlab.org/nlab/show/Marcel+Grossmann</id>
-        <link href="https://ncatlab.org/nlab/show/Marcel+Grossmann"/>
-        <updated>2024-07-04T07:10:46.000Z</updated>
-        <author>
-            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -985,7 +1163,7 @@ Also:
         <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/</id>
         <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/paul-erdos-la-matematica-danzante/"/>
         <updated>2024-06-30T06:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:È online il numero 13 del giornalino “Matematica per…Giocare con la matematica - Giornata Internazionale…Matematica per tutte le persone – […]]]></summary>
+        <summary type="html"><![CDATA[Dopo più di tre anni, torna la matematica danzante! In questo episodio, Raffaella Mulas ci parla di Paul Erdős. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Carnevale della Matematica #159: Matematica in azione!Matematica per tutte le persone – Giornata…Carnevale della Matematica #177: Matematica inesauribileGiocare con la […]]]></summary>
         <author>
             <name>Maddmaths!</name>
         </author>
@@ -1315,16 +1493,6 @@ I hope this photographer won a prize]]></title>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VenISBA’t to start!!]]></title>
-        <id>https://xianblog.wordpress.com/2024/06/28/venisba-about-to-start/</id>
-        <link href="https://xianblog.wordpress.com/2024/06/28/venisba-about-to-start/"/>
-        <updated>2024-06-28T09:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Xi'an's Og</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Estimating Covid deaths]]></title>
         <id>https://flowingdata.com/2024/06/28/estimating-covid-deaths/</id>
         <link href="https://flowingdata.com/2024/06/28/estimating-covid-deaths/"/>
@@ -1451,7 +1619,6 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/</id>
         <link href="https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/"/>
         <updated>2024-06-27T14:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Watch: Drag Queens, Community and the Total Solar Eclipse on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -1723,16 +1890,6 @@ The VPAT template asks you to list, for each of the WCAG criteria, whether you s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Journal retracts redundant case study of same patient from different authors]]></title>
-        <id>https://retractionwatch.com/2024/06/26/journal-retracts-redundant-case-study-of-same-patient-from-different-authors/</id>
-        <link href="https://retractionwatch.com/2024/06/26/journal-retracts-redundant-case-study-of-same-patient-from-different-authors/"/>
-        <updated>2024-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Retracted paper version First paper version Cureus has retracted a 2024 case study after learning it had published a piece about the identical patient, by authors from the same institution, just mo…]]></summary>
-        <author>
-            <name>Retraction Watch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Marshall-McLuhan-in-Annie-Hall Moment]]></title>
         <id>https://observationalepidemiology.blogspot.com/2024/06/my-marshall-mcluhan-in-annie-hall-moment.html</id>
         <link href="https://observationalepidemiology.blogspot.com/2024/06/my-marshall-mcluhan-in-annie-hall-moment.html"/>
@@ -1760,16 +1917,6 @@ The VPAT template asks you to list, for each of the WCAG criteria, whether you s
         <summary type="html"><![CDATA[What did Liz Truss do to mortgage rates? Do erections use a litre of blood?]]></summary>
         <author>
             <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decade-Long Battle for “Yogurt” vs. “Yoghurt” on Wikipedia]]></title>
-        <id>https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/</id>
-        <link href="https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/"/>
-        <updated>2024-06-26T07:13:04.000Z</updated>
-        <summary type="html"><![CDATA[After years of enthusiastic discussions, editors eventually and begrudgingly came to a conclusion.]]></summary>
-        <author>
-            <name>FlowingData</name>
         </author>
     </entry>
     <entry>
@@ -1973,16 +2120,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[How to use a table of sines and cosines of angles 0° to 45° to calculate sines and cosines angles outside the range and beyond the resolution of the table.]]></summary>
         <author>
             <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changing climate zones of major cities]]></title>
-        <id>https://flowingdata.com/2024/06/25/changing-climate-zones-of-major-cities/</id>
-        <link href="https://flowingdata.com/2024/06/25/changing-climate-zones-of-major-cities/"/>
-        <updated>2024-06-25T07:32:25.000Z</updated>
-        <summary type="html"><![CDATA[A global map of climate change can make a few degrees of rising temperature seem trivial. It just doesn’t look like that much. So, for the Pudding, Derek Taylor used forecasts from a study by…]]></summary>
-        <author>
-            <name>FlowingData</name>
         </author>
     </entry>
     <entry>
@@ -2244,16 +2381,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trendy baby name sounds]]></title>
-        <id>https://flowingdata.com/2024/06/24/trendy-baby-name-sounds/</id>
-        <link href="https://flowingdata.com/2024/06/24/trendy-baby-name-sounds/"/>
-        <updated>2024-06-24T08:02:59.000Z</updated>
-        <summary type="html"><![CDATA[For WP’s Department of Data, Daniel Wolfe analyzed baby name data with Laura Wattenberg. But instead of zeroing in on trends for full names, they looked at the letters that names end with. Th…]]></summary>
-        <author>
-            <name>FlowingData</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On This Day in Math - June 24]]></title>
         <id>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-24.html</id>
         <link href="https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-24.html"/>
@@ -2281,6 +2408,16 @@ Also:
         <summary type="html"><![CDATA[No matter what anyone says… Medicare Advantage for UFT Retirees was defeated, by retirees, In the courts and In the Retired Teachers Chapter election.]]></summary>
         <author>
             <name>JD2718</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venn Diagram Puzzles – Algebra]]></title>
+        <id>https://clopendebate.wordpress.com/2024/06/23/venn-diagram-puzzles-algebra/</id>
+        <link href="https://clopendebate.wordpress.com/2024/06/23/venn-diagram-puzzles-algebra/"/>
+        <updated>2024-06-24T01:03:11.000Z</updated>
+        <summary type="html"><![CDATA[I recently added some Venn Diagram puzzles I’ve made with some teachers this year for Geometry in this post. I wanted to add some Algebra ones here! Though most were created with certain answ…]]></summary>
+        <author>
+            <name>CLopen Mathdebater</name>
         </author>
     </entry>
     <entry>
@@ -2896,6 +3033,16 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Printable Math Escape Rooms]]></title>
+        <id>https://www.scaffoldedmath.com/2023/05/printable-math-escape-rooms.html</id>
+        <link href="https://www.scaffoldedmath.com/2023/05/printable-math-escape-rooms.html"/>
+        <updated>2024-06-19T22:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Differentiated math teaching ideas, including math word walls, math escape rooms, math pennants, math cheat sheets, consumer math, and math décor]]></summary>
+        <author>
+            <name>Scaffolded Math and Science</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luca Trevisan (1971-2024)]]></title>
         <id>https://scottaaronson.blog/?p=8057</id>
         <link href="https://scottaaronson.blog/?p=8057"/>
@@ -3111,16 +3258,6 @@ Also:
         <summary type="html"><![CDATA[As a demonstration of the nice quality of closed map (and perfect map), we discuss the following results. If we can map a space $latex T$ onto a paracompact space $latex X$ using a closed map, then…]]></summary>
         <author>
             <name>Dan Ma's Topology Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Οπτικές]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/blog-post_18.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/blog-post_18.html"/>
-        <updated>2024-06-18T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Δρούγας Θανάσης]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
         </author>
     </entry>
     <entry>
@@ -3689,16 +3826,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On This Day in Math - June 15]]></title>
-        <id>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-15.html</id>
-        <link href="https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-15.html"/>
-        <updated>2024-06-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A statistician is someone who is good with numbers but lacks the personality to be an accountant. ~unknown ( my apologies to all the stat...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shakespeare’s maths]]></title>
         <id>http://www.bbc.co.uk/programmes/p0j497ft</id>
         <link href="http://www.bbc.co.uk/programmes/p0j497ft"/>
@@ -3819,22 +3946,6 @@ Also:
         <summary type="html"><![CDATA[Bob Chipman takes a deep dive into Apple's disastrous and quickly aborted ad introducing the new iPad, approached in terms of marketing, cin...]]></summary>
         <author>
             <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6/13/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/753213019750825984</id>
-        <link href="https://purenumbers.tumblr.com/post/753213019750825984"/>
-        <updated>2024-06-13T23:05:11.000Z</updated>
-        <summary type="html"><![CDATA[√(6 + 1 - 3) = 2 = √4
-Also:
-6 - 1 - 3 = 2 = √4
-Also:
-6 = 1 * 3! = 2 + 4
-Also:
-6 * (1 + 3) = 24]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
         </author>
     </entry>
     <entry>
@@ -4051,6 +4162,16 @@ Also:
         <updated>2024-06-12T14:39:15.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venn Diagram Puzzles – Geometry]]></title>
+        <id>https://clopendebate.wordpress.com/2024/06/12/venn-diagram-puzzles-geometry/</id>
+        <link href="https://clopendebate.wordpress.com/2024/06/12/venn-diagram-puzzles-geometry/"/>
+        <updated>2024-06-12T14:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2020, I wrote about some Venn Diagram debate questions that I had made for student discussion. I’ve finally had the time and space this year to play with this more and make more! I…]]></summary>
+        <author>
+            <name>CLopen Mathdebater</name>
         </author>
     </entry>
     <entry>
@@ -4743,85 +4864,6 @@ I finally published my grandmother’s autobiography. I doubt anyone outside of 
         <summary type="html"><![CDATA[On the plane earlier this week I got around to watching the Academy Award winning movie  Godzilla Minus One , one of the best monster movies...]]></summary>
         <author>
             <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's verdict – – always remember the secondary and tertiary effects]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/06/trumps-verdict-always-remember.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/06/trumps-verdict-always-remember.html"/>
-        <updated>2024-06-06T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Given the situation and what we know about Trump, it has been obvious since the first investigation started gathering steam that the more in...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prague 1985]]></title>
-        <id>https://mathtourist.blogspot.com/2024/06/prague-1985.html</id>
-        <link href="https://mathtourist.blogspot.com/2024/06/prague-1985.html"/>
-        <updated>2024-06-06T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A Day in Prague: May 1, 1985 Arrival: From Train Station to Old Town Square Astronomical Clock, Old Town Square. Old Town Hall. Jan Hus Memo...]]></summary>
-        <author>
-            <name>The Mathematical Tourist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-Based Models (Part 12)]]></title>
-        <id>https://johncarlosbaez.wordpress.com/2024/06/05/agent-based-models-part-12/</id>
-        <link href="https://johncarlosbaez.wordpress.com/2024/06/05/agent-based-models-part-12/"/>
-        <updated>2024-06-05T20:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Today I’d like to wrap up my discussion of how to implement the Game of Life in our agent-based model software called AlgebraicABMs. Kris Brown’s software for the Game of Life is here: …]]></summary>
-        <author>
-            <name>Azimuth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge Dodecahedron in Clouds]]></title>
-        <id>http://impossible-world.blogspot.com/2024/06/huge-dodecahedron-in-clouds.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/06/huge-dodecahedron-in-clouds.html"/>
-        <updated>2024-06-05T16:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Huge Dodecahedron in Clouds   by Vlad Alexeev   https://im-possible.info/english/art/vlad-alexeev/2024-huge-dodecahedron-in-clouds.html]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnival of Maths 228]]></title>
-        <id>https://aperiodical.com/2024/06/carnival-of-maths-228/</id>
-        <link href="https://aperiodical.com/2024/06/carnival-of-maths-228/"/>
-        <updated>2024-06-05T16:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2024, is now online at Girls’ Angle. The Carnival rounds up maths blog posts from all over the inte…]]></summary>
-        <author>
-            <name>The Aperiodical</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitting a line without an intercept term]]></title>
-        <id>https://www.johndcook.com/blog/2024/06/05/regression-without-intercept/</id>
-        <link href="https://www.johndcook.com/blog/2024/06/05/regression-without-intercept/"/>
-        <updated>2024-06-05T15:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Fitting a regression line without an intercept term is simple. Some regression software doesn't support this, but you don't need regression software.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trigonometry+ 09: UNIZOR.COM - Math+ & Problems - Trigonometry]]></title>
-        <id>https://unizor.blogspot.com/2024/06/trigonometry-09-unizorcom-math-problems.html</id>
-        <link href="https://unizor.blogspot.com/2024/06/trigonometry-09-unizorcom-math-problems.html"/>
-        <updated>2024-06-05T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Trigonometry+ 09    Problem A   Prove:  lim x→0 [ sin(x)/x ] = 1   Proof A  In the lec...]]></summary>
-        <author>
-            <name>Unizor - Creative Mind through Art of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More on the oldest famous person ever (just considering those who lived to at least 104)]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/05/more-on-the-oldest-famous-person-ever-just-considering-those-who-lived-to-at-least-104/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/05/more-on-the-oldest-famous-person-ever-just-considering-those-who-lived-to-at-least-104/"/>
-        <updated>2024-06-05T13:26:09.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
     </entry>
 </feed>
