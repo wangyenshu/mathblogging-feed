@@ -2,10 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-16T00:34:48.141Z</updated>
+    <updated>2024-07-17T00:34:23.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Frechet spaces whose product is not Frechet]]></title>
+        <id>https://dantopology.wordpress.com/2024/07/16/two-frechet-spaces-whose-product-is-not-frechet/</id>
+        <link href="https://dantopology.wordpress.com/2024/07/16/two-frechet-spaces-whose-product-is-not-frechet/"/>
+        <updated>2024-07-16T16:57:37.000Z</updated>
+        <summary type="html"><![CDATA[We present the product space $latex C \times S(\omega)$ where the first factor is a convergent sequence (along with the limit) and the second factor is the sequential fan with countably (and infini…]]></summary>
+        <author>
+            <name>Dan Ma's Topology Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer reading?]]></title>
+        <id>https://www.logicmatters.net/2024/07/16/summer-reading/</id>
+        <link href="https://www.logicmatters.net/2024/07/16/summer-reading/"/>
+        <updated>2024-07-16T15:26:12.000Z</updated>
+        <summary type="html"><![CDATA[The newspaper culture pages have been full of recommendations for summer reading. Let me add my two-pennyworth on books I’ve recently particularly enjoyed reading or re-reading. I’ve just devoured Rory Stewart’s Politics on the Edge (in the US, How Not to Be a Politician: A Memoir). Though I’m rather glad I left it until after […]]]></summary>
+        <author>
+            <name>Logic Matters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is violating the First Law of Robotics.]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/16/google-is-violating-the-first-law-of-robotics/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/16/google-is-violating-the-first-law-of-robotics/"/>
+        <updated>2024-07-16T13:53:30.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planar Graphs—Again]]></title>
+        <id>https://rjlipton.com/2024/07/16/planar-graphs-again/</id>
+        <link href="https://rjlipton.com/2024/07/16/planar-graphs-again/"/>
+        <updated>2024-07-16T13:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Professors Yin Tat Lee and Thomas Rothvoss are faculty at the Allen School of the University of Washington. Lee has the A.W. Tucker Prize that recognizes the best doctoral thesis in optimization in…]]></summary>
+        <author>
+            <name>Gödel’s Lost Letter and P=NP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alejandro Díaz-Caro]]></title>
+        <id>https://ncatlab.org/nlab/show/Alejandro+D%C3%ADaz-Caro</id>
+        <link href="https://ncatlab.org/nlab/show/Alejandro+D%25C3%25ADaz-Caro"/>
+        <updated>2024-07-16T13:27:57.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Finances of the American Household, in 3 Charts]]></title>
+        <id>https://mathwithbaddrawings.com/2024/07/16/the-finances-of-the-american-household-in-3-charts/</id>
+        <link href="https://mathwithbaddrawings.com/2024/07/16/the-finances-of-the-american-household-in-3-charts/"/>
+        <updated>2024-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The cold, hard truth.]]></summary>
+        <author>
+            <name>Math with Bad Drawings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pragmatic Truth • Discussion 26]]></title>
+        <id>https://inquiryintoinquiry.com/2024/07/16/pragmatic-truth-discussion-26/</id>
+        <link href="https://inquiryintoinquiry.com/2024/07/16/pragmatic-truth-discussion-26/"/>
+        <updated>2024-07-16T12:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Re: Pragmatic Truth • (1) • (2) Re: OEIS Wiki | Correspondence Theory Of Truth Re: FB | Inquiry Driven Systems • Richard Saunders RS: The pragmatic theory of truth seems to be a corr…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Kavli prize winner threatens to sue critic for defamation]]></title>
+        <id>https://retractionwatch.com/2024/07/16/kavli-prize-winner-threatens-to-sue-critic-for-defamation/</id>
+        <link href="https://retractionwatch.com/2024/07/16/kavli-prize-winner-threatens-to-sue-critic-for-defamation/"/>
+        <updated>2024-07-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chad Mirkin One of the winners of the 2024 Kavli Prize in nanoscience has threatened to sue a longtime critic, Retraction Watch has learned.  In a cease and desist letter, a lawyer representin…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two years ago at the blog -- didn't expect to be reposting this one quite so soon]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/two-years-ago-at-blog-didnt-expect-to.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/two-years-ago-at-blog-didnt-expect-to.html"/>
+        <updated>2024-07-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2021, the national press was desperately trying to convince itself that Trump was losing his hold on the Republican Party. This was ...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques]]></title>
+        <id>https://freakonometrics.hypotheses.org/76692</id>
+        <link href="https://freakonometrics.hypotheses.org/76692"/>
+        <updated>2024-07-16T08:10:17.000Z</updated>
+        <summary type="html"><![CDATA[L’été avance. Florent, qui est en stage depuis presque 4 mois, va faire un exposé demain au séminaire d’été des étudiants, sur le thème “Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques” Le transfert d’apprentissage (ou Transfer Learning) représente une avancée notable dans le domaine de l’intelligence artificielle. Cette technique repose sur l’idée … Continue reading Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques →]]></summary>
+        <author>
+            <name>Freakonometrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 16]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-16.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-16.html"/>
+        <updated>2024-07-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pure mathematics is the world's best game.  It is more absorbing than chess, more of a gamble than poker,  and lasts longer than Monopoly....]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/15/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/756112208657793024</id>
+        <link href="https://purenumbers.tumblr.com/post/756112208657793024"/>
+        <updated>2024-07-15T23:06:33.000Z</updated>
+        <summary type="html"><![CDATA[(7 + 1 - 5)! = 2 + 4
+Also:
+7 - 1 - 5 = 2/√4
+Also:
+7 - 1^5 = 2 + 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sceaux Jazz Festival 2024]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/16/sceaux-jazz-festival-2024/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/16/sceaux-jazz-festival-2024/"/>
+        <updated>2024-07-15T22:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment policy]]></title>
+        <id>https://scottaaronson.blog/?p=8131</id>
+        <link href="https://scottaaronson.blog/?p=8131"/>
+        <updated>2024-07-15T21:53:38.000Z</updated>
+        <summary type="html"><![CDATA[With yesterday’s My Prayer, for the first time I can remember in two decades of blogging, I put up a new post with the comments section completely turned off. I did so because I knew my nerve…]]></summary>
+        <author>
+            <name>Shtetl-Optimized</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The breath of the ancestors]]></title>
         <id>http://docmadhattan.fieldofscience.com/2024/07/the-breath-of-ancestors.html</id>
@@ -17,30 +159,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[empirical mean]]></title>
-        <id>https://ncatlab.org/nlab/show/empirical+mean</id>
-        <link href="https://ncatlab.org/nlab/show/empirical+mean"/>
-        <updated>2024-07-15T16:44:05.000Z</updated>
+        <title type="html"><![CDATA[Puzzles of reality and infinity, Mindscape Podcast]]></title>
+        <id>https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</id>
+        <link href="https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/"/>
+        <updated>2024-07-15T15:45:11.000Z</updated>
+        <summary type="html"><![CDATA[I was interviewed by Sean Carroll for his Mindscape Podcast, broadcast 15 July 2024.]]></summary>
         <author>
-            <name>nLab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[law of large numbers]]></title>
-        <id>https://ncatlab.org/nlab/show/law+of+large+numbers</id>
-        <link href="https://ncatlab.org/nlab/show/law+of+large+numbers"/>
-        <updated>2024-07-15T16:26:29.000Z</updated>
-        <author>
-            <name>nLab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ergodic decomposition theorem]]></title>
-        <id>https://ncatlab.org/nlab/show/ergodic+decomposition+theorem</id>
-        <link href="https://ncatlab.org/nlab/show/ergodic+decomposition+theorem"/>
-        <updated>2024-07-15T16:13:57.000Z</updated>
-        <author>
-            <name>nLab</name>
+            <name>Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
@@ -316,18 +441,9 @@ Also:
         <id>https://scienceblogs.de/mathlog/2024/07/14/pi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pi</id>
         <link href="https://scienceblogs.de/mathlog/2024/07/14/pi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pi"/>
         <updated>2024-07-14T08:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Leibniz oder Madhava? Bekanntlich gibt die Taylor-Reihe des Arkustangens mit die Formel . Die wird in europäischen Kulturen meist als Leibniz-Reihe bezeichnet, war aber dem indischen Mathemtiker Madhava bereits im 14. Jahrhundert bekannt, veröffentlicht etwa hundert Jahre später um 1500 in der von Nilakantha Somayaji in 432 Sanskrit-Versen in acht Kapiteln geschriebenen astronomischen Abhandlung Tantrasamgraha.…]]></summary>
         <author>
             <name>Mathlog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Maths 24 #1]]></title>
-        <id>https://colleenyoung.org/2024/07/14/summer-maths-24-1/</id>
-        <link href="https://colleenyoung.org/2024/07/14/summer-maths-24-1/"/>
-        <updated>2024-07-14T07:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Summer Maths 24 #1. A collection of mathematical puzzles and brainteasers.]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
         </author>
     </entry>
     <entry>
@@ -421,6 +537,16 @@ Also:
         <updated>2024-07-13T18:21:51.000Z</updated>
         <author>
             <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The road to serfdom]]></title>
+        <id>https://alanrendall.wordpress.com/2024/07/13/the-road-to-serfdom/</id>
+        <link href="https://alanrendall.wordpress.com/2024/07/13/the-road-to-serfdom/"/>
+        <updated>2024-07-13T15:36:38.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago I went to a lecture at the Hayek club in Wiesbaden. This led me to think that I should read Hayek’s most famous book, whose title is that of this post. I have now done so. I f…]]></summary>
+        <author>
+            <name>Hydrobates</name>
         </author>
     </entry>
     <entry>
@@ -543,15 +669,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[empirical distribution]]></title>
-        <id>https://ncatlab.org/nlab/show/empirical+distribution</id>
-        <link href="https://ncatlab.org/nlab/show/empirical+distribution"/>
-        <updated>2024-07-12T16:39:24.000Z</updated>
-        <author>
-            <name>nLab</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pragmatic Truth • 3]]></title>
         <id>https://inquiryintoinquiry.com/2024/07/12/pragmatic-truth-3/</id>
         <link href="https://inquiryintoinquiry.com/2024/07/12/pragmatic-truth-3/"/>
@@ -577,7 +694,7 @@ Also:
         <updated>2024-07-12T14:35:00.000Z</updated>
         <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
         <author>
-            <name>The Universe of Discourse</name>
+            <name>The Universe of Disco</name>
         </author>
     </entry>
     <entry>
@@ -1002,7 +1119,7 @@ Keep reading]]></summary>
         <id>https://freakonometrics.hypotheses.org/76646</id>
         <link href="https://freakonometrics.hypotheses.org/76646"/>
         <updated>2024-07-10T02:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 15, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →]]></summary>
+        <summary type="html"><![CDATA[Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 16, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -1249,7 +1366,6 @@ Also:
         <id>https://www.simonsfoundation.org/2024/07/08/science-sandbox-grantees-come-together-for-third-annual-summit/</id>
         <link href="https://www.simonsfoundation.org/2024/07/08/science-sandbox-grantees-come-together-for-third-annual-summit/"/>
         <updated>2024-07-08T16:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Science Sandbox Grantees Come Together for Third Annual Summit on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -1374,20 +1490,11 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[venISBA⁴⁻]]></title>
-        <id>https://xianblog.wordpress.com/2024/07/08/venisba%e2%81%b4%e2%81%bb/</id>
-        <link href="https://xianblog.wordpress.com/2024/07/08/venisba%25e2%2581%25b4%25e2%2581%25bb/"/>
-        <updated>2024-07-07T22:24:41.000Z</updated>
-        <author>
-            <name>Xi'an's Og</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Talks in Chicago]]></title>
         <id>https://freakonometrics.hypotheses.org/76575</id>
         <link href="https://freakonometrics.hypotheses.org/76575"/>
         <updated>2024-07-07T21:46:26.000Z</updated>
-        <summary type="html"><![CDATA[This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 15, 2024 from https://freakonometrics.hypotheses.org/76575]]></summary>
+        <summary type="html"><![CDATA[This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 16, 2024 from https://freakonometrics.hypotheses.org/76575]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -1496,21 +1603,11 @@ Fun interview, lots about the...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vocabulary]]></title>
-        <id>https://colleenyoung.org/2024/07/07/vocabulary/</id>
-        <link href="https://colleenyoung.org/2024/07/07/vocabulary/"/>
-        <updated>2024-07-07T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Mathematics - Vocabulary]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Évariste Galois | La matematica danzante]]></title>
         <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/evariste-galois-la-matematica-danzante/</id>
         <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/evariste-galois-la-matematica-danzante/"/>
         <updated>2024-07-07T06:00:09.000Z</updated>
-        <summary type="html"><![CDATA[In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Évariste Galois. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Carnevale della Matematica #159: Matematica in azione!Giocare con la matematica - Giornata Internazionale…Minoranze in matematicaPillole di Pico: la matematica - Storia della matematicaLa Matematica del […]]]></summary>
+        <summary type="html"><![CDATA[In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Évariste Galois. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:La matematica unisce - Giornata Internazionale della…Paul Erdős | La matematica danzanteMatematica per tutte le persone – Giornata…Dante e la MatematicaMinoranze in matematicaCarnevale della Matematica […]]]></summary>
         <author>
             <name>Maddmaths!</name>
         </author>
@@ -1727,7 +1824,7 @@ Also:
         <id>https://freakonometrics.hypotheses.org/76540</id>
         <link href="https://freakonometrics.hypotheses.org/76540"/>
         <updated>2024-07-05T21:50:03.000Z</updated>
-        <summary type="html"><![CDATA[In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 15, 2024 … Continue reading Warsaw Actuarial School (September 2024) →]]></summary>
+        <summary type="html"><![CDATA[In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 16, 2024 … Continue reading Warsaw Actuarial School (September 2024) →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -1747,7 +1844,7 @@ Also:
         <id>https://freakonometrics.hypotheses.org/76513</id>
         <link href="https://freakonometrics.hypotheses.org/76513"/>
         <updated>2024-07-05T19:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 15, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →]]></summary>
+        <summary type="html"><![CDATA[Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 16, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -1759,7 +1856,7 @@ Also:
         <updated>2024-07-05T18:22:00.000Z</updated>
         <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
         <author>
-            <name>The Universe of Discourse</name>
+            <name>The Universe of Disco</name>
         </author>
     </entry>
     <entry>
@@ -1988,16 +2085,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elsevier withdraws plagiarized paper after original author calls journal out on LinkedIn]]></title>
-        <id>https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/</id>
-        <link href="https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/"/>
-        <updated>2024-07-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sasan Sadrizadeh In late May, one of Sasan Sadrizadeh’s doctoral students stumbled upon a paper with data directly plagiarized from his previous work.  Sadrizadeh, a researcher at KTH Royal In…]]></summary>
-        <author>
-            <name>Retraction Watch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Music for the 4h]]></title>
         <id>https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html</id>
         <link href="https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html"/>
@@ -2107,7 +2194,7 @@ When the Good Place said “Why choose...]]></summary>
         <updated>2024-07-03T20:41:00.000Z</updated>
         <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
         <author>
-            <name>The Universe of Discourse</name>
+            <name>The Universe of Disco</name>
         </author>
     </entry>
     <entry>
@@ -2181,6 +2268,16 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
+        <id>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</id>
+        <link href="https://jdh.hamkins.org/how-ch-could-have-been-fundamental/"/>
+        <updated>2024-07-03T12:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Joel David Hamkins, “How the continuum hypothesis could have been a fundamental axiom,” Mathematics arXiv (2024), arxiv:2407.02463.]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Come for the Brian Eno quote, stay for the cultural insights]]></title>
         <id>https://observationalepidemiology.blogspot.com/2024/07/come-for-brian-eno-quote-stay-for.html</id>
         <link href="https://observationalepidemiology.blogspot.com/2024/07/come-for-brian-eno-quote-stay-for.html"/>
@@ -2207,6 +2304,16 @@ Also:
         <summary type="html"><![CDATA[Exit polls, election claims, and a 54% chance of winning a point in tennis]]></summary>
         <author>
             <name>More or Less: Behind the Stats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tackling hard problems: On the evolution of operations research]]></title>
+        <id>https://punkrockor.com/2024/07/03/tackling-hard-problems-on-the-evolution-of-operations-research/</id>
+        <link href="https://punkrockor.com/2024/07/03/tackling-hard-problems-on-the-evolution-of-operations-research/"/>
+        <updated>2024-07-03T08:17:09.000Z</updated>
+        <summary type="html"><![CDATA[At the EURO Conference in Copenhagen in July 2024, I was honored to present a talk entitled “Tackling hard problems: On the evolution of operations research” in the “Moments in th…]]></summary>
+        <author>
+            <name>Punk Rock Operations Research</name>
         </author>
     </entry>
     <entry>
@@ -2385,6 +2492,16 @@ Also:
         <summary type="html"><![CDATA[OOPS... Heavier-than-air flying machines are impossible. I have not the smallest molecule of faith in aerial navigation other than balloo...]]></summary>
         <author>
             <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
+        <id>https://jdh.hamkins.org/turing-halting-problem/</id>
+        <link href="https://jdh.hamkins.org/turing-halting-problem/"/>
+        <updated>2024-07-02T00:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Joel David Hamkins and Theodor Nenu, “Did Turing prove the undecidability of the halting problem?”, 18 pages, 2024, arxiv:2407.00680.]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
@@ -2843,16 +2960,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></title>
-        <id>https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/</id>
-        <link href="https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/"/>
-        <updated>2024-06-28T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[9th Annual July Math Dollar Deals!]]></title>
         <id>https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html</id>
         <link href="https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html"/>
@@ -3001,6 +3108,7 @@ Also:
         <id>https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/</id>
         <link href="https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/"/>
         <updated>2024-06-27T14:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Watch: Drag Queens, Community and the Total Solar Eclipse on Simons Foundation]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -3272,16 +3380,6 @@ The VPAT template asks you to list, for each of the WCAG criteria, whether you s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On This Day in Math - June 26]]></title>
-        <id>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-26.html</id>
-        <link href="https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-26.html"/>
-        <updated>2024-06-26T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you measure what you are speaking about and express it in numbers, you know something about it, but when you cannot express it in num...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pappus's hexagon theorem]]></title>
         <id>https://mathhmagic.blogspot.com/2024/06/pappuss-hexagon-theorem.html</id>
         <link href="https://mathhmagic.blogspot.com/2024/06/pappuss-hexagon-theorem.html"/>
@@ -3513,20 +3611,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[Our paper, Generalized Oversampling for Learning from Imbalanced datasets and Associated Theory: Application in Regression, written with Samuel Stocksieker and Denys Pommeret, has been accepted for publication in TMLR (Transactions on Machine Learning Research) In supervised learning, it is quite frequent to be confronted with real imbalanced datasets. This situation leads to a learning difficulty … Continue reading Generalized Oversampling for Learning from Imbalanced datasets and Associated Theory →]]></summary>
         <author>
             <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6/24/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/754211818029842432</id>
-        <link href="https://purenumbers.tumblr.com/post/754211818029842432"/>
-        <updated>2024-06-24T23:40:39.000Z</updated>
-        <summary type="html"><![CDATA[6 = 2 + 4 = 2 + 4
-Also:
-6 * 2 * √4 = 24
-Also:
-(6 * 2 / 4)! = 2 + 4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
         </author>
     </entry>
     <entry>
@@ -3787,7 +3871,7 @@ Also:
         <updated>2024-06-23T11:40:00.000Z</updated>
         <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
         <author>
-            <name>The Universe of Discourse</name>
+            <name>The Universe of Disco</name>
         </author>
     </entry>
     <entry>
@@ -3807,16 +3891,6 @@ Also:
         <updated>2024-06-23T09:36:00.000Z</updated>
         <author>
             <name>Popinga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculator Crunch]]></title>
-        <id>https://colleenyoung.org/2024/06/23/calculator-crunch/</id>
-        <link href="https://colleenyoung.org/2024/06/23/calculator-crunch/"/>
-        <updated>2024-06-23T05:44:10.000Z</updated>
-        <summary type="html"><![CDATA[MEI’s Calculator Crunch will run this week, 24th – 28th June. MEI Calculator Crunch 2023 Calculator Crunch is designed to provide extra practice for Year 6 and 7 pupils in key areas of the ma…]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
         </author>
     </entry>
     <entry>
@@ -3886,6 +3960,16 @@ Also:
         <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Logic+ 10   Problem A   Two mathematicians, Mike and David, have met their classmate H...]]></summary>
         <author>
             <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aiding and Abetting by Muriel Spark]]></title>
+        <id>https://alanrendall.wordpress.com/2024/06/22/aiding-and-abetting-by-muriel-spark/</id>
+        <link href="https://alanrendall.wordpress.com/2024/06/22/aiding-and-abetting-by-muriel-spark/"/>
+        <updated>2024-06-22T13:40:46.000Z</updated>
+        <summary type="html"><![CDATA[In a previous post about ‘The Prime of Miss Jean Brodie’ I mentioned that I had another novel of Muriel Spark on my bookshelf, ‘Aiding and Abetting’. I am sure I read it whe…]]></summary>
+        <author>
+            <name>Hydrobates</name>
         </author>
     </entry>
     <entry>
@@ -4024,16 +4108,6 @@ $$f(x) = \sum_{i=0}^n y_i \cdot \prod_{j \neq i}\frac{x - x_j}{x_i - x_j}$$ I wr
         <updated>2024-06-20T19:41:48.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme One Program • Jets and Sharks 1]]></title>
-        <id>https://inquiryintoinquiry.com/2024/06/20/theme-one-program-jets-and-sharks-1-a/</id>
-        <link href="https://inquiryintoinquiry.com/2024/06/20/theme-one-program-jets-and-sharks-1-a/"/>
-        <updated>2024-06-20T18:16:13.000Z</updated>
-        <summary type="html"><![CDATA[It is easy to spend a long time on the rudiments of learning and logic before getting down to practical applications — but I think we’ve circled square one long enough to expand our sco…]]></summary>
-        <author>
-            <name>Inquiry Into Inquiry</name>
         </author>
     </entry>
     <entry>
@@ -4410,6 +4484,7 @@ And I feel like that, right there, explains so much about how the site has chang
         <id>https://johncarlosbaez.wordpress.com/2024/06/17/van-der-waals-forces/</id>
         <link href="https://johncarlosbaez.wordpress.com/2024/06/17/van-der-waals-forces/"/>
         <updated>2024-06-17T18:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Even though helium is the least reactive of the noble gases, you can make a molecule of two helium atoms! Yes, He2 is a thing! It’s called ‘dihelium’ or the helium dimer. But the …]]></summary>
         <author>
             <name>Azimuth</name>
         </author>
@@ -4439,7 +4514,6 @@ And I feel like that, right there, explains so much about how the site has chang
         <id>https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/</id>
         <link href="https://www.simonsfoundation.org/2024/06/17/simons-foundation-announces-new-simons-dissertation-fellowship-in-mathematics/"/>
         <updated>2024-06-17T15:44:21.000Z</updated>
-        <summary type="html"><![CDATA[The Simons Foundation has announced the new Simons Dissertation Fellowship in Mathematics to provide research support to graduate students in the final years of their Ph.D. program.]]></summary>
         <author>
             <name>Simons Foundation</name>
         </author>
@@ -4461,94 +4535,6 @@ And I feel like that, right there, explains so much about how the site has chang
         <summary type="html"><![CDATA[A tale of mathematician vs. poet, with the stakes being civilization itself.]]></summary>
         <author>
             <name>Math with Bad Drawings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer in Texas means it's time for a ground source heat pump repost]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/06/summer-in-texas-means-its-time-for.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/06/summer-in-texas-means-its-time-for.html"/>
-        <updated>2024-06-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Happily, both of the nuclear units that were out of commission are back online producing 5,000 megawatts. Unhappily, there are still nearly...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Beyond the black box: Toward a new paradigm of statistics in science” (talks this Thursday in London by Jessica Hullman, Hadley Wickham, and me)]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/17/beyond-the-black-box-toward-a-new-paradigm-of-statistics-in-science-my-talk-this-thursday-in-london-also-talks-by-jessica-hullman-and-hadley-wickham/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/17/beyond-the-black-box-toward-a-new-paradigm-of-statistics-in-science-my-talk-this-thursday-in-london-also-talks-by-jessica-hullman-and-hadley-wickham/"/>
-        <updated>2024-06-17T11:20:31.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online activities 17 – 23 June]]></title>
-        <id>https://ests.wordpress.com/2024/06/17/online-activities-17-23-june/</id>
-        <link href="https://ests.wordpress.com/2024/06/17/online-activities-17-23-june/"/>
-        <updated>2024-06-17T04:55:55.000Z</updated>
-        <summary type="html"><![CDATA[The announcements are updated continuously. For a list of talks in the coming weeks, please see here. Hebrew University Set Theory SeminarTime: Wednesday, 19 June, 13:00-15:00 local time (12:0…]]></summary>
-        <author>
-            <name>European Set Theory Society</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retiree Advocate – When I knew we had won]]></title>
-        <id>https://jd2718.org/2024/06/16/retiree-advocate-when-i-knew-we-had-won/</id>
-        <link href="https://jd2718.org/2024/06/16/retiree-advocate-when-i-knew-we-had-won/"/>
-        <updated>2024-06-17T03:05:30.000Z</updated>
-        <summary type="html"><![CDATA[We had a chance, but we were underdogs. I started saying that August 2023, and I stuck with that line until the results started coming in Friday, June 14, 2024. The Retired Teachers Chapter of the …]]></summary>
-        <author>
-            <name>JD2718</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should Prover and Verifier have been Pat and Vanna?]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/06/should-prover-and-verifier-have-been.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/06/should-prover-and-verifier-have-been.html"/>
-        <updated>2024-06-17T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[LANCE: I had my first Quanta Article  published! I explore computation, complexity, randomness and learning and feeling the machine. BILL: F...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk in Stockholm, Sweden, at the Insurance Data Science Conference]]></title>
-        <id>https://freakonometrics.hypotheses.org/69968</id>
-        <link href="https://freakonometrics.hypotheses.org/69968"/>
-        <updated>2024-06-16T23:43:43.000Z</updated>
-        <summary type="html"><![CDATA[This week, I will attend the Insurance Data Science conference in Sweeden. It has been a while… I was a keynote speaker at the one in London, ten years ago (to give a talk I still have feedbacks about – Getting into Bayesian Wizardry… (with the eyes of a muggle actuary) – by that time, … Continue reading Talk in Stockholm, Sweden, at the Insurance Data Science Conference →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Souvenirs from John E. McCarthy’s 60 birthday conference in St. Louis]]></title>
-        <id>https://noncommutativeanalysis.wordpress.com/2024/06/16/souvenirs-from-john-e-mccarthys-60-birthday-conference-in-st-louis/</id>
-        <link href="https://noncommutativeanalysis.wordpress.com/2024/06/16/souvenirs-from-john-e-mccarthys-60-birthday-conference-in-st-louis/"/>
-        <updated>2024-06-16T15:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Last week I attended the Multivariable Operator Theory Conference in honor of John E. McCarthy on his 60th birthday, in Washington University in St. Louis. John McCarthy is one of the leaders of th…]]></summary>
-        <author>
-            <name>Noncommutative Analysis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Myths of American history from the left, right, and center; also a discussion of the Why everything you thought you knew was wrong” genre of book.]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/16/myths-of-american-history-from-the-left-right-and-center-also-a-discussion-of-the-why-everything-you-thought-you-knew-was-wrong-genre-of-book/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/16/myths-of-american-history-from-the-left-right-and-center-also-a-discussion-of-the-why-everything-you-thought-you-knew-was-wrong-genre-of-book/"/>
-        <updated>2024-06-16T13:53:37.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to the Study Guide?]]></title>
-        <id>https://www.logicmatters.net/2024/06/16/back-to-the-study-guide-3/</id>
-        <link href="https://www.logicmatters.net/2024/06/16/back-to-the-study-guide-3/"/>
-        <updated>2024-06-16T13:35:33.000Z</updated>
-        <summary type="html"><![CDATA[I’m almost done with the category theory book — at least as far as the draft content is concerned. There will be tinkering to be done (in particular with respect to having a consistent line on issues of “size”), and then there will be the joys of proof-reading and indexing. But I’m beginning to think […]]]></summary>
-        <author>
-            <name>Logic Matters</name>
         </author>
     </entry>
 </feed>
