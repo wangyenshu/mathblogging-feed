@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T00:37:36.374Z</updated>
+    <updated>2024-07-22T00:35:54.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[filtered probability space]]></title>
+        <id>https://ncatlab.org/nlab/show/filtered+probability+space</id>
+        <link href="https://ncatlab.org/nlab/show/filtered+probability+space"/>
+        <updated>2024-07-21T17:55:59.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[martingale]]></title>
+        <id>https://ncatlab.org/nlab/show/martingale</id>
+        <link href="https://ncatlab.org/nlab/show/martingale"/>
+        <updated>2024-07-21T16:30:57.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shift]]></title>
+        <id>https://ncatlab.org/nlab/show/shift</id>
+        <link href="https://ncatlab.org/nlab/show/shift"/>
+        <updated>2024-07-21T14:26:33.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put multiple graphs on a page:  that’s what Nathan Yau says, and I agree.]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/21/put-multiple-graphs-on-a-page-thats-what-nathan-yau-says-and-i-agree/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/21/put-multiple-graphs-on-a-page-thats-what-nathan-yau-says-and-i-agree/"/>
+        <updated>2024-07-21T13:03:02.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLT solution annouement had its 31's anniv was about a month ago. Some poems about FLT NOT from ChatGPT]]></title>
+        <id>https://blog.computationalcomplexity.org/2024/07/flt-solution-annouement-had-its-31s.html</id>
+        <link href="https://blog.computationalcomplexity.org/2024/07/flt-solution-annouement-had-its-31s.html"/>
+        <updated>2024-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On June 21, 1993, at the Issac Newton Institute for Mathematical Science, Andrew Wiles announced that he had proven Fermat's Last Theorem. T...]]></summary>
+        <author>
+            <name>Computational Complexity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tajpej D]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/tajpej-d.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/tajpej-d.html"/>
+        <updated>2024-07-21T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Poster by Istvan Orosz   https://im-possible.info/english/art/orosz/orosz3.html#tajpej-d]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Lessons …]]></title>
+        <id>https://colleenyoung.org/2024/07/21/last-lessons-2/</id>
+        <link href="https://colleenyoung.org/2024/07/21/last-lessons-2/"/>
+        <updated>2024-07-21T06:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Suggestions for Mathematics activities for the last lessons of the summer term.]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Lessons …]]></title>
+        <id>https://colleenyoung.org/2024/07/21/last-lessons-2/</id>
+        <link href="https://colleenyoung.org/2024/07/21/last-lessons-2/"/>
+        <updated>2024-07-21T06:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Suggestions for Mathematics activities for the last lessons of the summer term.]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pierre de Fermat | La matematica danzante]]></title>
+        <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/pierre-de-fermat-la-matematica-danzante/</id>
+        <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/pierre-de-fermat-la-matematica-danzante/"/>
+        <updated>2024-07-21T06:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Pierre de Fermat. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Carnevale della Matematica #164: Comunicare la MatematicaLa Matematica del ColoreMatematica per tutte le persone - Giornata…Carnevale della Matematica #159: Matematica in azione!La Lente MatematicaPAM […]]]></summary>
+        <author>
+            <name>Maddmaths!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick & Dirty – Bicameralismo]]></title>
+        <id>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/21/quick-dirty-bicameralismo/</id>
+        <link href="http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/21/quick-dirty-bicameralismo/"/>
+        <updated>2024-07-21T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[In un paese dal bicameralismo talmente perfetto che possiamo decidere noi per ogni parlamentare se diventerà Deputato o Senatore, ogni parlamentare ha al più tre oppositori per principio. Provate che è possibile dividere il corpo parlamentare in due camere tali che nessuno abbia più di un oppositore per principio nella camera nella quale siede.Nota: per [...]]]></summary>
+        <author>
+            <name>Rudi Matematici</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 21]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-21.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-21.html"/>
+        <updated>2024-07-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. -Isaac Asimov Today is the 202n...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adastra-sf:
+
+mckitterick:
+
+mckitterick:
+
+mckitterick:
+
+
+mckitteri...]]></title>
+        <id>https://thalescircles.tumblr.com/post/756570364456452096</id>
+        <link href="https://thalescircles.tumblr.com/post/756570364456452096"/>
+        <updated>2024-07-21T00:28:45.000Z</updated>
+        <summary type="html"><![CDATA[I will forever be astounded that, not long ago, we were so brave and starry-eyed as to even attempt such a wondrous thing. AND WE DID IT.
+NASA’s must-read story about the mission to the Moon: X]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/20/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/756570222149959680</id>
+        <link href="https://purenumbers.tumblr.com/post/756570222149959680"/>
+        <updated>2024-07-21T00:26:29.000Z</updated>
+        <summary type="html"><![CDATA[7 - 2 + 0! = 2 + 4
+Also:
+[√(7 + 2 + 0)]! = 2 + 4
+Also:
+(7 - 2 - 0!) = 24]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Margaret Hamilton, Director of the Apollo project Software Engineering Division, with a stack of&hellip;]]></title>
+        <id>https://thalescircles.tumblr.com/post/756569670603177984</id>
+        <link href="https://thalescircles.tumblr.com/post/756569670603177984"/>
+        <updated>2024-07-21T00:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Margaret Hamilton, Director of the Apollo project Software Engineering Division, with a stack of papers containing the code to the Apollo Guidance Computer navigation software. The software that on...]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCMC for Bayesian nonparametric mixture modeling under differential privacy]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/21/mcmc-for-bayesian-nonparametric-mixture-modeling-under-differential-privacy/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/21/mcmc-for-bayesian-nonparametric-mixture-modeling-under-differential-privacy/"/>
+        <updated>2024-07-20T22:24:33.000Z</updated>
+        <summary type="html"><![CDATA[At the ISBA-Cini workshop on Artificial intelligence, data sharing and regulation, a satellite of ISBA 2024 that was also an ERC Ocean workshop, located in the magnificent buildings of a former Ben…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Moon Landing Day!]]></title>
+        <id>https://thalescircles.tumblr.com/post/756556277863301120</id>
+        <link href="https://thalescircles.tumblr.com/post/756556277863301120"/>
+        <updated>2024-07-20T20:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Today is the 55th anniversary!]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On this day in 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to&hellip;]]></title>
+        <id>https://thalescircles.tumblr.com/post/756555758899970048</id>
+        <link href="https://thalescircles.tumblr.com/post/756555758899970048"/>
+        <updated>2024-07-20T20:36:36.000Z</updated>
+        <summary type="html"><![CDATA[On this day in 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon. Art by Robert McCall.]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Number Pyramid Puzzle]]></title>
         <id>https://mindyourdecisions.com/blog/2024/07/20/number-pyramid-puzzle/</id>
@@ -39,17 +219,9 @@
         <id>https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/</id>
         <link href="https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"/>
         <updated>2024-07-20T17:35:49.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a little book about entropy; here’s the current draft: • What is Entropy? If you see typos and other mistakes, or have trouble understanding things, please let me know! An altern…]]></summary>
         <author>
             <name>Azimuth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jin-Cheng Guu]]></title>
-        <id>https://ncatlab.org/nlab/show/Jin-Cheng+Guu</id>
-        <link href="https://ncatlab.org/nlab/show/Jin-Cheng+Guu"/>
-        <updated>2024-07-20T17:06:15.000Z</updated>
-        <author>
-            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -285,16 +457,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An update for Fanography.info: K-stability]]></title>
-        <id>http://pbelmans.ncag.info/blog/2024/07/19/K-stability-fanography/</id>
-        <link href="http://pbelmans.ncag.info/blog/2024/07/19/K-stability-fanography/"/>
-        <updated>2024-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After attending an Oberwolfach workshop with Kristin DeVlemingand Anne-Sophie Kaloghiroswhere they helped me navigate the literature on K-stability for Fano ...]]></summary>
-        <author>
-            <name>Pieter Belmans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7/18/24]]></title>
         <id>https://purenumbers.tumblr.com/post/756385263579742208</id>
         <link href="https://purenumbers.tumblr.com/post/756385263579742208"/>
@@ -325,6 +487,15 @@ Also:
         <updated>2024-07-18T18:07:06.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tail event]]></title>
+        <id>https://ncatlab.org/nlab/show/tail+event</id>
+        <link href="https://ncatlab.org/nlab/show/tail+event"/>
+        <updated>2024-07-18T16:54:41.000Z</updated>
+        <author>
+            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -648,16 +819,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PhD positions at the University of Luxembourg]]></title>
-        <id>http://pbelmans.ncag.info/blog/2024/07/17/phd-grace/</id>
-        <link href="http://pbelmans.ncag.info/blog/2024/07/17/phd-grace/"/>
-        <updated>2024-07-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Mathematics at the University of Luxembourg has 8 open positions, as part of a project in fundamental mathematics with a significant comput...]]></summary>
-        <author>
-            <name>Pieter Belmans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7/16/24]]></title>
         <id>https://purenumbers.tumblr.com/post/756203697174872064</id>
         <link href="https://purenumbers.tumblr.com/post/756203697174872064"/>
@@ -833,6 +994,15 @@ Also:
         <summary type="html"><![CDATA[A research team led by the INAF (Istituto Nazionale di Astrofisica) and the University of Trieste has once again harnessed the very distan...]]></summary>
         <author>
             <name>Doc Madhattan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[law of large numbers]]></title>
+        <id>https://ncatlab.org/nlab/show/law+of+large+numbers</id>
+        <link href="https://ncatlab.org/nlab/show/law+of+large+numbers"/>
+        <updated>2024-07-15T16:26:29.000Z</updated>
+        <author>
+            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -1615,12 +1785,12 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a bridge too far! [19:31, 3rd, 26⁰, 6am]]]></title>
-        <id>https://xianblog.wordpress.com/2024/07/11/a-bridge-too-far-1931-3rd-26%e2%81%b0-6am/</id>
-        <link href="https://xianblog.wordpress.com/2024/07/11/a-bridge-too-far-1931-3rd-26%25e2%2581%25b0-6am/"/>
-        <updated>2024-07-10T22:24:31.000Z</updated>
+        <title type="html"><![CDATA[exchangeability]]></title>
+        <id>https://ncatlab.org/nlab/show/exchangeability</id>
+        <link href="https://ncatlab.org/nlab/show/exchangeability"/>
+        <updated>2024-07-10T20:24:28.000Z</updated>
         <author>
-            <name>Xi'an's Og</name>
+            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -1797,7 +1967,7 @@ Keep reading]]></summary>
         <id>https://freakonometrics.hypotheses.org/76646</id>
         <link href="https://freakonometrics.hypotheses.org/76646"/>
         <updated>2024-07-10T02:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 20, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →]]></summary>
+        <summary type="html"><![CDATA[Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 21, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -2112,7 +2282,7 @@ Also:
         <id>https://freakonometrics.hypotheses.org/76575</id>
         <link href="https://freakonometrics.hypotheses.org/76575"/>
         <updated>2024-07-07T21:46:26.000Z</updated>
-        <summary type="html"><![CDATA[This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 20, 2024 from https://freakonometrics.hypotheses.org/76575]]></summary>
+        <summary type="html"><![CDATA[This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 21, 2024 from https://freakonometrics.hypotheses.org/76575]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -2231,16 +2401,6 @@ Fun interview, lots about the...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Évariste Galois | La matematica danzante]]></title>
-        <id>https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/evariste-galois-la-matematica-danzante/</id>
-        <link href="https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/evariste-galois-la-matematica-danzante/"/>
-        <updated>2024-07-07T06:00:09.000Z</updated>
-        <summary type="html"><![CDATA[In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Évariste Galois. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Minoranze in matematicaÈ online il numero 13 del giornalino “Matematica per…Letture Matematiche: Storia sconosciuta di Évariste…Carnevale della Matematica #173: Matematica delle…Matematica per tutte le persone […]]]></summary>
-        <author>
-            <name>Maddmaths!</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On This Day in Math - July 7]]></title>
         <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html</id>
         <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html"/>
@@ -2276,16 +2436,6 @@ Fun interview, lots about the...]]></summary>
         <updated>2024-07-07T04:08:00.000Z</updated>
         <author>
             <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuiverTools]]></title>
-        <id>http://pbelmans.ncag.info/blog/2024/07/07/quivertools/</id>
-        <link href="http://pbelmans.ncag.info/blog/2024/07/07/quivertools/"/>
-        <updated>2024-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post concerns QuiverTools.  If you use it for your research, please cite it using .]]></summary>
-        <author>
-            <name>Pieter Belmans</name>
         </author>
     </entry>
     <entry>
@@ -2432,7 +2582,7 @@ Also:
         <id>https://freakonometrics.hypotheses.org/76540</id>
         <link href="https://freakonometrics.hypotheses.org/76540"/>
         <updated>2024-07-05T21:50:03.000Z</updated>
-        <summary type="html"><![CDATA[In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 20, 2024 … Continue reading Warsaw Actuarial School (September 2024) →]]></summary>
+        <summary type="html"><![CDATA[In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 21, 2024 … Continue reading Warsaw Actuarial School (September 2024) →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -2452,7 +2602,7 @@ Also:
         <id>https://freakonometrics.hypotheses.org/76513</id>
         <link href="https://freakonometrics.hypotheses.org/76513"/>
         <updated>2024-07-05T19:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 20, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →]]></summary>
+        <summary type="html"><![CDATA[Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 21, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →]]></summary>
         <author>
             <name>Freakonometrics</name>
         </author>
@@ -3024,16 +3174,6 @@ Also:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On This Day in Math - July 2]]></title>
-        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-2.html</id>
-        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-2.html"/>
-        <updated>2024-07-02T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OOPS... Heavier-than-air flying machines are impossible. I have not the smallest molecule of faith in aerial navigation other than balloo...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
         <id>https://jdh.hamkins.org/turing-halting-problem/</id>
         <link href="https://jdh.hamkins.org/turing-halting-problem/"/>
@@ -3230,20 +3370,6 @@ There were 667 PR]]></summary>
         <summary type="html"><![CDATA[In 2013 I wrote a blog to celebrate Lance's 50th birthday by contrasting what things were like when Lance was 10 to when he was 50. That po...]]></summary>
         <author>
             <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6/30/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/754756648993685504</id>
-        <link href="https://purenumbers.tumblr.com/post/754756648993685504"/>
-        <updated>2024-07-01T00:00:31.000Z</updated>
-        <summary type="html"><![CDATA[6 / 3 = 0 + 2 = √4
-Also:
-6 = 30 - 24
-Also:
-[√(6 + 3)]! = 2 + 4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
         </author>
     </entry>
     <entry>
@@ -4390,87 +4516,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <id>https://statmodeling.stat.columbia.edu/2024/06/22/implicit-assumptions-in-the-tversky-kahneman-example-of-the-blue-and-green-taxicabs/</id>
         <link href="https://statmodeling.stat.columbia.edu/2024/06/22/implicit-assumptions-in-the-tversky-kahneman-example-of-the-blue-and-green-taxicabs/"/>
         <updated>2024-06-22T13:19:30.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do ‘pig butchering’ cyber scams make as much as half Cambodia’s GDP?]]></title>
-        <id>http://www.bbc.co.uk/programmes/p0j5qznk</id>
-        <link href="http://www.bbc.co.uk/programmes/p0j5qznk"/>
-        <updated>2024-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We investigate the money made by an international cybercrime operation]]></summary>
-        <author>
-            <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retired Teacher election… What if?]]></title>
-        <id>https://jd2718.org/2024/06/21/retired-teacher-election-what-if/</id>
-        <link href="https://jd2718.org/2024/06/21/retired-teacher-election-what-if/"/>
-        <updated>2024-06-21T19:36:14.000Z</updated>
-        <summary type="html"><![CDATA[What if the next UFT election were held tomorrow? And all the results were the same as 2022? Except the retirees voted like they just did?]]></summary>
-        <author>
-            <name>JD2718</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peut-on diversifier des risques extrêmes ?]]></title>
-        <id>https://freakonometrics.hypotheses.org/75989</id>
-        <link href="https://freakonometrics.hypotheses.org/75989"/>
-        <updated>2024-06-21T18:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Dans un contexte financier, diversifier les risques signifie investir dans une variété d’actifs, secteurs ou régions géographiques pour éviter que la mauvaise performance d’un investissement n’affecte trop l’ensemble du portefeuille. La diversification permet de réduire le risque, ou, dans sa formulation mathématique, de réduire la variance. Mais que se passe-t-il quand on est en présence … Continue reading Peut-on diversifier des risques extrêmes ? →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barycentric Lagrange Interpolation]]></title>
-        <id>https://www.jeremykun.com/shortform/2024-06-21-1107/</id>
-        <link href="https://www.jeremykun.com/shortform/2024-06-21-1107/"/>
-        <updated>2024-06-21T18:07:50.000Z</updated>
-        <summary type="html"><![CDATA[In my studies of the Remez algorithm, I learned about the barycentric Lagrange interpolation formula.
-The context is finding a polynomial of degree at most $n$ that passes through $n+1$ points $(x_0, y_0), \dots, (x_n, y_n)$. The classical Lagrange interpolation formula is what you’d write down if you “just did it.”
-$$f(x) = \sum_{i=0}^n y_i \cdot \prod_{j \neq i}\frac{x - x_j}{x_i - x_j}$$ I wrote a 2014 article deriving this more gently, and implementing it in Haskell for secret sharing.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prix des Sciences du Risque de la Fondation Optimind – Accenture]]></title>
-        <id>https://freakonometrics.hypotheses.org/75777</id>
-        <link href="https://freakonometrics.hypotheses.org/75777"/>
-        <updated>2024-06-21T17:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Bravo à Franklin Feukam Kouhoue, qui a obtenu le prix des sciences du risques pour son mémoire de maîtrise en actuariat, à l’ENSAE, sur le thème de l’interprétabilié des modèles d’actuariat en tarification, sous la supervision de Laurence Barry, et moi-même. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (June 21, 2024). Prix … Continue reading Prix des Sciences du Risque de la Fondation Optimind – Accenture →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Retired Teachers vote – What I missed]]></title>
-        <id>https://jd2718.org/2024/06/21/the-retired-teachers-vote-what-i-missed/</id>
-        <link href="https://jd2718.org/2024/06/21/the-retired-teachers-vote-what-i-missed/"/>
-        <updated>2024-06-21T15:18:06.000Z</updated>
-        <summary type="html"><![CDATA[If you begged me for a number I might have said “43% – 57%, best Retiree Advocate result ever, but not yet enough to win.” And it turned out, I was wrong.]]></summary>
-        <author>
-            <name>JD2718</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School Life #42: Oh Well]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/06/school-life-42-oh-well.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/06/school-life-42-oh-well.html"/>
-        <updated>2024-06-21T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[(Click on the comic if you can't see the full image.)                       (C)Copyright 2024, C. Burke. "AnthroNumerics" is a trademark of ...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is not an argument against self-citations.  It’s an argument about how they should be counted.  Also, a fun formula that expresses the estimated linear regression coefficient as a weighted average of local slopes.]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/21/this-is-not-an-argument-against-self-citations-its-an-argument-about-how-they-should-be-counted-also-a-fun-formula-that-expresses-the-estimated-linear-regression-coefficient-as-a-weighted-avera/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/21/this-is-not-an-argument-against-self-citations-its-an-argument-about-how-they-should-be-counted-also-a-fun-formula-that-expresses-the-estimated-linear-regression-coefficient-as-a-weighted-avera/"/>
-        <updated>2024-06-21T13:41:35.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
