@@ -6,33 +6,203 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
-          "id": "https://ncatlab.org/nlab/show/filtered+probability+space",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/filtered+probability+space",
-          "publishedOn": "2024-07-21T17:55:59.000Z",
-          "wordCount": 1120,
-          "title": "filtered probability space",
+          "id": "http://docmadhattan.fieldofscience.com/2024/07/portrait-of-jovian-satellite.html",
+          "author": "Doc Madhattan",
+          "description": "The Jovian moon Io, imaged by SHARK-VIS@LBT on January 10, 2024. The red, green, and blue channels of this tri-color image show the I (inf...",
+          "link": "http://docmadhattan.fieldofscience.com/2024/07/portrait-of-jovian-satellite.html",
+          "publishedOn": "2024-07-22T18:34:00.000Z",
+          "wordCount": 4288,
+          "title": "Portrait of a Jovian satellite",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sl3AlGswsb8qz2bqggZj2PTnhd5X-5dXmlQwMwOT9vJ3HHAtp-kF0C3xx4NR41yLQ3bLKUBYpMjAfpuAZ4lQMY2k7GUBMOkgMR6QNSvFjekvjQ0fA=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2024/07/22/linear-systems-over-finite-fields/",
+          "author": "John D. Cook",
+          "description": "If you fill a matrix with random elements selected from a finite field, what is the probability that the matrix is invertible?",
+          "link": "https://www.johndcook.com/blog/2024/07/22/linear-systems-over-finite-fields/",
+          "publishedOn": "2024-07-22T18:32:37.000Z",
+          "wordCount": 1307,
+          "title": "Solvability of linear systems over finite fields",
           "imageUrl": null
         },
         {
-          "id": "https://ncatlab.org/nlab/show/martingale",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/martingale",
-          "publishedOn": "2024-07-21T16:30:57.000Z",
-          "wordCount": 975,
-          "title": "martingale",
+          "id": "https://dionisoo.blogspot.com/2024/07/requiem-di-guerra-benjamin-britten.html",
+          "author": "Blogghetto",
+          "description": "Ieri abbiamo assistito a un’esecuzione del “ Requiem di guerra ” di Benjamin Britten. Non conoscevo questo lavoro monumentale (vedi organico...",
+          "link": "https://dionisoo.blogspot.com/2024/07/requiem-di-guerra-benjamin-britten.html",
+          "publishedOn": "2024-07-22T17:38:00.000Z",
+          "wordCount": 3499,
+          "title": "Requiem di guerra - Benjamin Britten",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpu9U_lAUPt7TzIvEOoWrxFakXlEFTSdiFSI-NBuwiooIkR47jBkcOy-0sj5z-rdCltAjtlR8Gx5ozvnGWsU2dN6MQY3ThOK3OgG_m1fh7k2Psgd7ARxpp14qrkjNlZZvPjzUkVrU0GldK5ppCvmsCK9w0oaJpWqge9MvaWwjd8T_BajyjLJN/w1200-h630-p-k-no-nu/Requiem%20di%20guerra%20-%20Benjamin%20Britten%201.jpg"
+        },
+        {
+          "id": "https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html",
+          "author": "Scaffolded Math and Science",
+          "description": "Differentiated math teaching ideas, including math word walls, math escape rooms, math pennants, math cheat sheets, consumer math, and math décor",
+          "link": "https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html",
+          "publishedOn": "2024-07-22T14:26:00.000Z",
+          "wordCount": 2848,
+          "title": "9th Annual July Math Dollar Deals!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyFxF2yfeEkOAOBafrHjKwSRo_JfjTnlSZVOfm2voGudIKoB331G6IobxrU39dHV8ElmIGsiUiSnOTZ6RPDHtg2NigT6EXewo-Gd_weLryo7ot7yIXpj-gD89t5JhMQqxNikvGBORAHYLwVXt9rSqA0_pFD-b6GsqiP9FNFCQlki_7zAJtJke3hwS0kY4/w1200-h630-p-k-no-nu/July%202024%20math%20dollar%20deals.png"
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2024/07/22/why-error-rates/",
+          "author": "John D. Cook",
+          "description": "Medical tests always have a false positive and a false negative rate. These rates may be small, but they compound the more frequently you test.",
+          "link": "https://www.johndcook.com/blog/2024/07/22/why-error-rates/",
+          "publishedOn": "2024-07-22T13:27:18.000Z",
+          "wordCount": 1577,
+          "title": "Why do medical tests always have error rates?",
           "imageUrl": null
         },
         {
-          "id": "https://ncatlab.org/nlab/show/shift",
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/22/the-piranha-problem-large-effects-swimming-in-a-small-pond/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/22/the-piranha-problem-large-effects-swimming-in-a-small-pond/",
+          "publishedOn": "2024-07-22T13:16:38.000Z",
+          "wordCount": null,
+          "title": "The piranha problem: Large effects swimming in a small pond",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/",
+          "author": "Joel David Hamkins",
+          "description": "This will be a talk for the Philosophy of Mathematics Seminar at the University of Oxford, 19 May 2025. Abstract. I shall describe a simple historical thought experiment showing how our a…",
+          "link": "https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/",
+          "publishedOn": "2024-07-22T13:00:32.000Z",
+          "wordCount": 1674,
+          "title": "How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025",
+          "imageUrl": "https://jdh.hamkins.org/wp-content/uploads/Oxford-Philosophy-May-2023-scaled.jpg"
+        },
+        {
+          "id": "https://retractionwatch.com/2024/07/22/giant-rat-penis-redux-ai-generated-diagram-errors-lead-to-retraction/",
+          "author": "Retraction Watch",
+          "description": "In an episode reminiscent of the AI-generated graphic of a rat with a giant penis, another paper with an anatomically incorrect image has been retracted after it attracted attention on social media…",
+          "link": "https://retractionwatch.com/2024/07/22/giant-rat-penis-redux-ai-generated-diagram-errors-lead-to-retraction/",
+          "publishedOn": "2024-07-22T12:00:00.000Z",
+          "wordCount": 2431,
+          "title": "Giant rat penis redux: AI-generated diagram, errors lead to retraction",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/image-7.png"
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/07/straussians-of-center-left.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "God, the lust for an “open convention”among the punditariat is embarrassing. — Charles P. Pierce (@CharlesPPierce) July 21, 2024    Dem...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/07/straussians-of-center-left.html",
+          "publishedOn": "2024-07-22T11:30:00.000Z",
+          "wordCount": 3426,
+          "title": "Straussians* of the Center Left",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/group-completed+configuration+space+of+points",
           "author": "nLab",
           "description": "",
-          "link": "https://ncatlab.org/nlab/show/shift",
-          "publishedOn": "2024-07-21T14:26:33.000Z",
-          "wordCount": 1322,
-          "title": "shift",
+          "link": "https://ncatlab.org/nlab/show/group-completed+configuration+space+of+points",
+          "publishedOn": "2024-07-22T10:49:05.000Z",
+          "wordCount": 1884,
+          "title": "group-completed configuration space of points",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gilkalai.wordpress.com/2024/07/22/pushing-behrend-around-ii/",
+          "author": "Combinatorics and more",
+          "description": "I will report on Christian Elsholtz, Zach Hunter, Laura Proske, Lisa Sauermann’s breakthrough paper Sets without arithmetic progressions in integers and over finite fields. The paper improves…",
+          "link": "https://gilkalai.wordpress.com/2024/07/22/pushing-behrend-around-ii/",
+          "publishedOn": "2024-07-22T09:14:40.000Z",
+          "wordCount": 4681,
+          "title": "Pushing Behrend Around II",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/roth-poll.png"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/kurschaks-theorem-geometry-jewel.html",
+          "author": "Pat'sBlog",
+          "description": "József Kürschák (14 March 1864 – 26 March 1933) was a Hungarian mathematician noted for his work on trigonometry, but he may be more well kn...",
+          "link": "https://pballew.blogspot.com/2024/07/kurschaks-theorem-geometry-jewel.html",
+          "publishedOn": "2024-07-22T05:30:00.000Z",
+          "wordCount": 3759,
+          "title": "Kurschak's Theorem, a Geometry Jewel.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbFEVc5F4CI4Jt_Br-LmioJvhiGefP3-KzfcB_7apE-Q06uZo2DBR60FiiC9LE6PmaY876D5oej5qVed5gZztK4siIoIPqpKjIMVVz1SLA8vpB4fXmUufeixdoak4vMCE2EjSGbyIfbQ8J4gxq40vdOlF8nNSiHXecHbBYQcgOuYzDFA9WP0mGArWGRs/w1200-h630-p-k-no-nu/kurschak's%20thm.jpeg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/it-could-easily-be-shown-probability.html",
+          "author": "Pat'sBlog",
+          "description": "Rushed re-edit , Fingers crossed Beware of articles that begin, \"It could easily be shown...\" It is like arm wrestling a two year old, if y...",
+          "link": "https://pballew.blogspot.com/2024/07/it-could-easily-be-shown-probability.html",
+          "publishedOn": "2024-07-22T05:00:00.000Z",
+          "wordCount": 3889,
+          "title": "\"It could easily be shown...\"  Probability and Pi and the Riemann Zeta Function",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u67CUm1QBNX67p6Dr-pY7XsIldpKdw9W8jebV87jWSbtCSMNVDi0Wokw8QwDA2ZSDAFdM58Lk50VDgGAQR8vh7KVj-9RFYJbiqxYoqtB1Rrhtps3YVKgBwoS81Zqvi7g=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-22.html",
+          "author": "Pat'sBlog",
+          "description": "The mathematician may be compared to a designer of garments, who is utterly oblivious of the creatures whom his garments may fit. To be su...",
+          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-22.html",
+          "publishedOn": "2024-07-22T05:00:00.000Z",
+          "wordCount": 7671,
+          "title": "On This Day in Math - July 22",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4uejtB8eKrQV5UwFhHVZay55vpIQytFGZBhZo8_zvbTfFmylaJkrJceDBKLsFH6Yqc_krMBZHj3DGosIvmcunT7XPimwmW3Khoog8M8_1GdscMxrNcx5LBMLAi9wlpLez9sjCxtR6_5A/w1200-h630-p-k-no-nu/july+22.jpg"
+        },
+        {
+          "id": "https://ifwisdomwereteachable.wordpress.com/2024/07/22/still-scratching-around-in-the-same-old-hole/",
+          "author": "Since it is not …",
+          "description": "I would like to leave this city This old town don’t smell too pretty and I can feel the warning signs running around my mind",
+          "link": "https://ifwisdomwereteachable.wordpress.com/2024/07/22/still-scratching-around-in-the-same-old-hole/",
+          "publishedOn": "2024-07-22T04:09:39.000Z",
+          "wordCount": 2290,
+          "title": "still scratching around in the same old hole",
+          "imageUrl": "http://img.youtube.com/vi/cq1g3SO32iY/0.jpg"
+        },
+        {
+          "id": "https://news.mit.edu/2024/license-plates-of-mit-0722",
+          "author": "MIT News - Mathematics",
+          "description": "Vanity license plates of MIT community members display expressions of scholarship, creativity, “nerd” culture, Institute pride, and more.",
+          "link": "https://news.mit.edu/2024/license-plates-of-mit-0722",
+          "publishedOn": "2024-07-22T04:00:00.000Z",
+          "wordCount": 2531,
+          "title": "License plates of MIT",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202407/MIT-LicensePlates-A1-new.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/756660960155058176",
+          "author": "Pure Numbers Daily Blog",
+          "description": "[√(7 + 2)]! = (1 * 2) + 4\nAlso:\n7 + 2 - 1 = 2 * 4\nAlso:\n7 - 2 - 1 = 2 + √4\nAlso:\n7 - 2 + 1 = 2 + 4",
+          "link": "https://purenumbers.tumblr.com/post/756660960155058176",
+          "publishedOn": "2024-07-22T00:28:43.000Z",
+          "wordCount": 1807,
+          "title": "7/21/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/22/one-of-our-most-cited-papers-really/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/22/one-of-our-most-cited-papers-really/",
+          "publishedOn": "2024-07-21T22:24:35.000Z",
+          "wordCount": 2441,
+          "title": "one of our most-cited papers, really?!",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/07/temp-7.png"
+        },
+        {
+          "id": "https://windowsontheory.org/2024/07/21/lucafest-guest-post-by-anindya-de-pravesh-kothari-and-madhur-tulsiani/",
+          "author": "Windows On Theory",
+          "description": "We would have liked to organize Luca’s 60th birthday conference, but as you all know, we tragically lost him to a battle with cancer. However, we would like to take the occasion of Luca’s birthday …",
+          "link": "https://windowsontheory.org/2024/07/21/lucafest-guest-post-by-anindya-de-pravesh-kothari-and-madhur-tulsiani/",
+          "publishedOn": "2024-07-21T20:38:18.000Z",
+          "wordCount": 3787,
+          "title": "LucaFest (guest post by Anindya De, Pravesh Kothari, and Madhur Tulsiani)",
+          "imageUrl": "https://windowsontheory.org/wp-content/uploads/2024/07/img_5407.jpeg"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/21/what-to-do-with-election-forecasts-after-biden-is-replaced-on-the-ticket/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/21/what-to-do-with-election-forecasts-after-biden-is-replaced-on-the-ticket/",
+          "publishedOn": "2024-07-21T19:22:23.000Z",
+          "wordCount": null,
+          "title": "What to do with election forecasts after Biden is replaced on the ticket? Also something on prediction markets.",
           "imageUrl": null
         },
         {
@@ -51,7 +221,7 @@
           "description": "On June 21, 1993, at the Issac Newton Institute for Mathematical Science, Andrew Wiles announced that he had proven Fermat's Last Theorem. T...",
           "link": "https://blog.computationalcomplexity.org/2024/07/flt-solution-annouement-had-its-31s.html",
           "publishedOn": "2024-07-21T13:00:00.000Z",
-          "wordCount": 5194,
+          "wordCount": 5195,
           "title": "FLT solution annouement had its 31's anniv was about a month ago. Some poems about FLT NOT from ChatGPT",
           "imageUrl": null
         },
@@ -71,7 +241,7 @@
           "description": "Suggestions for Mathematics activities for the last lessons of the summer term.",
           "link": "https://colleenyoung.org/2024/07/21/last-lessons-2/",
           "publishedOn": "2024-07-21T06:26:41.000Z",
-          "wordCount": 3023,
+          "wordCount": 3026,
           "title": "Last Lessons …",
           "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/07/OCR-Puzzle-Summer-24.png"
         },
@@ -88,10 +258,10 @@
         {
           "id": "https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/pierre-de-fermat-la-matematica-danzante/",
           "author": "Maddmaths!",
-          "description": "In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Pierre de Fermat. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:Carnevale della Matematica #164: Comunicare la MatematicaLa Matematica del ColoreMatematica per tutte le persone - Giornata…Carnevale della Matematica #159: Matematica in azione!La Lente MatematicaPAM […]",
+          "description": "In questo episodio di “La matematica danzante”, Raffaella Mulas ci parla di Pierre de Fermat. Riprese e montaggio: ZIZZONEWS Location: L’ufficio di Joost Hulshof alla Vrije Universiteit Amsterdam Raffaella Mulas Related Posts:PAM - PodcAst di MatematicaLa matematica è piena di Eulero!: La più bella…Dante e la MatematicaMatematica per tutte le persone - Giornata…Minoranze in matematicaMatematica […]",
           "link": "https://maddmaths.simai.eu/divulgazione/rubriche/matematica_danzante/pierre-de-fermat-la-matematica-danzante/",
           "publishedOn": "2024-07-21T06:00:08.000Z",
-          "wordCount": 3193,
+          "wordCount": 3225,
           "title": "Pierre de Fermat | La matematica danzante",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/VideoCapture_20240706-175006.jpg"
         },
@@ -111,7 +281,7 @@
           "description": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. -Isaac Asimov Today is the 202n...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-21.html",
           "publishedOn": "2024-07-21T05:00:00.000Z",
-          "wordCount": 8105,
+          "wordCount": 8129,
           "title": "On This Day in Math - July 21",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1EnKr8E1ZgK2jznCNdsdXnyNZ54NxKVakKOrv5_adu53x9T5nOCUcIlxE-tWj6s_qL9bn4x6FcfR5HpVKu0RVsosbBwjhjQ6Nvi_xUMt1itcatglze1szJtlMV6RhRbOOWsGiPJcrNQ/w1200-h630-p-k-no-nu/july+21.jpg"
         },
@@ -141,7 +311,7 @@
           "description": "Margaret Hamilton, Director of the Apollo project Software Engineering Division, with a stack of papers containing the code to the Apollo Guidance Computer navigation software. The software that on...",
           "link": "https://thalescircles.tumblr.com/post/756569670603177984",
           "publishedOn": "2024-07-21T00:17:43.000Z",
-          "wordCount": 539,
+          "wordCount": 508,
           "title": "Margaret Hamilton, Director of the Apollo project Software Engineering Division, with a stack of&hellip;",
           "imageUrl": "https://64.media.tumblr.com/4467680dde2816232dd08073d9090d1a/224b9fc980244f72-2f/s1280x1920/44ace41ea731ec8e702cdbe3c32acc93f18e8b6e.jpg"
         },
@@ -161,7 +331,7 @@
           "description": "Today is the 55th anniversary!",
           "link": "https://thalescircles.tumblr.com/post/756556277863301120",
           "publishedOn": "2024-07-20T20:44:51.000Z",
-          "wordCount": 427,
+          "wordCount": 424,
           "title": "Happy Moon Landing Day!",
           "imageUrl": "https://64.media.tumblr.com/60de74ed830eb2470ca57c6e14c91d1e/e8f33f504c554b6e-64/s1280x1920/43740bbf207f45ffc5de80f2eeec8297e0473e40.jpg"
         },
@@ -171,7 +341,7 @@
           "description": "On this day in 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon. Art by Robert McCall.",
           "link": "https://thalescircles.tumblr.com/post/756555758899970048",
           "publishedOn": "2024-07-20T20:36:36.000Z",
-          "wordCount": 500,
+          "wordCount": 453,
           "title": "On this day in 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to&hellip;",
           "imageUrl": "https://64.media.tumblr.com/603d7282c3d426c3bb714986d74aa8aa/727d2335ac9eeaca-20/s1280x1920/c3490ccdb8162a1a68e9374afd776ba2f9457250.jpg"
         },
@@ -201,7 +371,7 @@
           "description": "",
           "link": "https://golem.ph.utexas.edu/category/2024/07/what_is_entropy.html",
           "publishedOn": "2024-07-20T18:02:40.000Z",
-          "wordCount": 1460,
+          "wordCount": 2017,
           "title": "What Is Entropy?",
           "imageUrl": null
         },
@@ -211,7 +381,7 @@
           "description": "I wrote a little book about entropy; here’s the current draft: • What is Entropy? If you see typos and other mistakes, or have trouble understanding things, please let me know! An altern…",
           "link": "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/",
           "publishedOn": "2024-07-20T17:35:49.000Z",
-          "wordCount": 3664,
+          "wordCount": 4048,
           "title": "What is Entropy?",
           "imageUrl": "https://johncarlosbaez.wordpress.com/wp-content/uploads/2024/07/entropy_cover.jpg"
         },
@@ -251,7 +421,7 @@
           "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Did Flint water crisis set kids back in school? Paper saying so is ‘severely flawe…",
           "link": "https://retractionwatch.com/2024/07/20/weekend-reads-the-worlds-most-cited-cat-is-peer-review-failing-its-peer-review-oxford-prof-accused-of-stealing-research/",
           "publishedOn": "2024-07-20T10:00:00.000Z",
-          "wordCount": 2648,
+          "wordCount": 2760,
           "title": "Weekend reads: The world’s most cited cat; ‘Is peer review failing its peer review?’; Oxford prof accused of stealing research",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg"
         },
@@ -261,7 +431,7 @@
           "description": "I have a new blog JourneysOfMathematicians where I talk to mathematicians and this is its background story!",
           "link": "https://journeyinmath.wordpress.com/2024/07/20/journeys-of-mathematicians/",
           "publishedOn": "2024-07-20T07:29:11.000Z",
-          "wordCount": 5369,
+          "wordCount": 5404,
           "title": "Journeys of Mathematicians",
           "imageUrl": "https://journeyinmath.wordpress.com/wp-content/uploads/2024/07/dingli.jpg?w=904"
         },
@@ -271,7 +441,7 @@
           "description": "L’11 luglio 2024 sono stati presentati i risultati delle prove nazionali INVALSI che, tra i mesi di marzo e maggio 2024, hanno coinvolto più due milioni e mezzo di studentesse e studenti italiani appartenenti alle classi II e V della scuola primaria, III della scuola secondaria di primo grado, II e ultimo anno della scuola […]",
           "link": "https://maddmaths.simai.eu/didattica/risultati-invalsi-2024-savioli/",
           "publishedOn": "2024-07-20T06:00:47.000Z",
-          "wordCount": 9089,
+          "wordCount": 9079,
           "title": "Risultati INVALSI 2024 in matematica: cosa ci possono dire (o non dire) i primi risultati",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/rapporto2024.jpg"
         },
@@ -281,7 +451,7 @@
           "description": "The Mandelbrot set can be thought of as a catalog of closed Julia Sets over the complex plane. Each point on the plane representing a comp...",
           "link": "https://pballew.blogspot.com/2024/07/a-mandelbrot-like-set-for-quadratics.html",
           "publishedOn": "2024-07-20T06:00:00.000Z",
-          "wordCount": 3680,
+          "wordCount": 3702,
           "title": "A Mandelbrot-like Set for Quadratics",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZW_LrR6WlMCrwyxsDk3eMboof__-vR8WoSo_yT_ydSbgaFTUc2vQHY30rjdkfMFeL7I8b7s78JtuE6p2xUQsDnAf7MD_yueC7syyDLaL5VjtjcqJktqkPijiD39yozNB6CjCqecVPVvo/w1200-h630-p-k-no-nu/manquad1.jpg"
         },
@@ -291,7 +461,7 @@
           "description": "The greatest discoveries of science have always been those that forced us to rethink our beliefs about the universe and our place in it. -...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-20.html",
           "publishedOn": "2024-07-20T05:00:00.000Z",
-          "wordCount": 7981,
+          "wordCount": 8003,
           "title": "On This Day in Math - July 20",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf3yVQhgkgfIY3blALj_WylDa-I3C0jPFGZFaD1FJQlJ4w9LYmU5PONlI2ej6oNPj9k8xvLfhpm4YTFUbIlogqgOLHE53vBJFxvrUTnh4TzAbC3t29K9Y_AbCxR_3BEjBSOzAMl7gZvJQ/w1200-h630-p-k-no-nu/july20.jpg"
         },
@@ -321,7 +491,7 @@
           "description": "dedicated to Norman Skliar and Sidney Cahn In an earlier blog-essay, When 1+1 Equals 0, I explained how 1 + 1 = 0 makes sense in mod 2 arithmetic; today I’ll tell you how the equation 1 + 1 = 1 mak…",
           "link": "https://mathenchant.wordpress.com/2024/07/19/when-11-equals-1/",
           "publishedOn": "2024-07-19T22:02:19.000Z",
-          "wordCount": 9094,
+          "wordCount": 9193,
           "title": "When 1+1 Equals 1",
           "imageUrl": "https://mathenchant.wordpress.com/wp-content/uploads/2024/07/better-and-table.png"
         },
@@ -341,9 +511,9 @@
           "description": "Re: Pragmatic Truth • Discussion • (26) • (27) Re: FB | Cybersemiotics • Richard Saunders RS: My intention was not to expand the correspondence theory of truth but to narrow it …",
           "link": "https://inquiryintoinquiry.com/2024/07/19/pragmatic-truth-discussion-28/",
           "publishedOn": "2024-07-19T16:30:12.000Z",
-          "wordCount": 5707,
+          "wordCount": 5709,
           "title": "Pragmatic Truth • Discussion 28",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608535"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694857"
         },
         {
           "id": "https://www.scaffoldedmath.com/2024/07/editable-back-to-school-desk-plate-math.html",
@@ -351,7 +521,7 @@
           "description": "Differentiated math teaching ideas, including math word walls, math escape rooms, math pennants, math cheat sheets, consumer math, and math décor",
           "link": "https://www.scaffoldedmath.com/2024/07/editable-back-to-school-desk-plate-math.html",
           "publishedOn": "2024-07-19T14:43:00.000Z",
-          "wordCount": 2868,
+          "wordCount": 2873,
           "title": "Editable Back to School Desk Plate Math Activity",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit1WuVnUVy54BOKPhpWccelDdAFHtiCZdtDnKVorL_w1Fp5hhwZ5cS_9pxlYok4BmjDQD50SPINlY7odRzlZ95jPfs20gkyAfXXRD2nI0gTEBhxFhkAXYXkao4bytoqjm42mIPzgmHBLVzSj4qln7_nNGYtN2ot4PlstHwqQImp6eAp2PoqqcNdZ8PEpU/w1200-h630-p-k-no-nu/desk%20plate%20by%20numbers.jpg"
         },
@@ -361,7 +531,7 @@
           "description": "Kelly McMasters A 14-year-old paper has earned an expression of concern after an anonymous whistleblower found evidence of image duplication in the work.  The authors have had images from seve…",
           "link": "https://retractionwatch.com/2024/07/19/mistakes-were-made-paper-by-department-chair-earns-expression-of-concern-as-more-questioned/",
           "publishedOn": "2024-07-19T14:27:24.000Z",
-          "wordCount": 2668,
+          "wordCount": 2658,
           "title": "‘Mistakes were made’: Paper by department chair earns expression of concern as more questioned",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/KellyMcMasters.jpg"
         },
@@ -391,7 +561,7 @@
           "description": "This exam was adminstered in January 2024 .      June 2024 Algebra, Part III    Each correct answer is worth up to 4 credits. Partial cred...",
           "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-algebra-regents-part-iii.html",
           "publishedOn": "2024-07-19T12:30:00.000Z",
-          "wordCount": 4481,
+          "wordCount": 4471,
           "title": "June 2024 Algebra Regents Part III",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OEOoikcpzOI6yhbyYoKqOUnwB2EtUPBuAfDfg8LR42eg_90jcNdVmHY_tEfV-O8wzhDY_jFqKtLKonpoqVPX9psNy29YDcdQD2Uv9gw-krnwzf2ShnQZGTRL0TS3frTCcx98qPI46wsaLl7S0DU9PPiBlQTaqmzV4bz_wbbQTP9tIlCaTkQHMg/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -401,9 +571,9 @@
           "description": "Don't get me wrong. This is a great strip. But Oumuamua 's old news. These days everyone's overreacting to Dyson swarms. (You have to get ab...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/xkcd-needs-to-update-this-one.html",
           "publishedOn": "2024-07-19T11:30:00.000Z",
-          "wordCount": 3656,
+          "wordCount": 3663,
           "title": "XKCD needs to update this one",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sl5ELnFWnlZnVuojxtLOU1g_zsqFdYC1qSrdQ1AOSDRg5CYC6DjehjBAsdbJxojR1yH3tKlDRKSW6cwTJvpyKo_ldGb9-0Wsvu46oXRpu4ilbVQvXFt5yR6Yg=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t2psZVC_vUCHDpZz_kSfrL3qFyXkxATY_5lSJ3vEElRY8ZRDWmKHIu_RRuaPVenvVUjpazoD5gwpJFPc7tW5YSgns3g2XwPkJ-IG8MJmL6nV-8EKVOfNbJ-_Q=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://statmodeling.stat.columbia.edu/2024/07/19/my-comments-on-nate-silvers-comments-on-the-fivethirtyeight-election-forecast/",
@@ -423,7 +593,7 @@
           "publishedOn": "2024-07-19T09:35:01.000Z",
           "wordCount": 3580,
           "title": "The most stupid, effin take on Newton, the apple, and the theory of gravity ever",
-          "imageUrl": "https://secure.gravatar.com/blavatar/3d622d2e329c1159cf893b7dbdc50a18626f8dd44b936de952ead71093db913b?s=200&ts=1721608535"
+          "imageUrl": "https://secure.gravatar.com/blavatar/3d622d2e329c1159cf893b7dbdc50a18626f8dd44b936de952ead71093db913b?s=200&ts=1721694857"
         },
         {
           "id": "https://maddmaths.simai.eu/divulgazione/rubriche/la-lente-matematica/euro-2024-leuropeo-dei-dati/",
@@ -431,7 +601,7 @@
           "description": "Euro2024 è stato il campionato europeo di numeri, dati e algoritmi. Cosa dicevano i numeri sulla finale Spagna-Inghilterra?",
           "link": "https://maddmaths.simai.eu/divulgazione/rubriche/la-lente-matematica/euro-2024-leuropeo-dei-dati/",
           "publishedOn": "2024-07-19T08:00:43.000Z",
-          "wordCount": 4300,
+          "wordCount": 4322,
           "title": "EURO 2024: l’europeo dei dati",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/Copertina-Finale-3.jpg"
         },
@@ -441,7 +611,7 @@
           "description": "[The infinitesimals] neither have nor can have theory; in practise it is a dangerous instrument in the hands of beginners ... anticipating...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-19.html",
           "publishedOn": "2024-07-19T05:00:00.000Z",
-          "wordCount": 6197,
+          "wordCount": 6219,
           "title": "On This Day in Math - July 19",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTG8RZrRRvtafywW3a_lHKwpR41XoDB4odBjFqSEfLbMAmbse5S1EUYlWUTrwsIxbYLkT5y0MG8sqD_DjUXFNouo9EYXprgimOpsnY4-ucU45smh_0Eg5KJ2Q6tcligvxLlIPaAb-56uA/w1200-h630-p-k-no-nu/july+19.jpg"
         },
@@ -476,16 +646,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ncatlab.org/nlab/show/tail+event",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/tail+event",
-          "publishedOn": "2024-07-18T16:54:41.000Z",
-          "wordCount": 1024,
-          "title": "tail event",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.galoisrepresentations.com/2024/07/18/sl_n-versus-gl_n/",
           "author": "Persiflage",
           "description": "",
@@ -503,7 +663,7 @@
           "publishedOn": "2024-07-18T15:11:00.000Z",
           "wordCount": 2766,
           "title": "Vectors+ 01 Dot & Cross Products: UNIZOR.COM - Math+ & Problems - Vectors",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_stSP5DW_-lWSlLLdelu21iFRdfZDQD7jsCIg8ruINmWFzZJaWYsoXVBtWf90vfv7a5BSIg5YbgE0AnVZogke-jfi5_ixTD-kK0n40_Hx5AbOrHFw=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uegJqutQiYwgyKIWhl_yMMmNSYHZQbw4D3sF4SHjfYnV56JCyH5oP5HEDk8sJLP-Uq8zYooqiWKL82P5NGzCWKIcOkOvB_HOCJwyjzde8jC3BUhA=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://thalescircles.tumblr.com/post/756349218279555072",
@@ -511,7 +671,7 @@
           "description": "From: The New Generation, Introduction by David Thompson, Peter Stuyvesant Foundation, Whitechapel Gallery, London, 1964 [Room & Book, London. Art: © Bridget Riley]\nFeat.: Derek Boshier, Patrick...",
           "link": "https://thalescircles.tumblr.com/post/756349218279555072",
           "publishedOn": "2024-07-18T13:53:43.000Z",
-          "wordCount": 445,
+          "wordCount": 479,
           "title": "From:&nbsp;The New Generation, Introduction by David Thompson, Peter Stuyvesant Foundation, Whitechapel&hellip;",
           "imageUrl": "https://64.media.tumblr.com/695fbba2cc9fc22de6781722d168ba3a/4d3be69a10ad4faf-a1/s1280x1920/d0db03bfc42f1d1f1cd7022be8b3ffb0e8b282f4.jpg"
         },
@@ -521,7 +681,7 @@
           "description": "The quantum factoring algorithm of Peter Shor ( FOCS  1994, SIAM Review  1999) turns thirty this year. Before his algorithm, quantum computi...",
           "link": "https://blog.computationalcomplexity.org/2024/07/the-story-of-shors-algorithm.html",
           "publishedOn": "2024-07-18T13:39:00.000Z",
-          "wordCount": 5737,
+          "wordCount": 5738,
           "title": "The Story of Shor's Algorithm",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26KOMyvXsFHWmkkQDqdYyo_phnQvygcxMObQ7-UeSuq1XuBrf0EhFoRBw8oDn11SL4cPDz1TtPLSFZzwL5JvTvA7hd8Xl9UGrgGg1Ht5G0m7lg1CwjKzoz6-Z0dtpqe8ChElzr2O3fJOIO-jLQ25cY-MiRvtKKiujgXsiKSingTrG6_N6aZ0V/w1200-h630-p-k-no-nu/pic3.jpg"
         },
@@ -531,7 +691,7 @@
           "description": "This exam was adminstered in January 2024 .      June 2024 Algebra, Part II    Each correct answer is worth up to 2 credits. Partial credi...",
           "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-algebra-regents-part-ii.html",
           "publishedOn": "2024-07-18T13:35:00.000Z",
-          "wordCount": 4672,
+          "wordCount": 4662,
           "title": "June 2024 Algebra Regents Part II",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkuIcdDP_8GJm0Y20Iakh9eSZMknzr2BBUaLs68ba74r9qGAr5DoouvNIQbE-XccxJ1Cf7z0lcQHZ1NgHT_oDM5-_K3NKjNDLunxt2rojVckZ6IS4gv-Xh0e7JhwvgQ6O-oVLpEgncL6FMtxccW_dboM8h0Y783UjoEbBl4cYxIPp7W5ayBXZHw/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -551,7 +711,7 @@
           "description": "A Frontiers journal has taken down the abstract of a “provisionally accepted” article about harms from an herbal supplement after the company that sells the products sued the first author for defam…",
           "link": "https://retractionwatch.com/2024/07/18/supplement-maker-sues-critic-for-defamation-spurring-removal-of-accepted-abstract/",
           "publishedOn": "2024-07-18T12:00:00.000Z",
-          "wordCount": 3040,
+          "wordCount": 3030,
           "title": "Supplement maker sues critic for defamation, spurring removal of accepted abstract",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2020/12/Dr.-Cyriac-Abby-Philips.jpg"
         },
@@ -561,7 +721,7 @@
           "description": "Weigel Broadcasting is getting a lot of getting a lot deservedly positive press for its launch of MeTV Toons , the company's latest typica...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-we-told-you-to-keep.html",
           "publishedOn": "2024-07-18T11:30:00.000Z",
-          "wordCount": 3344,
+          "wordCount": 3349,
           "title": "Twelve years ago -- we told you to keep an eye on these guys",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q5_cf2yvbyTDBeEF2fyY164qMa4zcO6p7fr3LE4SEUhdjq5zA909Wbb-rq4G-adngPEjSYO7JZgh0VtMXRe1rme7GxO8w_tp1zBmfesUlUCj6wWwScYlSn4acBtuWwyFetN-OHtLTLRG/w1200-h630-p-k-no-nu/HuluDarkKnight.jpg"
         },
@@ -571,7 +731,7 @@
           "description": "I’m going to be out of commission for a while,  as the date for planned surgery has rolled around. Hopefully, I’ll be back in reasonable working order next month. Meanwhile, let’s have a musical intermission, from two of my very favourite pianists from different generations. First, the transcendentally great Maria Joāo Pires playing Beethoven’s Sonata […]",
           "link": "https://www.logicmatters.net/2024/07/18/a-musical-intermission/",
           "publishedOn": "2024-07-18T08:30:55.000Z",
-          "wordCount": 4434,
+          "wordCount": 4435,
           "title": "A musical intermission",
           "imageUrl": null
         },
@@ -591,7 +751,7 @@
           "description": "3-5,     5-7,     11-13,     17-19...                        29-31              7-9...........13-15........19-21..... 23-25,   A few days b...",
           "link": "https://pballew.blogspot.com/2024/07/chen-goldbach-and-search-for-unsolved.html",
           "publishedOn": "2024-07-18T05:30:00.000Z",
-          "wordCount": 4264,
+          "wordCount": 4286,
           "title": "Chen, Goldbach, and the Search for an Unsolved Proof",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrgwYxpSWl9cPjD3aceUPRvi6tnbujPivZM2fXsMru2pOJqg0harQ6Qq30CoL48ARA7juUeD8lPEjjsxHVrtcf5U4ykHsf4TfDRKghahrB37VoyWDSt5LTk9ham_UreHMzxkQWL43yAKpIbvz7oocLaGdJQ7QHX8sJMDiHwG8PSpVAGRIiqlu2YdnJNxc/w1200-h630-p-k-no-nu/Chen_Jing-run.jpeg"
         },
@@ -601,7 +761,7 @@
           "description": "Math is the only place where truth and beauty mean the same thing. -Danica McKellar (I can't believe I'm doing math quotes by \"Winnie\" fro...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-18.html",
           "publishedOn": "2024-07-18T05:00:00.000Z",
-          "wordCount": 6940,
+          "wordCount": 6962,
           "title": "On This Day in Math - July 18",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYHU8QlDzBxkEC9w0nTM_4TQXw5cBSglxxaIvaqRN5TN18uVaarTWtppDoBj3To86HwJzDRL2J5BpjKfflaqTTtf9yBpp_gU2ydeZGQj_ZBnbkIadAZuiP65IdWfmmlB0bRGdSrCniApY/w1200-h630-p-k-no-nu/july+18.jpg"
         },
@@ -611,7 +771,7 @@
           "description": "Ukrainian high schoolers interested in mathematics can participate in the MIT Department of Mathematics' online enrichment program \"Yulia's Dream,\" a PRIMES program that offers small-group math instruction in their native language and in English to Ukrainian high schoolers by mentors from around the world.",
           "link": "https://news.mit.edu/2024/math-program-promotes-global-community-risk-ukrainian-high-schoolers-0717",
           "publishedOn": "2024-07-18T03:50:00.000Z",
-          "wordCount": 2134,
+          "wordCount": 2113,
           "title": "Math program promotes global community for at-risk Ukrainian high schoolers",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202407/yulias-dream-Sophia-and-Nazar.jpg"
         },
@@ -621,7 +781,7 @@
           "description": "Obwohl ich seit jeher eine Schwäche für technische Spierlereien habe, bin ich doch in den allermeisten Fällen schnell ernüchtert, wenn die erste Phase des",
           "link": "https://halbtagsblog.de/2024/07/18/mit-virtual-reality-in-die-sommerferien/",
           "publishedOn": "2024-07-18T01:39:35.000Z",
-          "wordCount": 4606,
+          "wordCount": 4725,
           "title": "Mit “Virtual Reality‘ in die Sommerferien",
           "imageUrl": "https://i0.wp.com/halbtagsblog.de/wp-content/uploads/2024/07/wp-17212649478883806797058238734150.jpg"
         },
@@ -651,7 +811,7 @@
           "description": "There’s a new piece just published by Jamie Tappenden with the promising title ‘Following Bobzien: Some Notes on Frege’s Development and Engagement with his Environment’ (History and Philosophy of Logic https://doi.org/10.1080/01445340.2024.2360349). But, for me a bit disappointingly, this turns out to be — yet once more — mostly about Frege’s engagement with, in a broad […]",
           "link": "https://www.logicmatters.net/2024/07/17/frege-on-seeing-what-is-in-front-of-his-nose-revisited/",
           "publishedOn": "2024-07-17T19:28:14.000Z",
-          "wordCount": 5721,
+          "wordCount": 5722,
           "title": "Frege on seeing what is in front of his nose, revisited",
           "imageUrl": null
         },
@@ -671,7 +831,7 @@
           "description": "So, okay, fun fact. When I was a freshman in high school… let me preface by saying my dad sent me to a private school and, like a bad organ transplant, it didn’t take. I was miserable, the student...",
           "link": "https://thalescircles.tumblr.com/post/756265510790955008",
           "publishedOn": "2024-07-17T15:43:14.000Z",
-          "wordCount": 1253,
+          "wordCount": 1258,
           "title": "So, okay, fun fact. When I was a freshman in high school&hellip; let me preface by saying my dad sent me to&hellip;",
           "imageUrl": null
         },
@@ -711,7 +871,7 @@
           "description": "Aleksandar Stević As Retraction Watch recently reported, three of the top 10 philosophy journals in the highly influential Scopus database turned out to be fakes: Not only did these dubious journal…",
           "link": "https://retractionwatch.com/2024/07/17/scopus-is-broken-just-look-at-its-literature-category/",
           "publishedOn": "2024-07-17T12:00:00.000Z",
-          "wordCount": 4007,
+          "wordCount": 4346,
           "title": "Scopus is broken – just look at its literature category",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/IMG_63861-scaled.jpg"
         },
@@ -721,9 +881,9 @@
           "description": "[Apologies for going into reruns so heavy this week, but it's another topic people need to be paying attention to this week.] Concern over t...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/another-newly-relevant-repost-hipster.html",
           "publishedOn": "2024-07-17T11:30:00.000Z",
-          "wordCount": 3742,
+          "wordCount": 3747,
           "title": "Another newly relevant repost -- Hipster Eugenics",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sLJryRZvzKNUGA3tDDzhSqQOsjjgNReTJB93Gaczn8XIVwthYTrCu9lSca_w9INoxfKK8jHWLL0kKOVr6m2a8FBSVcjNqJBqsjBuJ6Xgxj_dju4UmTQOutc5zdfsr4D6N0m5nd8Ys14iInXSE4J6k=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_td1GnVdB6jVgEhUaz3g0oTBqLDOp6CbvlzGNSRZmepO2vJDvgoH9G5IbRH_GnsAuyPWWkb1urN3QiG3-2pVao0IysN-F-BQWveMhJZSWAr3BiSWSXBUt376TIAuNQ4XOQh8td67nWNLD01ZUAt8as=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://inquiryintoinquiry.com/2024/07/17/pragmatic-truth-discussion-27/",
@@ -731,9 +891,9 @@
           "description": "Re: Pragmatic Truth • Discussion 26 Re: FB | Cybersemiotics • Richard Saunders RS: Agreed, but given those qualifications (the perspective on facts qualified by the pragmatic maxim and th…",
           "link": "https://inquiryintoinquiry.com/2024/07/17/pragmatic-truth-discussion-27/",
           "publishedOn": "2024-07-17T10:48:15.000Z",
-          "wordCount": 5566,
+          "wordCount": 5568,
           "title": "Pragmatic Truth • Discussion 27",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608537"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694858"
         },
         {
           "id": "https://thonyc.wordpress.com/2024/07/17/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-xxv/",
@@ -751,7 +911,7 @@
           "description": "Marco Menale presenta le sue riflessioni sulla comunicazione della matematica e la sua valorizzazione nell'università.",
           "link": "https://maddmaths.simai.eu/comunicare/comunicazione-della-matematica-valorizzazione-e-universita/",
           "publishedOn": "2024-07-17T08:00:46.000Z",
-          "wordCount": 4228,
+          "wordCount": 4221,
           "title": "Comunicazione della matematica: valorizzazione e università",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/Copertina-Finale.jpg"
         },
@@ -771,7 +931,7 @@
           "description": "I'm Re-posting some old blogs to try and preserve some notes,  and do some editing In my youth, back in the dark ages before calculators, o...",
           "link": "https://pballew.blogspot.com/2024/07/some-history-notes-on-casting-out-nines.html",
           "publishedOn": "2024-07-17T05:30:00.000Z",
-          "wordCount": 4826,
+          "wordCount": 4848,
           "title": "Some History Notes on Casting Out Nines, and request for information",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT0D-3wXL-SGLgEtinhbTxhpv6AHLylerODUUCNTH-XM2pne8vx8SI-bRdg9f-rKMpIxPRpBXBpkWeQg0g3wJtQeIli0bisyEZWY8ZtKOk7qOvgNA1FYF1DF11Cvmm3Hbd2NxGpOeg2HU/w1200-h630-p-k-no-nu/casting+out+nines.gif"
         },
@@ -781,7 +941,7 @@
           "description": "Science is built up with facts, as a house is with stones.  But a collection of facts is no more a science than a heap of stones is a hous...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-17.html",
           "publishedOn": "2024-07-17T05:00:00.000Z",
-          "wordCount": 7957,
+          "wordCount": 7979,
           "title": "On This Day in Math - July 17",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJuuBMmpDxTREIsf_TZRgmlx8QY2kbRxssX_M0j-NsAq8fa6a8rq_tSbTnPwS6cbqDZupu33DPSkAWG_gl2AMKTw0jSFrFr0AkzZuNECYtOYwgwx7LRlxuJ6gbhI59GTFaeYxEnQNZPTc/w1200-h630-p-k-no-nu/july+17.jpg"
         },
@@ -791,7 +951,7 @@
           "description": "John Park, MD Medical Director of Radiation Oncology North Kansas City Hospital Clinical Assistant Professor Univ. Of Missouri-Kansas City [An earlier post  by J. Park on this topic: Jan 17, 2022: …",
           "link": "https://errorstatistics.com/2024/07/16/guest-post-john-park-abandoning-p-values-and-embracing-artificial-intelligence-in-medicine-thoughts-on-abandon-statistical-significance-5-years-on/",
           "publishedOn": "2024-07-17T02:50:20.000Z",
-          "wordCount": 8116,
+          "wordCount": 9083,
           "title": "Guest Post: John Park: Abandoning P-values and Embracing Artificial Intelligence in Medicine (thoughts on “abandon statistical significance 5 years on”)",
           "imageUrl": "https://errorstatistics.com/wp-content/uploads/2024/07/park-table-1-reporting-guideslines-enlarged.png"
         },
@@ -841,7 +1001,7 @@
           "description": "We present the product space $latex C \\times S(\\omega)$ where the first factor is a convergent sequence (along with the limit) and the second factor is the sequential fan with countably (and infini…",
           "link": "https://dantopology.wordpress.com/2024/07/16/two-frechet-spaces-whose-product-is-not-frechet/",
           "publishedOn": "2024-07-16T16:57:37.000Z",
-          "wordCount": 4494,
+          "wordCount": 4499,
           "title": "Two Frechet spaces whose product is not Frechet",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -851,7 +1011,7 @@
           "description": "The newspaper culture pages have been full of recommendations for summer reading. Let me add my two-pennyworth on books I’ve recently particularly enjoyed reading or re-reading. I’ve just devoured Rory Stewart’s Politics on the Edge (in the US, How Not to Be a Politician: A Memoir). Though I’m rather glad I left it until after […]",
           "link": "https://www.logicmatters.net/2024/07/16/summer-reading/",
           "publishedOn": "2024-07-16T15:26:12.000Z",
-          "wordCount": 5311,
+          "wordCount": 5312,
           "title": "Summer reading?",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/07/71q4JQu7NSL._SL1500_-201x300.jpg"
         },
@@ -871,7 +1031,7 @@
           "description": "Professors Yin Tat Lee and Thomas Rothvoss are faculty at the Allen School of the University of Washington. Lee has the A.W. Tucker Prize that recognizes the best doctoral thesis in optimization in…",
           "link": "https://rjlipton.com/2024/07/16/planar-graphs-again/",
           "publishedOn": "2024-07-16T13:43:09.000Z",
-          "wordCount": 2427,
+          "wordCount": 2442,
           "title": "Planar Graphs—Again",
           "imageUrl": "https://rjlipton.com/wp-content/uploads/2024/07/sd.jpeg"
         },
@@ -891,9 +1051,9 @@
           "description": "Re: Pragmatic Truth • (1) • (2) Re: OEIS Wiki | Correspondence Theory Of Truth Re: FB | Inquiry Driven Systems • Richard Saunders RS: The pragmatic theory of truth seems to be a corr…",
           "link": "https://inquiryintoinquiry.com/2024/07/16/pragmatic-truth-discussion-26/",
           "publishedOn": "2024-07-16T12:24:14.000Z",
-          "wordCount": 5606,
+          "wordCount": 5608,
           "title": "Pragmatic Truth • Discussion 26",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608537"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694858"
         },
         {
           "id": "https://retractionwatch.com/2024/07/16/kavli-prize-winner-threatens-to-sue-critic-for-defamation/",
@@ -901,7 +1061,7 @@
           "description": "Chad Mirkin One of the winners of the 2024 Kavli Prize in nanoscience has threatened to sue a longtime critic, Retraction Watch has learned.  In a cease and desist letter, a lawyer representin…",
           "link": "https://retractionwatch.com/2024/07/16/kavli-prize-winner-threatens-to-sue-critic-for-defamation/",
           "publishedOn": "2024-07-16T12:00:00.000Z",
-          "wordCount": 3319,
+          "wordCount": 3309,
           "title": "Exclusive: Kavli prize winner threatens to sue critic for defamation",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/chad-mirkin.jpg"
         },
@@ -911,9 +1071,9 @@
           "description": "Back in 2021, the national press was desperately trying to convince itself that Trump was losing his hold on the Republican Party. This was ...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/two-years-ago-at-blog-didnt-expect-to.html",
           "publishedOn": "2024-07-16T11:30:00.000Z",
-          "wordCount": 4261,
+          "wordCount": 4266,
           "title": "Two years ago at the blog -- didn't expect to be reposting this one quite so soon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tTZHShvit2Oz22v4mAgNnWBZGrQ_Mnw7ou2PloB3XYIJloi4pz0S6GsftstwbxzwEyPivw5jM9nwbi6PvIG27V0dpUdEpXWO_EjWyk5J7c1Upgmo96zhRQ0_EbEL4KvF-hwbP8AaVNF2pkb-epFx51E7PuNH5PwoWSnJX40_b4ocBn9eAfKLs-fYVjHGJoiZCBCSy9BKqQV0lP1gP46eakYfLBD7m75BMrakaoIKL2vsUMRSKaUqzCRZ8RESdvSgwRmAhi0pDIJgKXZiyFPZHjgEiTM00YNpct-yJPLUzsSLxgMMoa5aTyNa5Gs5bW_zj7oWrG=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vjXNY64TTvK3NBrKd89YaBqKUByLCeTMTjfXhAQbSrIoWnzA2FTdEBYpwbaLwTe8_iU0OpAV7dB1oWyihHstGZKVrOch9Pf6Q_50ePVR_GYkXxk46PHlaMLlaNgKuZo8ltxypWZ52AS9ThoWCx-4MxGBcZsRetchL4CJyr9RUlwJW6e0N-q7WK4lmFDLoF1TcpeGzBsB0O3iE93xCufGlGb78AH2pSNMWoV39rd8uFwUNHwDTmzJqo5ezuhidFMH_x7x7FbLu3jbahA35GBRNh061_MiaDITUyq5Oig5BmfYSHnd_1byDnb7i-qx3pkO5fL4ZB=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://freakonometrics.hypotheses.org/76692",
@@ -921,7 +1081,7 @@
           "description": "L’été avance. Florent, qui est en stage depuis presque 4 mois, va faire un exposé demain au séminaire d’été des étudiants, sur le thème “Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques” Le transfert d’apprentissage (ou Transfer Learning) représente une avancée notable dans le domaine de l’intelligence artificielle. Cette technique repose sur l’idée … Continue reading Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques →",
           "link": "https://freakonometrics.hypotheses.org/76692",
           "publishedOn": "2024-07-16T08:10:17.000Z",
-          "wordCount": 4356,
+          "wordCount": 4365,
           "title": "Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -931,7 +1091,7 @@
           "description": "Pure mathematics is the world's best game.  It is more absorbing than chess, more of a gamble than poker,  and lasts longer than Monopoly....",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-16.html",
           "publishedOn": "2024-07-16T05:00:00.000Z",
-          "wordCount": 6289,
+          "wordCount": 6311,
           "title": "On This Day in Math - July 16",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim0rXoIREtQWz04LBDMBTLb4jKdsq91AtKK0JIYkpa8c4Ny395bmNHyg0ZNJHAv8TrDyBUCJTI8yZZkpBtuoVEOAlFTubPbEfQgwIj-KXdWUJ6Wi-AW__c3dQQfnLw3S_fl90nrtGoic4/w1200-h630-p-k-no-nu/july+16.jpg"
         },
@@ -971,19 +1131,9 @@
           "description": "A research team led by the INAF (Istituto Nazionale di Astrofisica) and the University of Trieste has once again harnessed the very distan...",
           "link": "http://docmadhattan.fieldofscience.com/2024/07/the-breath-of-ancestors.html",
           "publishedOn": "2024-07-15T18:19:00.000Z",
-          "wordCount": 4443,
+          "wordCount": 4450,
           "title": "The breath of the ancestors",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sYf7nnpCZgt8FTfsOs7Rsmbmr9pdCf23zmi-4jS45zSPZs5EfgPj9oFkybJrvCIZNkXnly-tqMCaYr4jFOSW0Yfwvnbx7Q6VcC2DvYMcKU=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://ncatlab.org/nlab/show/law+of+large+numbers",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/law+of+large+numbers",
-          "publishedOn": "2024-07-15T16:26:29.000Z",
-          "wordCount": 843,
-          "title": "law of large numbers",
-          "imageUrl": null
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tlLyarM0_uXqMaijhX0rva6CkMWsC4GuuVI3L0fx8--noQuSpdnrhIfmvWAEqIqhFk7_BFNDeLJVP1fXhdVdwE5zaO9eTtfw0mi0DYZf0h=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/",
@@ -991,7 +1141,7 @@
           "description": "I was interviewed by Sean Carroll for his Mindscape Podcast, broadcast 15 July 2024.",
           "link": "https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/",
           "publishedOn": "2024-07-15T15:45:11.000Z",
-          "wordCount": 1566,
+          "wordCount": 1568,
           "title": "Puzzles of reality and infinity, Mindscape Podcast",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -1001,9 +1151,9 @@
           "description": "Re: Pragmatic Truth • (1) • (2) Re: OEIS Wiki | Correspondence Theory Of Truth Re: FB | Inquiry Driven Systems • Richard Saunders RS: Given that “facts are basically combinatio…",
           "link": "https://inquiryintoinquiry.com/2024/07/15/pragmatic-truth-discussion-25/",
           "publishedOn": "2024-07-15T15:30:07.000Z",
-          "wordCount": 5668,
+          "wordCount": 5670,
           "title": "Pragmatic Truth • Discussion 25",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608538"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694859"
         },
         {
           "id": "https://11011110.github.io/blog/2024/07/15/linkage-from-australia.html",
@@ -1061,7 +1211,7 @@
           "description": "Siddhartha Roy A paper finding kids did worse in school following the Flint water crisis is “severely flawed and unreliable,” according to critics who were deeply involved in exposing the crisis. T…",
           "link": "https://retractionwatch.com/2024/07/15/did-flint-water-crisis-set-kids-back-in-school-paper-saying-so-is-severely-flawed-say-critics/",
           "publishedOn": "2024-07-15T12:00:00.000Z",
-          "wordCount": 3523,
+          "wordCount": 3513,
           "title": "Did Flint water crisis set kids back in school? Paper saying so is ‘severely flawed,’ say critics",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/image-6.png"
         },
@@ -1071,7 +1221,7 @@
           "description": "Every predictive model relies on at least one of two things. The first is the assumption that patterns and relationships will in the future...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/predictive-models-and-black-swans.html",
           "publishedOn": "2024-07-15T11:30:00.000Z",
-          "wordCount": 3910,
+          "wordCount": 3915,
           "title": "Predictive Models and Black Swans",
           "imageUrl": null
         },
@@ -1111,7 +1261,7 @@
           "description": "Cristiana De Filippis, docente e ricercatrice di Analisi Matematica dell’Università di Parma, è stata insignita del Premio della European Mathematical Society, il più importante e prestigioso riconoscimento della Matematica Europea. Il Premio le è stato consegnato stamattina al Teatro della Maestranza di Siviglia da Jan Philip Solovej, presidente della European Mathematical Society, in apertura dello […]",
           "link": "https://maddmaths.simai.eu/comunicare/cristiana-parma-ems2024/",
           "publishedOn": "2024-07-15T09:38:30.000Z",
-          "wordCount": 4339,
+          "wordCount": 4344,
           "title": "Cristiana De Filippis dell’università di Parma riceve il premio EMS 2024",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/De-Filippis-181-sel3JPG-1.jpg"
         },
@@ -1121,7 +1271,7 @@
           "description": "Cristiana De Filippis, docente e ricercatrice di Analisi Matematica dell’Università di Parma, ha ricevuto il Premio della European Mathematical Society, il più importante e prestigioso riconoscimento della Matematica Europea. Il Premio le è stato consegnato stamattina al Teatro della Maestranza di Siviglia da Jan Philip Solovej, presidente della European Mathematical Society, in apertura dello European […]",
           "link": "https://maddmaths.simai.eu/news-2/cristiana-de-fillippis-video/",
           "publishedOn": "2024-07-15T09:37:17.000Z",
-          "wordCount": 3424,
+          "wordCount": 3425,
           "title": "Cristiana De Fillippis, premio EMS 2024 – il video dell’Università di Parma",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/video.jpg"
         },
@@ -1131,7 +1281,7 @@
           "description": "In occasione dell’assegnazione del premio EMS 2024 a Maria Colombo, ripubblichiamo l’intervista di MaddMaths! del 16 gennaio 2022, che contiene alcuni spunti importanti sulle ricerche di Colombo.  Le equazioni di Naviers-Stokes descrivono l’evoluzioni dei fluidi incomprimibili e sono anche fonte di tanti problemi matematici interessanti. Recentemente è uscito un preprint, Non-uniqueness of Leray solutions of […]",
           "link": "https://maddmaths.simai.eu/ricerca/maria-colombo-navier-stokes/",
           "publishedOn": "2024-07-15T09:36:54.000Z",
-          "wordCount": 6333,
+          "wordCount": 6365,
           "title": "Fluidi che non hanno unicità – Intervista con Maria Colombo – vincitrice del premio EMS 2024",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2022/01/m_colombo.jpg"
         },
@@ -1141,7 +1291,7 @@
           "description": "All’indomani della chiusura in Germania degli Europei di calcio, si iniziano a “giocare” in Spagna altri europei: quelli della matematica. Riportiamo il comunicato stampa dell’Unione Matematica Italiana. Il Congresso Europeo della Matematica (European Congress of Mathematics, ECM), organizzato ogni quattro anni dalla European Mathematical Society (EMS) e secondo evento di matematica più grande al mondo, […]",
           "link": "https://maddmaths.simai.eu/divulgazione/eventi/ecm-2024-premi/",
           "publishedOn": "2024-07-15T09:35:52.000Z",
-          "wordCount": 5544,
+          "wordCount": 5566,
           "title": "ECM 2024 – Convegno europeo di matematica in Spagna: premiate Cristiana De Filippis e Maria Colombo",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/cristiana-maria.jpg"
         },
@@ -1151,7 +1301,7 @@
           "description": "In this post, the focus is on $latex S(\\omega_1) \\times S(\\omega_1)$, the square of the sequential fan with $latex \\omega_1$ many spines. Evaluating the tightness of a product of two sequential fan…",
           "link": "https://dantopology.wordpress.com/2024/07/15/two-sequential-fans-whose-product-is-not-countably-tight/",
           "publishedOn": "2024-07-15T07:02:32.000Z",
-          "wordCount": 4970,
+          "wordCount": 4975,
           "title": "Two sequential fans whose product is not countably tight",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -1161,7 +1311,7 @@
           "description": "Mathematics is as much an aspect of culture as it is a collection of algorithms. -Carl Boyer The 196th day of the year, A Lychrel number i...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-15.html",
           "publishedOn": "2024-07-15T05:00:00.000Z",
-          "wordCount": 7507,
+          "wordCount": 7529,
           "title": "On This Day in Math - July 15",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2-FPEkBqNN0N6CAI3u5jxRy6nTmB8pjYT8FkO8OOrxap80M_Ga5lwAPWXmuz0EKAVC0AAMsOSze3a4Lb1yL_LpFLTjg3mNqq5trEk5YYSM1PRfjlDDf7UItsshft906SL2JTyCMLGUc/w1200-h630-p-k-no-nu/july+15.jpg"
         },
@@ -1211,7 +1361,7 @@
           "description": "A printed copy of ICT has now arrived. So the fifth Big Red Logic Book — the longest yet — really exists! I’m manfully restraining myself, at least for now, from looking at it too closely, because when I do — a pound to a penny! — I’ll immediately spot some silly typos. Why such […]",
           "link": "https://www.logicmatters.net/2024/07/14/and-then-there-were-five/",
           "publishedOn": "2024-07-14T20:08:24.000Z",
-          "wordCount": 5068,
+          "wordCount": 5117,
           "title": "And then there were five …",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/07/IMG_1194-768x1024.jpeg"
         },
@@ -1221,7 +1371,7 @@
           "description": "In a post from 2015 I noted that the word quantum  is often misused (see here ). Have things gotten better since then? I think you know the ...",
           "link": "https://blog.computationalcomplexity.org/2024/07/the-term-quantum-being-misused-again.html",
           "publishedOn": "2024-07-14T19:09:00.000Z",
-          "wordCount": 5657,
+          "wordCount": 5658,
           "title": "The Term Quantum Being Misused ... Again",
           "imageUrl": null
         },
@@ -1241,7 +1391,7 @@
           "description": "Domenica 14 luglio a Siviglia, il giorno prima dell’inizio dello European Congress of Mathematics, la European Women in Mathematics ha organizzato un evento dedicato alle donne matematiche. Chiara de Fabritiis ha partecipato e ce ne dà un resoconto. Come ormai accade in molte grandi conferenze di matematica, anche l’apertura del nono European Congress of Mathematics, […]",
           "link": "https://maddmaths.simai.eu/comunicare/pari-opportunita/donne-matematiche-ecm/",
           "publishedOn": "2024-07-14T16:25:45.000Z",
-          "wordCount": 4079,
+          "wordCount": 4095,
           "title": "L’evento delle donne matematiche ci dà un anticipo del Congresso Europeo di Matematica",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/tavola-rotonda.jpg"
         },
@@ -1271,7 +1421,7 @@
           "description": "Leibniz oder Madhava? Bekanntlich gibt die Taylor-Reihe des Arkustangens mit die Formel . Die wird in europäischen Kulturen meist als Leibniz-Reihe bezeichnet, war aber dem indischen Mathemtiker Madhava bereits im 14. Jahrhundert bekannt, veröffentlicht etwa hundert Jahre später um 1500 in der von Nilakantha Somayaji in 432 Sanskrit-Versen in acht Kapiteln geschriebenen astronomischen Abhandlung Tantrasamgraha.…",
           "link": "https://scienceblogs.de/mathlog/2024/07/14/pi/?utm_source=rss&utm_medium=rss&utm_campaign=pi",
           "publishedOn": "2024-07-14T08:47:09.000Z",
-          "wordCount": 6953,
+          "wordCount": 6952,
           "title": "Pi",
           "imageUrl": ""
         },
@@ -1301,7 +1451,7 @@
           "description": "Expanding an Archive blog from 2008 with some new insights: Sometimes I enter the math contest they host at the  Wild About Math  blog site...",
           "link": "https://pballew.blogspot.com/2024/07/a-problem-about-elevens-and-some.html",
           "publishedOn": "2024-07-14T05:30:00.000Z",
-          "wordCount": 6195,
+          "wordCount": 6217,
           "title": "A Problem About Elevens, and Some Methods of Casting Out Sevens, and Other Primes.",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZqgV0bPj1DLoAdF3tHtQVrLGXbbMCHAOJRKquS2kJ9iTWEpI2Hf_E7ue9kTnfY4lMMJeTpR3LWUl8i_P-EmHD2Y02MPEgfioQn6FwTQnDOC8pyKspmJB69ez_Q8xWFcFiAeR6SiYilBw/w1200-h630-p-k-no-nu/maths.jpg"
         },
@@ -1311,7 +1461,7 @@
           "description": "Antoine Caron: Astronomers Studying an Eclipse *TIA Nature is not embarrassed by difficulties of analysis. ~Augustin Fresnel The 195th da...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-14.html",
           "publishedOn": "2024-07-14T05:00:00.000Z",
-          "wordCount": 8497,
+          "wordCount": 8519,
           "title": "On This Day in Math - July 14",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHFLGuVt2v9BA5TNmCG35HDpegKaYWShroPl-R4Ci0n4-io619Ukw_R19p37m1PMvHG02cHS-qhKeMyijEJeNkl7GOymN4-N3-nYE8SfPHrKtCD_eo313oXYY2tEfzInpbqmp5TCLFxA/w1200-h630-p-k-no-nu/Antoine_Caron_Astronomers_Studying_an_Eclipse.jpg"
         },
@@ -1351,7 +1501,7 @@
           "description": "How many cars can you park at random along a strip that's fairly long relative to the length of a car?",
           "link": "https://www.johndcook.com/blog/2024/07/13/renyi-parking-constant/",
           "publishedOn": "2024-07-13T22:14:53.000Z",
-          "wordCount": 1606,
+          "wordCount": 1615,
           "title": "Rényi’s parking constant",
           "imageUrl": null
         },
@@ -1361,9 +1511,9 @@
           "description": "Truth Theories Theories of truth may be described according to several dimensions of description affecting the character of the predicate “true”.  The truth predicates used in diff…",
           "link": "https://inquiryintoinquiry.com/2024/07/13/pragmatic-truth-4/",
           "publishedOn": "2024-07-13T21:00:12.000Z",
-          "wordCount": 5886,
+          "wordCount": 5888,
           "title": "Pragmatic Truth • 4",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608539"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694860"
         },
         {
           "id": "https://mindyourdecisions.com/blog/2024/07/13/watermelon-paradox/",
@@ -1401,7 +1551,7 @@
           "description": "Like many, I greatly admire Joel Hamkins’s terrific combination of technical prowess and expository ability as a mathematician. I’ve learnt a great deal from him. And I hope to learn more: he is promising us a book on ten ways of proving Gödelian incompleteness. Wouldn’t it be great, too, if one day he wrote an […]",
           "link": "https://www.logicmatters.net/2024/07/13/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom/",
           "publishedOn": "2024-07-13T13:16:14.000Z",
-          "wordCount": 4515,
+          "wordCount": 4516,
           "title": "How the continuum hypothesis could have been a fundamental axiom",
           "imageUrl": null
         },
@@ -1411,7 +1561,7 @@
           "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: The wolf in Scopus’ clothing: Another hijacked journal has indexed …",
           "link": "https://retractionwatch.com/2024/07/13/weekend-reads-the-surprising-history-of-abstracts-is-peer-review-broken-bee-waggle-dance-data-gets-the-wrong-kind-of-buzz/",
           "publishedOn": "2024-07-13T10:00:00.000Z",
-          "wordCount": 2534,
+          "wordCount": 2524,
           "title": "Weekend reads: ‘The surprising history of abstracts’; is peer review broken?; bee waggle dance data gets the wrong kind of buzz",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg"
         },
@@ -1441,7 +1591,7 @@
           "description": "There is (gentle reader) nothing (the works of God only set apart) which so much beautifies and adorns the soul and mind of man as does kn...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-13.html",
           "publishedOn": "2024-07-13T05:00:00.000Z",
-          "wordCount": 7527,
+          "wordCount": 7549,
           "title": "On This Day in Math - July 13",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgbBXjRA7O8CvwAjHe8TzqX641da8JbTArTBfl4cOu90I40K8-UAkPaXgU-eEiXHkctND5NR84TjM2PIfiVLyyBQSNbV_4wF4aNmCfhyICIM6Ev6j9gxblR-TH0X2L5plOpas9DQzrKxc/w1200-h630-p-k-no-nu/july+13.jpg"
         },
@@ -1483,7 +1633,7 @@
           "publishedOn": "2024-07-12T18:33:00.000Z",
           "wordCount": 2664,
           "title": "Algebra+ 10 - Function: UNIZOR.COM - Math+ & Problems - Algebra",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u6VoTRPsLsJgpCPZ3nPXrr5kwLSCwxUYZSSthT2AJefHh56gEpL2BzCMnRj53QR5DPcvPMF-JprYewJ-45ibipYVuzXKZOMmH23vTpgr1NRbCZ5w=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v16SVXkeNXLXtYwqPJ_nTz-mdy85X_IyVHzb50kMVjO19wMQKIuFejFLzvfmrtW1Ru5lpwtbKv4nTTGgfdWDYefBws1P2Vw5Sm82RKJpxLiS67fA=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://blog.tanyakhovanova.com/2024/07/my-favorite-shoes/",
@@ -1501,9 +1651,9 @@
           "description": "Truth Predicates An inquiry into the character of truth generally begins with the idea of an informative, meaningful, or significant element, the goodness of whose information, meaning, or signific…",
           "link": "https://inquiryintoinquiry.com/2024/07/12/pragmatic-truth-3/",
           "publishedOn": "2024-07-12T15:30:14.000Z",
-          "wordCount": 5740,
+          "wordCount": 5742,
           "title": "Pragmatic Truth • 3",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721581693"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694860"
         },
         {
           "id": "https://statmodeling.stat.columbia.edu/2024/07/12/19-ways-of-looking-at-data-science-at-the-singularity/",
@@ -1531,7 +1681,7 @@
           "description": "Foundations of Computer Science 2024 is coming this fall: October 27-30, 2024 at Wolf Point Plaza, Chicago. A Bit of History The cover of the FOCS proceedings is: It was designed by Alvy Ray Smith&…",
           "link": "https://rjlipton.com/2024/07/12/focs-2024/",
           "publishedOn": "2024-07-12T12:46:49.000Z",
-          "wordCount": 2559,
+          "wordCount": 2558,
           "title": "FOCS 2024",
           "imageUrl": "https://rjlipton.com/wp-content/uploads/2024/07/smith-1.jpeg"
         },
@@ -1541,7 +1691,7 @@
           "description": "A journal has retracted a letter to the editor and removed the online version from its website “because legal concerns were raised to the Publisher,” according to the notice. The retracted letter h…",
           "link": "https://retractionwatch.com/2024/07/12/journal-retracts-letter-to-the-editor-about-predatory-journals-for-legal-concerns/",
           "publishedOn": "2024-07-12T12:00:00.000Z",
-          "wordCount": 2663,
+          "wordCount": 2653,
           "title": "Journal retracts letter to the editor about predatory journals for ‘legal concerns’",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/image-3.png"
         },
@@ -1551,7 +1701,7 @@
           "description": "This post was kindly contributed by Ron Aharoni.  Following Ron’s 2009 (Hebrew) book on philosophy  החתול שאיננו שם the two of us had in 2010 a long discussion on various philosophical questi…",
           "link": "https://gilkalai.wordpress.com/2024/07/12/the-free-will-problem-ron-aharonis-view/",
           "publishedOn": "2024-07-12T11:38:15.000Z",
-          "wordCount": 7317,
+          "wordCount": 7307,
           "title": "The Free Will problem – Ron Aharoni’s view",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/ron_aharoni.jpg"
         },
@@ -1561,9 +1711,9 @@
           "description": "Finally got around to watching this video by physics post-doc Angela Collier, recommended  by frequent commenter David, and I'm giving it a...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/this-isnt-video-where-she-calls-steven.html",
           "publishedOn": "2024-07-12T11:30:00.000Z",
-          "wordCount": 3753,
+          "wordCount": 3758,
           "title": "This isn't the video where she calls Steven Pinker a dick, but you can't have everything",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ua6M2M0wiRx_uDZS5_w3EKnSIbBq79XYGdDpjwkHzOX-28ol-xmjXAjijb58_dzqA9yGOG7AthFSFvo_yxfZiguH_96dfI-0oMacmNJbajZxjbpw=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tsIf59aRYR_oZZlqIifxRdZ_X353ofy0dsQfmYmjTVDFdMm2m8w9_bNIRQyJ75KyCpgVWBgOQXKsM3sMemKf-HW4W9frnEaXJDAJUPpfHqoDIasg=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://golem.ph.utexas.edu/category/2024/07/double_limits_a_users_guide.html",
@@ -1591,7 +1741,7 @@
           "description": "Technical skill is mastery of complexity while creativity is mastery of simplicity. Sir Christopher Zeeman Today is the 193rd day of the y...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-12.html",
           "publishedOn": "2024-07-12T05:00:00.000Z",
-          "wordCount": 6054,
+          "wordCount": 6076,
           "title": "On This Day In Math - July 12",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOedfne9JJCye6e8EL4DFWC4hvqAV3nv8xAouBMmwzr1iEQNYHJY9ibHKHGV4qsXwEsGkAk_nM-mfnqk4Nml503tbAYrhDVLt-g0lHez8LxXlek5neMCcnxRLeQzN4aB7UHJ1__3JDfuM/w1200-h630-p-k-no-nu/008.JPG"
         },
@@ -1616,22 +1766,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://xianblog.wordpress.com/2024/07/12/56626/",
-          "author": "Xi'an's Og",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/07/12/56626/",
-          "publishedOn": "2024-07-11T22:24:34.000Z",
-          "wordCount": 2434,
-          "title": "international celebration of blasphemy [jatp]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/06/1719740314668-e1719777741214.jpg"
-        },
-        {
           "id": "https://errorstatistics.com/2024/07/11/guest-post-ron-kenett-whats-happening-in-statistical-practice-since-the-abandon-statistical-significance-call-5-years-ago/",
           "author": "Error Statistics Philosophy",
           "description": "Ron S. Kenett Chairman of the KPA Group; Senior Research Fellow, the Samuel Neaman Institute, Technion, Haifa; Chairman, Data Science Society, Israel   What’s happening in statistical pr…",
           "link": "https://errorstatistics.com/2024/07/11/guest-post-ron-kenett-whats-happening-in-statistical-practice-since-the-abandon-statistical-significance-call-5-years-ago/",
           "publishedOn": "2024-07-11T21:13:09.000Z",
-          "wordCount": 9897,
+          "wordCount": 9898,
           "title": "Guest Post: Ron Kenett: What’s happening in statistical practice since the “abandon statistical significance” call",
           "imageUrl": "https://errorstatistics.com/wp-content/uploads/2024/06/split-path.png"
         },
@@ -1651,7 +1791,7 @@
           "description": "I know that Standard for Math Practice #6 calls for students to “Attend to Precision,” but what if we got it wrong by making it a practice standard? I think we go too far with this statement. I wor…",
           "link": "https://clopendebate.wordpress.com/2024/07/11/is-precision-the-problem/",
           "publishedOn": "2024-07-11T15:42:32.000Z",
-          "wordCount": 4773,
+          "wordCount": 4778,
           "title": "Is Precision the Problem?",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -1661,7 +1801,7 @@
           "description": "I was tempted, just for a moment, to preface all that abstract nonsense, all those higher ramblings, with καὶ παίζειν ὅτε καιρός, ἐπαίξαμεν• ἡνίκα καιρὸς οὐκέτι, λωιτέρης φροντίδος ἁψόμεθα. When it was time for play, we played. Now that is no longer we will apply ourselves to higher thoughts. So writes Philodemus, the final two […]",
           "link": "https://www.logicmatters.net/2024/07/11/the-epigraph-not-used/",
           "publishedOn": "2024-07-11T14:29:53.000Z",
-          "wordCount": 4815,
+          "wordCount": 4816,
           "title": "The epigraph not used …",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/07/31417450225-213x300.jpg"
         },
@@ -1671,7 +1811,7 @@
           "description": "Ten years ago, Computational Actuarial Science with R was published. With Christophe Dutang, we created at the same time an R package, collecting datasets used in the book. It was mainly to give access to the datasets to reproduce the applications, since functions used in the different chapters were coming from other R packages. Then, … Continue reading Some updates about the insurance datasets package (CASdataset) →",
           "link": "https://freakonometrics.hypotheses.org/76659",
           "publishedOn": "2024-07-11T14:02:07.000Z",
-          "wordCount": 4352,
+          "wordCount": 4361,
           "title": "Some updates about the insurance datasets package (CASdataset)",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -1691,7 +1831,7 @@
           "description": "Hoau-yan Wang The recent criminal indictment of a medical school professor and former scientific advisor to Cassava Sciences on fraud charges for manipulating images in scientific papers and applic…",
           "link": "https://retractionwatch.com/2024/07/11/rare-criminal-charges-for-data-manipulation-in-cassava-case-sends-a-powerful-message-lawyers/",
           "publishedOn": "2024-07-11T12:00:00.000Z",
-          "wordCount": 2966,
+          "wordCount": 2956,
           "title": "‘Rare’ criminal charges for data manipulation in Cassava case send a ‘powerful message’: lawyers",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/image-5.png"
         },
@@ -1701,7 +1841,7 @@
           "description": "I've been thinking about the similarities between the education reform movement we spent so much time discussing a dozen years ago and the Y...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/yimby-and-education-reform-movement.html",
           "publishedOn": "2024-07-11T11:30:00.000Z",
-          "wordCount": 3524,
+          "wordCount": 3529,
           "title": "YIMBY and the education reform movement -- part one: questions of class and technocracy",
           "imageUrl": null
         },
@@ -1721,7 +1861,7 @@
           "description": "Δρούγας Θανάσης",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_38.html",
           "publishedOn": "2024-07-11T05:17:00.000Z",
-          "wordCount": 4878,
+          "wordCount": 4889,
           "title": "«Κλειστόν» λόγω θέρους!",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFe1vZCEXiNYTj8UjcpiiiEOGdqaHVPIfUDrVCiOJUEgR5HBWOCw-h3Tj9E5zN-7TZfps2XBu1WXFL4Oo3Kd06W-2D97pbWpEH7BiMEMDZ0wdau2ehglDzMslWxh6XczllqtWqDA6Gp0n3xcFUK_wyxix2s0fsSragaYNYHRQ7LEcHkAhqfpFFzX2r47j/w1200-h630-p-k-no-nu/%CE%A3%CE%B1%CE%BD%20%CF%83%CE%AE%CE%BC%CE%B5%CF%81%CE%B1%20%CE%A4%CE%BF%201994,%CF%83%CE%B5%20%CE%AD%CE%BD%CE%B1%20%CE%BA%CE%B1%CF%86%CE%AD%20%CE%BC%CE%B5%20%CF%86%CF%8C%CE%BD%CF%84%CE%BF%20%CF%84%CE%BF%20%CE%AC%CE%B3%CE%B1%CE%BB%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CE%B1%CF%83%CF%84%CF%81%CE%BF%CE%BD%CF%8C%CE%BC%CE%BF%CF%85%20%CE%91%CF%81%CE%AF%CF%83%CF%84%CE%B1%CF%81%CF%87%CE%BF%CF%85%20%CF%83%CF%84%CE%BF%20%CE%9A%CE%B1%CF%81%CE%BB%CF%8C%CE%B2%CE%B1%CF%83%CE%B9%20%CF%84%CE%B7%CF%82%20%CE%A3%CE%AC%CE%BC%CE%BF%CF%85,%CF%85%CE%B4%CF%81%CF%8D%CE%B5%CF%84%CE%B1%CE%B9%20%CE%BF%E2%80%A6%CE%A3.%CE%9F.%CE%9A.%CE%9F.%CE%9D.%20(36).png"
         },
@@ -1731,7 +1871,7 @@
           "description": "Ten decimal places of π are sufficient to give the circumference of the earth to a fraction of an inch,  and thirty decimal places would g...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-11.html",
           "publishedOn": "2024-07-11T05:00:00.000Z",
-          "wordCount": 8135,
+          "wordCount": 8157,
           "title": "On This Day in Math - July 11",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqQNPzPnhOv9hi1If5lxkN8s3IaSs-e14Y2-TncQVSF2M3wTgVVonDTEdDDCHXqs8gAm5M4eyH4VIK9Nuk1991biq63cwwj_XSBuOg6OeA4ENhLKLg_U8Cz5xYIxfwf4OPtSZbsdc2oc/w1200-h630-p-k-no-nu/july+11.jpg"
         },
@@ -1741,7 +1881,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_46.html",
           "publishedOn": "2024-07-11T04:13:00.000Z",
-          "wordCount": 4257,
+          "wordCount": 4268,
           "title": "Δρασκελιές",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghDNRLJsNF-OGKtatgJVhjtnxVif6jLI_Z5kjgew2BP1Bl_qSjtiAnUU5zd-SRF9Fh6kRHMHavti873gPHm1Z6vpbRTJFxEV7BoTI0Lhb0Tcbiop6u395_cIFAHz2RLeuQGPSu5jb7dsnxtyB9wfrn2cavCVsbz4dsbRZQ3icEA7qQF6kmW3sg-o0uyrKx/w1200-h630-p-k-no-nu/Blue%20and%20Red%20Cute%20Alphabet%20Notebook%20Cover%20A4%20Document%20(4).png"
         },
@@ -1751,7 +1891,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_11.html",
           "publishedOn": "2024-07-11T02:54:00.000Z",
-          "wordCount": 4257,
+          "wordCount": 4268,
           "title": "Μνήμες",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoaYXDoE9N_92_4a6FWdzO5rMWW7oi4Bq0kOOzkkWXYhf61Kc2Z7f6r-bXIXeXNi0iWIp0BI4sXXraza9Dr0LF4RF_ozDUGEIvqspdSzZvjVD0bVOVGQo3gX4Tbhhk4Bwfjr-z81norB_s3qrn4GF4Av6ZkyHwOc8LBlrNNoir3AP_TIUk7F1jgtXwIfk1/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-10T215737.806.png"
         },
@@ -1763,16 +1903,6 @@
           "publishedOn": "2024-07-10T22:54:34.000Z",
           "wordCount": 1775,
           "title": "7/10/24",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ncatlab.org/nlab/show/exchangeability",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/exchangeability",
-          "publishedOn": "2024-07-10T20:24:28.000Z",
-          "wordCount": 1683,
-          "title": "exchangeability",
           "imageUrl": null
         },
         {
@@ -1811,9 +1941,9 @@
           "description": "Truth as the Good of Logic Pragmatic theories of truth enter on a stage set by the philosophies of former ages, with special reference to the Ancient Greeks, the Scholastics, and Immanuel Kant.&nbs…",
           "link": "https://inquiryintoinquiry.com/2024/07/10/pragmatic-truth-2/",
           "publishedOn": "2024-07-10T14:00:33.000Z",
-          "wordCount": 5631,
+          "wordCount": 5633,
           "title": "Pragmatic Truth • 2",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721581693"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694861"
         },
         {
           "id": "https://statmodeling.stat.columbia.edu/2024/07/10/a-misunderstanding-about-decision-analysis-and-significance-testing/",
@@ -1826,22 +1956,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://retractionwatch.com/2024/07/10/author-blames-retraction-on-chinese-censorship/",
-          "author": "Retraction Watch",
-          "description": "Thomas Ameyaw-Brobbey A former assistant professor of international relations at Yibin University in Sichuan, China, said he was fired from his job and “forced” to retract a paper on COVID-19 becau…",
-          "link": "https://retractionwatch.com/2024/07/10/author-blames-retraction-on-chinese-censorship/",
-          "publishedOn": "2024-07-10T12:00:00.000Z",
-          "wordCount": 2665,
-          "title": "Author blames retraction on ‘Chinese censorship’",
-          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/07/image-4.png"
-        },
-        {
           "id": "https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html",
           "author": "Computational Complexity",
           "description": "June Edition Two decades ago, I named the recently departed Luca Trevisan's paper  connecting extractors to psuedorandom generators as one o...",
           "link": "https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html",
           "publishedOn": "2024-07-10T11:34:00.000Z",
-          "wordCount": 4866,
+          "wordCount": 4867,
           "title": "Favorite Theorems: Extracting Ramsey Graphs",
           "imageUrl": null
         },
@@ -1851,7 +1971,7 @@
           "description": "Even more than usual, the best political commentary over the past few days has been coming from Josh Marshall. Though I want to wait until t...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/this-isnt-post-about-politics-its-post.html",
           "publishedOn": "2024-07-10T11:30:00.000Z",
-          "wordCount": 4306,
+          "wordCount": 4311,
           "title": "This isn't a post about politics; it's a post about the poitical press.",
           "imageUrl": null
         },
@@ -1871,9 +1991,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_10.html",
           "publishedOn": "2024-07-10T09:53:00.000Z",
-          "wordCount": 4260,
+          "wordCount": 4271,
           "title": "Χρυσή Τομή",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sS-elbKJk1cV6cIv4SQ-YuMdwcy5qfLrpwV1_-ym_NRdJ6pr1J227bWtKTyQ4dmJD9QEuwOuK3sNZ5RHUxmGGMmxafawd0o-VHLi2lky3pWyvdmA=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_twPv86o0xJus1mYG7UtDpxS0ILCeGRV2M1tjXCdufhN7FbxlroqFNMAKsCt-xIp_398srM-fNZf39OXGVDXq9ica9oDGbr55ZkPXV_MrdeTZf6wQ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://thonyc.wordpress.com/2024/07/10/a-monumental-astronomy-tome-from-the-seventeenth-century/",
@@ -1901,7 +2021,7 @@
           "description": "La EURO Gold Medal 2024, il più alto riconoscimento a livello europeo nel settore della Ricerca Operativa, quest’anno è stata insignita a Maria Grazia Speranza, professoressa ordinaria dell’Università degli Studi di Brescia e autrice del recente saggio “Il cognome delle donne”. È la seconda donna in quasi cinquant’anni di esistenza di EURO, l’Associazione Europea di Ricerca Operativa. Ce ne parla Alice Raffaele.",
           "link": "https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/",
           "publishedOn": "2024-07-10T06:00:26.000Z",
-          "wordCount": 5672,
+          "wordCount": 5680,
           "title": "EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete",
           "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/DiCognomiSimboliMete-Copertina.jpg"
         },
@@ -1911,7 +2031,7 @@
           "description": "A Re-edit and Posting of a 2008 Blog From 1827 Pike's Arithmetic In my youth, back when dinosaurs roamed the earth, there was “the rule of t...",
           "link": "https://pballew.blogspot.com/2024/07/the-rules-of-three-and-probability-of.html",
           "publishedOn": "2024-07-10T05:30:00.000Z",
-          "wordCount": 4386,
+          "wordCount": 4408,
           "title": "The Rule(s) of Three and the Probability of Nothing",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjccQBLwVq0GmML0VEaGxx3DAuFjuNJ6k9EcruxBtEJtfRhZm2VM3dRa75_c3d5TR3wmKl4OkPTdoz0qy432OYx2RS7Y0aiXgbbMrrdiM69VYgt6Zytd6uwvDu3BH4ATr9ooBJGSidEAyk/w1200-h630-p-k-no-nu/Rule+of+three+Pikes+Arithmetic.jpg"
         },
@@ -1921,7 +2041,7 @@
           "description": "That which is not good for the bee-hive cannot be good for the bees.   ~ Marcus Aurelius The 191st day of the year ; 191 is a palindromic ...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-10.html",
           "publishedOn": "2024-07-10T05:00:00.000Z",
-          "wordCount": 6894,
+          "wordCount": 6916,
           "title": "On This Day in Math - July 10",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghFwcqb5pH6QP5bMYcKneorh1faUY4Ox5FCGx1xGgIdugtwOoJAExe3-KPxldYfjK1QCznHI-1K21YsPSCDtAq4m6CZS5PB3P-ByTvzjhhyphenhyphenRWWcsXGh9UPbl_kTa6wVgSciTgX4e2iIHg/w1200-h630-p-k-no-nu/july+10.jpg"
         },
@@ -1941,14 +2061,14 @@
           "description": "On Wednesday morning, I will be chairing our session “Discrimination-free Insurance Pricing” at the Insurance: Mathematics & Insurance Conference, in Chicago. With Olivier Côté, Lydia Gabric and Hong Beng Lim, we will be four speaker, just before lunch time. My talk will be a mix of recent work on quantifying and mitigating discrimination in scores … Continue reading Talk at the 27th International Congress on Insurance: Mathematics and Economics →",
           "link": "https://freakonometrics.hypotheses.org/76109",
           "publishedOn": "2024-07-10T02:52:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4180,
           "title": "Talk at the 27th International Congress on Insurance: Mathematics and Economics",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
         {
           "id": "https://freakonometrics.hypotheses.org/76646",
           "author": "Freakonometrics",
-          "description": "Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 21, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →",
+          "description": "Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 22, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →",
           "link": "https://freakonometrics.hypotheses.org/76646",
           "publishedOn": "2024-07-10T02:23:26.000Z",
           "wordCount": 4207,
@@ -1991,7 +2111,7 @@
           "description": "The headline news: there is now an inexpensive (but quite acceptably produced) paperback of Introducing Category Theory. Amazon-only to minimize cost, ISBN 978-1916906396: US $14.99, UK £10.99, DE €14.82, IT €14.40, etc. I’m very sure this could be improved in all kinds of ways. As I say at the end of the Preface, the current […]",
           "link": "https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/",
           "publishedOn": "2024-07-09T17:00:15.000Z",
-          "wordCount": 4491,
+          "wordCount": 4492,
           "title": "Introducing Category Theory — the paperback!",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/SmithCatTheory-209x300.jpg"
         },
@@ -2001,9 +2121,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/origami.html",
           "publishedOn": "2024-07-09T16:43:00.000Z",
-          "wordCount": 4280,
+          "wordCount": 4291,
           "title": "Η τριχοτόμηση μιας γωνίας με origami",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_svi__gCen8OU4MBkiRsJYU44HQfyPwrevllX6RFeBlkF9vaO60C7Xt4TmTypKPUNOPGjOER3Acb0gwuHD1WMsiBJ-_HQPyZ-vw5uQ8usbJBv8I5g=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uH_anK9q9pMjqU66WDKevp3MKv6ZdIwHzJ3hxpyAV6WtzT516ET2_6nNTdhzHGsynbCjo22wBIt1HvDdAlALvamGhjwOnS5eLworsmzy9-6GouqA=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://golem.ph.utexas.edu/category/2024/07/imprecise_probabilities_toward.html",
@@ -2021,7 +2141,7 @@
           "description": "Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the…",
           "link": "https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/",
           "publishedOn": "2024-07-09T16:02:33.000Z",
-          "wordCount": 4136,
+          "wordCount": 4095,
           "title": "Prague 2024: The First Jiří Matoušek’s Lecture",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/gil-jirka-ascona.png"
         },
@@ -2051,9 +2171,9 @@
           "description": "Lots of threads colliding on this one. First off, it's a 1961 documentary about what researchers and technocrats thought the future would be...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/this-is-year-1980-by-now-half.html",
           "publishedOn": "2024-07-09T11:30:00.000Z",
-          "wordCount": 3025,
+          "wordCount": 3030,
           "title": "'This is the year 1980, by now half the population of the United States is living in cities and towns that didn't even exist 20 years ago.'",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sGnzduxcSXi0uuBmKar3k3_tec6w6NcNvrG68CQNtGKmRQuws3vj9mujuZ-oJHUnB7xSfJcpInws5tRqZ6VxPbR5ssT8vGt8MJv4N_SthV8u8iedxx7FjSmoST3Jc1s8lJXSX0vaYR4BIDOfjqOsnAkggJYzWILOW2ch7-XEza88nL836Ku4jCUer8_cuNaXVWm4SHX3Ma_3VmvgNGoRO6lUJdDq3Q517Cs_HTR597lGqfDUgtAraHtWP9vHd5XLIwTy0j2qdc1GiX9ZTwkLXkHQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vNYIe1HdfySvX4aywruvPVrcylhLeHIC066BauZzUtGM5FqeM_P5fl8ItE13whL9tc3b2VTrvJgz2DU2Vt6OkAXDpDHTiQy8-2bIPvzoGMumGYqd-LY3x2ZI8wzjmAra60bC9frU14P11iHmA4yZGmS6rF4UmEpf5z3WKe9_u3c1g5C1RWfgtBso0Aw_QZcOyoL3U0CSDOMwOsjUUqdQyP4TyDjrD7M8QoWlpJWw2ZQ-0xW-h1GupbisELJDUVw7M5Mjxm0T4UNw09cHrxwWc94Q=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-9.html",
@@ -2061,7 +2181,7 @@
           "description": "Epitaph (by Kepler, for himself) Mensus eram coelos, nunc Terrae metior umbras. Mens coelestis erat, corporis umbra jacet. I used to measu...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-9.html",
           "publishedOn": "2024-07-09T05:00:00.000Z",
-          "wordCount": 8260,
+          "wordCount": 8282,
           "title": "On This Day in Math - July 9",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifkNlY7NFUlfUBNdT_sFl8uSoSh89caPQVu9pVk-2zaOecQ3A_qt-HsRFlDohYRB4YV2bes4r1fikdMgVIDOvENQw5V_eG6NCHkfYB10oPUIRuUd-IFoG5UWtgQ_YUQNBoZDQn0dnido/w1200-h630-p-k-no-nu/july+9.jpg"
         },
@@ -2081,7 +2201,7 @@
           "description": "Δρούγας Θανάσης",
           "link": "https://mathhmagic.blogspot.com/2024/07/1000.html",
           "publishedOn": "2024-07-09T03:44:00.000Z",
-          "wordCount": 4856,
+          "wordCount": 4867,
           "title": "1000",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv6ZoDfPjFhkYwFflFSTR3l_DrtSgFpJ85a-HUT-KNy4V3_epd1_Z9Yo3BFIIns0jHe81_inF82DFlzRnWI7xWYlQ3bWER-7BRgVRGgRWBcEm5vco9BvYlHyMigtErcMZGyl3I5VQaPh9inMarZ7nuidZ4oovvU_jbDucf-VnJiCcq_xY5x_ff6Bey6Ssj/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-09T060200.498.png"
         },
@@ -2121,9 +2241,9 @@
           "description": "Questions about the pragmatic conception of truth have broken out in several quarters, asking in effect, “What conceptions of truth arise most naturally from and are best suited to pragmatic …",
           "link": "https://inquiryintoinquiry.com/2024/07/08/pragmatic-truth-1/",
           "publishedOn": "2024-07-08T20:24:44.000Z",
-          "wordCount": 5674,
+          "wordCount": 5676,
           "title": "Pragmatic Truth • 1",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608541"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694861"
         },
         {
           "id": "https://scottaaronson.blog/?p=8106",
@@ -2141,9 +2261,9 @@
           "description": "I’ve just uploaded to the arXiv my paper “Dense sets of natural numbers with unusually large least common multiples”. This short paper answers (in the negative) a somewhat obscure…",
           "link": "https://terrytao.wordpress.com/2024/07/08/dense-sets-of-natural-numbers-with-unusually-large-least-common-multiples/",
           "publishedOn": "2024-07-08T17:09:35.000Z",
-          "wordCount": 6264,
+          "wordCount": 6237,
           "title": "Dense sets of natural numbers with unusually large least common multiples",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570605"
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721694861"
         },
         {
           "id": "https://terrytao.wordpress.com/2024/07/08/dense-sets-of-natural-numbers-with-unusually-large-least-common-multiples/",
@@ -2151,9 +2271,9 @@
           "description": "I’ve just uploaded to the arXiv my paper “Dense sets of natural numbers with unusually large least common multiples”. This short paper answers (in the negative) a somewhat obscure…",
           "link": "https://terrytao.wordpress.com/2024/07/08/dense-sets-of-natural-numbers-with-unusually-large-least-common-multiples/",
           "publishedOn": "2024-07-08T17:09:35.000Z",
-          "wordCount": 6264,
+          "wordCount": 6237,
           "title": "Dense sets of natural numbers with unusually large least common multiples",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570535"
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721694861"
         },
         {
           "id": "https://www.simonsfoundation.org/2024/07/08/science-sandbox-grantees-come-together-for-third-annual-summit/",
@@ -2181,7 +2301,7 @@
           "description": "Sadly Gordon Bell died May 17 at the age of 89, see this. Bell died in Coronado, California from pneumonia. He was a true visionary in the world of computing who helped design some of the first min…",
           "link": "https://rjlipton.com/2024/07/08/gordon-bell/",
           "publishedOn": "2024-07-08T13:21:05.000Z",
-          "wordCount": 3800,
+          "wordCount": 3808,
           "title": "Gordon Bell",
           "imageUrl": "https://rjlipton.com/wp-content/uploads/2024/07/gb.jpeg"
         },
@@ -2201,7 +2321,7 @@
           "description": "However,  the East Solano Plan, as proposed, can offer a model for how to build  new cities with the whole ecosystem in mind, intentionally:...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/what-do-you-call-dense-well-planned.html",
           "publishedOn": "2024-07-08T11:30:00.000Z",
-          "wordCount": 3502,
+          "wordCount": 3507,
           "title": "What do you call a dense, well-planned, innovative exurb? ... An exurb.",
           "imageUrl": null
         },
@@ -2211,7 +2331,7 @@
           "description": "Monday, I will be giving a short course at the workshop on Decentralized Insurance and Risk Sharing (SAC 161), in Chicago Decentralized Finance and Blockchain: Implications for the Insurance Industry, by Marco Mirabella Decentralized risk sharing: definitions, properties, and characterizations, by Jan Dhaene Collaborative insurance, unfairness, and discrimination, by Arthur Charpentier Decentralized insurance: bridging the … Continue reading Talk on collaborative insurance, unfairness and discrimination →",
           "link": "https://freakonometrics.hypotheses.org/76098",
           "publishedOn": "2024-07-08T09:48:37.000Z",
-          "wordCount": 4281,
+          "wordCount": 4290,
           "title": "Talk on collaborative insurance, unfairness and discrimination",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -2231,7 +2351,7 @@
           "description": "I never came across one of Laplace's \"Thus it plainly appears\" without feeling sure that I have hours of hard work before me to fill up th...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-8.html",
           "publishedOn": "2024-07-08T05:00:00.000Z",
-          "wordCount": 7547,
+          "wordCount": 7569,
           "title": "On This Day in Math - July 8",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnKdZpaHedRve0SuLgwVXToWU5EHuvu0Ap5BNbnrK_NGTdLgwRTR2ePlRGe5qE2sbBEgkfT4V1lfMYP5-DLzea0RObQbLwqgJf0BnPuW_DSJQuDAh1vks7jJZAKRTDENzHyrF_Ha94tms/w1200-h630-p-k-no-nu/july+8.jpg"
         },
@@ -2241,7 +2361,7 @@
           "description": "Many modern mathematical proofs are a combination of conceptual arguments and technical calculations. There is something of a tradeoff between the two: one can add more conceptual arguments to try …",
           "link": "https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/",
           "publishedOn": "2024-07-08T00:11:02.000Z",
-          "wordCount": 7743,
+          "wordCount": 7716,
           "title": "A computation-outsourced discussion of zero density theorems for the Riemann zeta function",
           "imageUrl": "https://terrytao.wordpress.com/wp-content/uploads/2024/07/density_1.png"
         },
@@ -2251,7 +2371,7 @@
           "description": "Many modern mathematical proofs are a combination of conceptual arguments and technical calculations. There is something of a tradeoff between the two: one can add more conceptual arguments to try …",
           "link": "https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/",
           "publishedOn": "2024-07-08T00:11:02.000Z",
-          "wordCount": 7743,
+          "wordCount": 7716,
           "title": "A computation-outsourced discussion of zero density theorems for the Riemann zeta function",
           "imageUrl": "https://terrytao.wordpress.com/wp-content/uploads/2024/07/density_1.png"
         },
@@ -2268,10 +2388,10 @@
         {
           "id": "https://freakonometrics.hypotheses.org/76575",
           "author": "Freakonometrics",
-          "description": "This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 21, 2024 from https://freakonometrics.hypotheses.org/76575",
+          "description": "This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 22, 2024 from https://freakonometrics.hypotheses.org/76575",
           "link": "https://freakonometrics.hypotheses.org/76575",
           "publishedOn": "2024-07-07T21:46:26.000Z",
-          "wordCount": 4110,
+          "wordCount": 4111,
           "title": "Talks in Chicago",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -2291,7 +2411,7 @@
           "description": "Trump is pondering who to pick for his vice president. For a recent podcast about it go  here . Spoiler alert: Doug B or Marco R or J.D. Va...",
           "link": "https://blog.computationalcomplexity.org/2024/07/the-combinatorics-of-picking-vice.html",
           "publishedOn": "2024-07-07T19:41:00.000Z",
-          "wordCount": 7019,
+          "wordCount": 7020,
           "title": "The combinatorics of picking a Vice President",
           "imageUrl": null
         },
@@ -2321,7 +2441,7 @@
           "description": "This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...",
           "link": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_7.html",
           "publishedOn": "2024-07-07T16:50:00.000Z",
-          "wordCount": 5210,
+          "wordCount": 5200,
           "title": "Geometry Problems of the Day (Geometry Regents, June 2024 Part I)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2gfRk58qlaOGPbR9To9WMorTOmZAP8hAkpmRZNt5IVQUSsub6lnxNKUQXya9VpzmK3CXHvxFKr79JyNgXLEZ3HPeli69hRziyHyxGhFmFqDMpBnpwt1ta4zb_vUuqHfYG3pxHx6QOdXd0uY1gRgKlyUg9JD-dkIw82xQc7ZKCvX9odGTxEA6eA/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -2341,7 +2461,7 @@
           "description": "Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,…",
           "link": "https://gilkalai.wordpress.com/2024/07/07/noga-alon-and-adi-shamir-won-the-2024-wolf-prize/",
           "publishedOn": "2024-07-07T09:35:54.000Z",
-          "wordCount": 4214,
+          "wordCount": 4173,
           "title": "Noga Alon and Adi Shamir won the 2024 Wolf Prize",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/noga-adi.jpg"
         },
@@ -2391,7 +2511,7 @@
           "description": "Probability is a mathematical discipline whose aims are akin to those,  for example, of geometry of analytical mechanics. In each field we m...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html",
           "publishedOn": "2024-07-07T05:00:00.000Z",
-          "wordCount": 7619,
+          "wordCount": 7641,
           "title": "On This Day in Math - July 7",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO8yUsauZB_07mTzVyR77HLKYAKMJ8ZbRT_ANyhSZa6Wfcur21HcsdW5kVGM9c2B6JxL8HL72QKtbu-E-79Y1qiCYyKSMDT_ZJMcxOyD5N_0bqqsWhJ2BzIIG1JiPBmyfF_OUxbaIDydA/w1200-h630-p-k-no-nu/july+7.jpg"
         },
@@ -2401,9 +2521,9 @@
           "description": "΄΄ Ένα από τα πλέον γνωστά άλυτα προβλήματα της αρχαιότητας είναι  η τριχοτόμηση τυχαίας γωνίας, η αδυναμία της «διαίρεσης γωνίας σε τρία ...",
           "link": "https://mathhmagic.blogspot.com/2024/07/kempes-link.html",
           "publishedOn": "2024-07-07T04:10:00.000Z",
-          "wordCount": 4430,
+          "wordCount": 4441,
           "title": "Μηχανικοί Τριχοτόμοι, Kempe's Link",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v6-Q69ENwICCI_Y2eS2Q4t1BqTYX-uGz9cgGPalmhbvlzh7Lug0JiyrGQ3fkKWlbmu-68wHn3xAoYZ8TIgzWz15J-ivyQGs0OwOQsj7xuu6Vy3_w=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tYp8C3QoP6IuFM9uWvn1QLgtWJxzODd8zqUARIVYtEGMaYzl-AZvQGdXyINIoxZ3D8VqWZhuwkW31_iBl30E_4cH1IkU1ilUOSTQivFtwAb1a66w=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_26.html",
@@ -2411,7 +2531,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_26.html",
           "publishedOn": "2024-07-07T04:09:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4273,
           "title": "Τα εισιτήρια",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosIRooOUTMJ-REtFa98JPv1vcisdENHrl2_F73_VltXW5YH2fRjIKQdfc8yF8i9jyYpY3XoN6WjqLngj5DEEwiB5YO5xi0EIUYUNBuZeGsErEkokwEQTrzOl8G9ETWxrNffLbmPUVDmP7BXOv8HwYMvEWdyTXAP2ihCdA3AqxNuY5aj6bD9a_g8f44lzo/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-07T063602.724.png"
         },
@@ -2421,7 +2541,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_7.html",
           "publishedOn": "2024-07-07T04:08:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4273,
           "title": "Αληθινές στιχομυθίες",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6Ud_kc2YJE1-EwbYFuX7Eqwz_xa5xjh04j-eFGMmno-5ZpouukpPvFZEOwgfIKfxVt1_3_Cieu_JezEHFdvCr7M4RvNlP4q6asntTx149XX-ddOAMMDWpwC88u6mjNFifJbbBC8admxM67JmEHOQq-NAnbBmUhvOGBPxbYYwW6TfAqBiDHtn3qjOMqq8/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-07T064344.050.png"
         },
@@ -2441,7 +2561,7 @@
           "description": "This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...",
           "link": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html",
           "publishedOn": "2024-07-06T20:18:00.000Z",
-          "wordCount": 5251,
+          "wordCount": 5241,
           "title": "Geometry Problems of the Day (Geometry Regents, June 2024 Part I)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4RnluDdCnt5hSgAMEIANhLMf1hafpY95-mfIuLrrn3FXghRn4n60BVqYKDmnElxOczGcGRvQq5TWQ4Im_hzt2wgtb6KcAAHyANRd5q2Y5LXAf9e7JUSfebKvieiycTSdtrOeYTKTH8Z7fLXjfN4zSz6zyi_wkkZd9yCXIcskCFvQvNIyDXPsecg/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -2471,7 +2591,7 @@
           "description": "Breeze is the standard scientific and numerical library for Scala. For linear algebra operations, it builds on top of the Java library, netlib. This provides a nice interface to BLAS and related li…",
           "link": "https://darrenjw.wordpress.com/2024/07/06/using-optimised-blas-and-lapack-libraries-with-scala-breeze/",
           "publishedOn": "2024-07-06T12:14:32.000Z",
-          "wordCount": 6507,
+          "wordCount": 6502,
           "title": "Using optimised BLAS and LAPACK libraries with Scala Breeze",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -2491,9 +2611,9 @@
           "description": "Found this one in an article by Richard Guy on the Strong Law of Small Numbers... * K. Guy,  The strong law of small numbers . Amer. Math....",
           "link": "https://pballew.blogspot.com/2024/07/primes-generated-by-alternating.html",
           "publishedOn": "2024-07-06T06:00:00.000Z",
-          "wordCount": 3431,
+          "wordCount": 3453,
           "title": "Primes Generated by Alternating Factorials?",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uqJvxLSXIEccol-2nHAoc6sA-Mb8dMdi5dzCNkm66AzOV7kixLqSyDvZ9OYOX6DO53auKHEJMJ9iIRi8E27k1Xp7a8UCDCrTSdu9j2l33BriAsZcjWf8PVSUTO7OheaQuJXaNxKEnclXQ8DWwolSgImFb-LUwYZURCUqw2ZZAwPdDt=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vDf4oJRgfXH2aJ_AfAZ8y2ypIX_K75rPgzbekBr7FfldYOkVyxTdk3NjLQ4AS99s-e0mg40CF18kQ-lPsMlxM9czcrNd85vBA5cH5fjwj7aI3Acmrt8Ae_tFn6YCdjhjjUMCc38QrqPRCP2GxJw7nGdp6IpqwkVh9-NxKO7iwb1HfL=w1200-h630-p-k-no-nu"
         },
         {
           "id": "http://impossible-world.blogspot.com/2024/07/drawings-by-alisa-vos.html",
@@ -2511,7 +2631,7 @@
           "description": "\"An ideal math talk should contain one proof and one joke and they should not be the same.\" Ron Graham The 187th day of the year; 187^(1*...",
           "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-6.html",
           "publishedOn": "2024-07-06T05:00:00.000Z",
-          "wordCount": 6778,
+          "wordCount": 6800,
           "title": "On This Day in Math - July 6",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhG1QC0MGhHLL_fh0_9ZYzvMuVIwN0f4JfSBanNSD4UomHCpAEILB1HNAW2DB4kkiEhWQ1mga7OXEOsqaBMNbOgvYfHrFgeS7F5iDr6MfAOTkqd_c1Uk6SaVAzR42-ndvY3SEfiVNBfE/w1200-h630-p-k-no-nu/july+6.jpg"
         },
@@ -2531,7 +2651,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_6.html",
           "publishedOn": "2024-07-06T04:24:00.000Z",
-          "wordCount": 4257,
+          "wordCount": 4268,
           "title": "Μοιρολόι",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBSB05QvEvA1U2q7HAUvMyGzRELnXBu_1SMDxny-XRSbPNhu5xL2hpf3EusNvyJUlI9nUCmWKfFI_c3nxe_2aivfX-LqSP1dVIg0_xAzb23mWIQ1CDgIEGavrxuyYRQ_Pkp346Fp_rTb5AZadxlAPjqqFJkZxZ6UYTRRE6N6gVpSWVtX9zrmGH40n2D-MC/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-06T060552.544.png"
         },
@@ -2541,7 +2661,7 @@
           "description": "Insurance, Biases, Discrimination and Fairness was published a few weeks ago. I still plan to spend some time this summer on the R package, including data and some functions… This book offers an introduction to the technical foundations of discrimination and equity issues in insurance models, catering to undergraduates, postgraduates, and practitioners. It is a … Continue reading Insurance, Biases, Discrimination and Fairness →",
           "link": "https://freakonometrics.hypotheses.org/76555",
           "publishedOn": "2024-07-06T01:29:41.000Z",
-          "wordCount": 4355,
+          "wordCount": 4356,
           "title": "Insurance, Biases, Discrimination and Fairness",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -2551,7 +2671,7 @@
           "description": "I will be in Chicago next week, invited by 冯润桓 (Runhuan Feng). On Monday, with Jan Dhaene and Marco Mirabella, we will give some short courses “on decentralized insurance and risk sharing“. Then, we will attend the IME Congress 2024 (that will be held between July 9th and 11th). OpenEdition suggests that you cite this … Continue reading Next week in Chicago, IL →",
           "link": "https://freakonometrics.hypotheses.org/69522",
           "publishedOn": "2024-07-06T00:35:42.000Z",
-          "wordCount": 4133,
+          "wordCount": 4142,
           "title": "Next week in Chicago, IL",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -2568,7 +2688,7 @@
         {
           "id": "https://freakonometrics.hypotheses.org/76540",
           "author": "Freakonometrics",
-          "description": "In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 21, 2024 … Continue reading Warsaw Actuarial School (September 2024) →",
+          "description": "In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 22, 2024 … Continue reading Warsaw Actuarial School (September 2024) →",
           "link": "https://freakonometrics.hypotheses.org/76540",
           "publishedOn": "2024-07-05T21:50:03.000Z",
           "wordCount": 4125,
@@ -2588,10 +2708,10 @@
         {
           "id": "https://freakonometrics.hypotheses.org/76513",
           "author": "Freakonometrics",
-          "description": "Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 21, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →",
+          "description": "Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 22, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →",
           "link": "https://freakonometrics.hypotheses.org/76513",
           "publishedOn": "2024-07-05T19:15:59.000Z",
-          "wordCount": 4113,
+          "wordCount": 4121,
           "title": "Croissance, décroissance, de quoi parle-t-on ?",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -2611,9 +2731,9 @@
           "description": "Unfortunately I heared of this news  now through the Physics World  newsletter, whose releases from the beginning of the year I am guilty ...",
           "link": "http://docmadhattan.fieldofscience.com/2024/07/good-bye-arno-penzias.html",
           "publishedOn": "2024-07-05T18:00:00.000Z",
-          "wordCount": 4408,
+          "wordCount": 4413,
           "title": "Good bye, Arno Penzias",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v7uYNfI6UUbLqOQ1wM0pd6H09nfnVqWBtaWmnC6UsIOKxPivgGqWvVJWenfnsMibPhNPN3RGpezfZde4pmcQHPqSn4fe3cdter7WAocoH_BuqQ0W3rQgpqFqY=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uaT139v1GoDkwDhHE_Rsra17gQz4OuuY5gJJKfklT0CntNddDlpMVHngQygPvu2u1Wvc-Aszrbaa6BSesAsN7h5B24f3yEijtGLeIyPZSJgirfPXCRha4MS0I=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://poetrywithmathematics.blogspot.com/2024/07/black-momma-math.html",
@@ -2653,7 +2773,7 @@
           "publishedOn": "2024-07-05T14:33:00.000Z",
           "wordCount": 2725,
           "title": "Algebra+ 09 - Progressions: UNIZOR.COM - Math+ & Problems - Algebra",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_syIc4xpVD1wodIJceZfqkjJWH6B_I4tmbCrVpJgMf140n7Yunk86oGMEc1zbajPJmqkGQ8rr6yT_nbcc2UsPppF4cDl45hS7jZlIyF9eAbXKQb=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vMd7ckmf4m2Vi8vEjSTf-ccOJRO28bBz8dnMb5l-RZWb0rWYsEkYRrsR63_EbJwUYzn2vUbgOAVlrWTYa_rVbNfvxdD1HZRxRLPsfR67fmT0wW=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry.html",
@@ -2661,7 +2781,7 @@
           "description": "This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...",
           "link": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry.html",
           "publishedOn": "2024-07-05T13:29:00.000Z",
-          "wordCount": 5294,
+          "wordCount": 5284,
           "title": "Geometry Problems of the Day (Geometry Regents, June 2024 Part I)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI43dhFUl7c7mtNjwco1tA2vatKzJ8eciNyxGDK6MJFLXrzy0flrUf-6aKcXwWbhKyAqJzRwEwxArazAmBE505Jfje4gpbFlqR_-Hmc0R_HCd0ughlj4WS8oqlc8FxSnADdZOQ3lrGyt47nwUb4OL2F6CNJ82E8VeegFSXhKPNdRsXNBJFZFo-jQ/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -2701,19 +2821,9 @@
           "description": "Coffeezilla first got on my radar when the Financial Times quoted his investigation of a shady crypto deal. I've been watching his channel e...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html",
           "publishedOn": "2024-07-05T11:30:00.000Z",
-          "wordCount": 2894,
+          "wordCount": 2899,
           "title": "Coffeezilla vs Rabbit",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u7t4qfenENQDIBJ1AcooC0S-KSBgxBFNf5r1MBPawq6IOVAdv7_67QBDxdQYCkLMxuy-65WH9_MynUBa7CkXPX49tXvHM_--J0Vp29Z_ybm6qJHg=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-5.html",
-          "author": "Pat'sBlog",
-          "description": "There is no smallest among the small and no largest among the large, But always something still smaller and something still larger. Quote...",
-          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-5.html",
-          "publishedOn": "2024-07-05T05:00:00.000Z",
-          "wordCount": 7464,
-          "title": "On This Day in Math - July 5",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSbRvh7qzWeifPwKNlY9YBo_P74pRl7NJOUHjaH8FVsRgSMOTDl-NYqzGA4djvWZYJ8k7sSqQFBKOXAHsm03-_ZgV86P6Kp7RukDe4M69kEXQ6ZEfO9ZsORzqlN3EByQPlserRukf7VoQ/w1200-h630-p-k-no-nu/microscopic+images.jpg"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t-rApgNzCntcEDQgj8KGN5NrhS980QOAmnk9E1gyBlFFa0-Y6UNQJ9x422EkL2MzYgEEABVuSTlWyRcN-Enc01uUWqWSHe5kcEM-e3F1oOYtv79Q=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/07/cult.html",
@@ -2721,9 +2831,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/cult.html",
           "publishedOn": "2024-07-05T04:32:00.000Z",
-          "wordCount": 4260,
+          "wordCount": 4271,
           "title": "Cult αντικείμενα",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tAIYSQcNgUFa_1EnsV1Fq3vRAb1GlcdjHEARZGh4nrFcuANwe727HKsEIsSy-4X2GjUCHzSvGYa3kqAVXP7Dis2htUpcHb6ENQreJmXLnGbCWg=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/AEn0k_tXcXZwxbUn6wAYKWp6GLu-WPwAhnR7lYyEnEspYVNbCMqYMIF4ImMEpiRuflcOZVUorLtOKJqaXRQqPTaGbAxG2iSO7nMi8PKmISqz8c3yf3bZ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://purenumbers.tumblr.com/post/755105826817130496",
@@ -2741,7 +2851,7 @@
           "description": "Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology [Some earlier posts by D. Lakens on this topic are at the end of this post]* This continues Part 1: 4: Most d…",
           "link": "https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/",
           "publishedOn": "2024-07-04T19:32:36.000Z",
-          "wordCount": 10133,
+          "wordCount": 10134,
           "title": "Guest Post (part 2 of 2): Daniël Lakens: “How were we supposed to move beyond  p < .05, and why didn’t we?”",
           "imageUrl": "https://errorstatistics.com/wp-content/uploads/2021/12/d-lakens.jpeg?w=150"
         },
@@ -2751,9 +2861,9 @@
           "description": "Alan Turing  was fascinated by mathematical patterns found in nature. In particular, he noticed that the Fibonacci sequence often occurred i...",
           "link": "http://docmadhattan.fieldofscience.com/2024/07/alan-turing-and-sunflowers.html",
           "publishedOn": "2024-07-04T18:00:00.000Z",
-          "wordCount": 4320,
+          "wordCount": 4325,
           "title": "Alan Turing and the sunflowers",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tsmqRm84RxfQ39U-rHgymfRJQD3owyK4irgCBs35ooZROVPGkqbrIkiJqFWH0UKu00cCb3IwQeFmXwIggTT2iz15pgVUWI0iNfXwGTU2TOmkLkdYqm4EupMn3HMf5PzcqWf4u_fkIPpGngGwx-=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uC1-NI68S_7uGR1f96rdefMyZyce7yhhuifIbGZkvHkjglw6f6D-Axi3cpWSV7LJTikFCkBGnI0X_Yc9JIOf-Z8lg61AdKHNPYx9LpyzA0sP6Unn5Fa65zaeS1l0SaiizJ7AiqP5nmqtkHkW4M=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_47.html",
@@ -2761,7 +2871,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_47.html",
           "publishedOn": "2024-07-04T17:32:00.000Z",
-          "wordCount": 4971,
+          "wordCount": 4982,
           "title": "Εμβαδό",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO16Ts-DomaZWHCuVUDEBUZocCu9a2BLN0vgJwkY4_dVcc5ifG82lRhvEWZnL6xllfwH70JfHi4KkZFiRRccUfnkFMnNMBZnzMIjguKqphT-o9g29d3xzXNn7_Ywh1ISjzG8jfRoM-7jIOM_8vnCfjiEW3jJVCnKFf0-IBZMxZv-vT0DBxixPpTjkAKIq-/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-04T203059.727.png"
         },
@@ -2771,9 +2881,9 @@
           "description": "Re: Constraints and Indications • 1 Re: Ontolog Forum • Joseph Simpson Coping with collaboration, communication, context, integration, interoperability, perspective, purpose, and the real…",
           "link": "https://inquiryintoinquiry.com/2024/07/04/constraints-and-indications-2-a/",
           "publishedOn": "2024-07-04T16:48:08.000Z",
-          "wordCount": 5622,
+          "wordCount": 5624,
           "title": "Constraints and Indications • 2",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608542"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694862"
         },
         {
           "id": "https://dantopology.wordpress.com/2024/07/04/uncountable-product-of-the-real-line-is-not-a-k-space/",
@@ -2791,9 +2901,9 @@
           "description": "Nine years ago, I wrote a July 4th blog post about matroids called A Celebration of Independence. Today, I’d like to talk about independence’s lesser-known sibling. In particular, I wan…",
           "link": "https://mattbaker.blog/2024/07/04/a-celebration-of-spans/",
           "publishedOn": "2024-07-04T13:54:17.000Z",
-          "wordCount": 5305,
+          "wordCount": 5302,
           "title": "A Celebration of Spans",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f61fa3cc3a8ec8dd72ae4844856a6cac110097afefdf5c7bf32953a903b54eb5?s=200&ts=1721522244"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f61fa3cc3a8ec8dd72ae4844856a6cac110097afefdf5c7bf32953a903b54eb5?s=200&ts=1721363589"
         },
         {
           "id": "https://jbuzzi.wordpress.com/2024/07/04/conference-in-memory-of-todd-fisher/",
@@ -2821,19 +2931,9 @@
           "description": "Listening to Cohan, it's easy to forget how controversial  going to war in Europe was.         And finally, som...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html",
           "publishedOn": "2024-07-04T11:30:00.000Z",
-          "wordCount": 2814,
+          "wordCount": 2819,
           "title": "Music for the 4h",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sWzz2Yc1wmA7NSXkGjgMMKFaQFllQtrnAZ26eJJVarmQ2XMDdVcOIVL8YwpqhCoHWWCWcccSWafzJi2kU7GcTG3Sa3OI_HscFax5NWzyn5fG58fw=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-4.html",
-          "author": "Pat'sBlog",
-          "description": "Things that people learn purely out of curiosity can have a revolutionary effect on human affairs ~Frederick Seitz - born 100+ years ago t...",
-          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-4.html",
-          "publishedOn": "2024-07-04T05:00:00.000Z",
-          "wordCount": 7294,
-          "title": "On This Day in Math - July 4",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghM2_Cr5HVWmnX4qDY-ijHnOn2VRVPELRXGVbBnYEKqzLajy_SZ4lcKvv3YH7yYp4BdV4-RI6CM_pY3YtkZo1xW3oWmUnStcoazomFL9RMAhRVEZbtltmx_KB9QkygNT67-l_8K-Zqj-I/w1200-h630-p-k-no-nu/july+4.jpg"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t4MK5264233yE4KHjFWQJm5X69_YjsKW0AaVGi91w0ZMjFqDYnI_NIafRIMAL7Tb8T5mfastdauBw0RXhGwBn9DwB3OGr13eEh8BQTxiqxkZcVSQ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_4.html",
@@ -2841,9 +2941,9 @@
           "description": "λλ Ο Βρετανός εξελικτικός βιολόγος και συγγραφέας βιβλίων εκλαϊκευμένης επιστήμης, Ρίτσαρντ Ντόκινς, σε ένα από τα μικρού μήκους ντοκιμαντ...",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_4.html",
           "publishedOn": "2024-07-04T04:34:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4337,
           "title": "Οι εχθροί της Λογικής",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tlApzffyzyMlHSgJJHk90kMYI2PVsgX8UlUk2YPBpQjZ94wXyVmZ1UYm9DfvD6MAn1N-ib3LPVQDjfLolfKl8Ku-TQfHSj0QqhFizO9yisK5Rs=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tqHDIPRmHkKdeMQviGinwFwrJXCM91H9zEPcYHgDyG5Kkxurx8YKRJd2Nb9R7bFJ94_cMc7um3IA14pWuqG5Y3_WO8gN31aLmmvxGqjP73OzQ1=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://thalescircles.tumblr.com/post/755027001226788864",
@@ -2851,7 +2951,7 @@
           "description": "When Everything Everywhere All at Once said “The only thing I do know is that we have to be kind. Please, be kind, especially when we don’t know what’s going on\" \nWhen the Good Place said “Why choose...",
           "link": "https://thalescircles.tumblr.com/post/755027001226788864",
           "publishedOn": "2024-07-03T23:37:39.000Z",
-          "wordCount": 608,
+          "wordCount": 620,
           "title": "iamonlyhereforthefreefood:\n\n\n\nWhen Everything Everywhere All at Once said “The only thing I do know...",
           "imageUrl": null
         },
@@ -2861,7 +2961,7 @@
           "description": "Sometimes math is bad and then sometimes you’ll come across a little guy like ŷ which is a predicted value and learn that it’s called y-hat. ‘Cause he’s got a little hat. And then math’s not so bad.",
           "link": "https://thalescircles.tumblr.com/post/755026864891953152",
           "publishedOn": "2024-07-03T23:35:29.000Z",
-          "wordCount": 566,
+          "wordCount": 562,
           "title": "Sometimes math is bad and then sometimes you&rsquo;ll come across a little guy like ŷ which is a predicted&hellip;",
           "imageUrl": "https://64.media.tumblr.com/56301dba429611fd5b9d5c01e3ebe839/389c10b0e7a4b2ea-86/s1280x1920/84c3e63063349da54b3b2469b0043d8f4bcaea6d.png"
         },
@@ -2871,7 +2971,7 @@
           "description": "This exam was adminstered in June 2024 .      June 2024  Geometry, Part IV    Each correct answer is worth up to 6 credits. Partial credit...",
           "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iv.html",
           "publishedOn": "2024-07-03T23:08:00.000Z",
-          "wordCount": 4307,
+          "wordCount": 4297,
           "title": "June 2024 Geometry Regents Part IV",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0JPhwwcZu9OGZo-XkG8uoOX9KHkQ4F74rhEpVnNsc5_Yagd_Lmrz2DLp1JF0bkNvD4feBBwL6K5iIwjv2v6Mni3sLhGrAX_uld1Toi7GHNLv_WHCKu1hy3paB2INws3GkFwgYoyLQBK3JhZPI53ugZAgqgqkQPEgo-to3c32Yppy-OIh_IuTylw/w1200-h630-p-k-no-nu/OIG2.hUE.jpg"
         },
@@ -2961,7 +3061,7 @@
           "description": "Avi Wigderson gave his ACM Turing Award  lecture last week, and instead of telling his own story, he focused on Alan Turing and his influenc...",
           "link": "https://blog.computationalcomplexity.org/2024/07/why-is-called-turing-award-revisited.html",
           "publishedOn": "2024-07-03T13:14:00.000Z",
-          "wordCount": 4874,
+          "wordCount": 4875,
           "title": "Why is called the Turing Award (revisited)?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgMrSHS9BW3P4nDD5Iw2IiQrgWQwCHA47cJA424dAIRjTFHe-t-T34C-IvfIfigflsUsJuozGXlq2oF3LZhxatKxLRdlSdJt2tNkaGs-W-De8qz6WZizBa4kxZylOSjWy8-Hm9Wvs24t-g2pWqeze3htlb1Wle_c6Jzf71kvWig6rqjV7y7cc/w1200-h630-p-k-no-nu/PXL_20240630_162729929.jpg"
         },
@@ -2971,7 +3071,7 @@
           "description": "Joel David Hamkins, “How the continuum hypothesis could have been a fundamental axiom,” Mathematics arXiv (2024), arxiv:2407.02463.",
           "link": "https://jdh.hamkins.org/how-ch-could-have-been-fundamental/",
           "publishedOn": "2024-07-03T12:42:11.000Z",
-          "wordCount": 2310,
+          "wordCount": 2336,
           "title": "How the continuum hypothesis could have been a fundamental axiom",
           "imageUrl": "https://jdh.hamkins.org/wp-content/uploads/DALL·E-2024-07-02-16.01.56-An-illustration-showing-Gottfried-Wilhelm-Leibniz-and-Isaac-Newton-two-prominent-mathematicians-standing-in-front-of-a-large-chalkboard-filled-with-.png"
         },
@@ -2981,7 +3081,7 @@
           "description": "In addition to the great quote, I'd say this was exceptional work from Bob Chipman but I don't think you can be characteristically exception...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/come-for-brian-eno-quote-stay-for.html",
           "publishedOn": "2024-07-03T11:30:00.000Z",
-          "wordCount": 2967,
+          "wordCount": 2972,
           "title": "Come for the Brian Eno quote, stay for the cultural insights",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfSneqGhK9iIfWVqc1PIN83PXt5peAegs7FQRen6uxTKQnDVCbBLTpHPVtoTvbtypDKZzWh9rR4mEM7jJguZvuU4eZX2iMLcbxW_T0cKmKASxtWyMSfEZ_MIWdbnNBLvYLc9IhBNWR8PZw2zdW4gAiSV92ZAIG0_3erV7Sewtz8LKATzWwqJVB71WbPAe8/w1200-h630-p-k-no-nu/chipman.png"
         },
@@ -2991,9 +3091,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/carl-sagan.html",
           "publishedOn": "2024-07-03T11:05:00.000Z",
-          "wordCount": 4275,
+          "wordCount": 4286,
           "title": "Ζώδια και Αστρολογία Carl Sagan..",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tb0XMoB0-J-9PPmOsVeWmbmo0UMa4pMpRZoqFwD3U6JQDsonC6KJ2KWIGqzjWXhbkNnGlB6Z2LW7yIkd-mWqTgPM8r9eHvISiMOVprv2OadBA3oQ=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/AEn0k_v_D11nQfS86o5xCOAVQUfg8BH4Sxc4jj1FETq802QbLX8igoLEGfYBxhlR7DSpatDKDev9DAyR_3T00i0RHO5Iz0NT0qwMWBPN2jc5q9ac3VW0XQ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "http://www.bbc.co.uk/programmes/p0j7xtxj",
@@ -3016,16 +3116,6 @@
           "imageUrl": "https://punkrockor.com/wp-content/uploads/2024/07/blog-historyor.jpg"
         },
         {
-          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-3.html",
-          "author": "Pat'sBlog",
-          "description": "Music is the pleasure the human mind experiences from counting without being aware that it is counting.   ~Gottfried Leibniz The 184th da...",
-          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-3.html",
-          "publishedOn": "2024-07-03T05:00:00.000Z",
-          "wordCount": 6447,
-          "title": "On This Day in Math  - July 3",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigjr-t3-S6nWineAW2tjR_vRBsmURwu8yMU_ryKrEz0mcCCL5J4rSEVPMUWlsoYrR96APV7XPSbhoqTy0FrRZ0cwFZ25THBSn8eci1cKRkTjlrc0whh5vPJXKtvgD0YZoK_c3wjV9IYSc/w1200-h630-p-k-no-nu/july+3.jpg"
-        },
-        {
           "id": "https://purenumbers.tumblr.com/post/754938108174319616",
           "author": "Pure Numbers Daily Blog",
           "description": "[√(7 + 2)]! = 2 + 4",
@@ -3041,9 +3131,9 @@
           "description": "Re: Peirce List • Kaina Stoicheia and the Symbol Grounding Problem Re: Jerry Chandler • Christophe Menant • Jon Awbrey • Christophe Menant The system‑theoretic concept of …",
           "link": "https://inquiryintoinquiry.com/2024/07/02/constraints-and-indications-1-a/",
           "publishedOn": "2024-07-02T19:30:33.000Z",
-          "wordCount": 5744,
+          "wordCount": 5746,
           "title": "Constraints and Indications • 1",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721608543"
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721694862"
         },
         {
           "id": "https://halbtagsblog.de/2024/07/02/das-war-zu-wenig-verlieren-lernen/",
@@ -3071,9 +3161,9 @@
           "description": "The Salem prize was established in 1968 and named in honor of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study of the links between Fourier series and number theory and …",
           "link": "https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/",
           "publishedOn": "2024-07-02T15:47:00.000Z",
-          "wordCount": 5349,
+          "wordCount": 5322,
           "title": "Salem prize now accepting nominations for 2024",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570535"
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721694862"
         },
         {
           "id": "https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/",
@@ -3081,9 +3171,9 @@
           "description": "The Salem prize was established in 1968 and named in honor of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study of the links between Fourier series and number theory and …",
           "link": "https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/",
           "publishedOn": "2024-07-02T15:47:00.000Z",
-          "wordCount": 5349,
+          "wordCount": 5322,
           "title": "Salem prize now accepting nominations for 2024",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570535"
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721694862"
         },
         {
           "id": "https://www.simonsfoundation.org/2024/07/02/the-biggest-problem-in-mathematics-is-finally-a-step-closer-to-being-solved-scientific-american/",
@@ -3101,7 +3191,7 @@
           "description": "The news these days feels apocalyptic to me—as if we’re living through, if not the last days of humanity, then surely the last days of liberal democracy on earth. All the more reason to…",
           "link": "https://scottaaronson.blog/?p=8088",
           "publishedOn": "2024-07-02T14:06:14.000Z",
-          "wordCount": 16476,
+          "wordCount": 16540,
           "title": "BusyBeaver(5) is now known to be 47,176,870",
           "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         },
@@ -3111,7 +3201,7 @@
           "description": "This exam was adminstered in June 2024 .      June 2024  Geometry, Part III    Each correct answer is worth up to 4 credits. Partial credi...",
           "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iii.html",
           "publishedOn": "2024-07-02T13:54:00.000Z",
-          "wordCount": 4635,
+          "wordCount": 4625,
           "title": "June 2024 Geometry Regents Part III",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFeqDhlYchUN6HY9ltCDbsdqTveHo_2XyVQ1oxtWSxngBnlsa9-pf0Gj5LB-i-_bDaYeq31Rx0ugqdTjK-WFhRDIA-tvqk3XYYwudIA_x1lkisA5rVWIhz_FnRF5bud9UFDEqLu-aIjuTewTzZ_1iKSNYPi5zX7K0CQccS6y7s9_OYJKqg_9rQcA/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -3131,7 +3221,7 @@
           "description": "How the 2020 Olympics depended on a beautifully abominable calculation.",
           "link": "https://mathwithbaddrawings.com/2024/07/02/is-this-the-silliest-scoring-system-ever/",
           "publishedOn": "2024-07-02T13:00:59.000Z",
-          "wordCount": 3947,
+          "wordCount": 3953,
           "title": "Is this the silliest scoring system ever?",
           "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/06/rock-climbing-cartoons2.jpg?fit=1200%2C1200&ssl=1"
         },
@@ -3141,7 +3231,7 @@
           "description": "A rational land-use policy in a state like California needs to balance the agricultural productivity against the proximity to housing demand...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/its-almost-like-reducing-sprawl-wasnt.html",
           "publishedOn": "2024-07-02T11:30:00.000Z",
-          "wordCount": 3183,
+          "wordCount": 3188,
           "title": "It's almost like reducing sprawl wasn't really the goal",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkFxfi8Zt5z6eh5sh2ouv4-ugTX5ug2D8mqVW_ImKWCUJeYBY4oYbzloPEod6YP0puvSFDQSxHMZHtPWDrY6_6Zgfbfl3bTpKIMyfqSGnRBZW0dCJJvxp7E2ghkZMq9MX5dT174-01El8ffEhuBet02i3fYAS6lophOj74PFYG26eV2yZkgkMdhqLqjd-/w1200-h630-p-k-no-nu/bakersfield.png"
         },
@@ -3163,7 +3253,7 @@
           "publishedOn": "2024-07-02T05:46:21.000Z",
           "wordCount": 2605,
           "title": "Position advertised: Professorship of Applied Mathematics, DAMTP, Cambridge",
-          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721380059"
+          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721435595"
         },
         {
           "id": "https://jdh.hamkins.org/turing-halting-problem/",
@@ -3196,16 +3286,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://purenumbers.tumblr.com/post/754847524371775489",
-          "author": "Pure Numbers Daily Blog",
-          "description": "7 - 1 = 2 + 4\nAlso:\n7 + 1 = 2 * 4",
-          "link": "https://purenumbers.tumblr.com/post/754847524371775489",
-          "publishedOn": "2024-07-02T00:04:56.000Z",
-          "wordCount": 1793,
-          "title": "7/1/24",
-          "imageUrl": null
-        },
-        {
           "id": "https://ests.wordpress.com/2024/07/01/settop-2024-august-19-22-novi-sad/",
           "author": "European Set Theory Society",
           "description": "SETTOP 2024“Novi Sad Conference in Set Theory and General Topology”August 19-22, Novi Sad, Serbia We are pleased to announce the conference that will take place in Novi Sad in August:Novi Sad…",
@@ -3231,7 +3311,7 @@
           "description": "Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology *[Some earlier posts by D. Lakens on this topic are listed at the end of part 2, forthcoming this week] How w…",
           "link": "https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/",
           "publishedOn": "2024-07-01T19:45:32.000Z",
-          "wordCount": 11041,
+          "wordCount": 11042,
           "title": "Guest Post: “Daniël Lakens: How were we supposed to move beyond  p < .05, and why didn’t we? “(part 1 of 2):",
           "imageUrl": "https://errorstatistics.com/wp-content/uploads/2021/12/d-lakens.jpeg?w=150"
         },
@@ -3241,7 +3321,7 @@
           "description": "This exam was adminstered in June 2024 .      June 2024  Geometry, Part II    Each correct answer is worth up to 2 credits. Partial credit...",
           "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-ii.html",
           "publishedOn": "2024-07-01T18:47:00.000Z",
-          "wordCount": 4968,
+          "wordCount": 4958,
           "title": "June 2024 Geometry Regents Part II",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhToCGtZPb2yP2Z99CxAGxY3fViWygd2olbYES22SPcduyh2Aljcl-tKzvQ46JgqTgT9Q_37yEqfve_zTiROnhq7BPHPBSxi-2errJRMRB8VFSQll6JD6sXZl5i3zKlgv9Bdpcn1BcAJcA9oBVNK33UwdS9VDVvgsYOuZ6YrUFq8CO3fCJeaxLXCw/w1200-h630-p-k-no-nu/temp00.png"
         },
@@ -3268,12 +3348,12 @@
         {
           "id": "https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/",
           "author": "Simons Foundation",
-          "description": "Flatiron Institute Launches Initiative for Computational Catalysis on Simons Foundation",
+          "description": "",
           "link": "https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/",
           "publishedOn": "2024-07-01T15:00:41.000Z",
-          "wordCount": 2393,
+          "wordCount": 2388,
           "title": "Flatiron Institute Launches Initiative for Computational Catalysis",
-          "imageUrl": "https://sf-web-assets-prod.s3.amazonaws.com/wp-content/uploads/2024/07/01090622/ICC-X-Preview.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/",
@@ -3281,7 +3361,7 @@
           "description": "There is now, at last, a full draft of Introducing Category Theory. You can download the PDF here. The second half still needs more proof-reading and needs indexing. But I don’t envisage adding significantly to the content. After all — rather crazily for a book I didn’t originally set out to write — it is […]",
           "link": "https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/",
           "publishedOn": "2024-07-01T14:50:51.000Z",
-          "wordCount": 4845,
+          "wordCount": 4846,
           "title": "Introducing Category Theory — a full draft, at last!",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/SmithCatTheory-209x300.jpg"
         },
@@ -3321,9 +3401,9 @@
           "description": "The mystery of why this attack on the locavore movement was so bad when legitimate criticisms were so easy to come by would have first gott...",
           "link": "https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html",
           "publishedOn": "2024-07-01T11:30:00.000Z",
-          "wordCount": 4494,
+          "wordCount": 4499,
           "title": "Twelve years ago -- Time to revisit the locavore non-debate",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tCYe9ylHeVYaj8-KaPNkRuh-_fy4Hz4gdYhKsOjAFJbctZJOSb2ielO-PhK02NdqB8qPoY7W3baHvO11kD0S_QHO_5yrS9UCko9pLzdTIHOj7TwRGJC8JDry0jCJ0=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vGkaDHzh7-oBoSgRAMqK4q3Q-hhVOzVuZk4E9jKkox6tU6dtdx4J9ogcO1nNo7ibtrpN3PL_MAPvcsIF-leUSBRb45A2pC05Sv_uit6henxbjSO-TwALWpYsjaupM=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/07/bucky.html",
@@ -3331,7 +3411,7 @@
           "description": "Σαν σήμερα το 1893, απεβίωσε ο Αμερικανός Richard Buckminster Fuller. O Fuller (1895-1983) ήταν μια πολυσχιδής προσωπικότητα. Αρχιτέκτον...",
           "link": "https://mathhmagic.blogspot.com/2024/07/bucky.html",
           "publishedOn": "2024-07-01T04:16:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4924,
           "title": "Σαν σήμερα. Ο \"ακούραστος\" κύριος Bucky!",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwbkH9tSMsYBtG86ZOdUFfhYFwdz-4x0H71sUEIApOz30WYPxWrv-Rf4yGxTxLOKSdxnJuoXKt8qriUvEixyppw_yBAR1GF-GI8kPNHhqqmFznXbGiUFjGZ85b1nPTaFPkT87nP2NQRaU9hiYiDzZnv1gaCNSiepKhBI3wUJXqObSCAze_vILZJ8xfcDNx/w1200-h630-p-k-no-nu/449517396_1269475644422732_5704293979031700425_n.jpg"
         },
@@ -3341,7 +3421,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/07/blog-post.html",
           "publishedOn": "2024-07-01T03:57:00.000Z",
-          "wordCount": 5010,
+          "wordCount": 5021,
           "title": "Ξύλινος κύβος",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoU8lHoGsiOapAYlgU7vv2oPOD4IGnWR_Qow7smQFemrFTL_E95Ueyfr4FSjQrscQfbvpNTuUUVAzXIwHnUpo18lCZ4cK2geStd_sf7_gfCFl5TgyqQaAp3klx7BkLEOa8w_JwWhISbz88znJ3g9qcR5zppH-o6vDJI04Z9TvLNvLiVWBGuQZ-v1hZyvHg/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-01T063637.539.png"
         },
@@ -3361,7 +3441,7 @@
           "description": "In 2013 I wrote a blog to celebrate Lance's 50th birthday by contrasting what things were like when Lance was 10 to when he was 50. That po...",
           "link": "https://blog.computationalcomplexity.org/2024/06/technology-1966-2006-2023.html",
           "publishedOn": "2024-07-01T01:52:00.000Z",
-          "wordCount": 6206,
+          "wordCount": 6207,
           "title": "Technology: 1966, 2006, 2023.",
           "imageUrl": null
         },
@@ -3383,7 +3463,7 @@
           "publishedOn": "2024-06-30T17:00:00.000Z",
           "wordCount": 2444,
           "title": "Algebra+ 08 - Fibonacci: UNIZOR.COM - Math+ & Problems - Algebra",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sx1DM2-3Zf2L0n3vEjVzPIfZ-714gyoJhY1NKr67mghDuYXRQjkKe1inYylmf4UwV8na-R6q-cmCV6MdT7NgZCAozYRS5wC-M1F_skqOtjeVtOKw=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uKSB716oWAE03ZNsTNtbgbcIzpqJHbLMg4UU88RkOqaYDaOh62Vhc7zyxj_XiF_tqV5uyeA1voX917W_lebo8zKZDiMmoRvMJ9vTRr0-EkpXpLKg=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://11011110.github.io/blog/2024/06/30/linkage.html",
@@ -3431,9 +3511,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_39.html",
           "publishedOn": "2024-06-30T05:02:00.000Z",
-          "wordCount": 4270,
+          "wordCount": 4281,
           "title": "Ο Κοχλίας του Αρχιμήδη",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sZovbdKmup7n8eSkA2fwQiPzvuCdMkUjYguIJXan3sqt46lrlYxvMLyIN8EZCkOv8ZvtTryd5uGMfmClnevWd3iaXY3lVSHSNsWr1hcm-0F1yXVg=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vxGvgbGz8WZLZm-elDal0qhwR-eFCiIu0NhbCS_OK9GG5BFWwwUyf6_JxAmr3WsFJdTXWV1_o-uwQow4NIfmv3468OaPXgfBbk8NlyOx_Gh6JABw=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/06/blog-post_88.html",
@@ -3441,7 +3521,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_88.html",
           "publishedOn": "2024-06-30T05:00:00.000Z",
-          "wordCount": 4257,
+          "wordCount": 4268,
           "title": "Μαθαπατεωνίες",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-0AWHM0p05eitRcb_zsPS9qrvBuaYPqkx0u8ZX0pXQ1r8ngGTOXPunFk2MQAzFs4lZQJXpQgdnPtG1vL17jZ31kRNeJDAac3ltEfkxZMpYHsS1CA2Or0GkXl6tDSisFs_9KFQMk3gIk9z2xmpokJQPYnlgo2jggDsK6nTMkNKHQKPoUy92WmjdFxeZuq/w1200-h630-p-k-no-nu/Screenshot_327.jpg"
         },
@@ -3451,7 +3531,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_30.html",
           "publishedOn": "2024-06-30T04:59:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4908,
           "title": "Πρώτοι",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4Vl048QXifCrRROGgMHuQBg4i2OQT6ajEPcziCU3N_mmyeVqyleb_7R1fg0L14O0S4Rsy1qYKoxj-QyqUTyZzgQv7SR04w4nI_JZCHERnmsMa5U07o3Xk1NfRzFSw5Vsi4v2FO5DJqqZ7QqYQYYl-F5PFlL_lYvmxBCs_kiJ7PqEQmVoTFLSNiKKAiU/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-30T063713.325.png"
         },
@@ -3461,7 +3541,7 @@
           "description": "ok so hear me out",
           "link": "https://thalescircles.tumblr.com/post/754679102417616896",
           "publishedOn": "2024-06-30T03:27:57.000Z",
-          "wordCount": 427,
+          "wordCount": 412,
           "title": "ok so hear me out",
           "imageUrl": "https://64.media.tumblr.com/d97e748170dcfcbf32dcacf4fbd6f5bb/ce125b8cd65cab0a-b4/s1280x1920/b57783eda963e792f08e7eee22c15c85621800ad.png"
         },
@@ -3473,7 +3553,7 @@
           "publishedOn": "2024-06-29T15:02:00.000Z",
           "wordCount": 2378,
           "title": "Algebra+ 07 - Averages: UNIZOR.COM - Math+ & Problems - Algebra",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sqEo68VNI859dHpLOyNQlAa1OtyGYJPuezY11bP0DCytPKN-y3aqTNnT1GBdckTWpPFjx2l2Qgx6Oo83DBD-qc3D9b7nLPQdYnn55fQ9HYpEoy=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uKA3rsHlQVnrZUDmSWgdhNO1wccG1HjHftKG7WpwLiCnVIWZDE_X1Igme1PswvST3Nq_YxAFOx35IH7VAi_88RwznsdNQcNXYAaKVsoxFdeUY5=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://thalescircles.tumblr.com/post/754631920271474688",
@@ -3481,7 +3561,7 @@
           "description": "My latest cartoon for @guardian books.",
           "link": "https://thalescircles.tumblr.com/post/754631920271474688",
           "publishedOn": "2024-06-29T14:58:00.000Z",
-          "wordCount": 420,
+          "wordCount": 423,
           "title": "My latest cartoon for @guardian books.",
           "imageUrl": "https://64.media.tumblr.com/938d39a7618a9dec13900810aef0c144/4711ae4f161b66c0-99/s1280x1920/f313fb2ac18d350cc801c4d72e0a777dcc97a8de.jpg"
         },
@@ -3521,9 +3601,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_29.html",
           "publishedOn": "2024-06-29T04:17:00.000Z",
-          "wordCount": 4265,
+          "wordCount": 4276,
           "title": "Στερεομετρία για παιδάκια",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uoW0MnxrGGLJYfXXryccXcDGQ3mkz77kvHFG2Si5xcBwoRW4pC4KtbGLy_oe_6XDebmhCo7f_e2vi67-66CFH2hf37UML_twjPdydEX12TpHSP8w=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/AEn0k_sUjO8-EnnuLbf7zF4Vv05jI0ctxowyC6qENtjEieoJRSfMhX950wAWl895mNTRRDv5RHC3riw9Xd7mUfxF5FVgmdf2-iST_pQwbVFaUbDUvQlghQ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/06/x.html",
@@ -3531,7 +3611,7 @@
           "description": "Δρούγας Θανάσης",
           "link": "https://mathhmagic.blogspot.com/2024/06/x.html",
           "publishedOn": "2024-06-29T04:15:00.000Z",
-          "wordCount": 4258,
+          "wordCount": 4269,
           "title": "X",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAl5kAxEeA-BQix1Yehyscj2iy-K8O1MVCFer98elqhAkWll3Qa3zmDrqBZupnK_sY0fSFnQOZAicFLTD2esKrCccAj9bGbgb6lMUeKkv-AebJv0whdg8BgWuvXBg9SHkNltKCIJ4SfFPpcyn-I5gOG_c-iaIz3tbBe49rF9c464hFivTTPk1eyb0G861X/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-29T062450.402.png"
         },
@@ -3551,19 +3631,9 @@
           "description": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
           "link": "https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/",
           "publishedOn": "2024-06-28T15:15:23.000Z",
-          "wordCount": 3086,
+          "wordCount": 3089,
           "title": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
           "imageUrl": "https://colleenyoung.org/wp-content/uploads/2018/07/ocr-transition-algebra-fractions.jpg"
-        },
-        {
-          "id": "https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html",
-          "author": "Scaffolded Math and Science",
-          "description": "Differentiated math teaching ideas, including math word walls, math escape rooms, math pennants, math cheat sheets, consumer math, and math décor",
-          "link": "https://www.scaffoldedmath.com/2024/06/9th-annual-july-math-dollar-deals.html",
-          "publishedOn": "2024-06-28T14:26:00.000Z",
-          "wordCount": 2877,
-          "title": "9th Annual July Math Dollar Deals!",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyFxF2yfeEkOAOBafrHjKwSRo_JfjTnlSZVOfm2voGudIKoB331G6IobxrU39dHV8ElmIGsiUiSnOTZ6RPDHtg2NigT6EXewo-Gd_weLryo7ot7yIXpj-gD89t5JhMQqxNikvGBORAHYLwVXt9rSqA0_pFD-b6GsqiP9FNFCQlki_7zAJtJke3hwS0kY4/w1200-h630-p-k-no-nu/July%202024%20math%20dollar%20deals.png"
         },
         {
           "id": "https://freakonometrics.hypotheses.org/75978",
@@ -3571,7 +3641,7 @@
           "description": "This morning (Montréal time), Samuel Stocksieker defended his PhD thesis entitled “contribution of machine learning in modeling rare values and imbalanced data“. Cécile Capponi, Marianne Clausel, Julie Josse, Frédéric Planchet and  Anne Sabourin, Christian-Yann Robert and Stéphane Loisel were in the jury, the work is structured around major axes: Imbalanced Features and Imbalanced Regression. The … Continue reading Contribution of machine learning in modeling rare values and imbalanced data →",
           "link": "https://freakonometrics.hypotheses.org/75978",
           "publishedOn": "2024-06-28T14:12:07.000Z",
-          "wordCount": 4358,
+          "wordCount": 4359,
           "title": "Contribution of machine learning in modeling rare values and imbalanced data",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -3591,7 +3661,7 @@
           "description": "marlynnofmany: “I hope this photographer won a prize ”",
           "link": "https://thalescircles.tumblr.com/post/754536128904921088",
           "publishedOn": "2024-06-28T13:35:26.000Z",
-          "wordCount": 449,
+          "wordCount": 441,
           "title": "marlynnofmany:\n\nI hope this photographer won a prize",
           "imageUrl": "https://64.media.tumblr.com/5f06ffdff8cf11a20bb349c71d63c311/96120df6240b925b-54/s1280x1920/79bf1ca0637e420e1e8467afec63729251cd6ac3.jpg"
         },
@@ -3641,7 +3711,7 @@
           "description": "Since I’ve slowed down with interesting blogging, I thought I’d do some lazy self-promotion and share the slides for three recent talks. The first (hosted by the Finnish Center for Arti…",
           "link": "https://justindomke.wordpress.com/2024/06/27/three-recent-talks/",
           "publishedOn": "2024-06-27T16:15:03.000Z",
-          "wordCount": 3789,
+          "wordCount": 3784,
           "title": "Three recent talks",
           "imageUrl": "https://justindomke.wordpress.com/wp-content/uploads/2024/06/image-12.png"
         },
@@ -3651,7 +3721,7 @@
           "description": "A few days away, staying in a familiar cottage near Aldeburgh, less than two hours from home. And the best weather we have ever had here. Usually, at least in our memory, it is windswept and intermittent rain: this time, warm sun and welcome breezes. So, favourite walks, and favourite places to eat. Very relaxing. […]",
           "link": "https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/",
           "publishedOn": "2024-06-27T16:10:50.000Z",
-          "wordCount": 4469,
+          "wordCount": 4470,
           "title": "Postcard from Aldeburgh",
           "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/Aldeburgh-1024x768.jpeg"
         },
@@ -3661,7 +3731,7 @@
           "description": "Ramblings about operations research, mathematical optimization and (mostly open-source) software.",
           "link": "https://orinanobworld.blogspot.com/2024/06/a-sorting-adventure-in-r.html",
           "publishedOn": "2024-06-27T16:00:00.000Z",
-          "wordCount": 3837,
+          "wordCount": 3841,
           "title": "A Sorting Adventure in R",
           "imageUrl": null
         },
@@ -3673,17 +3743,17 @@
           "publishedOn": "2024-06-27T15:45:00.000Z",
           "wordCount": 2243,
           "title": "Geometry+ 10: UNIZOR.COM - Math+ & Problems - Geometry",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t7ucXnuaUDbLptAAZDPFTCmA_uXinEdLMZMc8E8EurCqcYnvCRXfAWpt_uLD0bc3ECRiX8i7IVAKjuJupQSzWd3c-dq8NYMCOr6qXuK9WCivjNow=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vJAvxiBx3_KHMCQkhNgZxMPj0ZscQkcddxSsok4HbBKDk19X-r_cTS0ABNtXdusj8pvtiKfwua0nWuvDoZRCGD5osn5nozfiF0CjaKx3vx-T2YJg=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/",
           "author": "Simons Foundation",
-          "description": "Watch: Drag Queens, Community and the Total Solar Eclipse on Simons Foundation",
+          "description": "",
           "link": "https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/",
           "publishedOn": "2024-06-27T14:00:31.000Z",
-          "wordCount": 1489,
+          "wordCount": 1492,
           "title": "Watch: Drag Queens, Community and the Total Solar Eclipse",
-          "imageUrl": "https://simonsfoundation.imgix.net/wp-content/uploads/2024/06/25150939/A-1600x900-1.jpg?auto=format&q=90"
+          "imageUrl": null
         },
         {
           "id": "https://plus.maths.org/content/how-improve-mathematics",
@@ -3713,7 +3783,7 @@
           "publishedOn": "2024-06-27T13:24:40.000Z",
           "wordCount": 2810,
           "title": "Tribune commune SMF-SMAI",
-          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721552691"
+          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721435597"
         },
         {
           "id": "https://www.johndcook.com/blog/2024/06/27/polygon-circumscribing-constant/",
@@ -3733,7 +3803,7 @@
           "publishedOn": "2024-06-27T11:30:00.000Z",
           "wordCount": 3741,
           "title": "The abortion narrative – – convergence, herd mentality, and the inability to say \"oops\"",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_se2ApAUoy75Fk5KMLHkxvaKF3PMSNf53YJPSc6UNwJ3M1mjVpORdrpiNfMguJdeA94shxsRI2ZF8D3ejOWpD2T_68T3bGMVa9N0NsgI-sAiD_52Kj7MaWl28NTVacbWQWGPGU=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sBNn6tBjpYTpp3S3KpdASzXz1eLTPUid6b6RFGgBej6lHQCSokkjnlTL2k2kJjBZVRh5YihIajs5_rt8Vln-mBKmnFJYJ-rB19s0T3jbO7I6fFTk3zv8yGy7Fniw0CSGBEKHY=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://www.singaporemathplus.com/2024/06/is-age-just-number.html",
@@ -3751,7 +3821,7 @@
           "description": "Δρούγας Θανάσης",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_56.html",
           "publishedOn": "2024-06-27T04:11:00.000Z",
-          "wordCount": 4258,
+          "wordCount": 4269,
           "title": "Τιμαλφή",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik7qWkawQMuqNut9V86piSwJRdHY_OIMqbdEy8mjxVBKIY2deew5ExWhCVRgFYDkm-jzQ5kHrWg3azLvWsRlDNVP6tJeNi9r9fl1errQbqmc3dnRENA4Drx9nWJxlphxlj1ReJtux8ATqCeq8odPI9AZRCJtnGLUc_1uoHyS7WhsayDfrusuymzt8AQBxd/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-27T054843.344.png"
         },
@@ -3761,7 +3831,7 @@
           "description": "Visit the post for more.",
           "link": "https://windowsontheory.org/2024/06/26/focs-test-of-time-award-call-for-nominations/",
           "publishedOn": "2024-06-27T03:41:10.000Z",
-          "wordCount": 3624,
+          "wordCount": 3626,
           "title": "FOCS test of time award: call for nominations",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -3771,7 +3841,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_57.html",
           "publishedOn": "2024-06-27T03:39:00.000Z",
-          "wordCount": 4287,
+          "wordCount": 4298,
           "title": "Εν τω μεταξύ σε ένα παράλληλο σύμπαν...",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcyCbcFlrmjDU4I8e05Dji0_F505WtOj4OC-g9QqiIJh1bY1jhaq5b6Bch2b-jkzczqP7rh4g_NlQE1gguPMBXWFat2PI3uW70XS9VYD4O4Ap9IXIOD3rANixo1jYd3iSxJ-IvZbvp0NADGUowxuX_YcIq17c9o1rDuOwg8QqY5CWeQ2h5spG1rcO1BsR/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-26T210753.062.png"
         },
@@ -3791,7 +3861,7 @@
           "description": "Ramblings about operations research, mathematical optimization and (mostly open-source) software.",
           "link": "https://orinanobworld.blogspot.com/2024/06/locating-date-columns-in-r.html",
           "publishedOn": "2024-06-26T22:44:00.000Z",
-          "wordCount": 3848,
+          "wordCount": 3852,
           "title": "Locating Date Columns in R",
           "imageUrl": null
         },
@@ -3831,7 +3901,7 @@
           "description": "Two conferences in recent days. Time permitting, I would say more about each. I just want to point to two mysteries and some synergy. Last week I was at the British Mathematical Colloquium in Manch…",
           "link": "https://cameroncounts.wordpress.com/2024/06/26/two-conferences-two-mysteries/",
           "publishedOn": "2024-06-26T16:31:32.000Z",
-          "wordCount": 3188,
+          "wordCount": 3191,
           "title": "Two conferences, two mysteries",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -3843,7 +3913,7 @@
           "publishedOn": "2024-06-26T15:18:04.000Z",
           "wordCount": 3064,
           "title": "The Polya-Szego conjecture for Dirichlet-Laplace eigenvalues on polygons",
-          "imageUrl": "https://secure.gravatar.com/blavatar/1e78905c60280690889306d444edb2f52d515b8a65095c81975a990a1acc6be4?s=200&ts=1721522248"
+          "imageUrl": "https://secure.gravatar.com/blavatar/1e78905c60280690889306d444edb2f52d515b8a65095c81975a990a1acc6be4?s=200&ts=1721435597"
         },
         {
           "id": "https://checkmyworking.com/posts/2024/06/a-script-to-convert-a-wcag-em-report-from-json-to-restructuredtext-for-a-vpat/",
@@ -3871,7 +3941,7 @@
           "description": "MIT researchers captured the initial moments during a butterfly’s metamorphosis, as an individual scale begins to develop its characteristic ridged pattern. The findings could help engineers design materials for light and heat management.",
           "link": "https://news.mit.edu/2024/new-findings-first-moments-butterfly-scale-formation-0626",
           "publishedOn": "2024-06-26T15:00:00.000Z",
-          "wordCount": 2126,
+          "wordCount": 2104,
           "title": "What happens during the first moments of butterfly scale formation",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202406/MIT-Butterfly-Buckling-01-press.jpg"
         },
@@ -3891,7 +3961,7 @@
           "description": "Why do we have two complexity classes for exponential time, E and EXP? First the definitions: E is the set of problems computable in time \\(...",
           "link": "https://blog.computationalcomplexity.org/2024/06/e-versus-exp.html",
           "publishedOn": "2024-06-26T13:25:00.000Z",
-          "wordCount": 5626,
+          "wordCount": 5627,
           "title": "E versus EXP",
           "imageUrl": null
         },
@@ -3951,9 +4021,9 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/pappuss-hexagon-theorem.html",
           "publishedOn": "2024-06-26T04:37:00.000Z",
-          "wordCount": 4265,
+          "wordCount": 4276,
           "title": "Pappus's hexagon theorem",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_veKEeXQcxlyVD3Fx-x-SnYrjT79eCHRmmfBOYL63bTS9mmq7fD4N7xAMwcb-m5gkK6s2slCAfFZ2zdiGqXl1f4hZA8OBzTfFAt6ceaWYT0sjb9-Q=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/AEn0k_syBNWtWDuuHOyq6jP3WDfOUpXqdBBjQysRRnTdYOXXhZyG9haSh8HgWcgSvGNwPAvjxqI0T6XvvA3tZhHwWdem3uflixLoRAOF4t0ISoR3RvZ_aQ=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathhmagic.blogspot.com/2024/06/blog-post_26.html",
@@ -3961,7 +4031,7 @@
           "description": "",
           "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_26.html",
           "publishedOn": "2024-06-26T04:31:00.000Z",
-          "wordCount": 4260,
+          "wordCount": 4271,
           "title": "Κυκλικός Πρώτος",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZs-dVEt7Ol5KdraRzfkyD7EZTvgzgIbT3rTSe5ERKZoWKM2Jk8XUReyCLoLeoB6FrTrmHIwDAM9MsSmQE38BgAgqsQGivtuQPKvld67Z9RGx3rEOkTUAVLQFlQFxyfvtqBtMG64-JD1Sz5J9JkL4fzxKApQVncCQuk813_slSwsmYBjfKOTHmapc1-IAw/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-26T064258.184.png"
         },
@@ -3971,7 +4041,7 @@
           "description": "Took me until about halfway through college before I realized “study” means “play with the material in a variety of ways until you understand it” and not just “read the assigned chapters and do the...",
           "link": "https://thalescircles.tumblr.com/post/754302221692387328",
           "publishedOn": "2024-06-25T23:37:35.000Z",
-          "wordCount": 535,
+          "wordCount": 533,
           "title": "Took me until about halfway through college before I realized &ldquo;study&rdquo; means &ldquo;play with the material&hellip;",
           "imageUrl": null
         },
@@ -3981,7 +4051,7 @@
           "description": "A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.\nSay I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.\n#include  template  struct HasStaticSize : std::false_type {}; template  struct HasStaticSize>::value, void>::type> : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.",
           "link": "https://www.jeremykun.com/shortform/2024-06-25-1534/",
           "publishedOn": "2024-06-25T22:34:59.000Z",
-          "wordCount": 258,
+          "wordCount": 275,
           "title": "Detecting field names with C++ metaprogramming",
           "imageUrl": null
         },
@@ -3991,7 +4061,7 @@
           "description": "It is the poems you have lost, the ills From missing dates, at which the heart expires. Slowly the poison the whole blood stream fills. The waste remains, the waste remains and kills. — from …",
           "link": "https://ifwisdomwereteachable.wordpress.com/2024/06/25/they-bled-an-old-dog-dry/",
           "publishedOn": "2024-06-25T21:31:47.000Z",
-          "wordCount": 2387,
+          "wordCount": 2400,
           "title": "They bled an old dog dry",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -4001,7 +4071,7 @@
           "description": "Suppose $latex {f}&fg=000000$ is a function of class $latex {C^1}&fg=000000$ and let $latex {x}&fg=000000$ be a point where the gradient does not vanish: $latex {\\nabla f(x)\\neq 0}&…",
           "link": "https://mathproblems123.wordpress.com/2024/06/25/gradient-descent-fixed-step-variable-step/",
           "publishedOn": "2024-06-25T21:05:07.000Z",
-          "wordCount": 3484,
+          "wordCount": 3479,
           "title": "Gradient descent: fixed step, variable step",
           "imageUrl": "https://mathproblems123.wordpress.com/wp-content/uploads/2024/06/gd_varrosenbrock.png"
         },
@@ -4011,7 +4081,7 @@
           "description": "Professor Christian Hennig Department of Statistical Sciences “Paolo Fortunati” University of Bologna [An earlier post by C. Hennig on this topic:  Jan 9, 2022: The ASA controversy on P…",
           "link": "https://errorstatistics.com/2024/06/25/guest-post-christian-hennig-statistical-tests-in-five-random-research-papers-of-2024-and-some-related-thoughts-on-the-dont-say-significant-initiative/",
           "publishedOn": "2024-06-25T19:15:27.000Z",
-          "wordCount": 8118,
+          "wordCount": 8117,
           "title": "Guest Post: Christian Hennig: “Statistical tests in five random research papers of 2024, and related thoughts on the ‘don’t say significant’ initiative”",
           "imageUrl": "https://errorstatistics.com/wp-content/uploads/2024/06/chmay22.png"
         },
@@ -4033,7 +4103,7 @@
           "publishedOn": "2024-06-25T15:08:00.000Z",
           "wordCount": 2346,
           "title": "Geometry+ 09 : UNIZOR.COM - Math+ & Problems - Geometry",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vBuWswFYPfuKHiZz9XmDSk45PlzNcnNElu7ruocTki-v_zJuO301yrOMXBzd974mzdDnhTFrRk8LnIWGAU32fM-GPvPYz8qY0ywv9R28mPNKx7UQ=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uyB0krbfQVVMzDjn2bk7-xzqRmUFW-OFagfvbN4wylA_AsHGnY0CxlJHFqEGBeLerNAnUQ3FBn0iq_iQfzJZ98qg7iGonrDn6uqxtLGffkybruWg=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://robjhyndman.com/hyndsight/fpp3-update.html",
@@ -4071,7 +4141,7 @@
           "description": "An acceleratingly strange quirk.",
           "link": "https://mathwithbaddrawings.com/2024/06/25/is-the-derivative-a-rhetorical-intensifier/",
           "publishedOn": "2024-06-25T13:00:00.000Z",
-          "wordCount": 3804,
+          "wordCount": 3810,
           "title": "Is the derivative a rhetorical intensifier?",
           "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/06/Derivatives.jpg?fit=1200%2C975&ssl=1"
         },
@@ -4161,7 +4231,7 @@
           "description": "Our paper, Generalized Oversampling for Learning from Imbalanced datasets and Associated Theory: Application in Regression, written with Samuel Stocksieker and Denys Pommeret, has been accepted for publication in TMLR (Transactions on Machine Learning Research) In supervised learning, it is quite frequent to be confronted with real imbalanced datasets. This situation leads to a learning difficulty … Continue reading Generalized Oversampling for Learning from Imbalanced datasets and Associated Theory →",
           "link": "https://freakonometrics.hypotheses.org/76187",
           "publishedOn": "2024-06-25T00:57:18.000Z",
-          "wordCount": 4304,
+          "wordCount": 4305,
           "title": "Generalized Oversampling for Learning from Imbalanced datasets and Associated Theory",
           "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
@@ -4171,7 +4241,7 @@
           "description": "",
           "link": "https://www.statschat.org.nz/2024/06/25/top-14-predictions-for-the-final-4/",
           "publishedOn": "2024-06-24T22:22:26.000Z",
-          "wordCount": 1051,
+          "wordCount": 982,
           "title": "Top 14 Predictions for the Final",
           "imageUrl": null
         },
@@ -4181,7 +4251,7 @@
           "description": "",
           "link": "https://www.statschat.org.nz/2024/06/25/afl-predictions-for-week-17/",
           "publishedOn": "2024-06-24T22:21:32.000Z",
-          "wordCount": 1219,
+          "wordCount": 1150,
           "title": "AFL Predictions for Week 17",
           "imageUrl": null
         },
@@ -4191,7 +4261,7 @@
           "description": "",
           "link": "https://www.statschat.org.nz/2024/06/25/nrl-predictions-for-round-17-11/",
           "publishedOn": "2024-06-24T22:20:28.000Z",
-          "wordCount": 1166,
+          "wordCount": 1094,
           "title": "NRL Predictions for Round 17",
           "imageUrl": null
         },
@@ -4273,7 +4343,7 @@
           "publishedOn": "2024-06-24T15:23:00.000Z",
           "wordCount": 2375,
           "title": "Arithmetic+ 09 : UNIZOR.COM - Math+ & Problems - Arithmetic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ujU9eQrdhTtzxoVqJobor6zOlBl3jnwZg2umsVamvIfnxx4DJKP7c0sgdwf_YBtHiuG2esCyHrcYL0WmhIgCObG7YRRMiKsJRUfEbZScT6qZ4u=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vdXd5cQg7CxmbtDAeokfSQqVat9Cg-YcCEk3darvgMRgr-ljQnLnLyhe8kIGs_HwV5M4DXq5uqj481ELerbA64HuqOORfwPta1FEQa3kvSP69x=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://mathtourist.blogspot.com/2024/06/capitol-arcs.html",
@@ -4321,7 +4391,7 @@
           "description": "I was in a small seaside town in Spain and struck up a conversation with a family. It developed that they’d rented a car and the dad had driven from Barcelona, while I’d taken the bus. …",
           "link": "https://quomodocumque.wordpress.com/2024/06/24/richness-bus-travel/",
           "publishedOn": "2024-06-24T10:02:13.000Z",
-          "wordCount": 2720,
+          "wordCount": 2706,
           "title": "Richness, bus travel",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -4331,7 +4401,7 @@
           "description": "As you all know Luca Trevisan, a Giant in our field, passed away at the too-young age of 52. See Lance's post on Luca HERE.  As the editor o...",
           "link": "https://blog.computationalcomplexity.org/2024/06/soliciting-open-problems-in-honore-of.html",
           "publishedOn": "2024-06-24T03:43:00.000Z",
-          "wordCount": 4800,
+          "wordCount": 4801,
           "title": "Soliciting open problems in honore of Luca T for my Open Problems Column",
           "imageUrl": null
         },
@@ -4351,7 +4421,7 @@
           "description": "I recently added some Venn Diagram puzzles I’ve made with some teachers this year for Geometry in this post. I wanted to add some Algebra ones here! Though most were created with certain answ…",
           "link": "https://clopendebate.wordpress.com/2024/06/23/venn-diagram-puzzles-algebra/",
           "publishedOn": "2024-06-24T01:03:11.000Z",
-          "wordCount": 4038,
+          "wordCount": 4033,
           "title": "Venn Diagram Puzzles – Algebra",
           "imageUrl": "https://clopendebate.wordpress.com/wp-content/uploads/2024/06/screenshot-2024-06-20-at-9.11.56e280afam.png"
         },
@@ -4371,7 +4441,7 @@
           "description": "This post was originaly written in French and translated below. In a financial context, diversifying risks means investing in a variety of assets, sectors, or geographic regions to avoid having the poor performance of a single investment significantly affect the overall portfolio. Diversification allows for risk reduction, or, in its mathematical formulation, the reduction of … Continue reading Can we diversify extremal events? →",
           "link": "https://freakonometrics.hypotheses.org/76134",
           "publishedOn": "2024-06-23T20:36:50.000Z",
-          "wordCount": 6577,
+          "wordCount": 6586,
           "title": "Can we diversify extremal events?",
           "imageUrl": "https://freakonometrics.hypotheses.org/files/2024/06/dalle-ia-bd-finance-panique-3-672x372.png"
         },
@@ -4383,7 +4453,7 @@
           "publishedOn": "2024-06-23T14:06:00.000Z",
           "wordCount": 2257,
           "title": "Arithmetic+ 08: UNIZOR.COM - Math+ & Problems - Arithmetic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u5H4hS5jovuXjS2gd2oN_QoE7CXEYuLzIXdV18iaHD2bLTmlhV9DUg0k9s8Q_Mmdw1pDDhEFc2DUBXrpm-HpYXZPruWpFw5_bU4Bb1osIHQrSwAA=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v1SjfP9UQ7p70O-SypnJrEAQbXe96fBmL_8Ina8ShFe4_8toIastn-1rTDr1TGHGHxRFKfAouSgjZqIhKw-AlKhFupT3Itlv7A-vopMoAaZa9eVw=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://unizor.blogspot.com/2024/06/logic-11-unizorcom-math-problems-logic.html",
@@ -4393,7 +4463,7 @@
           "publishedOn": "2024-06-23T13:16:00.000Z",
           "wordCount": 2168,
           "title": "Logic+ 11: UNIZOR.COM - Math+ & Problems - Logic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t7-v3St2z6-lwi7dSMkcv4Mzt8hrxQN5edvHqQ4KWEOcgES-cpVKbVJHvl2JAhofawq42cLtgrN4Gym8u3OwnPNmzBcbOeSZbYWpLxsOe9Gom4Iw=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_umPRRu5cbyZYcB2GuQFHjLIhyv3B4zCQcPlqbXPjjp36wobAjiwgwzugY-jGf2d_nqtFDGHo--RFPikMTb_9sDxTOu8hREeMUt61PA0UdKolpbqg=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://statmodeling.stat.columbia.edu/2024/06/23/some-fun-basketball-graphs/",
@@ -4414,126 +4484,6 @@
           "wordCount": 2414,
           "title": "Cuboctahedron in desert",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHV2zikVkdH51Rsm-ZD4Cx4VxnRCD2MwFndA0lU1ib6HsLUGZ7Lv3E3XOZaCNGLjXNrzaQHgE4wKABkORfLLMUSey8PSmYK-ub7pttfAFS41q7jl0IvomCCOegWUek5qtcb_dgA_pRU7sesD30TnLt4W5H7U0PBdFYlTKU_vGTH15W_JJeRn9LeYiNdzkc/w1200-h630-p-k-no-nu/cuboctahedron-in-desert.png"
-        },
-        {
-          "id": "https://blog.plover.com/lang/script-potpourri.html",
-          "author": "The Universe of Disco",
-          "description": "From the highly eclectic blog of Mark Dominus",
-          "link": "https://blog.plover.com/lang/script-potpourri.html",
-          "publishedOn": "2024-06-23T11:40:00.000Z",
-          "wordCount": 1474,
-          "title": "A potpourri of cool-looking scripts",
-          "imageUrl": "https://pic.blog.plover.com/lang/script-potpourri/ycombinator-codex_banner-th.png"
-        },
-        {
-          "id": "http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/06/23/quick-dirty-punti-a-caso/",
-          "author": "Rudi Matematici",
-          "description": "Due domande su tre punti, totale sei.Consideriamo il centro di un tetraedro regolare e due vertici qualsiasi: è facile vedere che giacciono tutti sullo stesso piano. Questo è vero anche per i tetraedri irregolari? Scegliamo tre punti a caso su una sfera: qual è la probabilità che giacciano tutti e tre nello stesso emisfero? Il [...]",
-          "link": "http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/06/23/quick-dirty-punti-a-caso/",
-          "publishedOn": "2024-06-23T10:56:18.000Z",
-          "wordCount": 3427,
-          "title": "Quick & Dirty – Punti a caso",
-          "imageUrl": null
-        },
-        {
-          "id": "https://keespopinga.blogspot.com/2024/06/varieta-e-tempi-della-storia.html",
-          "author": "Popinga",
-          "description": "",
-          "link": "https://keespopinga.blogspot.com/2024/06/varieta-e-tempi-della-storia.html",
-          "publishedOn": "2024-06-23T09:36:00.000Z",
-          "wordCount": 6834,
-          "title": "Varietà e tempi della storia",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHjQhFNxFs3_TK3wPfcZJjLLizBEz3GvUCoc3G4GLuX8_19VNARrU5XBO6sCae48WakdlicLut9NiMO5QmH7-Te75ILRhY8SsSnIKlTtxM02mXD4D0SNHdEBPryvKbwEsApq1Ts6xc47mPTuaAcYMxA9fwBbzWuJkEXBcG_ux9qnizGoIsOJbw72fexP8/w1200-h630-p-k-no-nu/Screenshot_20240620_173606_Chrome.jpg"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/06/23/calculator-crunch/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "MEI’s Calculator Crunch will run this week, 24th – 28th June. MEI Calculator Crunch 2023 Calculator Crunch is designed to provide extra practice for Year 6 and 7 pupils in key areas of the ma…",
-          "link": "https://colleenyoung.org/2024/06/23/calculator-crunch/",
-          "publishedOn": "2024-06-23T05:44:10.000Z",
-          "wordCount": 3233,
-          "title": "Calculator Crunch",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/06/Math-Warehouse-quadratic-calculator.png"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/06/23/calculator-crunch/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "MEI’s Calculator Crunch will run this week, 24th – 28th June. MEI Calculator Crunch 2023 Calculator Crunch is designed to provide extra practice for Year 6 and 7 pupils in key areas of the ma…",
-          "link": "https://colleenyoung.org/2024/06/23/calculator-crunch/",
-          "publishedOn": "2024-06-23T05:44:10.000Z",
-          "wordCount": 3230,
-          "title": "Calculator Crunch",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/06/Math-Warehouse-quadratic-calculator.png"
-        },
-        {
-          "id": "https://terrytao.wordpress.com/2024/06/22/an-abridged-proof-of-martons-conjecture/",
-          "author": "What's new",
-          "description": "[This post is dedicated to Luca Trevisan, who recently passed away due to cancer. Though far from his most significant contribution to the field, I would like to mention that, as with most of my ot…",
-          "link": "https://terrytao.wordpress.com/2024/06/22/an-abridged-proof-of-martons-conjecture/",
-          "publishedOn": "2024-06-23T02:05:34.000Z",
-          "wordCount": 7502,
-          "title": "An abridged proof of Marton’s conjecture",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570535"
-        },
-        {
-          "id": "https://terrytao.wordpress.com/2024/06/22/an-abridged-proof-of-martons-conjecture/",
-          "author": "What's new",
-          "description": "[This post is dedicated to Luca Trevisan, who recently passed away due to cancer. Though far from his most significant contribution to the field, I would like to mention that, as with most of my ot…",
-          "link": "https://terrytao.wordpress.com/2024/06/22/an-abridged-proof-of-martons-conjecture/",
-          "publishedOn": "2024-06-23T02:05:34.000Z",
-          "wordCount": 7502,
-          "title": "An abridged proof of Marton’s conjecture",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1721570535"
-        },
-        {
-          "id": "https://ests.wordpress.com/2024/06/22/online-activities-24-30-june/",
-          "author": "European Set Theory Society",
-          "description": "The announcements are updated continuously. For a list of talks in the coming weeks, please see here. Hebrew University Set Theory SeminarTime: Wednesday, 26 June, 13:00-15:00 local time (12:0…",
-          "link": "https://ests.wordpress.com/2024/06/22/online-activities-24-30-june/",
-          "publishedOn": "2024-06-22T21:56:49.000Z",
-          "wordCount": 4564,
-          "title": "Online activities 24 – 30 June",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://www.mathycathy.com/blog/2024/06/life-updates-thatquiz-updates/",
-          "author": "MathyCathy's Blog – Mrs. Cathy Yenca",
-          "description": "",
-          "link": "https://www.mathycathy.com/blog/2024/06/life-updates-thatquiz-updates/",
-          "publishedOn": "2024-06-22T15:00:51.000Z",
-          "wordCount": 1841,
-          "title": "Life Updates & ThatQuiz Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unizor.blogspot.com/2024/06/logic-10-unizorcom-math-problems-logic.html",
-          "author": "Unizor - Creative Mind through Art of Mathematics",
-          "description": "Notes to a video lecture on http://www.unizor.com    Logic+ 10   Problem A   Two mathematicians, Mike and David, have met their classmate H...",
-          "link": "https://unizor.blogspot.com/2024/06/logic-10-unizorcom-math-problems-logic.html",
-          "publishedOn": "2024-06-22T13:51:00.000Z",
-          "wordCount": 2325,
-          "title": "Logic+ 10: UNIZOR.COM - Math+ & Problems - Logic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uMOTTu-fmHyndX-jpAZUI2tTC8qKD7TKjCt5XGKoEKa6wNyAxZoPQ4y1P6qeRWosCATbexEE7jHQ_u6mRmMRcEVqocJVk9FR2PyY5nOM7yR8CExQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://alanrendall.wordpress.com/2024/06/22/aiding-and-abetting-by-muriel-spark/",
-          "author": "Hydrobates",
-          "description": "In a previous post about ‘The Prime of Miss Jean Brodie’ I mentioned that I had another novel of Muriel Spark on my bookshelf, ‘Aiding and Abetting’. I am sure I read it whe…",
-          "link": "https://alanrendall.wordpress.com/2024/06/22/aiding-and-abetting-by-muriel-spark/",
-          "publishedOn": "2024-06-22T13:40:46.000Z",
-          "wordCount": 3931,
-          "title": "Aiding and Abetting by Muriel Spark",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/06/22/implicit-assumptions-in-the-tversky-kahneman-example-of-the-blue-and-green-taxicabs/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/06/22/implicit-assumptions-in-the-tversky-kahneman-example-of-the-blue-and-green-taxicabs/",
-          "publishedOn": "2024-06-22T13:19:30.000Z",
-          "wordCount": null,
-          "title": "Implicit assumptions in the Tversky/Kahneman example of the blue and green taxicabs",
-          "imageUrl": null
         }
       ]
     }
