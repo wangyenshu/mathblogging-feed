@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T00:34:22.944Z</updated>
+    <updated>2024-07-26T00:33:35.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Solipsist]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/the-solipsist.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/the-solipsist.html"/>
+        <updated>2024-07-25T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solipsist   by Jake Edward Lange   https://im-possible.info/english/art/various/jake-edward-lange.html Author -  https://www.instagram...]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Matching]]></title>
+        <id>https://punkrockor.com/2024/07/25/mr-matching/</id>
+        <link href="https://punkrockor.com/2024/07/25/mr-matching/"/>
+        <updated>2024-07-25T17:41:36.000Z</updated>
+        <summary type="html"><![CDATA[I visited Stockholm this summer after the EURO Conference. While in Stockholm, I visited the Nobel Prize Museum to celebrate the achievements of the laureates, including the operations research Nob…]]></summary>
+        <author>
+            <name>Punk Rock Operations Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pragmatic Truth • 6]]></title>
+        <id>https://inquiryintoinquiry.com/2024/07/25/pragmatic-truth-6/</id>
+        <link href="https://inquiryintoinquiry.com/2024/07/25/pragmatic-truth-6/"/>
+        <updated>2024-07-25T14:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Peirce on Semiosis and Inquiry Peirce’s theory of truth depends on two other, intimately related subject matters, his theory of sign relations and his theory of inquiry.  Inquiry is spec…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two job openings, one in New York on data visualization, one near Paris on Bayesian modeling]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/25/two-job-openings-one-in-new-york-on-data-visualization-one-in-paris-on-bayesian-modeling/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/25/two-job-openings-one-in-new-york-on-data-visualization-one-in-paris-on-bayesian-modeling/"/>
+        <updated>2024-07-25T13:39:09.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your Intuition 55: The Case of Two Screening Tests]]></title>
+        <id>https://gilkalai.wordpress.com/2024/07/25/test-your-intuition-55-the-case-of-two-screening-tests/</id>
+        <link href="https://gilkalai.wordpress.com/2024/07/25/test-your-intuition-55-the-case-of-two-screening-tests/"/>
+        <updated>2024-07-25T12:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Here is a great question invented by Michele Piccione and Ariel Rubinstein. (Let me use this opportunity to recommend their mind boggling 1997 paper on the absent-minded driver.) The question (TYI …]]></summary>
+        <author>
+            <name>Combinatorics and more</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebra Problems of the Day (Algebra Regents, June 2024 Part I)]]></title>
+        <id>https://mrburkemath.blogspot.com/2024/07/algebra-problems-of-day-algebra-regents.html</id>
+        <link href="https://mrburkemath.blogspot.com/2024/07/algebra-problems-of-day-algebra-regents.html"/>
+        <updated>2024-07-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This exam was adminstered in June 2024.         More Regents problems .       June 2024 Algebra Regents   Part I   Each correct answer w...]]></summary>
+        <author>
+            <name>(x, why?)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘A proper editor would be horrified’: Why did a pediatric journal publish articles on the elderly?]]></title>
+        <id>https://retractionwatch.com/2024/07/25/a-proper-editor-would-be-horrified-why-did-a-pediatric-journal-publish-articles-on-the-elderly/</id>
+        <link href="https://retractionwatch.com/2024/07/25/a-proper-editor-would-be-horrified-why-did-a-pediatric-journal-publish-articles-on-the-elderly/"/>
+        <updated>2024-07-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In June, a scientist researching sarcopenia came across a relevant paper about treatment for elderly patients with complications from the disease as well as type 2 diabetes. The paper was “very bad…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nate Silver and Stuart Stevens from 2023]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/nate-silver-and-stuart-stevens-from-2023.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/nate-silver-and-stuart-stevens-from-2023.html"/>
+        <updated>2024-07-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[Gelman addresses some similar points here .] I've been meaning to talk about this exchange since it  happened, but it's just as well that I...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I Learned on the Road-II]]></title>
+        <id>https://pballew.blogspot.com/2024/07/things-i-learned-on-road-ii.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/things-i-learned-on-road-ii.html"/>
+        <updated>2024-07-25T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Things I Learned on the Road (and long afterward, at home) Some notes from a trip a few years ago with some updates from recent readings.....]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 25]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-25.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-25.html"/>
+        <updated>2024-07-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teacher: How many times can you subtract 7 from 83, and what is left afterwards? Student: You can subtract it as many times as you want, a...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandon Statistical Significance and Bayesian Epistemology: some troubles in philosophy]]></title>
+        <id>https://errorstatistics.com/2024/07/24/abandon-significance-and-bayesian-epistemology/</id>
+        <link href="https://errorstatistics.com/2024/07/24/abandon-significance-and-bayesian-epistemology/"/>
+        <updated>2024-07-25T02:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Has the “abandon significance” movement in statistics trickled down into philosophy of science? A little bit. Nowadays (since the late 1990’s [i]), probabilistic inference and confirmation en…]]></summary>
+        <author>
+            <name>Error Statistics Philosophy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris Straw Poll, Day 1]]></title>
+        <id>https://quomodocumque.wordpress.com/2024/07/24/kamala-harris-straw-poll-day-1/</id>
+        <link href="https://quomodocumque.wordpress.com/2024/07/24/kamala-harris-straw-poll-day-1/"/>
+        <updated>2024-07-25T02:37:13.000Z</updated>
+        <summary type="html"><![CDATA[I was in a coffeeshop in Berkeley, CA when Joe Biden announced he wouldn’t be running for re-election. I kind of wanted to talk to somebody about it but it wasn’t clear anybody else kne…]]></summary>
+        <author>
+            <name>Quomodocumque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/24/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/756932981924446208</id>
+        <link href="https://purenumbers.tumblr.com/post/756932981924446208"/>
+        <updated>2024-07-25T00:32:24.000Z</updated>
+        <summary type="html"><![CDATA[[√(7 + 2)]! = √4 + 2 + √4
+Also:
+7 - 2 - 4 = 2 / √4
+Also:
+(7 - 2 - √4)! = 2 + 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No title]]></title>
+        <id>https://thalescircles.tumblr.com/post/756925690350338048</id>
+        <link href="https://thalescircles.tumblr.com/post/756925690350338048"/>
+        <updated>2024-07-24T22:36:30.000Z</updated>
+        <summary type="html"><![CDATA[A surface bounded by four interlocking "triangular" loops, made with Shiying Dong's seamless topological crochet method]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dog’s chosen?!]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/25/dogs-chosen/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/25/dogs-chosen/"/>
+        <updated>2024-07-24T22:24:25.000Z</updated>
+        <summary type="html"><![CDATA[“It was God alone who prevented the unthinkable from happening. We will FEAR NOT, but instead remain resilient in our faith and defiant in the face of wickedness.” Donald Trump, 13 July 2025 “I had…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Batteries And Flashlight Puzzle]]></title>
         <id>https://mindyourdecisions.com/blog/2024/07/24/8-batteries-and-flashlight-puzzle/</id>
@@ -51,6 +204,15 @@
         <summary type="html"><![CDATA[This exam was adminstered in January 2024 .      June 2024 Algebra, Part IV    Each correct answer is worth up to 6 credits. Partial credi...]]></summary>
         <author>
             <name>(x, why?)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philip S. Mulry]]></title>
+        <id>https://ncatlab.org/nlab/show/Philip+S.+Mulry</id>
+        <link href="https://ncatlab.org/nlab/show/Philip+S.+Mulry"/>
+        <updated>2024-07-24T13:52:46.000Z</updated>
+        <author>
+            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -2222,6 +2384,15 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iid random variables]]></title>
+        <id>https://ncatlab.org/nlab/show/iid+random+variables</id>
+        <link href="https://ncatlab.org/nlab/show/iid+random+variables"/>
+        <updated>2024-07-10T21:49:05.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Whenever you see a tree . . .]]></title>
         <id>https://poetrywithmathematics.blogspot.com/2024/07/whenever-you-see-tree.html</id>
         <link href="https://poetrywithmathematics.blogspot.com/2024/07/whenever-you-see-tree.html"/>
@@ -4091,175 +4262,6 @@ The VPAT template asks you to list, for each of the WCAG criteria, whether you s
         <summary type="html"><![CDATA[Why do we have two complexity classes for exponential time, E and EXP? First the definitions: E is the set of problems computable in time \(...]]></summary>
         <author>
             <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cathedral Symmetries]]></title>
-        <id>https://mathtourist.blogspot.com/2024/06/cathedral-symmetries.html</id>
-        <link href="https://mathtourist.blogspot.com/2024/06/cathedral-symmetries.html"/>
-        <updated>2024-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cathedral of St. Helena , Helena, Montana, 2024. Photos by I. Peterson]]></summary>
-        <author>
-            <name>The Mathematical Tourist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Marshall-McLuhan-in-Annie-Hall Moment]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/06/my-marshall-mcluhan-in-annie-hall-moment.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/06/my-marshall-mcluhan-in-annie-hall-moment.html"/>
-        <updated>2024-06-26T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Even in its current sad state, you still find yourself in interesting conversations on Twitter.     Eliezer S. Yudkowsky  born September 11,...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic Variations – X Mapping the variation]]></title>
-        <id>https://thonyc.wordpress.com/2024/06/26/magnetic-variations-x-mapping-the-variation/</id>
-        <link href="https://thonyc.wordpress.com/2024/06/26/magnetic-variations-x-mapping-the-variation/"/>
-        <updated>2024-06-26T09:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Over this series we have tracked the discovery of magnetic variation and the gradual realisation that it was a real phenomenon and not just a malfunction of badly made or adjusted compasses. &…]]></summary>
-        <author>
-            <name>The Renaissance Mathematicus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Election claims and erection claims]]></title>
-        <id>http://www.bbc.co.uk/programmes/p0j6kccc</id>
-        <link href="http://www.bbc.co.uk/programmes/p0j6kccc"/>
-        <updated>2024-06-26T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[What did Liz Truss do to mortgage rates? Do erections use a litre of blood?]]></summary>
-        <author>
-            <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick & Dirty – Rosso e Blu]]></title>
-        <id>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/06/26/quick-dirty-rosso-e-blu/</id>
-        <link href="http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/06/26/quick-dirty-rosso-e-blu/"/>
-        <updated>2024-06-26T05:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Con riferimento alla figura, calcolate il rapporto tra l’area rossa e l’area blu.]]></summary>
-        <author>
-            <name>Rudi Matematici</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pappus's hexagon theorem]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/pappuss-hexagon-theorem.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/pappuss-hexagon-theorem.html"/>
-        <updated>2024-06-26T04:37:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Κυκλικός Πρώτος]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/blog-post_26.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/blog-post_26.html"/>
-        <updated>2024-06-26T04:31:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Took me until about halfway through college before I realized &ldquo;study&rdquo; means &ldquo;play with the material&hellip;]]></title>
-        <id>https://thalescircles.tumblr.com/post/754302221692387328</id>
-        <link href="https://thalescircles.tumblr.com/post/754302221692387328"/>
-        <updated>2024-06-25T23:37:35.000Z</updated>
-        <summary type="html"><![CDATA[Took me until about halfway through college before I realized “study” means “play with the material in a variety of ways until you understand it” and not just “read the assigned chapters and do the...]]></summary>
-        <author>
-            <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting field names with C++ metaprogramming]]></title>
-        <id>https://www.jeremykun.com/shortform/2024-06-25-1534/</id>
-        <link href="https://www.jeremykun.com/shortform/2024-06-25-1534/"/>
-        <updated>2024-06-25T22:34:59.000Z</updated>
-        <summary type="html"><![CDATA[A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.
-Say I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.
-#include  template  struct HasStaticSize : std::false_type {}; template  struct HasStaticSize>::value, void>::type> : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They bled an old dog dry]]></title>
-        <id>https://ifwisdomwereteachable.wordpress.com/2024/06/25/they-bled-an-old-dog-dry/</id>
-        <link href="https://ifwisdomwereteachable.wordpress.com/2024/06/25/they-bled-an-old-dog-dry/"/>
-        <updated>2024-06-25T21:31:47.000Z</updated>
-        <summary type="html"><![CDATA[It is the poems you have lost, the ills From missing dates, at which the heart expires. Slowly the poison the whole blood stream fills. The waste remains, the waste remains and kills. — from …]]></summary>
-        <author>
-            <name>Since it is not …</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient descent: fixed step, variable step]]></title>
-        <id>https://mathproblems123.wordpress.com/2024/06/25/gradient-descent-fixed-step-variable-step/</id>
-        <link href="https://mathproblems123.wordpress.com/2024/06/25/gradient-descent-fixed-step-variable-step/"/>
-        <updated>2024-06-25T21:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Suppose $latex {f}&fg=000000$ is a function of class $latex {C^1}&fg=000000$ and let $latex {x}&fg=000000$ be a point where the gradient does not vanish: $latex {\nabla f(x)\neq 0}&…]]></summary>
-        <author>
-            <name>Beni Bogoşel's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guest Post: Christian Hennig: “Statistical tests in five random research papers of 2024, and related thoughts on the ‘don’t say significant’ initiative”]]></title>
-        <id>https://errorstatistics.com/2024/06/25/guest-post-christian-hennig-statistical-tests-in-five-random-research-papers-of-2024-and-some-related-thoughts-on-the-dont-say-significant-initiative/</id>
-        <link href="https://errorstatistics.com/2024/06/25/guest-post-christian-hennig-statistical-tests-in-five-random-research-papers-of-2024-and-some-related-thoughts-on-the-dont-say-significant-initiative/"/>
-        <updated>2024-06-25T19:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Professor Christian Hennig Department of Statistical Sciences “Paolo Fortunati” University of Bologna [An earlier post by C. Hennig on this topic:  Jan 9, 2022: The ASA controversy on P…]]></summary>
-        <author>
-            <name>Error Statistics Philosophy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting some (algorithmic) SAT-isfaction]]></title>
-        <id>https://www.johndcook.com/blog/2024/06/25/getting-some-algorithmic-sat-isfaction/</id>
-        <link href="https://www.johndcook.com/blog/2024/06/25/getting-some-algorithmic-sat-isfaction/"/>
-        <updated>2024-06-25T15:36:41.000Z</updated>
-        <summary type="html"><![CDATA[SAT solvers are highly versatile and useful. Recent advances make them suitable for even large problems. They are worthy additions to the computational toolbox.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry+ 09 : UNIZOR.COM - Math+ & Problems - Geometry]]></title>
-        <id>https://unizor.blogspot.com/2024/06/geometry-09-unizorcom-math-problems.html</id>
-        <link href="https://unizor.blogspot.com/2024/06/geometry-09-unizorcom-math-problems.html"/>
-        <updated>2024-06-25T15:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Geometry+ 09   Theorem A   Given two parallel lines, point M  not on any of them and n...]]></summary>
-        <author>
-            <name>Unizor - Creative Mind through Art of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fpp3 package update]]></title>
-        <id>https://robjhyndman.com/hyndsight/fpp3-update.html</id>
-        <link href="https://robjhyndman.com/hyndsight/fpp3-update.html"/>
-        <updated>2024-06-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The fpp3 package has had its first major update since the book was published.]]></summary>
-        <author>
-            <name>Hyndsight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Queen of the Forest, Smithsonian Tropical Research Institute]]></title>
-        <id>https://stri.si.edu/story/queen-forest</id>
-        <link href="https://stri.si.edu/story/queen-forest"/>
-        <updated>2024-06-25T13:29:07.000Z</updated>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the derivative a rhetorical intensifier?]]></title>
-        <id>https://mathwithbaddrawings.com/2024/06/25/is-the-derivative-a-rhetorical-intensifier/</id>
-        <link href="https://mathwithbaddrawings.com/2024/06/25/is-the-derivative-a-rhetorical-intensifier/"/>
-        <updated>2024-06-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An acceleratingly strange quirk.]]></summary>
-        <author>
-            <name>Math with Bad Drawings</name>
         </author>
     </entry>
 </feed>
