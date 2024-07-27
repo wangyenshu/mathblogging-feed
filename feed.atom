@@ -2,10 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-26T00:33:35.933Z</updated>
+    <updated>2024-07-27T00:33:45.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Nickel, a Dime, a Dollar . . .]]></title>
+        <id>https://poetrywithmathematics.blogspot.com/2024/07/a-nickel-dime-dollar_26.html</id>
+        <link href="https://poetrywithmathematics.blogspot.com/2024/07/a-nickel-dime-dollar_26.html"/>
+        <updated>2024-07-26T19:25:00.000Z</updated>
+        <summary type="html"><![CDATA[mathematics poetry]]></summary>
+        <author>
+            <name>Intersections -- Poetry with Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fulkerson Prize]]></title>
+        <id>https://rjlipton.com/2024/07/26/fulkerson-prize/</id>
+        <link href="https://rjlipton.com/2024/07/26/fulkerson-prize/"/>
+        <updated>2024-07-26T19:10:05.000Z</updated>
+        <summary type="html"><![CDATA[The Fulkerson prize is given to: outstanding papers in the area of discrete mathematics and is sponsored jointly by the Mathematical Optimization Society (MOS) and the American Mathematical Society…]]></summary>
+        <author>
+            <name>Gödel’s Lost Letter and P=NP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postage stamps from Netherlands]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/postage-stamps-from-netherlands.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/postage-stamps-from-netherlands.html"/>
+        <updated>2024-07-26T17:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Postage stamps from Netherlands   https://im-possible.info/english/art/stamps/netherlands.html]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Φώτης Κόντογλου περί τουρισμού]]></title>
+        <id>https://tsourakakis.com/2024/07/26/%cf%86%cf%8e%cf%84%ce%b7%cf%82-%ce%ba%cf%8c%ce%bd%cf%84%ce%bf%ce%b3%ce%bb%ce%bf%cf%85-%cf%80%ce%b5%cf%81%ce%af-%cf%84%ce%bf%cf%85%cf%81%ce%b9%cf%83%ce%bc%ce%bf%cf%8d/</id>
+        <link href="https://tsourakakis.com/2024/07/26/%25cf%2586%25cf%258e%25cf%2584%25ce%25b7%25cf%2582-%25ce%25ba%25cf%258c%25ce%25bd%25cf%2584%25ce%25bf%25ce%25b3%25ce%25bb%25ce%25bf%25cf%2585-%25cf%2580%25ce%25b5%25cf%2581%25ce%25af-%25cf%2584%25ce%25bf%25cf%2585%25cf%2581%25ce%25b9%25cf%2583%25ce%25bc%25ce%25bf%25cf%258d/"/>
+        <updated>2024-07-26T17:09:27.000Z</updated>
+        <author>
+            <name>[UNTITLED BLOG]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 02 Angle between vectors: UNIZOR.COM - Math+ & Problems - Vectors]]></title>
+        <id>https://unizor.blogspot.com/2024/07/vectors-02-angle-between-vectors.html</id>
+        <link href="https://unizor.blogspot.com/2024/07/vectors-02-angle-between-vectors.html"/>
+        <updated>2024-07-26T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 02   Problem A   Unknown vector X (x 1 ,x 2 )  is defined as a linear combina...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Littelmann]]></title>
+        <id>https://ncatlab.org/nlab/show/Peter+Littelmann</id>
+        <link href="https://ncatlab.org/nlab/show/Peter+Littelmann"/>
+        <updated>2024-07-26T15:30:53.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venkatramani Lakshmibai]]></title>
+        <id>https://ncatlab.org/nlab/show/Venkatramani+Lakshmibai</id>
+        <link href="https://ncatlab.org/nlab/show/Venkatramani+Lakshmibai"/>
+        <updated>2024-07-26T14:46:18.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[standard monomial]]></title>
+        <id>https://ncatlab.org/nlab/show/standard+monomial</id>
+        <link href="https://ncatlab.org/nlab/show/standard+monomial"/>
+        <updated>2024-07-26T14:41:33.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niall Ferguson, J. D. Vance, George Washington, and Jesus]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/26/niall-ferguson-and-j-d-vance/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/26/niall-ferguson-and-j-d-vance/"/>
+        <updated>2024-07-26T13:40:59.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authors up past 60 retractions amid ongoing investigation]]></title>
+        <id>https://retractionwatch.com/2024/07/26/authors-up-past-60-retractions-amid-ongoing-investigation/</id>
+        <link href="https://retractionwatch.com/2024/07/26/authors-up-past-60-retractions-amid-ongoing-investigation/"/>
+        <updated>2024-07-26T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Salar Elahi A group of researchers in Iran now have had more than 60 papers retracted for concerns about peer review and plagiarism as a publisher investigates its back catalog. One of the resea…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebra Problems of the Day (Algebra Regents, June 2024 Part I)]]></title>
+        <id>https://mrburkemath.blogspot.com/2024/07/algebra-problems-of-day-algebra-regents_01005654822.html</id>
+        <link href="https://mrburkemath.blogspot.com/2024/07/algebra-problems-of-day-algebra-regents_01005654822.html"/>
+        <updated>2024-07-26T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[This exam was adminstered in June 2024.         More Regents problems .       June 2024 Algebra Regents   Part I   Each correct answer w...]]></summary>
+        <author>
+            <name>(x, why?)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sixty years ago...]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/sixty-years-ago.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/sixty-years-ago.html"/>
+        <updated>2024-07-26T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When I said Democrats wanted another 1964, that included a desire for the kind campaign that LBJ ran, unapologetically aggressive and most o...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A variation on Rock, Paper, Scissors]]></title>
+        <id>https://www.johndcook.com/blog/2024/07/26/a-variation-on-rock-paper-scissors/</id>
+        <link href="https://www.johndcook.com/blog/2024/07/26/a-variation-on-rock-paper-scissors/"/>
+        <updated>2024-07-26T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a game of Rock, Paper, Scissors in which one player must choose each option the same number of times. How much of a disadvantage is this?]]></summary>
+        <author>
+            <name>John D. Cook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KI löst IMO-Probleme]]></title>
+        <id>https://scienceblogs.de/mathlog/2024/07/26/ki-loest-imo-probleme/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ki-loest-imo-probleme</id>
+        <link href="https://scienceblogs.de/mathlog/2024/07/26/ki-loest-imo-probleme/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ki-loest-imo-probleme"/>
+        <updated>2024-07-26T09:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Aufgaben auf Internationalen Mathematikolympiaden gehören zu den schwierigsten, die sich in kurzer Zeit (90 Minuten pro Aufgabe) lösen lassen und sie erfordern meist ein hohes Maß an Kreativität. Es ist deshalb sehr bemerkenswert, dass die Künstliche Intelligenz “Deepmind” inzwischen solche Aufgaben auf “Silbermedaillenniveau” lösen kann – wenn auch nach einer zuvor mit menschlicher Hilfe erfolgten…]]></summary>
+        <author>
+            <name>Mathlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 26]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-26.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-26.html"/>
+        <updated>2024-07-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mathematics is the most exact science, and its conclusions are capable of absolute proof. But this is so only because mathematics does no...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/25/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757023732784136192</id>
+        <link href="https://purenumbers.tumblr.com/post/757023732784136192"/>
+        <updated>2024-07-26T00:34:50.000Z</updated>
+        <summary type="html"><![CDATA[7 + 2 - 5 = 2 + √4
+Also:
+7 - √25 = 2 = √4
+Also:
+7 / (2 + 5) = 2 / √4
+Also:
+(7 + 2 - 5)! = 24]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sole della libertà [jatp]]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/26/sole-della-liberta-jatp/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/26/sole-della-liberta-jatp/"/>
+        <updated>2024-07-25T22:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Solipsist]]></title>
         <id>http://impossible-world.blogspot.com/2024/07/the-solipsist.html</id>
@@ -4096,172 +4267,6 @@ I hope this photographer won a prize]]></title>
         <summary type="html"><![CDATA[Limit of a doodle. Draw a circle, then a triangle around it. Then a square and a circle around it. Then a pentagon and a circle around it. ...]]></summary>
         <author>
             <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The abortion narrative – – convergence, herd mentality, and the inability to say "oops"]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/06/the-abortion-narrative-convergence-herd.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/06/the-abortion-narrative-convergence-herd.html"/>
-        <updated>2024-06-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To understand the politics of 2024, you need to understand the political journalism of 2022. Tom Bonier, the analyst who probably came off t...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Age Just a Number?]]></title>
-        <id>https://www.singaporemathplus.com/2024/06/is-age-just-number.html</id>
-        <link href="https://www.singaporemathplus.com/2024/06/is-age-just-number.html"/>
-        <updated>2024-06-27T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon © Anon. (being memeified) I admit that I’m guilty of ageism, but I make zero apologies for exposing criminality or hypocrisy, especi...]]></summary>
-        <author>
-            <name>Singapore Math</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Τιμαλφή]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/blog-post_56.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/blog-post_56.html"/>
-        <updated>2024-06-27T04:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Δρούγας Θανάσης]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOCS test of time award: call for nominations]]></title>
-        <id>https://windowsontheory.org/2024/06/26/focs-test-of-time-award-call-for-nominations/</id>
-        <link href="https://windowsontheory.org/2024/06/26/focs-test-of-time-award-call-for-nominations/"/>
-        <updated>2024-06-27T03:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Windows On Theory</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Εν τω μεταξύ σε ένα παράλληλο σύμπαν...]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/blog-post_57.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/blog-post_57.html"/>
-        <updated>2024-06-27T03:39:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Provider Identifier (NPI) and its checksum]]></title>
-        <id>https://www.johndcook.com/blog/2024/06/26/npi-number/</id>
-        <link href="https://www.johndcook.com/blog/2024/06/26/npi-number/"/>
-        <updated>2024-06-27T00:23:42.000Z</updated>
-        <summary type="html"><![CDATA[NPI (National Provider Identifier) numbers. How they are used and how their checksum works.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Locating Date Columns in R]]></title>
-        <id>https://orinanobworld.blogspot.com/2024/06/locating-date-columns-in-r.html</id>
-        <link href="https://orinanobworld.blogspot.com/2024/06/locating-date-columns-in-r.html"/>
-        <updated>2024-06-26T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Ramblings about operations research, mathematical optimization and (mostly open-source) software.]]></summary>
-        <author>
-            <name>OR in an OB World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last week’s summer school on probabilistic AI]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/26/last-weeks-summer-school-on-probabilistic-ai/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/26/last-weeks-summer-school-on-probabilistic-ai/"/>
-        <updated>2024-06-26T21:14:13.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closure (2)]]></title>
-        <id>http://www.neverendingbooks.org/closure-2/</id>
-        <link href="http://www.neverendingbooks.org/closure-2/"/>
-        <updated>2024-06-26T19:26:00.000Z</updated>
-        <author>
-            <name>neverendingbooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impossible form]]></title>
-        <id>http://impossible-world.blogspot.com/2024/06/impossible-form.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/06/impossible-form.html"/>
-        <updated>2024-06-26T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Impossible form   by David "Danc3r" Moyano   https://im-possible.info/english/art/pixel/david-moyano.html    Author -  https://www.artstat...]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two conferences, two mysteries]]></title>
-        <id>https://cameroncounts.wordpress.com/2024/06/26/two-conferences-two-mysteries/</id>
-        <link href="https://cameroncounts.wordpress.com/2024/06/26/two-conferences-two-mysteries/"/>
-        <updated>2024-06-26T16:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Two conferences in recent days. Time permitting, I would say more about each. I just want to point to two mysteries and some synergy. Last week I was at the British Mathematical Colloquium in Manch…]]></summary>
-        <author>
-            <name>Peter Cameron's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Polya-Szego conjecture for Dirichlet-Laplace eigenvalues on polygons]]></title>
-        <id>https://mathproblems123.wordpress.com/2024/06/26/the-polya-szego-conjecture-for-dirichlet-laplace-eigenvalues-on-polygons/</id>
-        <link href="https://mathproblems123.wordpress.com/2024/06/26/the-polya-szego-conjecture-for-dirichlet-laplace-eigenvalues-on-polygons/"/>
-        <updated>2024-06-26T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[The eigenvalues of the Dirichlet Laplace eigenvalues verify the equation $latex \displaystyle -\Delta u_k = \lambda_k u_k \text{ in } \Omega, u_k = 0 \text{ on }\partial \Omega.&fg=000000$ Just…]]></summary>
-        <author>
-            <name>Beni Bogoşel's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A script to convert a WCAG-EM report from JSON to reStructuredText for a VPAT]]></title>
-        <id>https://checkmyworking.com/posts/2024/06/a-script-to-convert-a-wcag-em-report-from-json-to-restructuredtext-for-a-vpat/</id>
-        <link href="https://checkmyworking.com/posts/2024/06/a-script-to-convert-a-wcag-em-report-from-json-to-restructuredtext-for-a-vpat/"/>
-        <updated>2024-06-26T15:17:31.000Z</updated>
-        <summary type="html"><![CDATA[At work, I've had to produce VPAT documents for the software I'm responsible for.
-The VPAT template asks you to list, for each of the WCAG criteria, whether you support it or not, or if it doesn't app]]></summary>
-        <author>
-            <name>Check my working</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Years of Supporting the Advancement of Physicists Worldwide]]></title>
-        <id>https://www.simonsfoundation.org/2024/06/26/10-years-of-supporting-the-advancement-of-physicists-worldwide/</id>
-        <link href="https://www.simonsfoundation.org/2024/06/26/10-years-of-supporting-the-advancement-of-physicists-worldwide/"/>
-        <updated>2024-06-26T15:00:02.000Z</updated>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens during the first moments of butterfly scale formation]]></title>
-        <id>https://news.mit.edu/2024/new-findings-first-moments-butterfly-scale-formation-0626</id>
-        <link href="https://news.mit.edu/2024/new-findings-first-moments-butterfly-scale-formation-0626"/>
-        <updated>2024-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MIT researchers captured the initial moments during a butterfly’s metamorphosis, as an individual scale begins to develop its characteristic ridged pattern. The findings could help engineers design materials for light and heat management.]]></summary>
-        <author>
-            <name>MIT News - Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some solid criticisms of Ariely and Nudge—from 2012!]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/26/some-solid-criticisms-of-ariely-and-nudge-from-2012/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/26/some-solid-criticisms-of-ariely-and-nudge-from-2012/"/>
-        <updated>2024-06-26T13:41:36.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E versus EXP]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/06/e-versus-exp.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/06/e-versus-exp.html"/>
-        <updated>2024-06-26T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Why do we have two complexity classes for exponential time, E and EXP? First the definitions: E is the set of problems computable in time \(...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
         </author>
     </entry>
 </feed>
