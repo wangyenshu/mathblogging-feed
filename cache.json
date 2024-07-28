@@ -6,6 +6,206 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-07-27-1149/",
+          "author": "Math ∩ Programming",
+          "description": "Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.”\nRecht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl gave in 1989 at the University of Minnesota. In it, he surveys of the philosophy of science, lays out a framework for scientific debate, and critiques scientific practice. Recht summarizes his arguments, simplifies the ideas, provides examples, and offers his own commentary, considering today’s computerized world.",
+          "link": "https://www.jeremykun.com/shortform/2024-07-27-1149/",
+          "publishedOn": "2024-07-27T18:49:42.000Z",
+          "wordCount": 431,
+          "title": "Ben Recht on Meehl's Philosophical Psychology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.tanyakhovanova.com/2024/07/conways-absent-king-trick/",
+          "author": "Tanya Khovanova's Math Blog",
+          "description": "",
+          "link": "https://blog.tanyakhovanova.com/2024/07/conways-absent-king-trick/",
+          "publishedOn": "2024-07-27T18:21:12.000Z",
+          "wordCount": 1768,
+          "title": "Conway’s Absent King Trick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mindyourdecisions.com/blog/2024/07/27/2024-international-mathematical-olympiad-problem-4/",
+          "author": "Mind Your Decisions",
+          "description": "",
+          "link": "https://mindyourdecisions.com/blog/2024/07/27/2024-international-mathematical-olympiad-problem-4/",
+          "publishedOn": "2024-07-27T17:16:08.000Z",
+          "wordCount": 3248,
+          "title": "2024 International Mathematical Olympiad Problem 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/",
+          "author": "Azimuth",
+          "description": "A ‘tritone substitution’ is a popular trick for making your music sound more sophisticated. I’ll show you a couple of videos with lots of examples. But since I’m mathematici…",
+          "link": "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/",
+          "publishedOn": "2024-07-27T17:11:06.000Z",
+          "wordCount": 3130,
+          "title": "Tritone Substitutions",
+          "imageUrl": "https://johncarlosbaez.wordpress.com/wp-content/uploads/2024/07/dominant_seventh_in_c_and_tritone_substitution.jpg"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/limited+principle+of+omniscience",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/limited+principle+of+omniscience",
+          "publishedOn": "2024-07-27T16:23:39.000Z",
+          "wordCount": 2942,
+          "title": "limited principle of omniscience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/weak+limited+principle+of+omniscience",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/weak+limited+principle+of+omniscience",
+          "publishedOn": "2024-07-27T15:57:54.000Z",
+          "wordCount": 2025,
+          "title": "weak limited principle of omniscience",
+          "imageUrl": null
+        },
+        {
+          "id": "http://impossible-world.blogspot.com/2024/07/coin-of-republic-of-cameroon.html",
+          "author": "Impossible world site blog",
+          "description": "Coin of Republic of Cameroon. https://im-possible.info/english/art/coins/cameroon.html#2024",
+          "link": "http://impossible-world.blogspot.com/2024/07/coin-of-republic-of-cameroon.html",
+          "publishedOn": "2024-07-27T15:42:00.000Z",
+          "wordCount": 2381,
+          "title": "Coin of Republic of Cameroon",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWwSosTAn3Chtqp2UC-I-T4oCPXkFFmCcrbYgM9DIp4u4gFEzKd2hxCE2GUm8rtV3ySZfPs7wgWHMeK9mU6aip6Kg4gpKGYbBWjNx8lWt1rFHuwGhagG2fYpHGD5Q06iQImnbxXPspIQugeFZ0sQMxBBzhpcaFqP1a5uGAgbtYNtKlgJIi3seAuKM3phsh/w1200-h630-p-k-no-nu/2000-francs-2024.jpg"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/lesser+limited+principle+of+omniscience",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/lesser+limited+principle+of+omniscience",
+          "publishedOn": "2024-07-27T15:21:57.000Z",
+          "wordCount": 2270,
+          "title": "lesser limited principle of omniscience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757165575113965568",
+          "author": "Thales’ circles",
+          "description": "knight-lautrec: “”",
+          "link": "https://thalescircles.tumblr.com/post/757165575113965568",
+          "publishedOn": "2024-07-27T14:09:22.000Z",
+          "wordCount": 412,
+          "title": "knight-lautrec:",
+          "imageUrl": "https://64.media.tumblr.com/fa122c03d76aa0d9fc76db93646520f2/tumblr_png4woowII1y0nwmso1_1280.png"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/27/background-on-fail-fast/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/27/background-on-fail-fast/",
+          "publishedOn": "2024-07-27T13:07:36.000Z",
+          "wordCount": null,
+          "title": "Background on “fail fast”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retractionwatch.com/2024/07/27/weekend-reads-attending-a-predatory-conference-zombie-theories-difficult-authors/",
+          "author": "Retraction Watch",
+          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Giant rat penis redux: AI-generated diagram, errors lead to retraction Elsevier in…",
+          "link": "https://retractionwatch.com/2024/07/27/weekend-reads-attending-a-predatory-conference-zombie-theories-difficult-authors/",
+          "publishedOn": "2024-07-27T10:00:00.000Z",
+          "wordCount": 2672,
+          "title": "Weekend reads: Attending a predatory conference; zombie theories; difficult authors",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg"
+        },
+        {
+          "id": "https://slawekk.wordpress.com/2024/07/27/isarmathlib-1-31-0-pseudometric-spaces-as-uniform-spaces/",
+          "author": "Formalized Mathematics",
+          "description": "Suppose $latex d: X\\times X\\rightarrow \\mathbb{R}^+$ is a pseudometric and consider the collection of relations on $latex X$ defined by $latex \\mathfrak{B} = \\{ d^{-1}([0,b]): b >0\\}$. $latex \\m…",
+          "link": "https://slawekk.wordpress.com/2024/07/27/isarmathlib-1-31-0-pseudometric-spaces-as-uniform-spaces/",
+          "publishedOn": "2024-07-27T09:05:39.000Z",
+          "wordCount": 3882,
+          "title": "IsarMathLib 1.31.0: Pseudometric spaces as uniform spaces",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://maddmaths.simai.eu/didattica/rally-firenze-2024/",
+          "author": "Maddmaths!",
+          "description": "Il primo giugno 2024 si è tenuto a Firenze la 31° edizione del Rally Matematico Transalpino a Firenze. Pubblichiamo un’appassionato reportage di un partecipato collettivo di organizzatrici e organizzatori. Introduzione Il primo giugno scorso per noi è stato un giorno importante, ma prima di parlarne ci piace raccontare alle colleghe e ai colleghi più giovani […]",
+          "link": "https://maddmaths.simai.eu/didattica/rally-firenze-2024/",
+          "publishedOn": "2024-07-27T06:00:56.000Z",
+          "wordCount": 6452,
+          "title": "Non solo applausi e medagliette – Giornata conclusiva del 31° Rally Matematico Transalpino a Firenze",
+          "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/Articolo-RMT-Toscana-Nord-premiazione-31°-RMT_html_ac24ae1618716290-1.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/the-tower-of-hanoi-and-two-three-clever.html",
+          "author": "Pat'sBlog",
+          "description": "Back awhile, in a  blog about Fibonacci , I mentioned that Edouard Lucas had created the \"Tower of Hanoi\" game and received comments and ...",
+          "link": "https://pballew.blogspot.com/2024/07/the-tower-of-hanoi-and-two-three-clever.html",
+          "publishedOn": "2024-07-27T05:00:00.000Z",
+          "wordCount": 4359,
+          "title": "The Tower of Hanoi  And two (three?) clever solutions",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2abuRU2fG1F_H5U3aCpglnxuxEXdcQK_m6-3KH7UlIcBqP2WF5-aK7kPKIZKkR69brU8m67RAxLzHcT4OVQIKbArR0NMnZM_-NomtRrW2E6NMxUe6gtdOBngZmkzL5if2GeCwnIOBAcU/w1200-h630-p-k-no-nu/tohanoi.jpg"
+        },
+        {
+          "id": "http://www.bbc.co.uk/programmes/p0jdllq2",
+          "author": "More or Less: Behind the Stats",
+          "description": "We unpick the idea that women outnumber men by 14 to 1 as casualties of natural disasters",
+          "link": "http://www.bbc.co.uk/programmes/p0jdllq2",
+          "publishedOn": "2024-07-27T05:00:00.000Z",
+          "wordCount": 1460,
+          "title": "Are women 14 times more likely to die in natural disasters?",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0jdlgs2.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-27.html",
+          "author": "Pat'sBlog",
+          "description": "But just as much as it is easy to find the differential of a given quantity, so it is difficult to find the integral of a given differenti...",
+          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-27.html",
+          "publishedOn": "2024-07-27T04:00:00.000Z",
+          "wordCount": 7344,
+          "title": "On This Day in Math - July 27",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjmLlAS1SLAWDi0juP-dnBxh_elPKlPIBpIm4IMoE_fGz_MT3NLGpeJkPYJUxO0Qcqxay1mh_QIklXoPiR_0x-SBz3rg9I2KPyN9TFftoZVauXaxQi4nXdyisXICTEE7UsUb4siB8HMb4/w1200-h630-p-k-no-nu/july+27.jpg"
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757125738411524096",
+          "author": "Thales’ circles",
+          "description": "Give me a map of the midwest how you imagine it, and don't just use state lines, show me how you think the cultural area of the midwest actually exists in the US",
+          "link": "https://thalescircles.tumblr.com/post/757125738411524096",
+          "publishedOn": "2024-07-27T03:36:11.000Z",
+          "wordCount": 901,
+          "title": "Give me a map of the midwest how you imagine it, and don&rsquo;t just use state lines, show me how you&hellip;",
+          "imageUrl": "https://64.media.tumblr.com/3504a7a262df084a5392ab394454b610/b2055492ccfd2627-09/s1280x1920/78981029477cfa44c2fdf70f1b39bcfed204cbd0.png"
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757125638880657409",
+          "author": "Thales’ circles",
+          "description": "do you pronounce \"gerrymander\" like \"Gary mander\"?\nyes\nno\nno\nno\nno\nno\nno\nno\nno\nno\nunsure\n[show results]",
+          "link": "https://thalescircles.tumblr.com/post/757125638880657409",
+          "publishedOn": "2024-07-27T03:34:36.000Z",
+          "wordCount": 533,
+          "title": "No title",
+          "imageUrl": "https://64.media.tumblr.com/60d0454e350e152a9a2d1ebcb717b3a3/79630d324405f5c8-b7/s1280x1920/999a55e0462f44ebd10596839434b7cd90529e4d.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757114312563326976",
+          "author": "Pure Numbers Daily Blog",
+          "description": "(7 + 2 - 6)! = 2 + 4\nAlso:\n7 - 2 = 6 - (2 / √4)\nAlso:\n(7 * 2) - 6 = 2 * 4",
+          "link": "https://purenumbers.tumblr.com/post/757114312563326976",
+          "publishedOn": "2024-07-27T00:34:34.000Z",
+          "wordCount": 1791,
+          "title": "7/26/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/27/jasper-half-gone/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/27/jasper-half-gone/",
+          "publishedOn": "2024-07-26T22:24:25.000Z",
+          "wordCount": 2356,
+          "title": "Jasper half-gone",
+          "imageUrl": "https://img.rasset.ie/0020aa1f-800.jpg"
+        },
+        {
           "id": "https://poetrywithmathematics.blogspot.com/2024/07/a-nickel-dime-dollar_26.html",
           "author": "Intersections -- Poetry with Mathematics",
           "description": "mathematics poetry",
@@ -4134,136 +4334,6 @@
           "wordCount": 448,
           "title": "marlynnofmany:\n\nI hope this photographer won a prize",
           "imageUrl": "https://64.media.tumblr.com/5f06ffdff8cf11a20bb349c71d63c311/96120df6240b925b-54/s1280x1920/79bf1ca0637e420e1e8467afec63729251cd6ac3.jpg"
-        },
-        {
-          "id": "https://mathtourist.blogspot.com/2024/06/montana-ferns.html",
-          "author": "The Mathematical Tourist",
-          "description": "Tizer Botanic Gardens & Arboretum , Jefferson City, Montana, 2024. Photo by I. Peterson",
-          "link": "https://mathtourist.blogspot.com/2024/06/montana-ferns.html",
-          "publishedOn": "2024-06-28T12:00:00.000Z",
-          "wordCount": 2040,
-          "title": "Montana Ferns",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRG9IdG-cByLwXkM8Np0kx9WEM9dBH8BPFOi7lyqNXf2r6r0gq6s9Ji5fRoWlMAnJ0xoevNNRVbTFQHDj5aNg0Hki_KavvaV5wuoOGOOAIRcIu6g1OV0WMgpb1lQ18MA5A0b4EK15kicFBkcmMCPrIVL0l3GVKWuU5D6FNdcriEl7DkTnUwMpA/w1200-h630-p-k-no-nu/PXL_20240619_203811261.jpg"
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/06/the-enshttification-of-everything.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "I've never been a big fan of On the Media --they've always struck me as too wimpy for the job at hand -- but I am a big fan of Cory Doctor...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/06/the-enshttification-of-everything.html",
-          "publishedOn": "2024-06-28T11:30:00.000Z",
-          "wordCount": 3982,
-          "title": "\"The Ensh*ttification of Everything\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=8074",
-          "author": "Shtetl-Optimized",
-          "description": "Dana, the kids, and I got back to the US last week after a month spent in England and then Israel. We decided to visit Israel because … uhh, we heard there’s never been a better time. W…",
-          "link": "https://scottaaronson.blog/?p=8074",
-          "publishedOn": "2024-06-27T23:32:45.000Z",
-          "wordCount": 40928,
-          "title": "“Never A Better Time to Visit”: Our Post-October-7 Trip to Israel",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
-          "id": "https://www.simonsfoundation.org/2024/06/27/bill-ford-and-andrew-golden-join-simons-foundation-board-of-trustees/",
-          "author": "Simons Foundation",
-          "description": "",
-          "link": "https://www.simonsfoundation.org/2024/06/27/bill-ford-and-andrew-golden-join-simons-foundation-board-of-trustees/",
-          "publishedOn": "2024-06-27T20:32:35.000Z",
-          "wordCount": 1709,
-          "title": "Bill Ford and Andrew Golden Join Simons Foundation Board of Trustees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://justindomke.wordpress.com/2024/06/27/three-recent-talks/",
-          "author": "Justin Domke",
-          "description": "Since I’ve slowed down with interesting blogging, I thought I’d do some lazy self-promotion and share the slides for three recent talks. The first (hosted by the Finnish Center for Arti…",
-          "link": "https://justindomke.wordpress.com/2024/06/27/three-recent-talks/",
-          "publishedOn": "2024-06-27T16:15:03.000Z",
-          "wordCount": 3784,
-          "title": "Three recent talks",
-          "imageUrl": "https://justindomke.wordpress.com/wp-content/uploads/2024/06/image-12.png"
-        },
-        {
-          "id": "https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/",
-          "author": "Logic Matters",
-          "description": "A few days away, staying in a familiar cottage near Aldeburgh, less than two hours from home. And the best weather we have ever had here. Usually, at least in our memory, it is windswept and intermittent rain: this time, warm sun and welcome breezes. So, favourite walks, and favourite places to eat. Very relaxing. […]",
-          "link": "https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/",
-          "publishedOn": "2024-06-27T16:10:50.000Z",
-          "wordCount": 4459,
-          "title": "Postcard from Aldeburgh",
-          "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/Aldeburgh-1024x768.jpeg"
-        },
-        {
-          "id": "https://orinanobworld.blogspot.com/2024/06/a-sorting-adventure-in-r.html",
-          "author": "OR in an OB World",
-          "description": "Ramblings about operations research, mathematical optimization and (mostly open-source) software.",
-          "link": "https://orinanobworld.blogspot.com/2024/06/a-sorting-adventure-in-r.html",
-          "publishedOn": "2024-06-27T16:00:00.000Z",
-          "wordCount": 3833,
-          "title": "A Sorting Adventure in R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unizor.blogspot.com/2024/06/geometry-10-unizorcom-math-problems.html",
-          "author": "Unizor - Creative Mind through Art of Mathematics",
-          "description": "Notes to a video lecture on http://www.unizor.com    Geometry+ 10   Problem A   Given two parallel lines and a segment AB  on one of them. ...",
-          "link": "https://unizor.blogspot.com/2024/06/geometry-10-unizorcom-math-problems.html",
-          "publishedOn": "2024-06-27T15:45:00.000Z",
-          "wordCount": 2243,
-          "title": "Geometry+ 10: UNIZOR.COM - Math+ & Problems - Geometry",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uVZ3bc0tEdyzEijF898tQCs0MlGnSFmAfmjzSE4C_vQ_Sw93TWPjWDiiR-zG9aR0_CDsfXbwUMiOkilxVG3sKa5offOZXdwomoRKGechh6iIKhLQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/",
-          "author": "Simons Foundation",
-          "description": "",
-          "link": "https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/",
-          "publishedOn": "2024-06-27T14:00:31.000Z",
-          "wordCount": 1492,
-          "title": "Watch: Drag Queens, Community and the Total Solar Eclipse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://plus.maths.org/content/how-improve-mathematics",
-          "author": "plus.maths.org",
-          "description": "Find out how a story starting with the simple notion of counting ends in a revolutionary new way of doing maths that uses computers to harness the power of human collaboration!",
-          "link": "https://plus.maths.org/content/how-improve-mathematics",
-          "publishedOn": "2024-06-27T14:00:19.000Z",
-          "wordCount": 3137,
-          "title": "How to (im)prove mathematics",
-          "imageUrl": "https://plus.maths.org/content/sites/plus.maths.org/files/carousel_11.png"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/06/27/marquand/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/06/27/marquand/",
-          "publishedOn": "2024-06-27T13:40:34.000Z",
-          "wordCount": null,
-          "title": "Marquand.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cmouhot.wordpress.com/2024/06/27/tribune-commune-smf-smai/",
-          "author": "Clément Mouhot",
-          "description": "Les Conseils d’Administration de la SFM et de la SMAI expriment leur profonde inquiétude face à l’arrivée de l’extrême droite aux portes du pouvoir en France. Les déclarations réc…",
-          "link": "https://cmouhot.wordpress.com/2024/06/27/tribune-commune-smf-smai/",
-          "publishedOn": "2024-06-27T13:24:40.000Z",
-          "wordCount": 2810,
-          "title": "Tribune commune SMF-SMAI",
-          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721694863"
-        },
-        {
-          "id": "https://www.johndcook.com/blog/2024/06/27/polygon-circumscribing-constant/",
-          "author": "John D. Cook",
-          "description": "Limit of a doodle. Draw a circle, then a triangle around it. Then a square and a circle around it. Then a pentagon and a circle around it. ...",
-          "link": "https://www.johndcook.com/blog/2024/06/27/polygon-circumscribing-constant/",
-          "publishedOn": "2024-06-27T13:23:03.000Z",
-          "wordCount": 1677,
-          "title": "Limit of a doodle",
-          "imageUrl": null
         }
       ]
     }

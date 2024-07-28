@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-27T00:33:45.610Z</updated>
+    <updated>2024-07-28T00:37:46.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ben Recht on Meehl's Philosophical Psychology]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-07-27-1149/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-07-27-1149/"/>
+        <updated>2024-07-27T18:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.”
+Recht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl gave in 1989 at the University of Minnesota. In it, he surveys of the philosophy of science, lays out a framework for scientific debate, and critiques scientific practice. Recht summarizes his arguments, simplifies the ideas, provides examples, and offers his own commentary, considering today’s computerized world.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conway’s Absent King Trick]]></title>
+        <id>https://blog.tanyakhovanova.com/2024/07/conways-absent-king-trick/</id>
+        <link href="https://blog.tanyakhovanova.com/2024/07/conways-absent-king-trick/"/>
+        <updated>2024-07-27T18:21:12.000Z</updated>
+        <author>
+            <name>Tanya Khovanova's Math Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 International Mathematical Olympiad Problem 4]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/07/27/2024-international-mathematical-olympiad-problem-4/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/07/27/2024-international-mathematical-olympiad-problem-4/"/>
+        <updated>2024-07-27T17:16:08.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tritone Substitutions]]></title>
+        <id>https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/</id>
+        <link href="https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"/>
+        <updated>2024-07-27T17:11:06.000Z</updated>
+        <summary type="html"><![CDATA[A ‘tritone substitution’ is a popular trick for making your music sound more sophisticated. I’ll show you a couple of videos with lots of examples. But since I’m mathematici…]]></summary>
+        <author>
+            <name>Azimuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[limited principle of omniscience]]></title>
+        <id>https://ncatlab.org/nlab/show/limited+principle+of+omniscience</id>
+        <link href="https://ncatlab.org/nlab/show/limited+principle+of+omniscience"/>
+        <updated>2024-07-27T16:23:39.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weak limited principle of omniscience]]></title>
+        <id>https://ncatlab.org/nlab/show/weak+limited+principle+of+omniscience</id>
+        <link href="https://ncatlab.org/nlab/show/weak+limited+principle+of+omniscience"/>
+        <updated>2024-07-27T15:57:54.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin of Republic of Cameroon]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/coin-of-republic-of-cameroon.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/coin-of-republic-of-cameroon.html"/>
+        <updated>2024-07-27T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Coin of Republic of Cameroon. https://im-possible.info/english/art/coins/cameroon.html#2024]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lesser limited principle of omniscience]]></title>
+        <id>https://ncatlab.org/nlab/show/lesser+limited+principle+of+omniscience</id>
+        <link href="https://ncatlab.org/nlab/show/lesser+limited+principle+of+omniscience"/>
+        <updated>2024-07-27T15:21:57.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[knight-lautrec:]]></title>
+        <id>https://thalescircles.tumblr.com/post/757165575113965568</id>
+        <link href="https://thalescircles.tumblr.com/post/757165575113965568"/>
+        <updated>2024-07-27T14:09:22.000Z</updated>
+        <summary type="html"><![CDATA[knight-lautrec: “”]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Background on “fail fast”]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/27/background-on-fail-fast/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/27/background-on-fail-fast/"/>
+        <updated>2024-07-27T13:07:36.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend reads: Attending a predatory conference; zombie theories; difficult authors]]></title>
+        <id>https://retractionwatch.com/2024/07/27/weekend-reads-attending-a-predatory-conference-zombie-theories-difficult-authors/</id>
+        <link href="https://retractionwatch.com/2024/07/27/weekend-reads-attending-a-predatory-conference-zombie-theories-difficult-authors/"/>
+        <updated>2024-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Giant rat penis redux: AI-generated diagram, errors lead to retraction Elsevier in…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IsarMathLib 1.31.0: Pseudometric spaces as uniform spaces]]></title>
+        <id>https://slawekk.wordpress.com/2024/07/27/isarmathlib-1-31-0-pseudometric-spaces-as-uniform-spaces/</id>
+        <link href="https://slawekk.wordpress.com/2024/07/27/isarmathlib-1-31-0-pseudometric-spaces-as-uniform-spaces/"/>
+        <updated>2024-07-27T09:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Suppose $latex d: X\times X\rightarrow \mathbb{R}^+$ is a pseudometric and consider the collection of relations on $latex X$ defined by $latex \mathfrak{B} = \{ d^{-1}([0,b]): b >0\}$. $latex \m…]]></summary>
+        <author>
+            <name>Formalized Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non solo applausi e medagliette – Giornata conclusiva del 31° Rally Matematico Transalpino a Firenze]]></title>
+        <id>https://maddmaths.simai.eu/didattica/rally-firenze-2024/</id>
+        <link href="https://maddmaths.simai.eu/didattica/rally-firenze-2024/"/>
+        <updated>2024-07-27T06:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Il primo giugno 2024 si è tenuto a Firenze la 31° edizione del Rally Matematico Transalpino a Firenze. Pubblichiamo un’appassionato reportage di un partecipato collettivo di organizzatrici e organizzatori. Introduzione Il primo giugno scorso per noi è stato un giorno importante, ma prima di parlarne ci piace raccontare alle colleghe e ai colleghi più giovani […]]]></summary>
+        <author>
+            <name>Maddmaths!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tower of Hanoi  And two (three?) clever solutions]]></title>
+        <id>https://pballew.blogspot.com/2024/07/the-tower-of-hanoi-and-two-three-clever.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/the-tower-of-hanoi-and-two-three-clever.html"/>
+        <updated>2024-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back awhile, in a  blog about Fibonacci , I mentioned that Edouard Lucas had created the "Tower of Hanoi" game and received comments and ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are women 14 times more likely to die in natural disasters?]]></title>
+        <id>http://www.bbc.co.uk/programmes/p0jdllq2</id>
+        <link href="http://www.bbc.co.uk/programmes/p0jdllq2"/>
+        <updated>2024-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We unpick the idea that women outnumber men by 14 to 1 as casualties of natural disasters]]></summary>
+        <author>
+            <name>More or Less: Behind the Stats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 27]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-27.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-27.html"/>
+        <updated>2024-07-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[But just as much as it is easy to find the differential of a given quantity, so it is difficult to find the integral of a given differenti...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give me a map of the midwest how you imagine it, and don&rsquo;t just use state lines, show me how you&hellip;]]></title>
+        <id>https://thalescircles.tumblr.com/post/757125738411524096</id>
+        <link href="https://thalescircles.tumblr.com/post/757125738411524096"/>
+        <updated>2024-07-27T03:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Give me a map of the midwest how you imagine it, and don't just use state lines, show me how you think the cultural area of the midwest actually exists in the US]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No title]]></title>
+        <id>https://thalescircles.tumblr.com/post/757125638880657409</id>
+        <link href="https://thalescircles.tumblr.com/post/757125638880657409"/>
+        <updated>2024-07-27T03:34:36.000Z</updated>
+        <summary type="html"><![CDATA[do you pronounce "gerrymander" like "Gary mander"?
+yes
+no
+no
+no
+no
+no
+no
+no
+no
+no
+unsure
+[show results]]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/26/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757114312563326976</id>
+        <link href="https://purenumbers.tumblr.com/post/757114312563326976"/>
+        <updated>2024-07-27T00:34:34.000Z</updated>
+        <summary type="html"><![CDATA[(7 + 2 - 6)! = 2 + 4
+Also:
+7 - 2 = 6 - (2 / √4)
+Also:
+(7 * 2) - 6 = 2 * 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasper half-gone]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/27/jasper-half-gone/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/27/jasper-half-gone/"/>
+        <updated>2024-07-26T22:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Nickel, a Dime, a Dollar . . .]]></title>
         <id>https://poetrywithmathematics.blogspot.com/2024/07/a-nickel-dime-dollar_26.html</id>
@@ -4140,133 +4351,6 @@ I hope this photographer won a prize]]></title>
         <summary type="html"><![CDATA[marlynnofmany: “I hope this photographer won a prize ”]]></summary>
         <author>
             <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Montana Ferns]]></title>
-        <id>https://mathtourist.blogspot.com/2024/06/montana-ferns.html</id>
-        <link href="https://mathtourist.blogspot.com/2024/06/montana-ferns.html"/>
-        <updated>2024-06-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tizer Botanic Gardens & Arboretum , Jefferson City, Montana, 2024. Photo by I. Peterson]]></summary>
-        <author>
-            <name>The Mathematical Tourist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["The Ensh*ttification of Everything"]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/06/the-enshttification-of-everything.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/06/the-enshttification-of-everything.html"/>
-        <updated>2024-06-28T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I've never been a big fan of On the Media --they've always struck me as too wimpy for the job at hand -- but I am a big fan of Cory Doctor...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Never A Better Time to Visit”: Our Post-October-7 Trip to Israel]]></title>
-        <id>https://scottaaronson.blog/?p=8074</id>
-        <link href="https://scottaaronson.blog/?p=8074"/>
-        <updated>2024-06-27T23:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Dana, the kids, and I got back to the US last week after a month spent in England and then Israel. We decided to visit Israel because … uhh, we heard there’s never been a better time. W…]]></summary>
-        <author>
-            <name>Shtetl-Optimized</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Ford and Andrew Golden Join Simons Foundation Board of Trustees]]></title>
-        <id>https://www.simonsfoundation.org/2024/06/27/bill-ford-and-andrew-golden-join-simons-foundation-board-of-trustees/</id>
-        <link href="https://www.simonsfoundation.org/2024/06/27/bill-ford-and-andrew-golden-join-simons-foundation-board-of-trustees/"/>
-        <updated>2024-06-27T20:32:35.000Z</updated>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three recent talks]]></title>
-        <id>https://justindomke.wordpress.com/2024/06/27/three-recent-talks/</id>
-        <link href="https://justindomke.wordpress.com/2024/06/27/three-recent-talks/"/>
-        <updated>2024-06-27T16:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Since I’ve slowed down with interesting blogging, I thought I’d do some lazy self-promotion and share the slides for three recent talks. The first (hosted by the Finnish Center for Arti…]]></summary>
-        <author>
-            <name>Justin Domke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postcard from Aldeburgh]]></title>
-        <id>https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/</id>
-        <link href="https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/"/>
-        <updated>2024-06-27T16:10:50.000Z</updated>
-        <summary type="html"><![CDATA[A few days away, staying in a familiar cottage near Aldeburgh, less than two hours from home. And the best weather we have ever had here. Usually, at least in our memory, it is windswept and intermittent rain: this time, warm sun and welcome breezes. So, favourite walks, and favourite places to eat. Very relaxing. […]]]></summary>
-        <author>
-            <name>Logic Matters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Sorting Adventure in R]]></title>
-        <id>https://orinanobworld.blogspot.com/2024/06/a-sorting-adventure-in-r.html</id>
-        <link href="https://orinanobworld.blogspot.com/2024/06/a-sorting-adventure-in-r.html"/>
-        <updated>2024-06-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ramblings about operations research, mathematical optimization and (mostly open-source) software.]]></summary>
-        <author>
-            <name>OR in an OB World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry+ 10: UNIZOR.COM - Math+ & Problems - Geometry]]></title>
-        <id>https://unizor.blogspot.com/2024/06/geometry-10-unizorcom-math-problems.html</id>
-        <link href="https://unizor.blogspot.com/2024/06/geometry-10-unizorcom-math-problems.html"/>
-        <updated>2024-06-27T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Geometry+ 10   Problem A   Given two parallel lines and a segment AB  on one of them. ...]]></summary>
-        <author>
-            <name>Unizor - Creative Mind through Art of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch: Drag Queens, Community and the Total Solar Eclipse]]></title>
-        <id>https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/</id>
-        <link href="https://www.simonsfoundation.org/2024/06/27/watch-drag-queens-community-and-the-total-solar-eclipse/"/>
-        <updated>2024-06-27T14:00:31.000Z</updated>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to (im)prove mathematics]]></title>
-        <id>https://plus.maths.org/content/how-improve-mathematics</id>
-        <link href="https://plus.maths.org/content/how-improve-mathematics"/>
-        <updated>2024-06-27T14:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Find out how a story starting with the simple notion of counting ends in a revolutionary new way of doing maths that uses computers to harness the power of human collaboration!]]></summary>
-        <author>
-            <name>plus.maths.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marquand.]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/27/marquand/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/27/marquand/"/>
-        <updated>2024-06-27T13:40:34.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tribune commune SMF-SMAI]]></title>
-        <id>https://cmouhot.wordpress.com/2024/06/27/tribune-commune-smf-smai/</id>
-        <link href="https://cmouhot.wordpress.com/2024/06/27/tribune-commune-smf-smai/"/>
-        <updated>2024-06-27T13:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Les Conseils d’Administration de la SFM et de la SMAI expriment leur profonde inquiétude face à l’arrivée de l’extrême droite aux portes du pouvoir en France. Les déclarations réc…]]></summary>
-        <author>
-            <name>Clément Mouhot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limit of a doodle]]></title>
-        <id>https://www.johndcook.com/blog/2024/06/27/polygon-circumscribing-constant/</id>
-        <link href="https://www.johndcook.com/blog/2024/06/27/polygon-circumscribing-constant/"/>
-        <updated>2024-06-27T13:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Limit of a doodle. Draw a circle, then a triangle around it. Then a square and a circle around it. Then a pentagon and a circle around it. ...]]></summary>
-        <author>
-            <name>John D. Cook</name>
         </author>
     </entry>
 </feed>
