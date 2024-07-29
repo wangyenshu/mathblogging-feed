@@ -6,6 +6,136 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://mindyourdecisions.com/blog/2024/07/28/google-ai-can-now-solve-olympiad-problems/",
+          "author": "Mind Your Decisions",
+          "description": "",
+          "link": "https://mindyourdecisions.com/blog/2024/07/28/google-ai-can-now-solve-olympiad-problems/",
+          "publishedOn": "2024-07-28T18:47:22.000Z",
+          "wordCount": 3910,
+          "title": "Google AI can now solve Olympiad problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://inquiryintoinquiry.com/2024/07/28/relations-their-relatives-discussion-24/",
+          "author": "Inquiry Into Inquiry",
+          "description": "Re: Daniel Everett • June 20, 2024 DE: Among the several ideas Peirce and Frege came up with was the idea of a predicate before and after it is linked to its arguments.  Frege called the …",
+          "link": "https://inquiryintoinquiry.com/2024/07/28/relations-their-relatives-discussion-24/",
+          "publishedOn": "2024-07-28T16:00:12.000Z",
+          "wordCount": 5599,
+          "title": "Relations & Their Relatives • Discussion 24",
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1722213349"
+        },
+        {
+          "id": "https://unizor.blogspot.com/2024/07/vectors-03-direction-cosines-unizorcom.html",
+          "author": "Unizor - Creative Mind through Art of Mathematics",
+          "description": "Notes to a video lecture on http://www.unizor.com    Vectors+ 03 - Direction Cosines   Problem A   Find three-dimensional vector V (v 1 ,v ...",
+          "link": "https://unizor.blogspot.com/2024/07/vectors-03-direction-cosines-unizorcom.html",
+          "publishedOn": "2024-07-28T14:02:00.000Z",
+          "wordCount": 2165,
+          "title": "Vectors+ 03 - Direction Cosines: UNIZOR.COM - Math+ & Problems - Vectors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uacBjKUDh6JUoVGOs5e3_UU3HTdhU8zTXpUVuNEMnz4KqQ4NCS0xRIGEZ10oz4lio8CM00m4JsdgtCBRBxkaqBgxkcX_N-0xN3kms0xh50sOzd=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/28/unusual-betting-patterns-with-several-temple-games-its-martingale-time-baby/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/28/unusual-betting-patterns-with-several-temple-games-its-martingale-time-baby/",
+          "publishedOn": "2024-07-28T13:59:52.000Z",
+          "wordCount": null,
+          "title": "“Unusual Betting Patterns With Several Temple Games”:  It’s martingale time, baby!",
+          "imageUrl": null
+        },
+        {
+          "id": "http://impossible-world.blogspot.com/2024/07/wooden-sculptures.html",
+          "author": "Impossible world site blog",
+          "description": "Wooden sculptures by Wim Zwaan   https://im-possible.info/english/art/sculpture/wim-zwaan.html",
+          "link": "http://impossible-world.blogspot.com/2024/07/wooden-sculptures.html",
+          "publishedOn": "2024-07-28T13:21:00.000Z",
+          "wordCount": 2370,
+          "title": "Wooden sculptures",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhyphenhyphen6YkAXFCFN8_CvaBllp8iDfwGzz_0o29Bl4CqYQdlk_ye_1mqfWxLJnRzFfBd-zt1TkqBPKKGwdcegt28_Ehm8GHSZoh5OfLA5NSmjxn4N6RUNTzUn_ow-vvd1BdzYd-eEqxYFGa3D1NepKwgOC9x4zSL3RW28zrALmwFrp47F1Qa2jKcbeVniJWm9i/w1200-h630-p-k-no-nu/002-2.jpg"
+        },
+        {
+          "id": "https://blog.computationalcomplexity.org/2024/07/in-future-we-will-all-have-songs.html",
+          "author": "Computational Complexity",
+          "description": "In response to my blog post about how its easier to FIND novelty songs (and other things) than it used to be (see  here ) Lance showed how e...",
+          "link": "https://blog.computationalcomplexity.org/2024/07/in-future-we-will-all-have-songs.html",
+          "publishedOn": "2024-07-28T12:23:00.000Z",
+          "wordCount": 5008,
+          "title": "In the future we will all have songs written about us, and it will be Lance's fault.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://colleenyoung.org/2024/07/28/functional-skills/",
+          "author": "Mathematics, Learning and Technology",
+          "description": "Functional Skills - Maths",
+          "link": "https://colleenyoung.org/2024/07/28/functional-skills/",
+          "publishedOn": "2024-07-28T07:46:01.000Z",
+          "wordCount": 2889,
+          "title": "Functional Skills",
+          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/07/KS4-Menu.png"
+        },
+        {
+          "id": "https://colleenyoung.org/2024/07/28/functional-skills/",
+          "author": "Mathematics, Learning and Technology",
+          "description": "Functional Skills - Maths",
+          "link": "https://colleenyoung.org/2024/07/28/functional-skills/",
+          "publishedOn": "2024-07-28T07:46:01.000Z",
+          "wordCount": 2889,
+          "title": "Functional Skills",
+          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/07/KS4-Menu.png"
+        },
+        {
+          "id": "https://maddmaths.simai.eu/news-2/news-news-2/ia-olimpiadi/",
+          "author": "Maddmaths!",
+          "description": "La notizia non arriva completamente a sorpresa: alcuni segnali, alcune anticipazioni erano nell’aria da alcuni mesi. Ma sapere che un’intelligenza artificiale è riuscita a risolvere correttamente 4 problemi dei 6 dell’ultima Olimpiade Internazionale di Matematica (IMO) fa comunque un certo effetto. Ce ne parla Luigi Amedeo Bianchi. Se avesse partecipato come essere umano, il progetto […]",
+          "link": "https://maddmaths.simai.eu/news-2/news-news-2/ia-olimpiadi/",
+          "publishedOn": "2024-07-28T06:00:56.000Z",
+          "wordCount": 3692,
+          "title": "Un’IA medaglia d’argento alle IMO2024?",
+          "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/44bce88a-71cd-4d76-a9ba-76068ac105f4.jpeg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-28.html",
+          "author": "Pat'sBlog",
+          "description": "It appears to me that if one wishes to make progress in mathematics one should study the masters and not the pupils. Quoted in O Ore's, ...",
+          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-28.html",
+          "publishedOn": "2024-07-28T04:00:00.000Z",
+          "wordCount": 6921,
+          "title": "On This Day in Math - July 28",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP6wI2o3Ik4hyphenhyphenAZ9k5gjNXIqHgkx6QOcNrCz2v-f9dm5eBZHd7Y_gOpkxY2Qg-ixf5Krlh0luh4MwKUsoVj_BvWQUTtUzrkKQdvkTjdCMCMpL0D-Pwk_NfTtL0va3tz897lgoZoWUutIA/w1200-h630-p-k-no-nu/july+28.jpg"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/ETCS+plus+epsilon",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/ETCS+plus+epsilon",
+          "publishedOn": "2024-07-28T01:46:37.000Z",
+          "wordCount": 616,
+          "title": "ETCS plus epsilon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757202788061151232",
+          "author": "Pure Numbers Daily Blog",
+          "description": "7 + 2 - 7 = 2 = √4\nAlso:\n7 - 2 = 7 + 2 - 4\nAlso:\n(7 - 2 + 7) * 2 = 4!",
+          "link": "https://purenumbers.tumblr.com/post/757202788061151232",
+          "publishedOn": "2024-07-28T00:00:51.000Z",
+          "wordCount": 1791,
+          "title": "7/27/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/28/celebrating-the-career-of-adrian-raftery/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/28/celebrating-the-career-of-adrian-raftery/",
+          "publishedOn": "2024-07-27T22:24:54.000Z",
+          "wordCount": 2456,
+          "title": "celebrating the career of Adrian Raftery",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/04/temp-6.png"
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-07-27-1149/",
           "author": "Math ∩ Programming",
           "description": "Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.”\nRecht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl gave in 1989 at the University of Minnesota. In it, he surveys of the philosophy of science, lays out a framework for scientific debate, and critiques scientific practice. Recht summarizes his arguments, simplifies the ideas, provides examples, and offers his own commentary, considering today’s computerized world.",
@@ -103,6 +233,16 @@
           "publishedOn": "2024-07-27T13:07:36.000Z",
           "wordCount": null,
           "title": "Background on “fail fast”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Garth+Warner",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Garth+Warner",
+          "publishedOn": "2024-07-27T12:46:26.000Z",
+          "wordCount": 732,
+          "title": "Garth Warner",
           "imageUrl": null
         },
         {
@@ -4254,86 +4394,6 @@
           "wordCount": null,
           "title": "Toward a Shnerbian theory that establishes connections between the complexity (nonlinearity, chaotic dynamics, number of components) of a system and the capacity to infer causality from datasets",
           "imageUrl": null
-        },
-        {
-          "id": "http://impossible-world.blogspot.com/2024/06/animation-with-impossible-ring.html",
-          "author": "Impossible world site blog",
-          "description": "A short animation with impossible ring by Gurlaldeep Singh. See it at  https://im-possible.info/english/anim/online-video/local-gurlaldeep...",
-          "link": "http://impossible-world.blogspot.com/2024/06/animation-with-impossible-ring.html",
-          "publishedOn": "2024-06-29T11:20:00.000Z",
-          "wordCount": 2430,
-          "title": "Animation with impossible ring",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCFpI88VktxruepaiOaTsomZAQZfzlr_-ZslQptW_flQznuGdzgZ7h0IBNnQYSiAPRO3L3hVW-MEJk70ZCdqazIoMVw2w-qG6WGY9Qz7iz9eVm_m7c7Gzc0VNUeJ847iY-wNW964wyZluZphVkbl5EPJwd2zGzN9tU_ISuacBvfTvmLa9okbshAlpMVse9/w1200-h630-p-k-no-nu/screenshot.jpg"
-        },
-        {
-          "id": "http://www.bbc.co.uk/programmes/p0j74zfs",
-          "author": "More or Less: Behind the Stats",
-          "description": "We investigate changes to the way the US gathers their maternal mortality statistics",
-          "link": "http://www.bbc.co.uk/programmes/p0j74zfs",
-          "publishedOn": "2024-06-29T05:00:00.000Z",
-          "wordCount": 1490,
-          "title": "How a tick box doubled the US maternal mortality rates.",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0j74j1d.jpg"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/06/blog-post_29.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/06/blog-post_29.html",
-          "publishedOn": "2024-06-29T04:17:00.000Z",
-          "wordCount": 4282,
-          "title": "Στερεομετρία για παιδάκια",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_spwfvTrL1tgsoZaP8QINXbYmQTr7H3-v2XIVCkE4SOs31F7-3epiM9hRXQmGg4llwtfzPXxl32t7VY_BLAW9F4Q87gKUHAOr8dY-gs4px1wckaUg=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/06/x.html",
-          "author": "Μαθη...μαγικά",
-          "description": "Δρούγας Θανάσης",
-          "link": "https://mathhmagic.blogspot.com/2024/06/x.html",
-          "publishedOn": "2024-06-29T04:15:00.000Z",
-          "wordCount": 4275,
-          "title": "X",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAl5kAxEeA-BQix1Yehyscj2iy-K8O1MVCFer98elqhAkWll3Qa3zmDrqBZupnK_sY0fSFnQOZAicFLTD2esKrCccAj9bGbgb6lMUeKkv-AebJv0whdg8BgWuvXBg9SHkNltKCIJ4SfFPpcyn-I5gOG_c-iaIz3tbBe49rF9c464hFivTTPk1eyb0G861X/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-06-29T062450.402.png"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
-          "link": "https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/",
-          "publishedOn": "2024-06-28T15:15:23.000Z",
-          "wordCount": 3089,
-          "title": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2018/07/ocr-transition-algebra-fractions.jpg"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
-          "link": "https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/",
-          "publishedOn": "2024-06-28T15:15:23.000Z",
-          "wordCount": 3089,
-          "title": "GCSE to A Level Transition, University Admissions Tests, end-of-term activities",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2018/07/ocr-transition-algebra-fractions.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/06/28/its-lumbar-time-wrong-inference-because-of-conditioning-on-a-reasonable-but-in-this-case-false-assumption/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/06/28/its-lumbar-time-wrong-inference-because-of-conditioning-on-a-reasonable-but-in-this-case-false-assumption/",
-          "publishedOn": "2024-06-28T13:51:04.000Z",
-          "wordCount": null,
-          "title": "It’s lumbar time:  Wrong inference because of conditioning on a reasonable, but in this case false, assumption.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thalescircles.tumblr.com/post/754536128904921088",
-          "author": "Thales’ circles",
-          "description": "marlynnofmany: “I hope this photographer won a prize ”",
-          "link": "https://thalescircles.tumblr.com/post/754536128904921088",
-          "publishedOn": "2024-06-28T13:35:26.000Z",
-          "wordCount": 448,
-          "title": "marlynnofmany:\n\nI hope this photographer won a prize",
-          "imageUrl": "https://64.media.tumblr.com/5f06ffdff8cf11a20bb349c71d63c311/96120df6240b925b-54/s1280x1920/79bf1ca0637e420e1e8467afec63729251cd6ac3.jpg"
         }
       ]
     }

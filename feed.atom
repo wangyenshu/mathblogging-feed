@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T00:37:46.435Z</updated>
+    <updated>2024-07-29T00:35:51.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google AI can now solve Olympiad problems]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/07/28/google-ai-can-now-solve-olympiad-problems/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/07/28/google-ai-can-now-solve-olympiad-problems/"/>
+        <updated>2024-07-28T18:47:22.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relations & Their Relatives • Discussion 24]]></title>
+        <id>https://inquiryintoinquiry.com/2024/07/28/relations-their-relatives-discussion-24/</id>
+        <link href="https://inquiryintoinquiry.com/2024/07/28/relations-their-relatives-discussion-24/"/>
+        <updated>2024-07-28T16:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Re: Daniel Everett • June 20, 2024 DE: Among the several ideas Peirce and Frege came up with was the idea of a predicate before and after it is linked to its arguments.  Frege called the …]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 03 - Direction Cosines: UNIZOR.COM - Math+ & Problems - Vectors]]></title>
+        <id>https://unizor.blogspot.com/2024/07/vectors-03-direction-cosines-unizorcom.html</id>
+        <link href="https://unizor.blogspot.com/2024/07/vectors-03-direction-cosines-unizorcom.html"/>
+        <updated>2024-07-28T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 03 - Direction Cosines   Problem A   Find three-dimensional vector V (v 1 ,v ...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Unusual Betting Patterns With Several Temple Games”:  It’s martingale time, baby!]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/28/unusual-betting-patterns-with-several-temple-games-its-martingale-time-baby/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/28/unusual-betting-patterns-with-several-temple-games-its-martingale-time-baby/"/>
+        <updated>2024-07-28T13:59:52.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wooden sculptures]]></title>
+        <id>http://impossible-world.blogspot.com/2024/07/wooden-sculptures.html</id>
+        <link href="http://impossible-world.blogspot.com/2024/07/wooden-sculptures.html"/>
+        <updated>2024-07-28T13:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Wooden sculptures by Wim Zwaan   https://im-possible.info/english/art/sculpture/wim-zwaan.html]]></summary>
+        <author>
+            <name>Impossible world site blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the future we will all have songs written about us, and it will be Lance's fault.]]></title>
+        <id>https://blog.computationalcomplexity.org/2024/07/in-future-we-will-all-have-songs.html</id>
+        <link href="https://blog.computationalcomplexity.org/2024/07/in-future-we-will-all-have-songs.html"/>
+        <updated>2024-07-28T12:23:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to my blog post about how its easier to FIND novelty songs (and other things) than it used to be (see  here ) Lance showed how e...]]></summary>
+        <author>
+            <name>Computational Complexity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Skills]]></title>
+        <id>https://colleenyoung.org/2024/07/28/functional-skills/</id>
+        <link href="https://colleenyoung.org/2024/07/28/functional-skills/"/>
+        <updated>2024-07-28T07:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Functional Skills - Maths]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Skills]]></title>
+        <id>https://colleenyoung.org/2024/07/28/functional-skills/</id>
+        <link href="https://colleenyoung.org/2024/07/28/functional-skills/"/>
+        <updated>2024-07-28T07:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Functional Skills - Maths]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un’IA medaglia d’argento alle IMO2024?]]></title>
+        <id>https://maddmaths.simai.eu/news-2/news-news-2/ia-olimpiadi/</id>
+        <link href="https://maddmaths.simai.eu/news-2/news-news-2/ia-olimpiadi/"/>
+        <updated>2024-07-28T06:00:56.000Z</updated>
+        <summary type="html"><![CDATA[La notizia non arriva completamente a sorpresa: alcuni segnali, alcune anticipazioni erano nell’aria da alcuni mesi. Ma sapere che un’intelligenza artificiale è riuscita a risolvere correttamente 4 problemi dei 6 dell’ultima Olimpiade Internazionale di Matematica (IMO) fa comunque un certo effetto. Ce ne parla Luigi Amedeo Bianchi. Se avesse partecipato come essere umano, il progetto […]]]></summary>
+        <author>
+            <name>Maddmaths!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 28]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-28.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-28.html"/>
+        <updated>2024-07-28T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It appears to me that if one wishes to make progress in mathematics one should study the masters and not the pupils. Quoted in O Ore's, ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETCS plus epsilon]]></title>
+        <id>https://ncatlab.org/nlab/show/ETCS+plus+epsilon</id>
+        <link href="https://ncatlab.org/nlab/show/ETCS+plus+epsilon"/>
+        <updated>2024-07-28T01:46:37.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/27/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757202788061151232</id>
+        <link href="https://purenumbers.tumblr.com/post/757202788061151232"/>
+        <updated>2024-07-28T00:00:51.000Z</updated>
+        <summary type="html"><![CDATA[7 + 2 - 7 = 2 = √4
+Also:
+7 - 2 = 7 + 2 - 4
+Also:
+(7 - 2 + 7) * 2 = 4!]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celebrating the career of Adrian Raftery]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/28/celebrating-the-career-of-adrian-raftery/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/28/celebrating-the-career-of-adrian-raftery/"/>
+        <updated>2024-07-27T22:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ben Recht on Meehl's Philosophical Psychology]]></title>
         <id>https://www.jeremykun.com/shortform/2024-07-27-1149/</id>
@@ -99,6 +230,15 @@ Recht has a table of contents for his blog series. It loosely tracks a set of le
         <updated>2024-07-27T13:07:36.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garth Warner]]></title>
+        <id>https://ncatlab.org/nlab/show/Garth+Warner</id>
+        <link href="https://ncatlab.org/nlab/show/Garth+Warner"/>
+        <updated>2024-07-27T12:46:26.000Z</updated>
+        <author>
+            <name>nLab</name>
         </author>
     </entry>
     <entry>
@@ -4271,86 +4411,6 @@ There were 667 PR]]></summary>
         <updated>2024-06-29T13:45:36.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animation with impossible ring]]></title>
-        <id>http://impossible-world.blogspot.com/2024/06/animation-with-impossible-ring.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/06/animation-with-impossible-ring.html"/>
-        <updated>2024-06-29T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A short animation with impossible ring by Gurlaldeep Singh. See it at  https://im-possible.info/english/anim/online-video/local-gurlaldeep...]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a tick box doubled the US maternal mortality rates.]]></title>
-        <id>http://www.bbc.co.uk/programmes/p0j74zfs</id>
-        <link href="http://www.bbc.co.uk/programmes/p0j74zfs"/>
-        <updated>2024-06-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We investigate changes to the way the US gathers their maternal mortality statistics]]></summary>
-        <author>
-            <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Στερεομετρία για παιδάκια]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/blog-post_29.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/blog-post_29.html"/>
-        <updated>2024-06-29T04:17:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/06/x.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/06/x.html"/>
-        <updated>2024-06-29T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Δρούγας Θανάσης]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></title>
-        <id>https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/</id>
-        <link href="https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/"/>
-        <updated>2024-06-28T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></title>
-        <id>https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/</id>
-        <link href="https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/"/>
-        <updated>2024-06-28T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s lumbar time:  Wrong inference because of conditioning on a reasonable, but in this case false, assumption.]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/28/its-lumbar-time-wrong-inference-because-of-conditioning-on-a-reasonable-but-in-this-case-false-assumption/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/28/its-lumbar-time-wrong-inference-because-of-conditioning-on-a-reasonable-but-in-this-case-false-assumption/"/>
-        <updated>2024-06-28T13:51:04.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marlynnofmany:
-
-I hope this photographer won a prize]]></title>
-        <id>https://thalescircles.tumblr.com/post/754536128904921088</id>
-        <link href="https://thalescircles.tumblr.com/post/754536128904921088"/>
-        <updated>2024-06-28T13:35:26.000Z</updated>
-        <summary type="html"><![CDATA[marlynnofmany: “I hope this photographer won a prize ”]]></summary>
-        <author>
-            <name>Thales’ circles</name>
         </author>
     </entry>
 </feed>
