@@ -6,6 +6,256 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/~distler/blog/archives/003546.html",
+          "author": "Musings",
+          "description": "",
+          "link": "https://golem.ph.utexas.edu/~distler/blog/archives/003546.html",
+          "publishedOn": "2024-07-30T19:56:37.000Z",
+          "wordCount": 987,
+          "title": "The Zinn-Justin Equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757454064568107008",
+          "author": "Thales’ circles",
+          "description": "Y’all need more She-Ra in your lives.",
+          "link": "https://thalescircles.tumblr.com/post/757454064568107008",
+          "publishedOn": "2024-07-30T18:34:47.000Z",
+          "wordCount": 778,
+          "title": "Y&rsquo;all need more She-Ra in your lives.",
+          "imageUrl": "https://64.media.tumblr.com/6763ac787fcefdf45032989637691a95/2f79258c89e6d098-b6/s1280x1920/31a6e20e1ae85b45015e99498fda82b68cbff99f.png"
+        },
+        {
+          "id": "https://mindyourdecisions.com/blog/2024/07/30/adults-stumped-by-2nd-grade-problem/",
+          "author": "Mind Your Decisions",
+          "description": "",
+          "link": "https://mindyourdecisions.com/blog/2024/07/30/adults-stumped-by-2nd-grade-problem/",
+          "publishedOn": "2024-07-30T17:20:24.000Z",
+          "wordCount": null,
+          "title": "Adults Stumped By 2nd Grade Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/30/statistical-factuality-versus-practicality-versus-poetry/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/30/statistical-factuality-versus-practicality-versus-poetry/",
+          "publishedOn": "2024-07-30T17:02:57.000Z",
+          "wordCount": null,
+          "title": "Statistical factuality versus practicality versus poetry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://halbtagsblog.de/2024/07/30/das-muss-das-boot-aushalten-denkende-klassenzimmer/",
+          "author": "Schule, Schulleitung, Familie, DIY",
+          "description": "Wirklich beeindruckt bin ich von meiner aktuellen Lektüre, die ich erst halb durchhabe, weil ich sie konsequent bearbeite und exzerpiere: \"Denkende",
+          "link": "https://halbtagsblog.de/2024/07/30/das-muss-das-boot-aushalten-denkende-klassenzimmer/",
+          "publishedOn": "2024-07-30T17:01:09.000Z",
+          "wordCount": 5076,
+          "title": "„Das muss das Boot aushalten“ & „Denkende Klassenzimmer“",
+          "imageUrl": "https://i0.wp.com/halbtagsblog.de/wp-content/uploads/2024/07/wp-17223561462143206803037027303838.jpg"
+        },
+        {
+          "id": "https://www.simonsfoundation.org/2024/07/30/simons-foundation-announce-the-simons-collaboration-on-moduli-of-varieties/",
+          "author": "Simons Foundation",
+          "description": "Simons Foundation Announce the Simons Collaboration on Moduli of Varieties on Simons Foundation",
+          "link": "https://www.simonsfoundation.org/2024/07/30/simons-foundation-announce-the-simons-collaboration-on-moduli-of-varieties/",
+          "publishedOn": "2024-07-30T15:51:55.000Z",
+          "wordCount": 1567,
+          "title": "Simons Foundation Announce the Simons Collaboration on Moduli of Varieties",
+          "imageUrl": "https://simonsfoundation.imgix.net/wp-content/uploads/2024/07/16144704/McKernan-Image-1-1-e1721838001757.png?auto=format&q=90"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/coefficient+system",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/coefficient+system",
+          "publishedOn": "2024-07-30T15:28:41.000Z",
+          "wordCount": 1041,
+          "title": "coefficient system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://inquiryintoinquiry.com/2024/07/30/relations-their-relatives-discussion-25/",
+          "author": "Inquiry Into Inquiry",
+          "description": "Re: Daniel Everett • Polyunsaturated Predicates Re: Relations & Their Relatives • Discussion 24 Dear Daniel, I’ve been meaning to get back to this as it keeps coming up and it&#…",
+          "link": "https://inquiryintoinquiry.com/2024/07/30/relations-their-relatives-discussion-25/",
+          "publishedOn": "2024-07-30T15:15:16.000Z",
+          "wordCount": 5807,
+          "title": "Relations & Their Relatives • Discussion 25",
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1722385678"
+        },
+        {
+          "id": "https://www.simonsfoundation.org/2024/07/30/simons-foundation-announces-the-simons-collaboration-on-new-frontiers-in-superconductivity/",
+          "author": "Simons Foundation",
+          "description": "Simons Foundation Announces the Simons Collaboration on New Frontiers in Superconductivity on Simons Foundation",
+          "link": "https://www.simonsfoundation.org/2024/07/30/simons-foundation-announces-the-simons-collaboration-on-new-frontiers-in-superconductivity/",
+          "publishedOn": "2024-07-30T15:12:53.000Z",
+          "wordCount": 1611,
+          "title": "Simons Foundation Announces the Simons Collaboration on New Frontiers in Superconductivity",
+          "imageUrl": "https://simonsfoundation.imgix.net/wp-content/uploads/2024/07/16150100/Screenshot-2024-07-16-at-2.58.32%E2%80%AFPM.png?auto=format&q=90"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/indexed+tensor+product",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/indexed+tensor+product",
+          "publishedOn": "2024-07-30T14:07:56.000Z",
+          "wordCount": 1019,
+          "title": "indexed tensor product",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Aaron+Naber",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Aaron+Naber",
+          "publishedOn": "2024-07-30T13:39:42.000Z",
+          "wordCount": 602,
+          "title": "Aaron Naber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Michael+T.+Anderson",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Michael+T.+Anderson",
+          "publishedOn": "2024-07-30T13:37:50.000Z",
+          "wordCount": 625,
+          "title": "Michael T. Anderson",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/30/56933/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/30/56933/",
+          "publishedOn": "2024-07-30T13:15:30.000Z",
+          "wordCount": 2360,
+          "title": "no mountain, no matter [blue wave#2]",
+          "imageUrl": "https://cyclingmagazine.ca/wp-content/uploads/2024/07/Womens-XCO-Olympics-NIck-Iwanyshin-10.jpg"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/30/free-textbook-on-applied-regression-and-causal-inference/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/30/free-textbook-on-applied-regression-and-causal-inference/",
+          "publishedOn": "2024-07-30T13:13:39.000Z",
+          "wordCount": null,
+          "title": "Free Textbook on Applied Regression and Causal Inference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.onofficemagazine.com/interiors/golden-age-hollywood-sandbox-films-new-york-hq",
+          "author": "Simons Foundation",
+          "description": "The new HQ of documentary production company Sandbox Films speaks to New York’s status as a cinematic icon as well as the old-school glamour of Hollywood’s Golden Age                Before cinema became an art form, it was",
+          "link": "https://www.onofficemagazine.com/interiors/golden-age-hollywood-sandbox-films-new-york-hq",
+          "publishedOn": "2024-07-30T13:02:24.000Z",
+          "wordCount": 4197,
+          "title": "The Golden Age of Hollywood is Alive and Well at Sandbox Films’ New York HQ, OnOffice",
+          "imageUrl": "https://www.onofficemagazine.com/wp-content/uploads/2024/07/5.-Reception_Sandbox_Civilian.jpeg"
+        },
+        {
+          "id": "https://mathwithbaddrawings.com/2024/07/30/a-roundup-of-recent-books-on-math/",
+          "author": "Math with Bad Drawings",
+          "description": "Dispatches from a culture of rearranged fragments.",
+          "link": "https://mathwithbaddrawings.com/2024/07/30/a-roundup-of-recent-books-on-math/",
+          "publishedOn": "2024-07-30T13:00:00.000Z",
+          "wordCount": 3768,
+          "title": "A roundup of recent books on math",
+          "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/07/preview.webp?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/07/know-your-narratives.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "I have to confess that, when I talk about narratives in the press, the term is often inconsistent, ambiguous and inchoate. Along with conven...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/07/know-your-narratives.html",
+          "publishedOn": "2024-07-30T11:30:00.000Z",
+          "wordCount": 4495,
+          "title": "Know your Narratives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://punkrockor.com/2024/07/30/informs-security-conference/",
+          "author": "Punk Rock Operations Research",
+          "description": "I have the pleasure of giving a keynote talk at the INFORMS Security Conference on July 30, 2024. My keynote talk was entitled, “Smarter Decisions for a Secure World: A Roadmap for Operations…",
+          "link": "https://punkrockor.com/2024/07/30/informs-security-conference/",
+          "publishedOn": "2024-07-30T11:18:00.000Z",
+          "wordCount": 3896,
+          "title": "INFORMS Security Conference",
+          "imageUrl": "https://punkrockor.com/wp-content/uploads/2018/07/cropped-punkrockicon.jpg?w=200"
+        },
+        {
+          "id": "https://maddmaths.simai.eu/ricerca/matematica-e-agrivoltaico/",
+          "author": "Maddmaths!",
+          "description": "Il 13 Febbraio di quest’anno è stato pubblicato sul sito del ministero il decreto che “promuove la realizzazione di sistemi agrivoltaici innovativi di natura sperimentale”. Il decreto mette a disposizione risorse per oltre un miliardo di euro con l’obiettivo di realizzare nuovi impianti per un totale di circa 1 GigaWatt (GW). Per comprendere l’entità della […]",
+          "link": "https://maddmaths.simai.eu/ricerca/matematica-e-agrivoltaico/",
+          "publishedOn": "2024-07-30T06:00:07.000Z",
+          "wordCount": 4510,
+          "title": "Matematica e agrivoltaico",
+          "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/castelvetro-8-e1722088986461.jpg"
+        },
+        {
+          "id": "http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/30/il-problema-di-luglio-671-tappezzeria-formato-a8/",
+          "author": "Rudi Matematici",
+          "description": "Inutile negarlo, un po’ ce la siamo andata a cercare. Dal punto di vista dei redattori di questa rubrica, il “problema dei problemi” (o, se vi piacciono i termini altisonanti, il “metaproblema”) maggiore non è tanto il contenuto matematico del problema da proporre, quanto il fatto che poi si debbano trasformare le soluzioni ricevute in [...]",
+          "link": "http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/30/il-problema-di-luglio-671-tappezzeria-formato-a8/",
+          "publishedOn": "2024-07-30T05:00:51.000Z",
+          "wordCount": 3976,
+          "title": "Il problema di Luglio (671) – Tappezzeria formato A8",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-30.html",
+          "author": "Pat'sBlog",
+          "description": "I have created a new universe from nothing. ~Janos Bolyai The 211th Day of the Year The 211th day of the year; 211 is a primorial prime,(a...",
+          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-30.html",
+          "publishedOn": "2024-07-30T04:00:00.000Z",
+          "wordCount": 6405,
+          "title": "On This Day in Math - July 30",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihgrI4WgzRya8QFxGlREuAXQjIKYE70XXcYLQLyfmZeEvlsOsvhTBUQZFeQyqCxQ1lsIUPOQNPlgoSeliwRBPCUYRvE_n7Pfb7P252nTIiTHDarOQbnwI-MtEt7LXgq_8S9QzxD5JImvk/w1200-h630-p-k-no-nu/july+30.jpg"
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2024/07/29/sphere-spilling-out/",
+          "author": "John D. Cook",
+          "description": "Counter-intuitive result about a sphere inside a lattice of spheres in high dimensions. Links to more posts on high-dimensional curiosities.",
+          "link": "https://www.johndcook.com/blog/2024/07/29/sphere-spilling-out/",
+          "publishedOn": "2024-07-30T02:12:11.000Z",
+          "wordCount": 1435,
+          "title": "Sphere spilling out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757384462186201088",
+          "author": "Pure Numbers Daily Blog",
+          "description": "(7 + 2) / 9 = 2 / √4\nAlso:\n7 - 2 - √9 = 2 = √4\nAlso:\n7 + 2 - √9 = 2 + 4",
+          "link": "https://purenumbers.tumblr.com/post/757384462186201088",
+          "publishedOn": "2024-07-30T00:08:29.000Z",
+          "wordCount": 1791,
+          "title": "7/29/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.mrwaddell.net/2024/07/29/hello-world/",
+          "author": "Success",
+          "description": "",
+          "link": "https://blog.mrwaddell.net/2024/07/29/hello-world/",
+          "publishedOn": "2024-07-29T22:39:15.000Z",
+          "wordCount": 1779,
+          "title": "Hello world!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/",
+          "author": "Xi'an's Og",
+          "description": "As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most a…",
+          "link": "https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/",
+          "publishedOn": "2024-07-29T22:24:56.000Z",
+          "wordCount": 2812,
+          "title": "differential privacy for Bayesian inference",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/04/dsc_0007.jpg"
+        },
+        {
           "id": "https://blog.tanyakhovanova.com/2024/07/fractal-word-search/",
           "author": "Tanya Khovanova's Math Blog",
           "description": "",
@@ -3026,6 +3276,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ncatlab.org/nlab/show/equivariant+higher+algebra+-+contents",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/equivariant+higher+algebra+-+contents",
+          "publishedOn": "2024-07-10T22:31:46.000Z",
+          "wordCount": 636,
+          "title": "equivariant higher algebra - contents",
+          "imageUrl": null
+        },
+        {
           "id": "https://ncatlab.org/nlab/show/iid+random+variables",
           "author": "nLab",
           "description": "",
@@ -4443,116 +4703,6 @@
           "publishedOn": "2024-07-01T13:38:27.000Z",
           "wordCount": null,
           "title": "Interactive and Automated Data Analysis:  thoughts from Di Cook, Hadley Wickham, Jessica Hullman, and others",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.johndcook.com/blog/2024/07/01/the-clausen-function/",
-          "author": "John D. Cook",
-          "description": "The Clausen function looks, and sounds, like something between a sine wave and a sawtooth wave.",
-          "link": "https://www.johndcook.com/blog/2024/07/01/the-clausen-function/",
-          "publishedOn": "2024-07-01T12:26:20.000Z",
-          "wordCount": 1464,
-          "title": "The Clausen function",
-          "imageUrl": null
-        },
-        {
-          "id": "https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/",
-          "author": "Lean community blog",
-          "description": "The last Month in Mathlib posts date from before the port started, in November 2022. We apologise for the momentary disappearance. We aim to keep it a monthly occurrence from now on.\nThere were 667 PR",
-          "link": "https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/",
-          "publishedOn": "2024-07-01T12:00:00.000Z",
-          "wordCount": 2511,
-          "title": "This month in Mathlib (May 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "The mystery of why this attack on the locavore movement was so bad when legitimate criticisms were so easy to come by would have first gott...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html",
-          "publishedOn": "2024-07-01T11:30:00.000Z",
-          "wordCount": 4519,
-          "title": "Twelve years ago -- Time to revisit the locavore non-debate",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uzV58r08ZNusCKqmOmW-sRwho47JrdOTwLkyTDsXQ7_GzHn6ZSbSA1WWCrbO8_45N6XRx9KPbehpBTwY4Zg5YqVElvHqLpHi2V6vq5GpGGM6FwEy7p0q7PFFzAzvI=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/bucky.html",
-          "author": "Μαθη...μαγικά",
-          "description": "Σαν σήμερα το 1893, απεβίωσε ο Αμερικανός Richard Buckminster Fuller. O Fuller (1895-1983) ήταν μια πολυσχιδής προσωπικότητα. Αρχιτέκτον...",
-          "link": "https://mathhmagic.blogspot.com/2024/07/bucky.html",
-          "publishedOn": "2024-07-01T04:16:00.000Z",
-          "wordCount": 4930,
-          "title": "Σαν σήμερα. Ο \"ακούραστος\" κύριος Bucky!",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwbkH9tSMsYBtG86ZOdUFfhYFwdz-4x0H71sUEIApOz30WYPxWrv-Rf4yGxTxLOKSdxnJuoXKt8qriUvEixyppw_yBAR1GF-GI8kPNHhqqmFznXbGiUFjGZ85b1nPTaFPkT87nP2NQRaU9hiYiDzZnv1gaCNSiepKhBI3wUJXqObSCAze_vILZJ8xfcDNx/w1200-h630-p-k-no-nu/449517396_1269475644422732_5704293979031700425_n.jpg"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post.html",
-          "publishedOn": "2024-07-01T03:57:00.000Z",
-          "wordCount": 5027,
-          "title": "Ξύλινος κύβος",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoU8lHoGsiOapAYlgU7vv2oPOD4IGnWR_Qow7smQFemrFTL_E95Ueyfr4FSjQrscQfbvpNTuUUVAzXIwHnUpo18lCZ4cK2geStd_sf7_gfCFl5TgyqQaAp3klx7BkLEOa8w_JwWhISbz88znJ3g9qcR5zppH-o6vDJI04Z9TvLNvLiVWBGuQZ-v1hZyvHg/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-01T063637.539.png"
-        },
-        {
-          "id": "https://girlsangle.wordpress.com/2024/06/30/girls-angle-bulletin-volume-17-number-5/",
-          "author": "Girls' Angle",
-          "description": "The electronic version of the latest issue of the Girls’ Angle Bulletin is now available on our website. We interview Skidmore College Program Director of the First Year Experience and Professor of…",
-          "link": "https://girlsangle.wordpress.com/2024/06/30/girls-angle-bulletin-volume-17-number-5/",
-          "publishedOn": "2024-07-01T02:12:21.000Z",
-          "wordCount": 3312,
-          "title": "Girls’ Angle Bulletin, Volume 17, Number 5",
-          "imageUrl": "https://girlsangle.wordpress.com/wp-content/uploads/2024/06/blog_063024_01.jpg"
-        },
-        {
-          "id": "https://blog.computationalcomplexity.org/2024/06/technology-1966-2006-2023.html",
-          "author": "Computational Complexity",
-          "description": "In 2013 I wrote a blog to celebrate Lance's 50th birthday by contrasting what things were like when Lance was 10 to when he was 50. That po...",
-          "link": "https://blog.computationalcomplexity.org/2024/06/technology-1966-2006-2023.html",
-          "publishedOn": "2024-07-01T01:52:00.000Z",
-          "wordCount": 6199,
-          "title": "Technology: 1966, 2006, 2023.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://poetrywithmathematics.blogspot.com/2024/06/triangular-poems.html",
-          "author": "Intersections -- Poetry with Mathematics",
-          "description": "mathematics poetry",
-          "link": "https://poetrywithmathematics.blogspot.com/2024/06/triangular-poems.html",
-          "publishedOn": "2024-06-30T17:58:00.000Z",
-          "wordCount": 7155,
-          "title": "Triangular Poems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unizor.blogspot.com/2024/06/algebra-08-fibonacci-unizorcom-math.html",
-          "author": "Unizor - Creative Mind through Art of Mathematics",
-          "description": "Notes to a video lecture on http://www.unizor.com    Algebra+ 08 - Fibonacci   Note  We will use both terms average  and mean  interchangea...",
-          "link": "https://unizor.blogspot.com/2024/06/algebra-08-fibonacci-unizorcom-math.html",
-          "publishedOn": "2024-06-30T17:00:00.000Z",
-          "wordCount": 2444,
-          "title": "Algebra+ 08 - Fibonacci: UNIZOR.COM - Math+ & Problems - Algebra",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tctfZNVrjln5MYHseMado0GNzMM97_npVQWxqQaoWsWmibip2LGk3fH8ubSkgh2H_vj5YfLJzVw1Jm1CPoIfY_g5FgEzd89wGro27kWazZZVmPjg=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://11011110.github.io/blog/2024/06/30/linkage.html",
-          "author": "11011110",
-          "description": "Congratulations to Robert Hickingbotham (\\(\\mathbb{M}\\)), a student of David Wood at Monash University who just finished his PhD with an impressive portfolio...",
-          "link": "https://11011110.github.io/blog/2024/06/30/linkage.html",
-          "publishedOn": "2024-06-30T16:13:00.000Z",
-          "wordCount": 1005,
-          "title": "Linkage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/06/30/what-was-going-on-in-statistics-in-1990/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/06/30/what-was-going-on-in-statistics-in-1990/",
-          "publishedOn": "2024-06-30T13:44:52.000Z",
-          "wordCount": null,
-          "title": "The state of statistics in 1990",
           "imageUrl": null
         }
       ]

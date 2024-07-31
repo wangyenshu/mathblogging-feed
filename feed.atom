@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-30T00:34:15.069Z</updated>
+    <updated>2024-07-31T00:28:00.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Zinn-Justin Equation]]></title>
+        <id>https://golem.ph.utexas.edu/~distler/blog/archives/003546.html</id>
+        <link href="https://golem.ph.utexas.edu/~distler/blog/archives/003546.html"/>
+        <updated>2024-07-30T19:56:37.000Z</updated>
+        <author>
+            <name>Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y&rsquo;all need more She-Ra in your lives.]]></title>
+        <id>https://thalescircles.tumblr.com/post/757454064568107008</id>
+        <link href="https://thalescircles.tumblr.com/post/757454064568107008"/>
+        <updated>2024-07-30T18:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Y’all need more She-Ra in your lives.]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adults Stumped By 2nd Grade Problem]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/07/30/adults-stumped-by-2nd-grade-problem/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/07/30/adults-stumped-by-2nd-grade-problem/"/>
+        <updated>2024-07-30T17:20:24.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical factuality versus practicality versus poetry]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/30/statistical-factuality-versus-practicality-versus-poetry/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/30/statistical-factuality-versus-practicality-versus-poetry/"/>
+        <updated>2024-07-30T17:02:57.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Das muss das Boot aushalten“ & „Denkende Klassenzimmer“]]></title>
+        <id>https://halbtagsblog.de/2024/07/30/das-muss-das-boot-aushalten-denkende-klassenzimmer/</id>
+        <link href="https://halbtagsblog.de/2024/07/30/das-muss-das-boot-aushalten-denkende-klassenzimmer/"/>
+        <updated>2024-07-30T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Wirklich beeindruckt bin ich von meiner aktuellen Lektüre, die ich erst halb durchhabe, weil ich sie konsequent bearbeite und exzerpiere: "Denkende]]></summary>
+        <author>
+            <name>Schule, Schulleitung, Familie, DIY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Foundation Announce the Simons Collaboration on Moduli of Varieties]]></title>
+        <id>https://www.simonsfoundation.org/2024/07/30/simons-foundation-announce-the-simons-collaboration-on-moduli-of-varieties/</id>
+        <link href="https://www.simonsfoundation.org/2024/07/30/simons-foundation-announce-the-simons-collaboration-on-moduli-of-varieties/"/>
+        <updated>2024-07-30T15:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Simons Foundation Announce the Simons Collaboration on Moduli of Varieties on Simons Foundation]]></summary>
+        <author>
+            <name>Simons Foundation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coefficient system]]></title>
+        <id>https://ncatlab.org/nlab/show/coefficient+system</id>
+        <link href="https://ncatlab.org/nlab/show/coefficient+system"/>
+        <updated>2024-07-30T15:28:41.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relations & Their Relatives • Discussion 25]]></title>
+        <id>https://inquiryintoinquiry.com/2024/07/30/relations-their-relatives-discussion-25/</id>
+        <link href="https://inquiryintoinquiry.com/2024/07/30/relations-their-relatives-discussion-25/"/>
+        <updated>2024-07-30T15:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Re: Daniel Everett • Polyunsaturated Predicates Re: Relations & Their Relatives • Discussion 24 Dear Daniel, I’ve been meaning to get back to this as it keeps coming up and it&#…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Foundation Announces the Simons Collaboration on New Frontiers in Superconductivity]]></title>
+        <id>https://www.simonsfoundation.org/2024/07/30/simons-foundation-announces-the-simons-collaboration-on-new-frontiers-in-superconductivity/</id>
+        <link href="https://www.simonsfoundation.org/2024/07/30/simons-foundation-announces-the-simons-collaboration-on-new-frontiers-in-superconductivity/"/>
+        <updated>2024-07-30T15:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Simons Foundation Announces the Simons Collaboration on New Frontiers in Superconductivity on Simons Foundation]]></summary>
+        <author>
+            <name>Simons Foundation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[indexed tensor product]]></title>
+        <id>https://ncatlab.org/nlab/show/indexed+tensor+product</id>
+        <link href="https://ncatlab.org/nlab/show/indexed+tensor+product"/>
+        <updated>2024-07-30T14:07:56.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron Naber]]></title>
+        <id>https://ncatlab.org/nlab/show/Aaron+Naber</id>
+        <link href="https://ncatlab.org/nlab/show/Aaron+Naber"/>
+        <updated>2024-07-30T13:39:42.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael T. Anderson]]></title>
+        <id>https://ncatlab.org/nlab/show/Michael+T.+Anderson</id>
+        <link href="https://ncatlab.org/nlab/show/Michael+T.+Anderson"/>
+        <updated>2024-07-30T13:37:50.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[no mountain, no matter [blue wave#2]]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/30/56933/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/30/56933/"/>
+        <updated>2024-07-30T13:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Textbook on Applied Regression and Causal Inference]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/07/30/free-textbook-on-applied-regression-and-causal-inference/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/07/30/free-textbook-on-applied-regression-and-causal-inference/"/>
+        <updated>2024-07-30T13:13:39.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Golden Age of Hollywood is Alive and Well at Sandbox Films’ New York HQ, OnOffice]]></title>
+        <id>https://www.onofficemagazine.com/interiors/golden-age-hollywood-sandbox-films-new-york-hq</id>
+        <link href="https://www.onofficemagazine.com/interiors/golden-age-hollywood-sandbox-films-new-york-hq"/>
+        <updated>2024-07-30T13:02:24.000Z</updated>
+        <summary type="html"><![CDATA[The new HQ of documentary production company Sandbox Films speaks to New York’s status as a cinematic icon as well as the old-school glamour of Hollywood’s Golden Age                Before cinema became an art form, it was]]></summary>
+        <author>
+            <name>Simons Foundation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A roundup of recent books on math]]></title>
+        <id>https://mathwithbaddrawings.com/2024/07/30/a-roundup-of-recent-books-on-math/</id>
+        <link href="https://mathwithbaddrawings.com/2024/07/30/a-roundup-of-recent-books-on-math/"/>
+        <updated>2024-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dispatches from a culture of rearranged fragments.]]></summary>
+        <author>
+            <name>Math with Bad Drawings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Know your Narratives]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/know-your-narratives.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/know-your-narratives.html"/>
+        <updated>2024-07-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I have to confess that, when I talk about narratives in the press, the term is often inconsistent, ambiguous and inchoate. Along with conven...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INFORMS Security Conference]]></title>
+        <id>https://punkrockor.com/2024/07/30/informs-security-conference/</id>
+        <link href="https://punkrockor.com/2024/07/30/informs-security-conference/"/>
+        <updated>2024-07-30T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[I have the pleasure of giving a keynote talk at the INFORMS Security Conference on July 30, 2024. My keynote talk was entitled, “Smarter Decisions for a Secure World: A Roadmap for Operations…]]></summary>
+        <author>
+            <name>Punk Rock Operations Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matematica e agrivoltaico]]></title>
+        <id>https://maddmaths.simai.eu/ricerca/matematica-e-agrivoltaico/</id>
+        <link href="https://maddmaths.simai.eu/ricerca/matematica-e-agrivoltaico/"/>
+        <updated>2024-07-30T06:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Il 13 Febbraio di quest’anno è stato pubblicato sul sito del ministero il decreto che “promuove la realizzazione di sistemi agrivoltaici innovativi di natura sperimentale”. Il decreto mette a disposizione risorse per oltre un miliardo di euro con l’obiettivo di realizzare nuovi impianti per un totale di circa 1 GigaWatt (GW). Per comprendere l’entità della […]]]></summary>
+        <author>
+            <name>Maddmaths!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il problema di Luglio (671) – Tappezzeria formato A8]]></title>
+        <id>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/30/il-problema-di-luglio-671-tappezzeria-formato-a8/</id>
+        <link href="http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2024/07/30/il-problema-di-luglio-671-tappezzeria-formato-a8/"/>
+        <updated>2024-07-30T05:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Inutile negarlo, un po’ ce la siamo andata a cercare. Dal punto di vista dei redattori di questa rubrica, il “problema dei problemi” (o, se vi piacciono i termini altisonanti, il “metaproblema”) maggiore non è tanto il contenuto matematico del problema da proporre, quanto il fatto che poi si debbano trasformare le soluzioni ricevute in [...]]]></summary>
+        <author>
+            <name>Rudi Matematici</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - July 30]]></title>
+        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-30.html</id>
+        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-30.html"/>
+        <updated>2024-07-30T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have created a new universe from nothing. ~Janos Bolyai The 211th Day of the Year The 211th day of the year; 211 is a primorial prime,(a...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sphere spilling out]]></title>
+        <id>https://www.johndcook.com/blog/2024/07/29/sphere-spilling-out/</id>
+        <link href="https://www.johndcook.com/blog/2024/07/29/sphere-spilling-out/"/>
+        <updated>2024-07-30T02:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Counter-intuitive result about a sphere inside a lattice of spheres in high dimensions. Links to more posts on high-dimensional curiosities.]]></summary>
+        <author>
+            <name>John D. Cook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/29/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757384462186201088</id>
+        <link href="https://purenumbers.tumblr.com/post/757384462186201088"/>
+        <updated>2024-07-30T00:08:29.000Z</updated>
+        <summary type="html"><![CDATA[(7 + 2) / 9 = 2 / √4
+Also:
+7 - 2 - √9 = 2 = √4
+Also:
+7 + 2 - √9 = 2 + 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>https://blog.mrwaddell.net/2024/07/29/hello-world/</id>
+        <link href="https://blog.mrwaddell.net/2024/07/29/hello-world/"/>
+        <updated>2024-07-29T22:39:15.000Z</updated>
+        <author>
+            <name>Success</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[differential privacy for Bayesian inference]]></title>
+        <id>https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/</id>
+        <link href="https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/"/>
+        <updated>2024-07-29T22:24:56.000Z</updated>
+        <summary type="html"><![CDATA[As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most a…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fractal Word Search]]></title>
         <id>https://blog.tanyakhovanova.com/2024/07/fractal-word-search/</id>
@@ -3071,6 +3316,15 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[equivariant higher algebra - contents]]></title>
+        <id>https://ncatlab.org/nlab/show/equivariant+higher+algebra+-+contents</id>
+        <link href="https://ncatlab.org/nlab/show/equivariant+higher+algebra+-+contents"/>
+        <updated>2024-07-10T22:31:46.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iid random variables]]></title>
         <id>https://ncatlab.org/nlab/show/iid+random+variables</id>
         <link href="https://ncatlab.org/nlab/show/iid+random+variables"/>
@@ -4469,115 +4723,6 @@ When the Good Place said “Why choose...]]></summary>
         <id>https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/</id>
         <link href="https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/"/>
         <updated>2024-07-01T13:38:27.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Clausen function]]></title>
-        <id>https://www.johndcook.com/blog/2024/07/01/the-clausen-function/</id>
-        <link href="https://www.johndcook.com/blog/2024/07/01/the-clausen-function/"/>
-        <updated>2024-07-01T12:26:20.000Z</updated>
-        <summary type="html"><![CDATA[The Clausen function looks, and sounds, like something between a sine wave and a sawtooth wave.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This month in Mathlib (May 2024)]]></title>
-        <id>https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/</id>
-        <link href="https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/"/>
-        <updated>2024-07-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The last Month in Mathlib posts date from before the port started, in November 2022. We apologise for the momentary disappearance. We aim to keep it a monthly occurrence from now on.
-There were 667 PR]]></summary>
-        <author>
-            <name>Lean community blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve years ago -- Time to revisit the locavore non-debate]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/twelve-years-ago-time-to-revisit.html"/>
-        <updated>2024-07-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The mystery of why this attack on the locavore movement was so bad when legitimate criticisms were so easy to come by would have first gott...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Σαν σήμερα. Ο "ακούραστος" κύριος Bucky!]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/bucky.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/bucky.html"/>
-        <updated>2024-07-01T04:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Σαν σήμερα το 1893, απεβίωσε ο Αμερικανός Richard Buckminster Fuller. O Fuller (1895-1983) ήταν μια πολυσχιδής προσωπικότητα. Αρχιτέκτον...]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ξύλινος κύβος]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post.html"/>
-        <updated>2024-07-01T03:57:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls’ Angle Bulletin, Volume 17, Number 5]]></title>
-        <id>https://girlsangle.wordpress.com/2024/06/30/girls-angle-bulletin-volume-17-number-5/</id>
-        <link href="https://girlsangle.wordpress.com/2024/06/30/girls-angle-bulletin-volume-17-number-5/"/>
-        <updated>2024-07-01T02:12:21.000Z</updated>
-        <summary type="html"><![CDATA[The electronic version of the latest issue of the Girls’ Angle Bulletin is now available on our website. We interview Skidmore College Program Director of the First Year Experience and Professor of…]]></summary>
-        <author>
-            <name>Girls' Angle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology: 1966, 2006, 2023.]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/06/technology-1966-2006-2023.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/06/technology-1966-2006-2023.html"/>
-        <updated>2024-07-01T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2013 I wrote a blog to celebrate Lance's 50th birthday by contrasting what things were like when Lance was 10 to when he was 50. That po...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triangular Poems]]></title>
-        <id>https://poetrywithmathematics.blogspot.com/2024/06/triangular-poems.html</id>
-        <link href="https://poetrywithmathematics.blogspot.com/2024/06/triangular-poems.html"/>
-        <updated>2024-06-30T17:58:00.000Z</updated>
-        <summary type="html"><![CDATA[mathematics poetry]]></summary>
-        <author>
-            <name>Intersections -- Poetry with Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebra+ 08 - Fibonacci: UNIZOR.COM - Math+ & Problems - Algebra]]></title>
-        <id>https://unizor.blogspot.com/2024/06/algebra-08-fibonacci-unizorcom-math.html</id>
-        <link href="https://unizor.blogspot.com/2024/06/algebra-08-fibonacci-unizorcom-math.html"/>
-        <updated>2024-06-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Algebra+ 08 - Fibonacci   Note  We will use both terms average  and mean  interchangea...]]></summary>
-        <author>
-            <name>Unizor - Creative Mind through Art of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linkage]]></title>
-        <id>https://11011110.github.io/blog/2024/06/30/linkage.html</id>
-        <link href="https://11011110.github.io/blog/2024/06/30/linkage.html"/>
-        <updated>2024-06-30T16:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Robert Hickingbotham (\(\mathbb{M}\)), a student of David Wood at Monash University who just finished his PhD with an impressive portfolio...]]></summary>
-        <author>
-            <name>11011110</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of statistics in 1990]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/06/30/what-was-going-on-in-statistics-in-1990/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/06/30/what-was-going-on-in-statistics-in-1990/"/>
-        <updated>2024-06-30T13:44:52.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
