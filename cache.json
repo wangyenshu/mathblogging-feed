@@ -6,6 +6,196 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://news.mit.edu/2024/testing-spooky-action-distance-0731",
+          "author": "MIT News - Mathematics",
+          "description": "MIT has signed a four-year collaboration agreement with the Novo Nordisk Foundation Quantum Computing Programme (NQCP) at Niels Bohr Institute at the University of Copenhagen, focused on accelerating quantum computing hardware research.",
+          "link": "https://news.mit.edu/2024/testing-spooky-action-distance-0731",
+          "publishedOn": "2024-07-31T20:20:00.000Z",
+          "wordCount": 1319,
+          "title": "Testing spooky action at a distance",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202407/quantum-computer.jpg"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Martin+L%C3%BCscher",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Martin+L%25C3%25BCscher",
+          "publishedOn": "2024-07-31T19:49:44.000Z",
+          "wordCount": null,
+          "title": "Martin Lüscher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retractionwatch.com/2024/07/31/cancer-paper-retracted-11-years-after-reported-plagiarism/",
+          "author": "Retraction Watch",
+          "description": "Elisabeth Bik In November 2013, Elisabeth Bik reported five papers containing what she thought was “pretty obvious” plagiarized text in Karger’s Digestive Diseases to the journal’s editor in chief.…",
+          "link": "https://retractionwatch.com/2024/07/31/cancer-paper-retracted-11-years-after-reported-plagiarism/",
+          "publishedOn": "2024-07-31T19:24:25.000Z",
+          "wordCount": 2293,
+          "title": "Cancer paper retracted 11 years after reported plagiarism",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2019/05/bik-banner-x.png"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/",
+          "publishedOn": "2024-07-31T17:18:54.000Z",
+          "wordCount": null,
+          "title": "Suspicious data pattern in recent Venezuelan election",
+          "imageUrl": null
+        },
+        {
+          "id": "https://inquiryintoinquiry.com/2024/07/31/relations-their-relatives-1-a/",
+          "author": "Inquiry Into Inquiry",
+          "description": "Sign relations are special cases of triadic relations in much the same way binary operations in mathematics are special cases of triadic relations.  It amounts to a minor complication that we …",
+          "link": "https://inquiryintoinquiry.com/2024/07/31/relations-their-relatives-1-a/",
+          "publishedOn": "2024-07-31T14:36:19.000Z",
+          "wordCount": 5594,
+          "title": "Relations & Their Relatives • 1",
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1722472679"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/07/31/age-gap-between-spouses/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/07/31/age-gap-between-spouses/",
+          "publishedOn": "2024-07-31T13:51:21.000Z",
+          "wordCount": null,
+          "title": "Age gaps between spouses in U.S., U.K., and India",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/31/oceans-four-blue-wave2/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/31/oceans-four-blue-wave2/",
+          "publishedOn": "2024-07-31T13:15:39.000Z",
+          "wordCount": 2360,
+          "title": "Ocean’s four [blue wave#3]",
+          "imageUrl": "https://www.liberation.fr/resizer/qvikAzd8PmtFUdz_yf_ynqg9BWA=/1024x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/5HU62PITYRDXHLCU6S6G3DNTSI.jpg"
+        },
+        {
+          "id": "https://mathwithbaddrawings.com/2024/07/31/july-2024-with-bad-drawings/",
+          "author": "Math with Bad Drawings",
+          "description": "Pi Approximation Day, i.e., Pi Day for Grinches, and other highlights.",
+          "link": "https://mathwithbaddrawings.com/2024/07/31/july-2024-with-bad-drawings/",
+          "publishedOn": "2024-07-31T13:00:00.000Z",
+          "wordCount": 3182,
+          "title": "July 2024 (with Bad Drawings)",
+          "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/07/grinch-pi-day.jpg?fit=1200%2C512&ssl=1"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Robert+Lee+Wilson",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Robert+Lee+Wilson",
+          "publishedOn": "2024-07-31T12:55:05.000Z",
+          "wordCount": 644,
+          "title": "Robert Lee Wilson",
+          "imageUrl": null
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/07/the-new-york-times-editorial-board.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "This is quite the piece of work . Sanctimonious and self-serving. It is such a platonic ideal of New York Times editorial board posturing th...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/07/the-new-york-times-editorial-board.html",
+          "publishedOn": "2024-07-31T11:30:00.000Z",
+          "wordCount": 3823,
+          "title": "The New York Times Editorial Board loves narratives, but they especially love narratives where they're the hero",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Dodgson+condensation",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Dodgson+condensation",
+          "publishedOn": "2024-07-31T10:14:40.000Z",
+          "wordCount": 746,
+          "title": "Dodgson condensation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thonyc.wordpress.com/2024/07/31/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-xxvi/",
+          "author": "The Renaissance Mathematicus",
+          "description": "",
+          "link": "https://thonyc.wordpress.com/2024/07/31/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-xxvi/",
+          "publishedOn": "2024-07-31T08:28:55.000Z",
+          "wordCount": null,
+          "title": "From τὰ φυσικά (ta physika) to physics – XXVI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jeremykun.com/fhe-in-production/",
+          "author": "Math ∩ Programming",
+          "description": "Last update: 2024-07-31T00:00:00-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field.\nIf you have any information about production FHE systems not in this list, or corrections to information in this list, please send me an email with sufficient detail allow the claim to be publicly verified.\nTable of contents:",
+          "link": "https://www.jeremykun.com/fhe-in-production/",
+          "publishedOn": "2024-07-31T07:00:00.000Z",
+          "wordCount": 632,
+          "title": "Fully Homomorphic Encryption in Production Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.logicmatters.net/2024/07/31/in-more-than-reasonable-working-order/",
+          "author": "Logic Matters",
+          "description": "With huge thanks to the terrific (and uniformly kind) medical staff at the much admired Royal Papworth Hospital, here I am back home, after needed but non-urgent open-heart surgery, complete with a patched ascending aorta and a new heart valve. Some residual aching and annoying post-operative insomnia, but nine days after surgery I was already […]",
+          "link": "https://www.logicmatters.net/2024/07/31/in-more-than-reasonable-working-order/",
+          "publishedOn": "2024-07-31T06:40:11.000Z",
+          "wordCount": 4594,
+          "title": "Back, and in reasonable working order …",
+          "imageUrl": null
+        },
+        {
+          "id": "https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-consigliate-dalla-redazione-di-maddmaths/",
+          "author": "Maddmaths!",
+          "description": "L’estate è spesso tempo di letture ed è comodo avere una lista di libri tra cui poter scegliere. Come già fatto negli scorsi anni, arrivano i consigli dalla redazione di MaddMaths! per accompagnare le vostre giornate al mare, in montagna, in città, o semplicemente a casa. Queste letture hanno uno sfondo o una motivazione matematica, […]",
+          "link": "https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-consigliate-dalla-redazione-di-maddmaths/",
+          "publishedOn": "2024-07-31T06:00:50.000Z",
+          "wordCount": 8555,
+          "title": "Letture estive consigliate dalla redazione di MaddMaths!",
+          "imageUrl": "https://maddmaths.simai.eu/wp-content/uploads/2024/07/Copertina-Finale-4.jpg"
+        },
+        {
+          "id": "https://scottaaronson.blog/?p=8172",
+          "author": "Shtetl-Optimized",
+          "description": "Q1: Who will you be voting for in November? A: Kamala Harris (and mainstream Democrats all down the ballot), of course. Q2: Of course? A: If the alternative is Trump, I would’ve voted for Bid…",
+          "link": "https://scottaaronson.blog/?p=8172",
+          "publishedOn": "2024-07-31T04:43:24.000Z",
+          "wordCount": 8683,
+          "title": "My “Never-Trump From Here to Eternity” FAQ",
+          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-31.html",
+          "author": "Pat'sBlog",
+          "description": "I advise my students to listen carefully the moment they decide to take no more mathema...",
+          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-31.html",
+          "publishedOn": "2024-07-31T04:00:00.000Z",
+          "wordCount": 7109,
+          "title": "On This Day in Math - July 31",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlHH37DVqHk2EFiGspiA3O0NyGcI1GLPgZAoih2ZW7nJsaZy11aAllKOT79Y0h_ZZ0Mna4Obfzjv8HIG2jm8QGYvnoYphgsYLbcHbaq3JOuhHw_n-EHV5Pr_vDNw_4bUUwytOtRogwEhU/w1200-h630-p-k-no-nu/fractal2.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757475219289030656",
+          "author": "Pure Numbers Daily Blog",
+          "description": "7 - 3 = (0 + 2) * √4\nAlso:\n(7 - 3 + 0)! = 24\nAlso:\n7 + 3^0 = 2 * 4",
+          "link": "https://purenumbers.tumblr.com/post/757475219289030656",
+          "publishedOn": "2024-07-31T00:11:01.000Z",
+          "wordCount": 1783,
+          "title": "7/30/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/07/31/algorithmic-complexity/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/31/algorithmic-complexity/",
+          "publishedOn": "2024-07-30T22:24:51.000Z",
+          "wordCount": 2347,
+          "title": "algorithmic complexity",
+          "imageUrl": "https://imgs.xkcd.com/comics/complexity_analysis.png"
+        },
+        {
           "id": "https://golem.ph.utexas.edu/~distler/blog/archives/003546.html",
           "author": "Musings",
           "description": "",
@@ -14,6 +204,16 @@
           "wordCount": 987,
           "title": "The Zinn-Justin Equation",
           "imageUrl": null
+        },
+        {
+          "id": "https://freakonometrics.hypotheses.org/76626",
+          "author": "Freakonometrics",
+          "description": "I clearly need a break. I will be in Cambridge (U.K.) for the next ten days. Have a nice summer break… OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 30, 2024). Time for a (short) break. Freakonometrics. Retrieved July 31, 2024 from https://freakonometrics.hypotheses.org/76626",
+          "link": "https://freakonometrics.hypotheses.org/76626",
+          "publishedOn": "2024-07-30T19:55:10.000Z",
+          "wordCount": 4094,
+          "title": "Time for a (short) break",
+          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
         },
         {
           "id": "https://thalescircles.tumblr.com/post/757454064568107008",
@@ -4554,156 +4754,6 @@
           "wordCount": 3953,
           "title": "Is this the silliest scoring system ever?",
           "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/06/rock-climbing-cartoons2.jpg?fit=1200%2C1200&ssl=1"
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/07/its-almost-like-reducing-sprawl-wasnt.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "A rational land-use policy in a state like California needs to balance the agricultural productivity against the proximity to housing demand...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/07/its-almost-like-reducing-sprawl-wasnt.html",
-          "publishedOn": "2024-07-02T11:30:00.000Z",
-          "wordCount": 3208,
-          "title": "It's almost like reducing sprawl wasn't really the goal",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkFxfi8Zt5z6eh5sh2ouv4-ugTX5ug2D8mqVW_ImKWCUJeYBY4oYbzloPEod6YP0puvSFDQSxHMZHtPWDrY6_6Zgfbfl3bTpKIMyfqSGnRBZW0dCJJvxp7E2ghkZMq9MX5dT174-01El8ffEhuBet02i3fYAS6lophOj74PFYG26eV2yZkgkMdhqLqjd-/w1200-h630-p-k-no-nu/bakersfield.png"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/02/holes-in-bayesian-statistics-my-talk-tomorrow-at-the-bayesian-conference-based-on-work-with-yuling/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/02/holes-in-bayesian-statistics-my-talk-tomorrow-at-the-bayesian-conference-based-on-work-with-yuling/",
-          "publishedOn": "2024-07-02T06:07:11.000Z",
-          "wordCount": null,
-          "title": "Holes in Bayesian statistics (my talk tomorrow at the Bayesian conference, based on work with Yuling)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cmouhot.wordpress.com/2024/07/02/position-advertised-professorship-of-applied-mathematics-damtp-cambridge/",
-          "author": "Clément Mouhot",
-          "description": "A Professorship position of Applied Mathematics at the Department of Applied Mathematics and Theoretical Physics in the University of Cambridge has been advertised with a closing date 15 July 2024.…",
-          "link": "https://cmouhot.wordpress.com/2024/07/02/position-advertised-professorship-of-applied-mathematics-damtp-cambridge/",
-          "publishedOn": "2024-07-02T05:46:21.000Z",
-          "wordCount": 2605,
-          "title": "Position advertised: Professorship of Applied Mathematics, DAMTP, Cambridge",
-          "imageUrl": "https://secure.gravatar.com/blavatar/8696aa2fc7596c0998b8e95fe52234bafba817703846972b260dc4adac77a574?s=200&ts=1721694862"
-        },
-        {
-          "id": "https://jdh.hamkins.org/turing-halting-problem/",
-          "author": "Joel David Hamkins",
-          "description": "Joel David Hamkins and Theodor Nenu, “Did Turing prove the undecidability of the halting problem?”, 18 pages, 2024, arxiv:2407.00680.",
-          "link": "https://jdh.hamkins.org/turing-halting-problem/",
-          "publishedOn": "2024-07-02T00:50:26.000Z",
-          "wordCount": 1990,
-          "title": "Did Turing prove the undecidability of the halting problem?",
-          "imageUrl": "https://jdh.hamkins.org/wp-content/uploads/DALL·E-2024-07-01-19.55.09-A-fantastical-oil-painting-of-Alan-Turing-with-a-Turing-machine.-The-machine-has-a-long-paper-tape-filled-with-a-single-line-of-0s-and-1s-very-narrow.webp"
-        },
-        {
-          "id": "https://www.statschat.org.nz/2024/07/02/nrl-predictions-for-round-18-11/",
-          "author": "Stats Chat",
-          "description": "",
-          "link": "https://www.statschat.org.nz/2024/07/02/nrl-predictions-for-round-18-11/",
-          "publishedOn": "2024-07-02T00:49:39.000Z",
-          "wordCount": 1155,
-          "title": "NRL Predictions for Round 18",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.statschat.org.nz/2024/07/02/afl-predictions-for-week-18/",
-          "author": "Stats Chat",
-          "description": "",
-          "link": "https://www.statschat.org.nz/2024/07/02/afl-predictions-for-week-18/",
-          "publishedOn": "2024-07-02T00:48:26.000Z",
-          "wordCount": 1259,
-          "title": "AFL Predictions for Week 18",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ests.wordpress.com/2024/07/01/settop-2024-august-19-22-novi-sad/",
-          "author": "European Set Theory Society",
-          "description": "SETTOP 2024“Novi Sad Conference in Set Theory and General Topology”August 19-22, Novi Sad, Serbia We are pleased to announce the conference that will take place in Novi Sad in August:Novi Sad…",
-          "link": "https://ests.wordpress.com/2024/07/01/settop-2024-august-19-22-novi-sad/",
-          "publishedOn": "2024-07-01T22:08:55.000Z",
-          "wordCount": 4468,
-          "title": "SETTOP 2024, August 19-22, Novi Sad",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://ests.wordpress.com/2024/07/01/online-activities-1-7-july/",
-          "author": "European Set Theory Society",
-          "description": "The announcements are updated continuously. For a list of talks in the coming weeks, please see here. Hebrew University Set Theory SeminarTime: Wednesday, 3 July, 13:00-15:00 local time (12:00-14:0…",
-          "link": "https://ests.wordpress.com/2024/07/01/online-activities-1-7-july/",
-          "publishedOn": "2024-07-01T21:56:28.000Z",
-          "wordCount": 4311,
-          "title": "Online activities 1 – 7 July",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/",
-          "author": "Error Statistics Philosophy",
-          "description": "Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology *[Some earlier posts by D. Lakens on this topic are listed at the end of part 2, forthcoming this week] How w…",
-          "link": "https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/",
-          "publishedOn": "2024-07-01T19:45:32.000Z",
-          "wordCount": 11060,
-          "title": "Guest Post: “Daniël Lakens: How were we supposed to move beyond  p < .05, and why didn’t we? “(part 1 of 2):",
-          "imageUrl": "https://errorstatistics.com/wp-content/uploads/2021/12/d-lakens.jpeg?w=150"
-        },
-        {
-          "id": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-ii.html",
-          "author": "(x, why?)",
-          "description": "This exam was adminstered in June 2024 .      June 2024  Geometry, Part II    Each correct answer is worth up to 2 credits. Partial credit...",
-          "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-ii.html",
-          "publishedOn": "2024-07-01T18:47:00.000Z",
-          "wordCount": 4959,
-          "title": "June 2024 Geometry Regents Part II",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhToCGtZPb2yP2Z99CxAGxY3fViWygd2olbYES22SPcduyh2Aljcl-tKzvQ46JgqTgT9Q_37yEqfve_zTiROnhq7BPHPBSxi-2errJRMRB8VFSQll6JD6sXZl5i3zKlgv9Bdpcn1BcAJcA9oBVNK33UwdS9VDVvgsYOuZ6YrUFq8CO3fCJeaxLXCw/w1200-h630-p-k-no-nu/temp00.png"
-        },
-        {
-          "id": "http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html",
-          "author": "Impossible world site blog",
-          "description": "Artwork by Joe Wu   https://im-possible.info/english/art/rendering/joe-wu.html#007    Author -  https://im3djoe.artstation.com/",
-          "link": "http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html",
-          "publishedOn": "2024-07-01T17:10:00.000Z",
-          "wordCount": 2379,
-          "title": "New image by Joe Wu",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhQc9huP2at2fxMTqjMngaM4kU0nYOjvj0T0ob_JsYxJ1hStaaiPh5LQruxATVowFjfSpivlZ9g9Nir6gG0ajcRRZPtedxoWhwnAGzV9Fkz6i7n9rfAYdM0HaJ6mLeLHi2UPfgIw51T4WAkAze_xauSS1dbOU9nMbSL-b26wWoTWWVGm6oESZumzXrqNXg/w1200-h630-p-k-no-nu/007.jpg"
-        },
-        {
-          "id": "https://dantopology.wordpress.com/2024/07/01/two-sequential-spaces-whose-product-is-not-sequential/",
-          "author": "Dan Ma's Topology Blog",
-          "description": "It is well known that the product of two sequential spaces needs not be a sequential space. In fact, the product of a a metric space (or metrizable space) with a sequential space needs not be a seq…",
-          "link": "https://dantopology.wordpress.com/2024/07/01/two-sequential-spaces-whose-product-is-not-sequential/",
-          "publishedOn": "2024-07-01T16:14:26.000Z",
-          "wordCount": 6051,
-          "title": "Two sequential spaces whose product is not sequential",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/",
-          "author": "Simons Foundation",
-          "description": "",
-          "link": "https://www.simonsfoundation.org/2024/07/01/flatiron-institute-launches-initiative-for-computational-catalysis/",
-          "publishedOn": "2024-07-01T15:00:41.000Z",
-          "wordCount": 2388,
-          "title": "Flatiron Institute Launches Initiative for Computational Catalysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/",
-          "author": "Logic Matters",
-          "description": "There is now, at last, a full draft of Introducing Category Theory. You can download the PDF here. The second half still needs more proof-reading and needs indexing. But I don’t envisage adding significantly to the content. After all — rather crazily for a book I didn’t originally set out to write — it is […]",
-          "link": "https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/",
-          "publishedOn": "2024-07-01T14:50:51.000Z",
-          "wordCount": 4835,
-          "title": "Introducing Category Theory — a full draft, at last!",
-          "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/SmithCatTheory-209x300.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/01/interactive-and-automated-data-analysis-thoughts-from-di-cook-hadley-wickham-jessica-hullman-and-others/",
-          "publishedOn": "2024-07-01T13:38:27.000Z",
-          "wordCount": null,
-          "title": "Interactive and Automated Data Analysis:  thoughts from Di Cook, Hadley Wickham, Jessica Hullman, and others",
-          "imageUrl": null
         }
       ]
     }
