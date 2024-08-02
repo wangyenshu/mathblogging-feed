@@ -2,10 +2,499 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T00:38:02.372Z</updated>
+    <updated>2024-08-02T00:33:59.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s a generative model?  PyMC and Stan edition]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/"/>
+        <updated>2024-08-01T20:00:44.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 04 - N-dimensional Vectors: UNIZOR.COM - Math+ & Problems - Vec...]]></title>
+        <id>https://unizor.blogspot.com/2024/08/vectors-04-n-dimensional-vectors.html</id>
+        <link href="https://unizor.blogspot.com/2024/08/vectors-04-n-dimensional-vectors.html"/>
+        <updated>2024-08-01T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 04  N-dimensional Vectors   Theory   1. A single real number R  can be repres...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent-Based Models (Part 14)]]></title>
+        <id>https://johncarlosbaez.wordpress.com/2024/08/01/agent-based-models-part-14/</id>
+        <link href="https://johncarlosbaez.wordpress.com/2024/08/01/agent-based-models-part-14/"/>
+        <updated>2024-08-01T14:19:44.000Z</updated>
+        <author>
+            <name>Azimuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An apparent paradox regarding hypothesis tests and rejection regions]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/01/an-apparent-paradox-regarding-hypothesis-tests-and-rejection-regions/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/01/an-apparent-paradox-regarding-hypothesis-tests-and-rejection-regions/"/>
+        <updated>2024-08-01T13:36:28.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sabres bleues [blue wave#4]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/01/sabres-bleues-blue-wave4/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/01/sabres-bleues-blue-wave4/"/>
+        <updated>2024-08-01T13:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relations & Their Relatives • 2]]></title>
+        <id>https://inquiryintoinquiry.com/2024/08/01/relations-their-relatives-2-a/</id>
+        <link href="https://inquiryintoinquiry.com/2024/08/01/relations-their-relatives-2-a/"/>
+        <updated>2024-08-01T12:36:30.000Z</updated>
+        <summary type="html"><![CDATA[What is the relationship between “logical relatives” and “mathematical relations”?  The word relative used as a noun in logic is short for relative term — as such…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Return of Thursday Tweets -- “Cross of Doge” wins it this week]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/08/the-return-of-thursday-tweets-cross-of.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/08/the-return-of-thursday-tweets-cross-of.html"/>
+        <updated>2024-08-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's start with representative Kimble.  Democrats had better cool their jets and understand that the Trump campaign will not agree to a VP ...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NRL Predictions for Round 22]]></title>
+        <id>https://www.statschat.org.nz/2024/08/01/nrl-predictions-for-round-22-9/</id>
+        <link href="https://www.statschat.org.nz/2024/08/01/nrl-predictions-for-round-22-9/"/>
+        <updated>2024-08-01T07:24:40.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currie Cup Predictions for Round 5]]></title>
+        <id>https://www.statschat.org.nz/2024/08/01/currie-cup-predictions-for-round-5-11/</id>
+        <link href="https://www.statschat.org.nz/2024/08/01/currie-cup-predictions-for-round-5-11/"/>
+        <updated>2024-08-01T07:23:46.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AFL Predictions for Week 22]]></title>
+        <id>https://www.statschat.org.nz/2024/08/01/afl-predictions-for-week-22/</id>
+        <link href="https://www.statschat.org.nz/2024/08/01/afl-predictions-for-week-22/"/>
+        <updated>2024-08-01T07:22:59.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A compact non-Frechet space defined using almost disjoint families]]></title>
+        <id>https://dantopology.wordpress.com/2024/08/01/a-compact-non-frechet-space-defined-using-almost-disjoint-families/</id>
+        <link href="https://dantopology.wordpress.com/2024/08/01/a-compact-non-frechet-space-defined-using-almost-disjoint-families/"/>
+        <updated>2024-08-01T07:04:29.000Z</updated>
+        <summary type="html"><![CDATA[We present an example of a compact space that is a sequential space but not a Frechet space. The compact space is built using an almost disjoint family of subsets of $latex \omega$. Given an almost…]]></summary>
+        <author>
+            <name>Dan Ma's Topology Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivoluzioni matematiche: i teoremi di Shannon di Francesca Carfora]]></title>
+        <id>https://maddmaths.simai.eu/divulgazione/letture-matematiche/shannon-carfora/</id>
+        <link href="https://maddmaths.simai.eu/divulgazione/letture-matematiche/shannon-carfora/"/>
+        <updated>2024-08-01T06:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Con il numero di Agosto de Le Scienze troverete in allegato (a 14,90 euro, il prezzo include la rivista) il ventitreesimo dei trenta volumi della collana dedicata ad alcuni tra i maggiori teoremi matematici. La collana è stata elaborata in collaborazione con la redazione di MaddMaths!. Questo nuovo volume è dedicato ai Teoremi di Shannon […]]]></summary>
+        <author>
+            <name>Maddmaths!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternating Sets against Two Better Opponents]]></title>
+        <id>https://pballew.blogspot.com/2024/08/alternating-sets-against-two-better.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/alternating-sets-against-two-better.html"/>
+        <updated>2024-08-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From my 2008 archive, while writing to avoid grading finals. Many examples of this paradox involve duels and death, so I share this with a...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 1]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-1.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-1.html"/>
+        <updated>2024-08-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Regarding all these basic topics in infinitesimal calculus which we teach today as canonical requisites ... the question is never raised, ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site down for maintenance]]></title>
+        <id>https://blog.jpolak.org/site-down-for-maintenance/</id>
+        <link href="https://blog.jpolak.org/site-down-for-maintenance/"/>
+        <updated>2024-08-01T01:30:04.000Z</updated>
+        <author>
+            <name>Questioning Global Capitalism and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/31/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757565908651786240</id>
+        <link href="https://purenumbers.tumblr.com/post/757565908651786240"/>
+        <updated>2024-08-01T00:12:30.000Z</updated>
+        <summary type="html"><![CDATA[(7 - 3 - 1)! = 2 + 4
+Also:
+7 = 31 - 24
+Also:
+[√(7 + 3 - 1)]! = 2 + 4
+Also:
+√(7 - 3) = 1 * 2 = √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EpiLPS for estimation of incubation times]]></title>
+        <id>https://statsandr.com/blog/epilps-for-estimation-of-incubation-times/</id>
+        <link href="https://statsandr.com/blog/epilps-for-estimation-of-incubation-times/"/>
+        <updated>2024-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how the {EpiLPS} R package can be used to estimate incubation times for various diseases]]></summary>
+        <author>
+            <name>Stats and R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Diffusion Course: "The Structure of Language as a Connection Between Artificial Intelligence, Information and Ethics"]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/30</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/30"/>
+        <updated>2024-07-31T23:37:34.000Z</updated>
+        <summary type="html"><![CDATA[From August 22nd to November 21st, the first Diffusion Course on “The structure of language as a connection between artificial intelligence, information and ethics” will take place on a Thursday of each month, in Ribeirao Preto, Brazil. You are cordially invited to sign up for in-person classes and join other researchers and students on this course.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7th International Conference on Creative Mathematical Sciences Communication (CMSC`24)]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/29</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/29"/>
+        <updated>2024-07-31T23:37:34.000Z</updated>
+        <summary type="html"><![CDATA[The 7th International Creative Mathematical Sciences Communication (CMSC) conference is scheduled for October 2024 in Trier, Germany. Initiated in Darwin, Australia in 2013, CMSC aims to explore novel methods of imparting computational thinking to diverse audiences including non-specialists, modern citizens, and children. Participants from around the world and from various and interdisciplinary disciplines such as science, education, dance, drama, and visual arts convene to exchange ideas, present experimental approaches, and collaborate on engaging children in the exploration of ongoing, unresolved research challenges.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discordium Mathematica - A Symphony in Aleph Minor]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/28</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/28"/>
+        <updated>2024-07-31T23:37:33.000Z</updated>
+        <summary type="html"><![CDATA[How did Mathematics arise? Who created it? Why is it subject to Godel’s Incompleteness Theorems? And what does all this have to do with Coleridge’s poem, “Kubla Khan”, and “The Person from Porlock”? Here is a complete mythology of Mathematics set in an epic poetry format, fusing thoughts and verses from Western religions and Eastern mysticism… Those with immense patience and careful reading shall reap the fruit… (best read on a large screen or in printed form)]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Statistics!]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/27</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/27"/>
+        <updated>2024-07-31T23:37:33.000Z</updated>
+        <summary type="html"><![CDATA[This poem was written about statistics and the usefulness thereof.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love is No Mean Thing: A Larkin Logarithm]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/25</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/25"/>
+        <updated>2024-07-31T23:37:32.000Z</updated>
+        <summary type="html"><![CDATA[This poem was recited at a marriage recently in Vermont. I met the groom in my freshman year. He was the first college friend I ever made, and he used to burst into the room like Cosmo Kramer and settle down in an easy-chair to think about math (my side of the dorm was quieter than his). I thought that was remarkable and delightful, and so, when the task came to write a matrimonial poem for him, I selected a mathematical conceit. The poem concludes with a mathematical paraphrasing of Philip Larkin's last line from Arundel Tomb.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi: A Perpetual Journey]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/26</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/26"/>
+        <updated>2024-07-31T23:37:32.000Z</updated>
+        <summary type="html"><![CDATA[A brief history of the constant pi is presented with a poetic flavor.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prime Motivation of Eratosthenes]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/24</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/24"/>
+        <updated>2024-07-31T23:37:31.000Z</updated>
+        <summary type="html"><![CDATA[The sieve of Eratosthenes is used as a metaphor for the concept of people falling through the social safety net, and people who were once excluded, making efforts to increase inclusiveness.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eighth Grade Algebra]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/23</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/23"/>
+        <updated>2024-07-31T23:37:30.000Z</updated>
+        <summary type="html"><![CDATA[This is a poem about the affirming power of algebra in the life of a teenager.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Graffiti: Bridges 2023 Clerihew Collection]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/22</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/22"/>
+        <updated>2024-07-31T23:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Clerihews are poems of a form invented by Edmund Clerihew Bentley around the turn of the 19th-20th century. The poems are typically biographical, humorous, and are made up of two couplets. The rhyming pattern is always aabb, but the meter of the two couplets is usually not the same. The first line is simply the name of the person, the other three lines relate to the subject, often in an absurd way. If the rhyme is slightly off, or the rhythm irregular or awkward, or the facts a bit confused, so much the better. The present collection of clerihews, written by members of the Bridges poetry community and curated by E. R Lutken, offers readers a brief, whimsical tour through the history of mathematics.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poems from the Series "At the Dimensional Border"]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/21</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/21"/>
+        <updated>2024-07-31T23:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Poems about the border between the second and third dimensions, on geometry and the human condition.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: How to Expect the Unexpected: The Science of Making Predictions -- and the Art of Knowing When Not to by Kit Yates]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/20</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/20"/>
+        <updated>2024-07-31T23:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Humans think about the future all the time. Prediction is a part of how we prepare for the coming of both good and bad events in our lives. Kit Yates' book, How to expect the unexpected, concentrates primarily on the question of why prediction is difficult, and what mental shortcuts people take in prediction that can lead to incorrect results. Unfortunately, a lack of concern for details and several omissions undermine the quality of the book.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of Adding Nothing: A Call for Reform-Oriented Polynomial Division]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/19</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/19"/>
+        <updated>2024-07-31T23:37:28.000Z</updated>
+        <summary type="html"><![CDATA[The call to implement reform practices in schools reflects the historical turn away from the behaviorist theory of learning in education. Yet the praxis of this turn remains a significant challenge, particularly within mathematics classrooms where procedural memorization is emphasized. In this article, we show one means of how to advance our pursuit of meaningful mathematics into polynomial division. Building on the literature for reform-based division methods, an alternative to the long division algorithm will be explored that relies solely on adding zero and fundamental algebraic principles.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Shapes that Sing and Move: An Interdisciplinary Lesson with Pre-service Teachers]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/18</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/18"/>
+        <updated>2024-07-31T23:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Our work shares a practical example of an interdisciplinary lesson in which two teacher educators collaborated to integrate mathematics and music in an elementary mathematics methods course. This paper describes the process of collaboration in designing the lesson and shares original instructional resources to be used in the classroom. We also discuss what the pre-service teachers participating in the lesson shared about their learning experience, and what we, the teacher educators, learned from this experience. In presenting this work we aim to promote the opening of spaces in teacher preparation programs that allow pre-service teachers to develop their own instructional resources, while seeking opportunities to create interdisciplinary instruction in their own classrooms.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fibonacci-Inspired Spiral Quilts]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/17</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/17"/>
+        <updated>2024-07-31T23:37:27.000Z</updated>
+        <summary type="html"><![CDATA[This article provides insight into the mathematics and designs of quilts inspired by Fibonacci and logarithmic spirals. We introduce the history and development of the Fibonacci number sequence and how to hand-draw a Fibonacci spiral. Further, we explain the relationship between the Fibonacci spiral and logarithmic spirals, the advantages of using logarithmic spirals to create designs, and how to produce digital spiral designs using Desmos, a free web-based graphing calculator. Finally, we discuss methods for designing spiral quilts or other triangle and spiral designs (such as collage or other media) and derive a formula for calculating the apex angles of the triangles. We hope to inspire the reader’s imagination to spiral out of bounds to explore, create, and discover the beauty of mathematics in what you will create.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[States of Matter]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/16</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/16"/>
+        <updated>2024-07-31T23:37:26.000Z</updated>
+        <summary type="html"><![CDATA[This is a non-fiction essay overtly about three methods used in overwintering physiology, set in the context of my first learning them, along with associated thoughts and ideas as I began working on my PhD. The mathematics shows up mainly in the final section of the essay whose subtitle plays on a poem by Wallace Stevens called “Anecdote of the Jar”. This section is fable-like in its explanation of protein purification and begins with an impossible statement that is slowly adjusted to make sense by words and math.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badass Women]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/15</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/15"/>
+        <updated>2024-07-31T23:37:26.000Z</updated>
+        <summary type="html"><![CDATA[In this true story, one mathematics major supports another in an unexpected way.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstraps and Scaffolds: What a Cognitive-Historical Analysis of the Complex Number System Reveals About Numerical Cognition]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/14</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/14"/>
+        <updated>2024-07-31T23:37:25.000Z</updated>
+        <summary type="html"><![CDATA[The following investigation is a cognitive-historical analysis of the conceptual development of complex numbers. The history of this development spans nearly two millennia, from the earliest appearance of the square root of a negative quantity in the calculations of Heron of Alexandra (1st Century CE) to the full flowering of complex numbers in the first half of the 19th Century. The approach used for this analysis is Nersessian's, including her formulations of model-based reasoning and mental models. Additional aspects of the analysis feature the prominent roles played by process representations, including object-process complementarities, and by core numerical systems. Our analysis provides support for mental rotation as a fourth core system and for bootstrapping scenarios in both the senses of Nersessian and of Carey. We use the results of our analysis and discussion to update previous conceptual metaphor mapping approaches to complex numbers by Fauconnier and Turner and by Lakoff and Núñez. Finally, we review recent empirical studies of complex number learning and find them to be consistent with the present work.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intuitive Explanations in Mathematical Education]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/13</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/13"/>
+        <updated>2024-07-31T23:37:24.000Z</updated>
+        <summary type="html"><![CDATA[I discuss the role of intuitive explanations in the learning, teaching, and popularization of mathematics. Several examples of such explanations are presented, related to linguistic explanations, perception, empirical models, and internal explanations inside mathematics itself. I emphasize the fact that intuitive explanations in a sense transgress mere mathematical arguments. I also discuss in brief the role of paradox resolution in mathematical education.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Communities of Care for Equity, Justice, and Culturally Responsive Practice in Mathematics Education]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/12</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/12"/>
+        <updated>2024-07-31T23:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Teaching is widely considered one of the “caring professions,” but conceptualizations of care and how care is put into practice in education are not universal. In this article, we draw from a range of perspectives on care that integrate supportive interpersonal relationships, high expectations, and culturally relevant theories of critical care, as well as Queer Theory and Disability Justice, to explore the application of these ideas in mathematics education. We identify key elements for building communities of care in mathematics education contexts: co-constructing community agreements, redefining participation, shifting traditional power structures, collaborative problem solving, and building networks of care beyond the classroom. We share our experiences implementing these elements of communities of care and propose that the integration of these elements can serve as the starting point for a framework for building communities of care for equity, justice, and culturally responsive practice in mathematics education.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Models and Pedagogy of Marxist Political Economy]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/11</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/11"/>
+        <updated>2024-07-31T23:37:23.000Z</updated>
+        <summary type="html"><![CDATA[How can we teach people about the economics of labor and exploitation in mathematics courses? We define a mathematical model for describing the relationships embodied by commodities and labor. We then use this model to illustrate the exploitative nature of profit and the tendency for catastrophic chain-reactions that lead to market crashes. Lastly, we discuss applications to pedagogy in mathematics courses using a simplified version of the model.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Braids on Your Blanket]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/10</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/10"/>
+        <updated>2024-07-31T23:37:22.000Z</updated>
+        <summary type="html"><![CDATA[In this expository essay, we introduce some elements of the study of groups by analysing the braid pattern on a knitted blanket. We determine that the blanket features pure braids with a minimal number of crossings. Moreover, we determine polynomial invariants associated to the links obtained by closing the braid patterns of the blanket.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an Imaginary Number? The Plane and Beyond]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/9</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/9"/>
+        <updated>2024-07-31T23:37:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article I argue that i is a quantity associated with the two-dimensional real number plane, whether as a vector, a bi-vector, a point or a transformation (rotation). This position provides a foundation for the complex numbers and accounts for complex numbers in some equations of applied mathematics and physics. I also argue that complex numbers are fundamentally geometrical and can be described by geometric algebra, and that moreover the meaning of complex numbers in physics varies with dimension and geometry of the manifold.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millions, Billions, or Trillions: How to Partition Large Numbers into Friendly Figures]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/8</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/8"/>
+        <updated>2024-07-31T23:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Communicating and making sense of large numbers — millions, billions, and trillions — is a persistent struggle in our society. Using large numbers is a learning requirement for elementary school children, but even adults struggle with it. Hence supporting future teachers in developing their own understanding of the concepts is valuable. To construct, enact, and revise an educational experience for preservice teachers, we apply three frameworks of teaching mathematics for social justice tasks, high cognitive demand tasks, and productive mathematics discussion. The context uses United States educational and defense spending, the national budget, and the gross domestic product. Preservice teachers talk to family members outside of the classroom about large numbers. In class, they read arguments that compare educational and defense funding using the U.S. federal budget (defense receives much more federal funding) to educational and defense spending using the U.S. Gross Domestic Product (educational spending, at local, state, and national levels is much more than defense spending). Through action research, we implemented, revised, and adapted the task several times. We present the completed task and preservice teacher responses.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language Analysis via the Run and Flattened Statistics on Permutations]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/7</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/7"/>
+        <updated>2024-07-31T23:37:20.000Z</updated>
+        <summary type="html"><![CDATA[A permutation π in Sn can be decomposed into its runs π = τ1τ2 . . . τk, where a run of π is a maximal contiguous subsequence whose elements are in increasing order. If the first values of each run are in increasing order, then π is said to be flattened. Motivated by the study of flattened permutations, we study the words in the Danish, German, English, Spanish, French, Italian, Dutch, and Norwegian languages. In each language considered, our work provides the following: a list of the longest flattened words, histograms for the proportion of words aggregated by their length and number of runs, and histograms for flattened words aggregated by number of runs and length. We also analyze purely numeric languages whose words are of up to length seven and whose letters are elements of {1, 2, . . . , 9} so as to compare the distributions of natural languages to these numeric languages. We include a thorough description on our data gathering process, the code used for our analysis, and link to a webpage which implements the code and provides the histograms of our findings. We end with some directions for future work.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern Geometrician: Euclidean Construction for Digital Paper]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/6</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/6"/>
+        <updated>2024-07-31T23:37:20.000Z</updated>
+        <summary type="html"><![CDATA[The emphasis on traditional hand-drawn compass and straight-edge geometrical constructions has been reduced in the core narrative of most current curricula. In response to this trend, this paper presents a virtual toolkit for producing precision geometrical figures within the popular note-taking app, Notability. These graphical procedures employ the app's stylus-based input and shape tools (for lines, circles and squares) to offer a modern take on classical geometrical construction. These procedures are adaptations of familiar textbook methods, necessary because the app's circle-drawing tool behaves differently from a standard compass. Beyond the familiar canon of elementary Euclidean constructions, such as angle bisectors and perpendiculars, these tools are also used to sketch examples of sangaku diagrams from original 19th-century Japanese temple geometry problems. That such precision figures can be created within a popular tablet app is a rallying call to geometers; the art and craft of traditional manual constructions need not go extinct and can continue to be nurtured in this age of digital paper.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Own Private World of Non-Ordinary Associative Arithmetics]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/5</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/5"/>
+        <updated>2024-07-31T23:37:19.000Z</updated>
+        <summary type="html"><![CDATA[A binary operation # on Z+ is said to be an associative arithmetic if both # and its iteration — the binary operation ∗ defined recursively by: x∗1 = x and x∗y = [x ∗ (y − 1)]#x — are associative. E. Rosinger [6] showed that under reasonable conditions an associative arithmetic must be ordinary addition. However, in the general case, there are associative arithmetics that are not ordinary addition. This paper gives examples of these as well as results towards a structure theorem for associative arithmetics. The paper also describes the role that this particular math problem has played in my mathematical life.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sociomathematical Norms and Automated Proof Checking in Mathematical Education: Reflections and Experiences]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/4</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/4"/>
+        <updated>2024-07-31T23:37:18.000Z</updated>
+        <summary type="html"><![CDATA[According to a widely held view, mathematical proofs are essentially (indications of) formal derivations, and thus in principle mechanically checkable (this view is defended, for example, by Azzouni [3]). This should in particular hold for the kind of simple proof exercises typically given to students of mathematics learning to write proofs. If that is so, then automated proof checking should be an attractive option for math education at the undergraduate level. An opposing view would be that mathematical proofs are social objects and that what constitutes a mathematical proof can thus not be separated from the social context in which it arises. In particular, such “sociomathematical norms” play a role in teaching situations, see, for example, Stephan [37]. There thus seems to be a tension between the inherent social nature of “natural” mathematical proofs and attempts at their automated verification. In this paper, we explore this tension both theoretically and on the basis of our experiences with developing the Diproche system, a program for the automated verification of natural language proofs in college-level introduction to proof classes (modelled after the example of the Naproche system by Cramer, Koepke et al. [14]) and its use at the Europa-Universität Flensburg during the winter term 2020/2021.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Anxiety in the Turkish Context: Mathematical Experiences of High School Students]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/3</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/3"/>
+        <updated>2024-07-31T23:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Although a handful of studies have investigated the prevalence of math anx- iety among Turkish school children and its relationship with several variables like attitudes toward math, gender, self-efficacy, parental style, there is as of now no study focusing on development psychological interventions to cope with math anxiety. Most of the extant studies use quantitative approaches, but in order to develop intervention programs, researchers need to know how math anxiety develops, what kinds of personal variables or factors take place in this process, and what kind of emotional and cognitive reactions hold by students about math. Thus in our research, we employ qualitative methods to investigate the mathematical experiences of high school students in Turkey who have low math achievement. We discuss our findings in the context of the relevant literature. Based on these findings, psychological intervention programs may be developed to help students cope with math anxiety and remove the cognitive and emotional barrier to learning and loving mathematics.]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picturing Mathematics (Education) in New Ways]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/2</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/2"/>
+        <updated>2024-07-31T23:37:17.000Z</updated>
+        <summary type="html"><![CDATA[By Mark Huber and Gizem Karaali, Published on 07/31/24]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front Matter]]></title>
+        <id>https://scholarship.claremont.edu/jhm/vol14/iss2/1</id>
+        <link href="https://scholarship.claremont.edu/jhm/vol14/iss2/1"/>
+        <updated>2024-07-31T23:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on 07/31/24]]></summary>
+        <author>
+            <name>Journal of Humanistic Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bigots of the World, unite! [in confusing Seine or scène with Cène]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/01/bigots-of-the-world-unite-confusing-seine-with-cene/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/01/bigots-of-the-world-unite-confusing-seine-with-cene/"/>
+        <updated>2024-07-31T22:24:02.000Z</updated>
+        <summary type="html"><![CDATA[“Disgraceful scene in Paris offended not only the Catholic world, not only the Christian world, but also us as much as them. Immorality displayed at the opening of the Paris Olympics once again hig…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet More New Ideas and New Functions: Launching Version 14.1 of Wolfram Language & Mathematica]]></title>
+        <id>https://writings.stephenwolfram.com/2024/07/yet-more-new-ideas-and-new-functions-launching-version-14-1-of-wolfram-language-mathematica/</id>
+        <link href="https://writings.stephenwolfram.com/2024/07/yet-more-new-ideas-and-new-functions-launching-version-14-1-of-wolfram-language-mathematica/"/>
+        <updated>2024-07-31T21:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Version 14.1 gains computational advances for human and AI users. Detailed examples of new and expanded features: semantic search, LLMs, symbolic arrays, binomial coefficients, differential and difference equations, PDEs, biomolecules, neural nets, dates, videos, speech recognition, geography, astronomy, geometry, notebooks, natural language input, diffs, compiler, external languages.]]></summary>
+        <author>
+            <name>Stephen Wolfram Writings</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testing spooky action at a distance]]></title>
         <id>https://news.mit.edu/2024/testing-spooky-action-distance-0731</id>
@@ -42,6 +531,16 @@
         <updated>2024-07-31T17:18:54.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkage]]></title>
+        <id>https://11011110.github.io/blog/2024/07/31/linkage.html</id>
+        <link href="https://11011110.github.io/blog/2024/07/31/linkage.html"/>
+        <updated>2024-07-31T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Polyhedra with all but one dihedral specified (\(\mathbb{M}\)). Answering Robin Houston on MathOverflow, Dmitrii Korshunov proves that this information restr...]]></summary>
+        <author>
+            <name>11011110</name>
         </author>
     </entry>
     <entry>
@@ -3573,6 +4072,15 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Milen Yakimov]]></title>
+        <id>https://ncatlab.org/nlab/show/Milen+Yakimov</id>
+        <link href="https://ncatlab.org/nlab/show/Milen+Yakimov"/>
+        <updated>2024-07-10T13:44:25.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(Trying to) clear up a misunderstanding about decision analysis and significance testing]]></title>
         <id>https://statmodeling.stat.columbia.edu/2024/07/10/a-misunderstanding-about-decision-analysis-and-significance-testing/</id>
         <link href="https://statmodeling.stat.columbia.edu/2024/07/10/a-misunderstanding-about-decision-analysis-and-significance-testing/"/>
@@ -4652,134 +5160,6 @@ When the Good Place said “Why choose...]]></summary>
         <summary type="html"><![CDATA[Joel David Hamkins, “How the continuum hypothesis could have been a fundamental axiom,” Mathematics arXiv (2024), arxiv:2407.02463.]]></summary>
         <author>
             <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come for the Brian Eno quote, stay for the cultural insights]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/come-for-brian-eno-quote-stay-for.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/come-for-brian-eno-quote-stay-for.html"/>
-        <updated>2024-07-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the great quote, I'd say this was exceptional work from Bob Chipman but I don't think you can be characteristically exception...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ζώδια και Αστρολογία Carl Sagan..]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/carl-sagan.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/carl-sagan.html"/>
-        <updated>2024-07-03T11:05:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Election endings, tennis and meeting men in finance]]></title>
-        <id>http://www.bbc.co.uk/programmes/p0j7xtxj</id>
-        <link href="http://www.bbc.co.uk/programmes/p0j7xtxj"/>
-        <updated>2024-07-03T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Exit polls, election claims, and a 54% chance of winning a point in tennis]]></summary>
-        <author>
-            <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tackling hard problems: On the evolution of operations research]]></title>
-        <id>https://punkrockor.com/2024/07/03/tackling-hard-problems-on-the-evolution-of-operations-research/</id>
-        <link href="https://punkrockor.com/2024/07/03/tackling-hard-problems-on-the-evolution-of-operations-research/"/>
-        <updated>2024-07-03T08:17:09.000Z</updated>
-        <summary type="html"><![CDATA[At the EURO Conference in Copenhagen in July 2024, I was honored to present a talk entitled “Tackling hard problems: On the evolution of operations research” in the “Moments in th…]]></summary>
-        <author>
-            <name>Punk Rock Operations Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Das war zu wenig.“ Verlieren lernen.]]></title>
-        <id>https://halbtagsblog.de/2024/07/02/das-war-zu-wenig-verlieren-lernen/</id>
-        <link href="https://halbtagsblog.de/2024/07/02/das-war-zu-wenig-verlieren-lernen/"/>
-        <updated>2024-07-02T17:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Nicht so im Sport. Obwohl der Tag insgesamt ausgesprochen fair ablief und in insgesamt 5 Stunden Spielzeit nur zwei (!) Fouls pfeifen musste, waren Frust und]]></summary>
-        <author>
-            <name>Schule, Schulleitung, Familie, DIY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do incremental improvements add, multiply, or something else?]]></title>
-        <id>https://www.johndcook.com/blog/2024/07/02/incremental-improvement/</id>
-        <link href="https://www.johndcook.com/blog/2024/07/02/incremental-improvement/"/>
-        <updated>2024-07-02T16:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Suppose you make an x% improvement followed by a y% improvement. Together do they make an (x + y)% improvement? Maybe, maybe not.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salem prize now accepting nominations for 2024]]></title>
-        <id>https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/</id>
-        <link href="https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/"/>
-        <updated>2024-07-02T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The Salem prize was established in 1968 and named in honor of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study of the links between Fourier series and number theory and …]]></summary>
-        <author>
-            <name>What's new</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salem prize now accepting nominations for 2024]]></title>
-        <id>https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/</id>
-        <link href="https://terrytao.wordpress.com/2024/07/02/salem-prize-now-accepting-nominations-for-2024/"/>
-        <updated>2024-07-02T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The Salem prize was established in 1968 and named in honor of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study of the links between Fourier series and number theory and …]]></summary>
-        <author>
-            <name>What's new</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved, Scientific American]]></title>
-        <id>https://www.simonsfoundation.org/2024/07/02/the-biggest-problem-in-mathematics-is-finally-a-step-closer-to-being-solved-scientific-american/</id>
-        <link href="https://www.simonsfoundation.org/2024/07/02/the-biggest-problem-in-mathematics-is-finally-a-step-closer-to-being-solved-scientific-american/"/>
-        <updated>2024-07-02T14:48:16.000Z</updated>
-        <summary type="html"><![CDATA[The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved, Scientific American on Simons Foundation]]></summary>
-        <author>
-            <name>Simons Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BusyBeaver(5) is now known to be 47,176,870]]></title>
-        <id>https://scottaaronson.blog/?p=8088</id>
-        <link href="https://scottaaronson.blog/?p=8088"/>
-        <updated>2024-07-02T14:06:14.000Z</updated>
-        <summary type="html"><![CDATA[The news these days feels apocalyptic to me—as if we’re living through, if not the last days of humanity, then surely the last days of liberal democracy on earth. All the more reason to…]]></summary>
-        <author>
-            <name>Shtetl-Optimized</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2024 Geometry Regents Part III]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iii.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iii.html"/>
-        <updated>2024-07-02T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[This exam was adminstered in June 2024 .      June 2024  Geometry, Part III    Each correct answer is worth up to 4 credits. Partial credi...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obnoxious receipt from Spirit Airlines]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/02/obnoxious-receipt-from-spirit-airlines/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/02/obnoxious-receipt-from-spirit-airlines/"/>
-        <updated>2024-07-02T13:46:55.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this the silliest scoring system ever?]]></title>
-        <id>https://mathwithbaddrawings.com/2024/07/02/is-this-the-silliest-scoring-system-ever/</id>
-        <link href="https://mathwithbaddrawings.com/2024/07/02/is-this-the-silliest-scoring-system-ever/"/>
-        <updated>2024-07-02T13:00:59.000Z</updated>
-        <summary type="html"><![CDATA[How the 2020 Olympics depended on a beautifully abominable calculation.]]></summary>
-        <author>
-            <name>Math with Bad Drawings</name>
         </author>
     </entry>
 </feed>
