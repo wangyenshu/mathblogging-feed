@@ -6,6 +6,206 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://ncatlab.org/nlab/show/Richard+Askey",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Richard+Askey",
+          "publishedOn": "2024-08-02T20:12:30.000Z",
+          "wordCount": 757,
+          "title": "Richard Askey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/George+Andrews",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/George+Andrews",
+          "publishedOn": "2024-08-02T19:58:50.000Z",
+          "wordCount": 695,
+          "title": "George Andrews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Masatoshi+Noumi",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Masatoshi+Noumi",
+          "publishedOn": "2024-08-02T19:43:02.000Z",
+          "wordCount": 723,
+          "title": "Masatoshi Noumi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mindyourdecisions.com/blog/2024/08/02/a-nice-equation-with-cosine/",
+          "author": "Mind Your Decisions",
+          "description": "",
+          "link": "https://mindyourdecisions.com/blog/2024/08/02/a-nice-equation-with-cosine/",
+          "publishedOn": "2024-08-02T18:03:20.000Z",
+          "wordCount": 2946,
+          "title": "A nice equation with cosine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/",
+          "author": "What's new",
+          "description": "In a previous blog post, I discussed how, from a Bayesian perspective, learning about some new information $latex {E}&fg=000000$ can update one’s perceived odds $latex {{\\mathbb P}(H_1) /…",
+          "link": "https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/",
+          "publishedOn": "2024-08-02T17:58:39.000Z",
+          "wordCount": 6386,
+          "title": "What are the odds, II: the Venezuelan presidential election",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1722645196"
+        },
+        {
+          "id": "https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/",
+          "author": "What's new",
+          "description": "In a previous blog post, I discussed how, from a Bayesian perspective, learning about some new information $latex {E}&fg=000000$ can update one’s perceived odds $latex {{\\mathbb P}(H_1) /…",
+          "link": "https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/",
+          "publishedOn": "2024-08-02T17:58:39.000Z",
+          "wordCount": 6386,
+          "title": "What are the odds, II: the Venezuelan presidential election",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1722645196"
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Macdonald+Constant-Term+Conjecture",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Macdonald+Constant-Term+Conjecture",
+          "publishedOn": "2024-08-02T17:52:32.000Z",
+          "wordCount": 690,
+          "title": "Macdonald Constant-Term Conjecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Gleb+Koshevoy",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Gleb+Koshevoy",
+          "publishedOn": "2024-08-02T16:10:20.000Z",
+          "wordCount": 659,
+          "title": "Gleb Koshevoy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/octahedron+recurrence",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/octahedron+recurrence",
+          "publishedOn": "2024-08-02T15:54:08.000Z",
+          "wordCount": 921,
+          "title": "octahedron recurrence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retractionwatch.com/2024/08/02/happy-14th-birthday-retraction-watch-and-what-a-year-it-was/",
+          "author": "Retraction Watch",
+          "description": "In our old diner haunt (now closed), more than a decade ago We know we say this every year, but the last 12 months have been big ones for Retraction Watch as we celebrate our 14th birthday on Augus…",
+          "link": "https://retractionwatch.com/2024/08/02/happy-14th-birthday-retraction-watch-and-what-a-year-it-was/",
+          "publishedOn": "2024-08-02T14:00:05.000Z",
+          "wordCount": 2355,
+          "title": "Happy 14th birthday, Retraction Watch – and what a year it was",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2020/08/diner.jpg"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/08/02/the-active-seating-zone-an-educational-experiment/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/08/02/the-active-seating-zone-an-educational-experiment/",
+          "publishedOn": "2024-08-02T13:48:38.000Z",
+          "wordCount": null,
+          "title": "“The Active Seating Zone (An Educational Experiment)”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/02/oceans-sub-blue-wave5/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/08/02/oceans-sub-blue-wave5/",
+          "publishedOn": "2024-08-02T13:15:24.000Z",
+          "wordCount": 2378,
+          "title": "Ocean’s sub [blue wave#5]",
+          "imageUrl": "https://france3-regions.francetvinfo.fr/image/GwxBd8a7In2W7jE78bpqHvyvCEg/600x400/regions/2023/09/22/epalivesix255454-650dcade9c660493432485.jpg"
+        },
+        {
+          "id": "https://inquiryintoinquiry.com/2024/08/02/relations-their-relatives-3-a/",
+          "author": "Inquiry Into Inquiry",
+          "description": "Here are two ways of looking at the divisibility relation, a dyadic relation of fundamental importance in number theory. Table 1 shows the first few ordered pairs of the relation on positive intege…",
+          "link": "https://inquiryintoinquiry.com/2024/08/02/relations-their-relatives-3-a/",
+          "publishedOn": "2024-08-02T11:48:07.000Z",
+          "wordCount": 5631,
+          "title": "Relations & Their Relatives • 3",
+          "imageUrl": "https://inquiryintoinquiry.com/wp-content/uploads/2015/02/elementary-relatives-for-the-e2809cdivisor-ofe2809d-relation.png"
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/07/im-trying-to-wrap-up-new-york-times.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "Written on 7/29/2024.  Lots to criticize here (the embarrassing \"code switching\" article alone would be good for a couple posts), but I am g...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/07/im-trying-to-wrap-up-new-york-times.html",
+          "publishedOn": "2024-08-02T11:30:00.000Z",
+          "wordCount": 3260,
+          "title": "I'm trying to wrap up the New York Times bashing thread but they keep giving me so much material",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQbR2QH2XagRrc3VuqscRLLYDxIc9HuWBayQY2XomSafPSVpzBV3rpbay1RZ2ctDohyNb-8tHPjAvqta-j71AV0i4s39-3GTsYuw258qsextA0mBJ8pMYI4Fgmugq-IVAZEGi5vr76Fdz4Z0xEYc4rJZUqhD4kbs6MDhM7aI2nGk7UXwbkb1JkvzVyOvuO/w1200-h630-p-k-no-nu/NYT729.png"
+        },
+        {
+          "id": "https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/",
+          "author": "Azimuth",
+          "description": "Wow — evidence that very massive neutron stars may have cores made of deconfined quark matter! The idea of a ‘quark star’ is not new, but I didn’t know it was a serio…",
+          "link": "https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/",
+          "publishedOn": "2024-08-02T10:00:39.000Z",
+          "wordCount": 3188,
+          "title": "Quark Stars",
+          "imageUrl": "https://johncarlosbaez.wordpress.com/wp-content/uploads/2024/07/neutron_star_quark_core.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-2.html",
+          "author": "Pat'sBlog",
+          "description": "The whole form of mathematical thinking was created by Euler. It is only with the greatest of difficulty that one is able to follow the wr...",
+          "link": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-2.html",
+          "publishedOn": "2024-08-02T04:00:00.000Z",
+          "wordCount": 7550,
+          "title": "On This Day in Math - August 2",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4iI9b_IbS8T6B9IQxXIjc2RxYYcZ1BsEqVyitCL4nlXrVhd0DMNmq45fhteIFrBrtuDpCkxCaTUBrrvUVDrqlF-WcExrfGEdRT8uqCV75IktphaCpbr6fi1IKS4MtV-NpQr6faQNm2Dk/w1200-h630-p-k-no-nu/aug+2.jpg"
+        },
+        {
+          "id": "https://retractionwatch.com/2024/08/01/journal-retracts-paper-on-chiropractic-product-after-company-complains/",
+          "author": "Retraction Watch",
+          "description": "An article about the overuse of spinal imaging has been retracted after the owner of a chiropractic product it criticized in passing complained to the journal.  The paper, “An investigation into th…",
+          "link": "https://retractionwatch.com/2024/08/01/journal-retracts-paper-on-chiropractic-product-after-company-complains/",
+          "publishedOn": "2024-08-02T02:57:55.000Z",
+          "wordCount": 3102,
+          "title": "Journal retracts paper on chiropractic product after company complains",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/08/image-1.png"
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757651631656583169",
+          "author": "Thales’ circles",
+          "description": "the death of dvds is so fucked. what about bonus features",
+          "link": "https://thalescircles.tumblr.com/post/757651631656583169",
+          "publishedOn": "2024-08-01T22:55:01.000Z",
+          "wordCount": 578,
+          "title": "the death of dvds is so fucked. what about bonus features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/02/the-amazing-adventures-of-kavalier-clay-book-review/",
+          "author": "Xi'an's Og",
+          "description": "After reading the (pretty good) Yiddish Policemen’s Union by Michael Chabon, I found out this earlier book had won a Pullitzer prize for fiction and decided to give it a go. Which lasted for …",
+          "link": "https://xianblog.wordpress.com/2024/08/02/the-amazing-adventures-of-kavalier-clay-book-review/",
+          "publishedOn": "2024-08-01T22:24:35.000Z",
+          "wordCount": 2794,
+          "title": "the amazing adventures of Kavalier & Clay [book review]",
+          "imageUrl": "https://facts.net/wp-content/uploads/2023/09/19-unbelievable-facts-about-the-amazing-adventures-of-kavalier-clay-michael-chabon-1695707983.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757642802530222080",
+          "author": "Pure Numbers Daily Blog",
+          "description": "8 = 1 * 2 * 4\nAlso:\n[√(8 + 1)]! = 2 + 4",
+          "link": "https://purenumbers.tumblr.com/post/757642802530222080",
+          "publishedOn": "2024-08-01T20:34:41.000Z",
+          "wordCount": 1767,
+          "title": "8/1/24",
+          "imageUrl": null
+        },
+        {
           "id": "https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/",
           "author": "Statistical Modeling, Causal Inference, and Social Science",
           "description": "",
@@ -554,6 +754,16 @@
           "wordCount": 5594,
           "title": "Relations & Their Relatives • 1",
           "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1722472679"
+        },
+        {
+          "id": "https://aperiodical.com/2024/07/row-sqrt-1-of-pascals-triangle/",
+          "author": "The Aperiodical",
+          "description": "Hi! My name is Colin, and I am a PROPER mathematician now. I’ve made a contribution to the Online Encyclopaedia of Integer Sequences.",
+          "link": "https://aperiodical.com/2024/07/row-sqrt-1-of-pascals-triangle/",
+          "publishedOn": "2024-07-31T13:54:28.000Z",
+          "wordCount": 2434,
+          "title": "Row \\( \\sqrt{-1} \\) of Pascal’s triangle",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
           "id": "https://statmodeling.stat.columbia.edu/2024/07/31/age-gap-between-spouses/",
@@ -4994,146 +5204,6 @@
           "wordCount": null,
           "title": "“What do we need from a probabilistic programming language to support Bayesian workflow?”",
           "imageUrl": null
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "Listening to Cohan, it's easy to forget how controversial  going to war in Europe was.         And finally, som...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html",
-          "publishedOn": "2024-07-04T11:30:00.000Z",
-          "wordCount": 2839,
-          "title": "Music for the 4h",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uSdZG6Y9g_rQHpAYLqV5TTLSHLPs931N6qVnFr1vdIspVW_r-94MUAsmc3awDG9vLuJ-2cUo9Axv54R2xaAVlVMjl21P7Fh40P8VKbEP6TEpEmRQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_4.html",
-          "author": "Μαθη...μαγικά",
-          "description": "λλ Ο Βρετανός εξελικτικός βιολόγος και συγγραφέας βιβλίων εκλαϊκευμένης επιστήμης, Ρίτσαρντ Ντόκινς, σε ένα από τα μικρού μήκους ντοκιμαντ...",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_4.html",
-          "publishedOn": "2024-07-04T04:34:00.000Z",
-          "wordCount": 4343,
-          "title": "Οι εχθροί της Λογικής",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sUj7Oz1ZrlIhiXmnzCZ36xX3hhBTG8udb-oODBeO60LBxNNlDEeIK0L8IYrJgSwwRMCrz9_DbMe6Ds2pixzom7nB_2bEEEQhuCgVwzJS6dM7Xw=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://thalescircles.tumblr.com/post/755027001226788864",
-          "author": "Thales’ circles",
-          "description": "When Everything Everywhere All at Once said “The only thing I do know is that we have to be kind. Please, be kind, especially when we don’t know what’s going on\" \nWhen the Good Place said “Why choose...",
-          "link": "https://thalescircles.tumblr.com/post/755027001226788864",
-          "publishedOn": "2024-07-03T23:37:39.000Z",
-          "wordCount": 607,
-          "title": "iamonlyhereforthefreefood:\n\n\n\nWhen Everything Everywhere All at Once said “The only thing I do know...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thalescircles.tumblr.com/post/755026864891953152",
-          "author": "Thales’ circles",
-          "description": "Sometimes math is bad and then sometimes you’ll come across a little guy like ŷ which is a predicted value and learn that it’s called y-hat. ‘Cause he’s got a little hat. And then math’s not so bad.",
-          "link": "https://thalescircles.tumblr.com/post/755026864891953152",
-          "publishedOn": "2024-07-03T23:35:29.000Z",
-          "wordCount": 561,
-          "title": "Sometimes math is bad and then sometimes you&rsquo;ll come across a little guy like ŷ which is a predicted&hellip;",
-          "imageUrl": "https://64.media.tumblr.com/56301dba429611fd5b9d5c01e3ebe839/389c10b0e7a4b2ea-86/s1280x1920/84c3e63063349da54b3b2469b0043d8f4bcaea6d.png"
-        },
-        {
-          "id": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iv.html",
-          "author": "(x, why?)",
-          "description": "This exam was adminstered in June 2024 .      June 2024  Geometry, Part IV    Each correct answer is worth up to 6 credits. Partial credit...",
-          "link": "https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iv.html",
-          "publishedOn": "2024-07-03T23:08:00.000Z",
-          "wordCount": 4298,
-          "title": "June 2024 Geometry Regents Part IV",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0JPhwwcZu9OGZo-XkG8uoOX9KHkQ4F74rhEpVnNsc5_Yagd_Lmrz2DLp1JF0bkNvD4feBBwL6K5iIwjv2v6Mni3sLhGrAX_uld1Toi7GHNLv_WHCKu1hy3paB2INws3GkFwgYoyLQBK3JhZPI53ugZAgqgqkQPEgo-to3c32Yppy-OIh_IuTylw/w1200-h630-p-k-no-nu/OIG2.hUE.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/03/grappling-with-uncertainty-in-forecasting-the-2024-u-s-presidential-election/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/03/grappling-with-uncertainty-in-forecasting-the-2024-u-s-presidential-election/",
-          "publishedOn": "2024-07-03T21:25:19.000Z",
-          "wordCount": null,
-          "title": "Grappling with uncertainty in forecasting the 2024 U.S. presidential election",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.plover.com/politics/housing.html",
-          "author": "The Universe of Disco",
-          "description": "From the highly eclectic blog of Mark Dominus",
-          "link": "https://blog.plover.com/politics/housing.html",
-          "publishedOn": "2024-07-03T20:41:00.000Z",
-          "wordCount": 1474,
-          "title": "My reply to the people who want to designate my neighborhood a \"historic district\"",
-          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
-        },
-        {
-          "id": "https://dantopology.wordpress.com/2024/07/03/a-simpler-proof-for-a-non-sequential-product-space/",
-          "author": "Dan Ma's Topology Blog",
-          "description": "The space $latex H \\times S(\\omega)$ is shown to be an example of product space that is not a sequential space while both factors are sequential. This is Example 1 in the preceding post (found here…",
-          "link": "https://dantopology.wordpress.com/2024/07/03/a-simpler-proof-for-a-non-sequential-product-space/",
-          "publishedOn": "2024-07-03T20:31:40.000Z",
-          "wordCount": 3882,
-          "title": "A simpler proof for a non-sequential product space",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://poetrywithmathematics.blogspot.com/2024/07/celebrate-blaise-pascal.html",
-          "author": "Intersections -- Poetry with Mathematics",
-          "description": "mathematics poetry",
-          "link": "https://poetrywithmathematics.blogspot.com/2024/07/celebrate-blaise-pascal.html",
-          "publishedOn": "2024-07-03T19:31:00.000Z",
-          "wordCount": 7281,
-          "title": "Celebrate Blaise Pascal",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWLecEPXe5tS8mqtDuXj9Ey3JZ-YckmN17PIqlbGu7GjtM3Wmjm4Gul0QXUQ3msK6k_JWoO9rpUr7QOfBNG11IFhai0VRp5C6_kbuFVEeQYk1krbXGv1_dkLsQ1KHBAkgnhgTWU0JFpba7teKpDhAow_yAVUKMrkrZ8TGN0mN0NX0SohnXdrRKte0gc8/w1200-h630-p-k-no-nu/Screenshot%202024-06-19%20164819.png"
-        },
-        {
-          "id": "https://freakonometrics.hypotheses.org/76428",
-          "author": "Freakonometrics",
-          "description": "After defending his PhD last week, Samuel just arrived in 横浜市, at the International Joint Conference on Neural Networks (IJCNN’24), that will take place at the IEEE World Congress on Computational Intelligence (WCCI). He will present our recent work on Boarding for ISS: Imbalanced Self-Supervised Discovery of a Scaled Autoencoder for Mixed Tabular Datasets, The … Continue reading Samuel が横浜に到着 →",
-          "link": "https://freakonometrics.hypotheses.org/76428",
-          "publishedOn": "2024-07-03T16:44:41.000Z",
-          "wordCount": 4346,
-          "title": "Samuel が横浜に到着",
-          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
-        },
-        {
-          "id": "https://richardzach.org/2024/07/multseq-2-0/",
-          "author": "Richard Zach",
-          "description": "",
-          "link": "https://richardzach.org/2024/07/multseq-2-0/",
-          "publishedOn": "2024-07-03T15:17:37.000Z",
-          "wordCount": null,
-          "title": "MUltseq 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/03/a-columbia-surgeons-study-was-pulled-he-kept-publishing-flawed-data/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/03/a-columbia-surgeons-study-was-pulled-he-kept-publishing-flawed-data/",
-          "publishedOn": "2024-07-03T13:45:36.000Z",
-          "wordCount": null,
-          "title": "“A Columbia Surgeon’s Study Was Pulled. He Kept Publishing Flawed Data.” . . . and it appears that he’s still at Columbia!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.computationalcomplexity.org/2024/07/why-is-called-turing-award-revisited.html",
-          "author": "Computational Complexity",
-          "description": "Avi Wigderson gave his ACM Turing Award  lecture last week, and instead of telling his own story, he focused on Alan Turing and his influenc...",
-          "link": "https://blog.computationalcomplexity.org/2024/07/why-is-called-turing-award-revisited.html",
-          "publishedOn": "2024-07-03T13:14:00.000Z",
-          "wordCount": 4870,
-          "title": "Why is called the Turing Award (revisited)?",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgMrSHS9BW3P4nDD5Iw2IiQrgWQwCHA47cJA424dAIRjTFHe-t-T34C-IvfIfigflsUsJuozGXlq2oF3LZhxatKxLRdlSdJt2tNkaGs-W-De8qz6WZizBa4kxZylOSjWy8-Hm9Wvs24t-g2pWqeze3htlb1Wle_c6Jzf71kvWig6rqjV7y7cc/w1200-h630-p-k-no-nu/PXL_20240630_162729929.jpg"
-        },
-        {
-          "id": "https://jdh.hamkins.org/how-ch-could-have-been-fundamental/",
-          "author": "Joel David Hamkins",
-          "description": "Joel David Hamkins, “How the continuum hypothesis could have been a fundamental axiom,” Mathematics arXiv (2024), arxiv:2407.02463.",
-          "link": "https://jdh.hamkins.org/how-ch-could-have-been-fundamental/",
-          "publishedOn": "2024-07-03T12:42:11.000Z",
-          "wordCount": 2336,
-          "title": "How the continuum hypothesis could have been a fundamental axiom",
-          "imageUrl": "https://jdh.hamkins.org/wp-content/uploads/DALL·E-2024-07-02-16.01.56-An-illustration-showing-Gottfried-Wilhelm-Leibniz-and-Isaac-Newton-two-prominent-mathematicians-standing-in-front-of-a-large-chalkboard-filled-with-.png"
         }
       ]
     }

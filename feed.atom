@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T00:33:59.510Z</updated>
+    <updated>2024-08-03T00:33:20.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Richard Askey]]></title>
+        <id>https://ncatlab.org/nlab/show/Richard+Askey</id>
+        <link href="https://ncatlab.org/nlab/show/Richard+Askey"/>
+        <updated>2024-08-02T20:12:30.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George Andrews]]></title>
+        <id>https://ncatlab.org/nlab/show/George+Andrews</id>
+        <link href="https://ncatlab.org/nlab/show/George+Andrews"/>
+        <updated>2024-08-02T19:58:50.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masatoshi Noumi]]></title>
+        <id>https://ncatlab.org/nlab/show/Masatoshi+Noumi</id>
+        <link href="https://ncatlab.org/nlab/show/Masatoshi+Noumi"/>
+        <updated>2024-08-02T19:43:02.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A nice equation with cosine]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/08/02/a-nice-equation-with-cosine/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/08/02/a-nice-equation-with-cosine/"/>
+        <updated>2024-08-02T18:03:20.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the odds, II: the Venezuelan presidential election]]></title>
+        <id>https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/</id>
+        <link href="https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/"/>
+        <updated>2024-08-02T17:58:39.000Z</updated>
+        <summary type="html"><![CDATA[In a previous blog post, I discussed how, from a Bayesian perspective, learning about some new information $latex {E}&fg=000000$ can update one’s perceived odds $latex {{\mathbb P}(H_1) /…]]></summary>
+        <author>
+            <name>What's new</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the odds, II: the Venezuelan presidential election]]></title>
+        <id>https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/</id>
+        <link href="https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/"/>
+        <updated>2024-08-02T17:58:39.000Z</updated>
+        <summary type="html"><![CDATA[In a previous blog post, I discussed how, from a Bayesian perspective, learning about some new information $latex {E}&fg=000000$ can update one’s perceived odds $latex {{\mathbb P}(H_1) /…]]></summary>
+        <author>
+            <name>What's new</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macdonald Constant-Term Conjecture]]></title>
+        <id>https://ncatlab.org/nlab/show/Macdonald+Constant-Term+Conjecture</id>
+        <link href="https://ncatlab.org/nlab/show/Macdonald+Constant-Term+Conjecture"/>
+        <updated>2024-08-02T17:52:32.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gleb Koshevoy]]></title>
+        <id>https://ncatlab.org/nlab/show/Gleb+Koshevoy</id>
+        <link href="https://ncatlab.org/nlab/show/Gleb+Koshevoy"/>
+        <updated>2024-08-02T16:10:20.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[octahedron recurrence]]></title>
+        <id>https://ncatlab.org/nlab/show/octahedron+recurrence</id>
+        <link href="https://ncatlab.org/nlab/show/octahedron+recurrence"/>
+        <updated>2024-08-02T15:54:08.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy 14th birthday, Retraction Watch – and what a year it was]]></title>
+        <id>https://retractionwatch.com/2024/08/02/happy-14th-birthday-retraction-watch-and-what-a-year-it-was/</id>
+        <link href="https://retractionwatch.com/2024/08/02/happy-14th-birthday-retraction-watch-and-what-a-year-it-was/"/>
+        <updated>2024-08-02T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[In our old diner haunt (now closed), more than a decade ago We know we say this every year, but the last 12 months have been big ones for Retraction Watch as we celebrate our 14th birthday on Augus…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The Active Seating Zone (An Educational Experiment)”]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/02/the-active-seating-zone-an-educational-experiment/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/02/the-active-seating-zone-an-educational-experiment/"/>
+        <updated>2024-08-02T13:48:38.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s sub [blue wave#5]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/02/oceans-sub-blue-wave5/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/02/oceans-sub-blue-wave5/"/>
+        <updated>2024-08-02T13:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relations & Their Relatives • 3]]></title>
+        <id>https://inquiryintoinquiry.com/2024/08/02/relations-their-relatives-3-a/</id>
+        <link href="https://inquiryintoinquiry.com/2024/08/02/relations-their-relatives-3-a/"/>
+        <updated>2024-08-02T11:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Here are two ways of looking at the divisibility relation, a dyadic relation of fundamental importance in number theory. Table 1 shows the first few ordered pairs of the relation on positive intege…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm trying to wrap up the New York Times bashing thread but they keep giving me so much material]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/07/im-trying-to-wrap-up-new-york-times.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/07/im-trying-to-wrap-up-new-york-times.html"/>
+        <updated>2024-08-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Written on 7/29/2024.  Lots to criticize here (the embarrassing "code switching" article alone would be good for a couple posts), but I am g...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quark Stars]]></title>
+        <id>https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/</id>
+        <link href="https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/"/>
+        <updated>2024-08-02T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Wow — evidence that very massive neutron stars may have cores made of deconfined quark matter! The idea of a ‘quark star’ is not new, but I didn’t know it was a serio…]]></summary>
+        <author>
+            <name>Azimuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 2]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-2.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-2.html"/>
+        <updated>2024-08-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The whole form of mathematical thinking was created by Euler. It is only with the greatest of difficulty that one is able to follow the wr...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal retracts paper on chiropractic product after company complains]]></title>
+        <id>https://retractionwatch.com/2024/08/01/journal-retracts-paper-on-chiropractic-product-after-company-complains/</id>
+        <link href="https://retractionwatch.com/2024/08/01/journal-retracts-paper-on-chiropractic-product-after-company-complains/"/>
+        <updated>2024-08-02T02:57:55.000Z</updated>
+        <summary type="html"><![CDATA[An article about the overuse of spinal imaging has been retracted after the owner of a chiropractic product it criticized in passing complained to the journal.  The paper, “An investigation into th…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the death of dvds is so fucked. what about bonus features]]></title>
+        <id>https://thalescircles.tumblr.com/post/757651631656583169</id>
+        <link href="https://thalescircles.tumblr.com/post/757651631656583169"/>
+        <updated>2024-08-01T22:55:01.000Z</updated>
+        <summary type="html"><![CDATA[the death of dvds is so fucked. what about bonus features]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the amazing adventures of Kavalier & Clay [book review]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/02/the-amazing-adventures-of-kavalier-clay-book-review/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/02/the-amazing-adventures-of-kavalier-clay-book-review/"/>
+        <updated>2024-08-01T22:24:35.000Z</updated>
+        <summary type="html"><![CDATA[After reading the (pretty good) Yiddish Policemen’s Union by Michael Chabon, I found out this earlier book had won a Pullitzer prize for fiction and decided to give it a go. Which lasted for …]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/1/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757642802530222080</id>
+        <link href="https://purenumbers.tumblr.com/post/757642802530222080"/>
+        <updated>2024-08-01T20:34:41.000Z</updated>
+        <summary type="html"><![CDATA[8 = 1 * 2 * 4
+Also:
+[√(8 + 1)]! = 2 + 4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s a generative model?  PyMC and Stan edition]]></title>
         <id>https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/</id>
@@ -551,6 +745,16 @@ Also:
         <summary type="html"><![CDATA[Sign relations are special cases of triadic relations in much the same way binary operations in mathematics are special cases of triadic relations.  It amounts to a minor complication that we …]]></summary>
         <author>
             <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row \( \sqrt{-1} \) of Pascal’s triangle]]></title>
+        <id>https://aperiodical.com/2024/07/row-sqrt-1-of-pascals-triangle/</id>
+        <link href="https://aperiodical.com/2024/07/row-sqrt-1-of-pascals-triangle/"/>
+        <updated>2024-07-31T13:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Hi! My name is Colin, and I am a PROPER mathematician now. I’ve made a contribution to the Online Encyclopaedia of Integer Sequences.]]></summary>
+        <author>
+            <name>The Aperiodical</name>
         </author>
     </entry>
     <entry>
@@ -5018,148 +5222,6 @@ Also:
         <updated>2024-07-04T12:52:43.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music for the 4h]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/music-for-4h.html"/>
-        <updated>2024-07-04T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Listening to Cohan, it's easy to forget how controversial  going to war in Europe was.         And finally, som...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Οι εχθροί της Λογικής]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_4.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_4.html"/>
-        <updated>2024-07-04T04:34:00.000Z</updated>
-        <summary type="html"><![CDATA[λλ Ο Βρετανός εξελικτικός βιολόγος και συγγραφέας βιβλίων εκλαϊκευμένης επιστήμης, Ρίτσαρντ Ντόκινς, σε ένα από τα μικρού μήκους ντοκιμαντ...]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iamonlyhereforthefreefood:
-
-
-
-When Everything Everywhere All at Once said “The only thing I do know...]]></title>
-        <id>https://thalescircles.tumblr.com/post/755027001226788864</id>
-        <link href="https://thalescircles.tumblr.com/post/755027001226788864"/>
-        <updated>2024-07-03T23:37:39.000Z</updated>
-        <summary type="html"><![CDATA[When Everything Everywhere All at Once said “The only thing I do know is that we have to be kind. Please, be kind, especially when we don’t know what’s going on" 
-When the Good Place said “Why choose...]]></summary>
-        <author>
-            <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes math is bad and then sometimes you&rsquo;ll come across a little guy like ŷ which is a predicted&hellip;]]></title>
-        <id>https://thalescircles.tumblr.com/post/755026864891953152</id>
-        <link href="https://thalescircles.tumblr.com/post/755026864891953152"/>
-        <updated>2024-07-03T23:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes math is bad and then sometimes you’ll come across a little guy like ŷ which is a predicted value and learn that it’s called y-hat. ‘Cause he’s got a little hat. And then math’s not so bad.]]></summary>
-        <author>
-            <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2024 Geometry Regents Part IV]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iv.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-iv.html"/>
-        <updated>2024-07-03T23:08:00.000Z</updated>
-        <summary type="html"><![CDATA[This exam was adminstered in June 2024 .      June 2024  Geometry, Part IV    Each correct answer is worth up to 6 credits. Partial credit...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grappling with uncertainty in forecasting the 2024 U.S. presidential election]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/03/grappling-with-uncertainty-in-forecasting-the-2024-u-s-presidential-election/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/03/grappling-with-uncertainty-in-forecasting-the-2024-u-s-presidential-election/"/>
-        <updated>2024-07-03T21:25:19.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My reply to the people who want to designate my neighborhood a "historic district"]]></title>
-        <id>https://blog.plover.com/politics/housing.html</id>
-        <link href="https://blog.plover.com/politics/housing.html"/>
-        <updated>2024-07-03T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
-        <author>
-            <name>The Universe of Disco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simpler proof for a non-sequential product space]]></title>
-        <id>https://dantopology.wordpress.com/2024/07/03/a-simpler-proof-for-a-non-sequential-product-space/</id>
-        <link href="https://dantopology.wordpress.com/2024/07/03/a-simpler-proof-for-a-non-sequential-product-space/"/>
-        <updated>2024-07-03T20:31:40.000Z</updated>
-        <summary type="html"><![CDATA[The space $latex H \times S(\omega)$ is shown to be an example of product space that is not a sequential space while both factors are sequential. This is Example 1 in the preceding post (found here…]]></summary>
-        <author>
-            <name>Dan Ma's Topology Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrate Blaise Pascal]]></title>
-        <id>https://poetrywithmathematics.blogspot.com/2024/07/celebrate-blaise-pascal.html</id>
-        <link href="https://poetrywithmathematics.blogspot.com/2024/07/celebrate-blaise-pascal.html"/>
-        <updated>2024-07-03T19:31:00.000Z</updated>
-        <summary type="html"><![CDATA[mathematics poetry]]></summary>
-        <author>
-            <name>Intersections -- Poetry with Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samuel が横浜に到着]]></title>
-        <id>https://freakonometrics.hypotheses.org/76428</id>
-        <link href="https://freakonometrics.hypotheses.org/76428"/>
-        <updated>2024-07-03T16:44:41.000Z</updated>
-        <summary type="html"><![CDATA[After defending his PhD last week, Samuel just arrived in 横浜市, at the International Joint Conference on Neural Networks (IJCNN’24), that will take place at the IEEE World Congress on Computational Intelligence (WCCI). He will present our recent work on Boarding for ISS: Imbalanced Self-Supervised Discovery of a Scaled Autoencoder for Mixed Tabular Datasets, The … Continue reading Samuel が横浜に到着 →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUltseq 2.0]]></title>
-        <id>https://richardzach.org/2024/07/multseq-2-0/</id>
-        <link href="https://richardzach.org/2024/07/multseq-2-0/"/>
-        <updated>2024-07-03T15:17:37.000Z</updated>
-        <author>
-            <name>Richard Zach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“A Columbia Surgeon’s Study Was Pulled. He Kept Publishing Flawed Data.” . . . and it appears that he’s still at Columbia!]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/03/a-columbia-surgeons-study-was-pulled-he-kept-publishing-flawed-data/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/03/a-columbia-surgeons-study-was-pulled-he-kept-publishing-flawed-data/"/>
-        <updated>2024-07-03T13:45:36.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is called the Turing Award (revisited)?]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/07/why-is-called-turing-award-revisited.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/07/why-is-called-turing-award-revisited.html"/>
-        <updated>2024-07-03T13:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Avi Wigderson gave his ACM Turing Award  lecture last week, and instead of telling his own story, he focused on Alan Turing and his influenc...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
-        <id>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</id>
-        <link href="https://jdh.hamkins.org/how-ch-could-have-been-fundamental/"/>
-        <updated>2024-07-03T12:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Joel David Hamkins, “How the continuum hypothesis could have been a fundamental axiom,” Mathematics arXiv (2024), arxiv:2407.02463.]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
         </author>
     </entry>
 </feed>
