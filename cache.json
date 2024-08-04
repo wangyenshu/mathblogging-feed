@@ -6,6 +6,116 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://inquiryintoinquiry.com/2024/08/03/relations-their-relatives-4-a/",
+          "author": "Inquiry Into Inquiry",
+          "description": "From Dyadic to Triadic to Sign Relations Peirce’s notation for elementary relatives was illustrated earlier by a dyadic relation from number theory, namely, the relation written $latex “…",
+          "link": "https://inquiryintoinquiry.com/2024/08/03/relations-their-relatives-4-a/",
+          "publishedOn": "2024-08-03T15:15:53.000Z",
+          "wordCount": 5865,
+          "title": "Relations & Their Relatives • 4",
+          "imageUrl": "https://inquiryintoinquiry.com/wp-content/uploads/2015/02/elementary-relatives-for-the-e2809cdivisor-ofe2809d-relation.png"
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2024/08/03/polylog/",
+          "author": "John D. Cook",
+          "description": "A family of infinite sums that evaluate to rational numbers, sometimes integers, and and effective algorithm for finding the sum.",
+          "link": "https://www.johndcook.com/blog/2024/08/03/polylog/",
+          "publishedOn": "2024-08-03T14:38:44.000Z",
+          "wordCount": 1539,
+          "title": "Evaluating a class of infinite sums in closed form",
+          "imageUrl": null
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/08/03/kamala-harris-gets-coveted-xkcd-endorsement/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/08/03/kamala-harris-gets-coveted-xkcd-endorsement/",
+          "publishedOn": "2024-08-03T13:19:51.000Z",
+          "wordCount": null,
+          "title": "Kamala Harris gets coveted xkcd endorsement.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/03/oceans-three-blue-wave6/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/08/03/oceans-three-blue-wave6/",
+          "publishedOn": "2024-08-03T13:15:46.000Z",
+          "wordCount": 2386,
+          "title": "Ocean’s three [blue wave#6]",
+          "imageUrl": "https://www.liberation.fr/resizer/yTn0vWZf3sWOPFymPj8lE-abM2g=/1600x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/MXHV3TEXIRF27PP7OXEZSJS6OM.jpg"
+        },
+        {
+          "id": "https://retractionwatch.com/2024/08/03/weekend-reads-happy-birthday-retraction-watch-a-mysterious-conference-extreme-publishing-research-parasites-revisited/",
+          "author": "Retraction Watch",
+          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Science and the significant trend towards spin and fairytales Cance…",
+          "link": "https://retractionwatch.com/2024/08/03/weekend-reads-happy-birthday-retraction-watch-a-mysterious-conference-extreme-publishing-research-parasites-revisited/",
+          "publishedOn": "2024-08-03T10:00:00.000Z",
+          "wordCount": 2473,
+          "title": "Weekend reads: Happy birthday, Retraction Watch!; a mysterious conference; extreme publishing; research parasites revisited",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg"
+        },
+        {
+          "id": "http://www.bbc.co.uk/programmes/p0jfpsb0",
+          "author": "More or Less: Behind the Stats",
+          "description": "Languages are disappearing. We investigate claims of how often this happens.",
+          "link": "http://www.bbc.co.uk/programmes/p0jfpsb0",
+          "publishedOn": "2024-08-03T05:00:00.000Z",
+          "wordCount": 1471,
+          "title": "Does a language die every two weeks?",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0jfpffl.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-3.html",
+          "author": "Pat'sBlog",
+          "description": "1935 Little Orphan Annie Decoder There are surely worse things than being wrong, and being dull and pedantic are surely among them. Mark ...",
+          "link": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-3.html",
+          "publishedOn": "2024-08-03T04:00:00.000Z",
+          "wordCount": 8348,
+          "title": "On This Day in Math - August 3",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHo5tvfenFWuuvegBV6ihFwljStG5z20Lg8GIq9fkBML1L7tfnkgW0Q3aGkTEahyqCZToAFjTbNmLulu7pfVGcBx-LajtLlDcfJ_kyXET0VJ2SeniDMm-uo11DNpR67Z49mS3NDtfcQWE/w1200-h630-p-k-no-nu/orphan+annie+decoder+.JPG"
+        },
+        {
+          "id": "https://www.jeremykun.com/shortform/2024-08-02-1551/",
+          "author": "Math ∩ Programming",
+          "description": "I’ve been upstreaming a bit of my compiler work to the MLIR project.\nYesterday, I merged in a tutorial on mlir-opt, the main debugging tool for running passes on MLIR code. This is roughly the upstreamable parts of my first MLIR tutorial entry, MLIR — Running and Testing a Lowering. Mehdi Amini also provided a lot of useful information during review that taught me some stuff I didn’t know about the tool.",
+          "link": "https://www.jeremykun.com/shortform/2024-08-02-1551/",
+          "publishedOn": "2024-08-02T22:51:23.000Z",
+          "wordCount": 358,
+          "title": "Polynomial dialect and mlir-opt tutorial upstreamed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/",
+          "author": "Xi'an's Og",
+          "description": "Read nothing new for a while as I got stuck finishing Babel at a sloth pace… But bought for the summer vacations Don Quixote de la Mancha (in French) and a commentary by Marx that I intend to…",
+          "link": "https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/",
+          "publishedOn": "2024-08-02T22:24:14.000Z",
+          "wordCount": 2867,
+          "title": "a journal of the chaos, conquest, war, [far from] famine, and death year",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/1717136877699-e1717137160688.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757733390138097664",
+          "author": "Pure Numbers Daily Blog",
+          "description": "8 = 2 + 2 + 4\nAlso:\n8 / 2 = 2 + √4",
+          "link": "https://purenumbers.tumblr.com/post/757733390138097664",
+          "publishedOn": "2024-08-02T20:34:32.000Z",
+          "wordCount": 1767,
+          "title": "8/2/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ncatlab.org/nlab/show/Askey-Wilson+polynomial",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/Askey-Wilson+polynomial",
+          "publishedOn": "2024-08-02T20:30:32.000Z",
+          "wordCount": 700,
+          "title": "Askey-Wilson polynomial",
+          "imageUrl": null
+        },
+        {
           "id": "https://ncatlab.org/nlab/show/Richard+Askey",
           "author": "nLab",
           "description": "",
@@ -5093,116 +5203,6 @@
           "publishedOn": "2024-07-05T13:06:51.000Z",
           "wordCount": null,
           "title": "From τὰ φυσικά (ta physika) to physics – XXIV",
-          "imageUrl": null
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "Coffeezilla first got on my radar when the Financial Times quoted his investigation of a shady crypto deal. I've been watching his channel e...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html",
-          "publishedOn": "2024-07-05T11:30:00.000Z",
-          "wordCount": 2919,
-          "title": "Coffeezilla vs Rabbit",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vJNiwQ6KQ7ejFSEPZDUQ1E1V3N7UCwUzdYtmiasaYWJYYLkOlk_xSCzH2eKzAGt9duDUEvd7-Q97QIUmZGrYInFkxk5J_aqFpEn2KsEsrwVjG-0Q=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/cult.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/cult.html",
-          "publishedOn": "2024-07-05T04:32:00.000Z",
-          "wordCount": 4277,
-          "title": "Cult αντικείμενα",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tbRHgR_BfYKuNRUkPmJAmtaBonAXEX7TLqvESDdXvzwRaRBwaqeucWo7H57UXHgklGwUuXMvZ9vjWaevVdVF5-iaRK6YPurOgM__DiIYmqL1mh=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://purenumbers.tumblr.com/post/755105826817130496",
-          "author": "Pure Numbers Daily Blog",
-          "description": "(7 - 4)! = 2 + 4",
-          "link": "https://purenumbers.tumblr.com/post/755105826817130496",
-          "publishedOn": "2024-07-04T20:30:33.000Z",
-          "wordCount": 1755,
-          "title": "7/4/24",
-          "imageUrl": null
-        },
-        {
-          "id": "https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/",
-          "author": "Error Statistics Philosophy",
-          "description": "Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology [Some earlier posts by D. Lakens on this topic are at the end of this post]* This continues Part 1: 4: Most d…",
-          "link": "https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/",
-          "publishedOn": "2024-07-04T19:32:36.000Z",
-          "wordCount": 10152,
-          "title": "Guest Post (part 2 of 2): Daniël Lakens: “How were we supposed to move beyond  p < .05, and why didn’t we?”",
-          "imageUrl": "https://errorstatistics.com/wp-content/uploads/2021/12/d-lakens.jpeg?w=150"
-        },
-        {
-          "id": "http://docmadhattan.fieldofscience.com/2024/07/alan-turing-and-sunflowers.html",
-          "author": "Doc Madhattan",
-          "description": "Alan Turing  was fascinated by mathematical patterns found in nature. In particular, he noticed that the Fibonacci sequence often occurred i...",
-          "link": "http://docmadhattan.fieldofscience.com/2024/07/alan-turing-and-sunflowers.html",
-          "publishedOn": "2024-07-04T18:00:00.000Z",
-          "wordCount": 4325,
-          "title": "Alan Turing and the sunflowers",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssyuvbpbfd6QIg_JbNsD7Yr-ZuwnYi05cFegCiCW7RTCAGNWmCFGm1t7_4qpcujJZEKSkDa5BR4jeNT6nGhlan5qdUZy-isc-IbG4dOMsnexBQItdjyrr8NocfCKDf_8tKvWaNi-eVMyKKodRe=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_47.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_47.html",
-          "publishedOn": "2024-07-04T17:32:00.000Z",
-          "wordCount": 4988,
-          "title": "Εμβαδό",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO16Ts-DomaZWHCuVUDEBUZocCu9a2BLN0vgJwkY4_dVcc5ifG82lRhvEWZnL6xllfwH70JfHi4KkZFiRRccUfnkFMnNMBZnzMIjguKqphT-o9g29d3xzXNn7_Ywh1ISjzG8jfRoM-7jIOM_8vnCfjiEW3jJVCnKFf0-IBZMxZv-vT0DBxixPpTjkAKIq-/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-04T203059.727.png"
-        },
-        {
-          "id": "https://inquiryintoinquiry.com/2024/07/04/constraints-and-indications-2-a/",
-          "author": "Inquiry Into Inquiry",
-          "description": "Re: Constraints and Indications • 1 Re: Ontolog Forum • Joseph Simpson Coping with collaboration, communication, context, integration, interoperability, perspective, purpose, and the real…",
-          "link": "https://inquiryintoinquiry.com/2024/07/04/constraints-and-indications-2-a/",
-          "publishedOn": "2024-07-04T16:48:08.000Z",
-          "wordCount": 5620,
-          "title": "Constraints and Indications • 2",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1721867652"
-        },
-        {
-          "id": "https://dantopology.wordpress.com/2024/07/04/uncountable-product-of-the-real-line-is-not-a-k-space/",
-          "author": "Dan Ma's Topology Blog",
-          "description": "In understanding k-spaces and related spaces such as sequential spaces and Frechet spaces, it is helpful to know examples that do not satisfy the properties in question. Sequential spaces and k-spa…",
-          "link": "https://dantopology.wordpress.com/2024/07/04/uncountable-product-of-the-real-line-is-not-a-k-space/",
-          "publishedOn": "2024-07-04T16:04:16.000Z",
-          "wordCount": 4793,
-          "title": "Uncountable product of the real line is not a k-space",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://mattbaker.blog/2024/07/04/a-celebration-of-spans/",
-          "author": "Matt Baker's Math Blog",
-          "description": "Nine years ago, I wrote a July 4th blog post about matroids called A Celebration of Independence. Today, I’d like to talk about independence’s lesser-known sibling. In particular, I wan…",
-          "link": "https://mattbaker.blog/2024/07/04/a-celebration-of-spans/",
-          "publishedOn": "2024-07-04T13:54:17.000Z",
-          "wordCount": 5302,
-          "title": "A Celebration of Spans",
-          "imageUrl": "https://secure.gravatar.com/blavatar/f61fa3cc3a8ec8dd72ae4844856a6cac110097afefdf5c7bf32953a903b54eb5?s=200&ts=1721694862"
-        },
-        {
-          "id": "https://jbuzzi.wordpress.com/2024/07/04/conference-in-memory-of-todd-fisher/",
-          "author": "Jérôme Buzzi’s",
-          "description": "A dynamical system conference was held in Provo June 11-13, 2024, in memory of Todd Fisher who died of cancer at 49 in July 2022. He was a close colleague (we coauthored six papers from 2008 to 202…",
-          "link": "https://jbuzzi.wordpress.com/2024/07/04/conference-in-memory-of-todd-fisher/",
-          "publishedOn": "2024-07-04T13:35:11.000Z",
-          "wordCount": 2567,
-          "title": "Conference In Memory of Todd Fisher",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/04/what-do-we-need-from-a-probabilistic-programming-language-to-support-bayesian-workflow/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/04/what-do-we-need-from-a-probabilistic-programming-language-to-support-bayesian-workflow/",
-          "publishedOn": "2024-07-04T12:52:43.000Z",
-          "wordCount": null,
-          "title": "“What do we need from a probabilistic programming language to support Bayesian workflow?”",
           "imageUrl": null
         }
       ]

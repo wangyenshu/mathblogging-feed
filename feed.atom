@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-03T00:33:20.628Z</updated>
+    <updated>2024-08-04T00:37:32.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Relations & Their Relatives • 4]]></title>
+        <id>https://inquiryintoinquiry.com/2024/08/03/relations-their-relatives-4-a/</id>
+        <link href="https://inquiryintoinquiry.com/2024/08/03/relations-their-relatives-4-a/"/>
+        <updated>2024-08-03T15:15:53.000Z</updated>
+        <summary type="html"><![CDATA[From Dyadic to Triadic to Sign Relations Peirce’s notation for elementary relatives was illustrated earlier by a dyadic relation from number theory, namely, the relation written $latex “…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating a class of infinite sums in closed form]]></title>
+        <id>https://www.johndcook.com/blog/2024/08/03/polylog/</id>
+        <link href="https://www.johndcook.com/blog/2024/08/03/polylog/"/>
+        <updated>2024-08-03T14:38:44.000Z</updated>
+        <summary type="html"><![CDATA[A family of infinite sums that evaluate to rational numbers, sometimes integers, and and effective algorithm for finding the sum.]]></summary>
+        <author>
+            <name>John D. Cook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris gets coveted xkcd endorsement.]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/03/kamala-harris-gets-coveted-xkcd-endorsement/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/03/kamala-harris-gets-coveted-xkcd-endorsement/"/>
+        <updated>2024-08-03T13:19:51.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s three [blue wave#6]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/03/oceans-three-blue-wave6/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/03/oceans-three-blue-wave6/"/>
+        <updated>2024-08-03T13:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend reads: Happy birthday, Retraction Watch!; a mysterious conference; extreme publishing; research parasites revisited]]></title>
+        <id>https://retractionwatch.com/2024/08/03/weekend-reads-happy-birthday-retraction-watch-a-mysterious-conference-extreme-publishing-research-parasites-revisited/</id>
+        <link href="https://retractionwatch.com/2024/08/03/weekend-reads-happy-birthday-retraction-watch-a-mysterious-conference-extreme-publishing-research-parasites-revisited/"/>
+        <updated>2024-08-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Science and the significant trend towards spin and fairytales Cance…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does a language die every two weeks?]]></title>
+        <id>http://www.bbc.co.uk/programmes/p0jfpsb0</id>
+        <link href="http://www.bbc.co.uk/programmes/p0jfpsb0"/>
+        <updated>2024-08-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Languages are disappearing. We investigate claims of how often this happens.]]></summary>
+        <author>
+            <name>More or Less: Behind the Stats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 3]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-3.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-3.html"/>
+        <updated>2024-08-03T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1935 Little Orphan Annie Decoder There are surely worse things than being wrong, and being dull and pedantic are surely among them. Mark ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polynomial dialect and mlir-opt tutorial upstreamed]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-08-02-1551/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-08-02-1551/"/>
+        <updated>2024-08-02T22:51:23.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been upstreaming a bit of my compiler work to the MLIR project.
+Yesterday, I merged in a tutorial on mlir-opt, the main debugging tool for running passes on MLIR code. This is roughly the upstreamable parts of my first MLIR tutorial entry, MLIR — Running and Testing a Lowering. Mehdi Amini also provided a lot of useful information during review that taught me some stuff I didn’t know about the tool.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a journal of the chaos, conquest, war, [far from] famine, and death year]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/"/>
+        <updated>2024-08-02T22:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Read nothing new for a while as I got stuck finishing Babel at a sloth pace… But bought for the summer vacations Don Quixote de la Mancha (in French) and a commentary by Marx that I intend to…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/2/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757733390138097664</id>
+        <link href="https://purenumbers.tumblr.com/post/757733390138097664"/>
+        <updated>2024-08-02T20:34:32.000Z</updated>
+        <summary type="html"><![CDATA[8 = 2 + 2 + 4
+Also:
+8 / 2 = 2 + √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Askey-Wilson polynomial]]></title>
+        <id>https://ncatlab.org/nlab/show/Askey-Wilson+polynomial</id>
+        <link href="https://ncatlab.org/nlab/show/Askey-Wilson+polynomial"/>
+        <updated>2024-08-02T20:30:32.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Richard Askey]]></title>
         <id>https://ncatlab.org/nlab/show/Richard+Askey</id>
@@ -5115,113 +5226,6 @@ Also:
         <updated>2024-07-05T13:06:51.000Z</updated>
         <author>
             <name>The Renaissance Mathematicus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coffeezilla vs Rabbit]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/coffeezilla-vs-rabbit.html"/>
-        <updated>2024-07-05T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Coffeezilla first got on my radar when the Financial Times quoted his investigation of a shady crypto deal. I've been watching his channel e...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cult αντικείμενα]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/cult.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/cult.html"/>
-        <updated>2024-07-05T04:32:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/4/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/755105826817130496</id>
-        <link href="https://purenumbers.tumblr.com/post/755105826817130496"/>
-        <updated>2024-07-04T20:30:33.000Z</updated>
-        <summary type="html"><![CDATA[(7 - 4)! = 2 + 4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guest Post (part 2 of 2): Daniël Lakens: “How were we supposed to move beyond  p < .05, and why didn’t we?”]]></title>
-        <id>https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/</id>
-        <link href="https://errorstatistics.com/2024/07/04/guest-post-part-2-of-2-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we/"/>
-        <updated>2024-07-04T19:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Professor Daniël Lakens Human Technology Interaction Eindhoven University of Technology [Some earlier posts by D. Lakens on this topic are at the end of this post]* This continues Part 1: 4: Most d…]]></summary>
-        <author>
-            <name>Error Statistics Philosophy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Turing and the sunflowers]]></title>
-        <id>http://docmadhattan.fieldofscience.com/2024/07/alan-turing-and-sunflowers.html</id>
-        <link href="http://docmadhattan.fieldofscience.com/2024/07/alan-turing-and-sunflowers.html"/>
-        <updated>2024-07-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alan Turing  was fascinated by mathematical patterns found in nature. In particular, he noticed that the Fibonacci sequence often occurred i...]]></summary>
-        <author>
-            <name>Doc Madhattan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Εμβαδό]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_47.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_47.html"/>
-        <updated>2024-07-04T17:32:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constraints and Indications • 2]]></title>
-        <id>https://inquiryintoinquiry.com/2024/07/04/constraints-and-indications-2-a/</id>
-        <link href="https://inquiryintoinquiry.com/2024/07/04/constraints-and-indications-2-a/"/>
-        <updated>2024-07-04T16:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Re: Constraints and Indications • 1 Re: Ontolog Forum • Joseph Simpson Coping with collaboration, communication, context, integration, interoperability, perspective, purpose, and the real…]]></summary>
-        <author>
-            <name>Inquiry Into Inquiry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncountable product of the real line is not a k-space]]></title>
-        <id>https://dantopology.wordpress.com/2024/07/04/uncountable-product-of-the-real-line-is-not-a-k-space/</id>
-        <link href="https://dantopology.wordpress.com/2024/07/04/uncountable-product-of-the-real-line-is-not-a-k-space/"/>
-        <updated>2024-07-04T16:04:16.000Z</updated>
-        <summary type="html"><![CDATA[In understanding k-spaces and related spaces such as sequential spaces and Frechet spaces, it is helpful to know examples that do not satisfy the properties in question. Sequential spaces and k-spa…]]></summary>
-        <author>
-            <name>Dan Ma's Topology Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Celebration of Spans]]></title>
-        <id>https://mattbaker.blog/2024/07/04/a-celebration-of-spans/</id>
-        <link href="https://mattbaker.blog/2024/07/04/a-celebration-of-spans/"/>
-        <updated>2024-07-04T13:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Nine years ago, I wrote a July 4th blog post about matroids called A Celebration of Independence. Today, I’d like to talk about independence’s lesser-known sibling. In particular, I wan…]]></summary>
-        <author>
-            <name>Matt Baker's Math Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference In Memory of Todd Fisher]]></title>
-        <id>https://jbuzzi.wordpress.com/2024/07/04/conference-in-memory-of-todd-fisher/</id>
-        <link href="https://jbuzzi.wordpress.com/2024/07/04/conference-in-memory-of-todd-fisher/"/>
-        <updated>2024-07-04T13:35:11.000Z</updated>
-        <summary type="html"><![CDATA[A dynamical system conference was held in Provo June 11-13, 2024, in memory of Todd Fisher who died of cancer at 49 in July 2022. He was a close colleague (we coauthored six papers from 2008 to 202…]]></summary>
-        <author>
-            <name>Jérôme Buzzi’s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“What do we need from a probabilistic programming language to support Bayesian workflow?”]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/04/what-do-we-need-from-a-probabilistic-programming-language-to-support-bayesian-workflow/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/04/what-do-we-need-from-a-probabilistic-programming-language-to-support-bayesian-workflow/"/>
-        <updated>2024-07-04T12:52:43.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
     </entry>
 </feed>
