@@ -2,10 +2,155 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T00:37:32.687Z</updated>
+    <updated>2024-08-05T00:36:03.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guest Post: Yudi Pawitan: “Update on Behavioral aspects in the statistical significance war-game (‘abandon statistical significance 5 years on’)]]></title>
+        <id>https://errorstatistics.com/2024/08/04/guest-post-yudi-pawitan-behavioral-aspects-in-the-statistical-significance-war-game-thoughts-on-abandon-statistical-significance-5-years-on/</id>
+        <link href="https://errorstatistics.com/2024/08/04/guest-post-yudi-pawitan-behavioral-aspects-in-the-statistical-significance-war-game-thoughts-on-abandon-statistical-significance-5-years-on/"/>
+        <updated>2024-08-04T20:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Professor Yudi Pawitan Department of Medical Epidemiology and Biostatistics Karolinska Institutet, Stockholm, Sweden [An earlier guest post on this topic by Y. Pawitan is Jan 10, 2022: Yudi Pawitan…]]></summary>
+        <author>
+            <name>Error Statistics Philosophy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polish Olympiad Solve For The Angle]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/08/04/polish-olympiad-solve-for-the-angle/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/08/04/polish-olympiad-solve-for-the-angle/"/>
+        <updated>2024-08-04T17:47:33.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipewire Sound Server]]></title>
+        <id>https://orinanobworld.blogspot.com/2024/08/pipewire-sound-server.html</id>
+        <link href="https://orinanobworld.blogspot.com/2024/08/pipewire-sound-server.html"/>
+        <updated>2024-08-04T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Ramblings about operations research, mathematical optimization and (mostly open-source) software.]]></summary>
+        <author>
+            <name>OR in an OB World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucy is not a nickname.]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/04/lucy-is-not-a-nickname/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/04/lucy-is-not-a-nickname/"/>
+        <updated>2024-08-04T13:43:08.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s wall of skulls [blue wave#0]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/04/oceans-wall-of-skulls-bluewave-0/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/04/oceans-wall-of-skulls-bluewave-0/"/>
+        <updated>2024-08-04T13:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplicial complexes on groups]]></title>
+        <id>https://cameroncounts.wordpress.com/2024/08/04/simplicial-complexes-on-groups/</id>
+        <link href="https://cameroncounts.wordpress.com/2024/08/04/simplicial-complexes-on-groups/"/>
+        <updated>2024-08-04T08:27:42.000Z</updated>
+        <summary type="html"><![CDATA[At the recent UMI/AMS joint meeting in Palermo, I had some brief discussions with somebody about this topic. But I didn’t get contact details. If it is you, and you happen to be reading this,…]]></summary>
+        <author>
+            <name>Peter Cameron's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporate America Never Really Quit Forced Labor]]></title>
+        <id>https://thalescircles.tumblr.com/post/757865367000498176</id>
+        <link href="https://thalescircles.tumblr.com/post/757865367000498176"/>
+        <updated>2024-08-04T07:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Corporate America Never Really Quit Forced Labor
+Inmates do billions of dollars of work for companies and governments each year. A landmark lawsuit alleges many are being kept in prison because the...]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Politics and math, A Drama in Four Parts]]></title>
+        <id>https://pballew.blogspot.com/2024/08/politics-and-math-drama-in-four-parts.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/politics-and-math-drama-in-four-parts.html"/>
+        <updated>2024-08-04T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Politics and math I received a nice e-mail from Dan MacKinnon, a Canadian math/computer teacher (who writes a  nice recreational math bl...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 4]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-4.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-4.html"/>
+        <updated>2024-08-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You don't educate people by telling them useful things; you educate people by telling them interesting things -- John Conway The 216th day o...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSM 2024, Portland, OR, is off!]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/04/jsm-2024-portland-is-off/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/04/jsm-2024-portland-is-off/"/>
+        <updated>2024-08-03T22:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/3/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757823987911917568</id>
+        <link href="https://purenumbers.tumblr.com/post/757823987911917568"/>
+        <updated>2024-08-03T20:34:33.000Z</updated>
+        <summary type="html"><![CDATA[8 * 3 = 24
+Also:
+8 = 32 - 4!
+Also:
+8 = 32 / 4
+Also:
+8 = (3 * 2) + √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCSE Mathematics Content]]></title>
+        <id>https://colleenyoung.org/2024/08/03/gcse-mathematics-content/</id>
+        <link href="https://colleenyoung.org/2024/08/03/gcse-mathematics-content/"/>
+        <updated>2024-08-03T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[GCSE Mathematics Resources]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCSE Mathematics Content]]></title>
+        <id>https://colleenyoung.org/2024/08/03/gcse-mathematics-content/</id>
+        <link href="https://colleenyoung.org/2024/08/03/gcse-mathematics-content/"/>
+        <updated>2024-08-03T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[GCSE Mathematics Resources]]></summary>
+        <author>
+            <name>Mathematics, Learning and Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crash-free path planning]]></title>
+        <id>https://11011110.github.io/blog/2024/08/03/crash-free-path.html</id>
+        <link href="https://11011110.github.io/blog/2024/08/03/crash-free-path.html"/>
+        <updated>2024-08-03T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The Proceedings of the 36th Canadian Conference on Computational Geometry (CCCG 2024) are now online! The conference was mid-July but when I looked for the p...]]></summary>
+        <author>
+            <name>11011110</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Relations & Their Relatives • 4]]></title>
         <id>https://inquiryintoinquiry.com/2024/08/03/relations-their-relatives-4-a/</id>
@@ -4954,6 +5099,15 @@ Fun interview, lots about the...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[analytic LPO]]></title>
+        <id>https://ncatlab.org/nlab/show/analytic+LPO</id>
+        <link href="https://ncatlab.org/nlab/show/analytic+LPO"/>
+        <updated>2024-07-07T04:10:56.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Μηχανικοί Τριχοτόμοι, Kempe's Link]]></title>
         <id>https://mathhmagic.blogspot.com/2024/07/kempes-link.html</id>
         <link href="https://mathhmagic.blogspot.com/2024/07/kempes-link.html"/>
@@ -5030,202 +5184,6 @@ Also:
         <updated>2024-07-06T13:54:53.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using optimised BLAS and LAPACK libraries with Scala Breeze]]></title>
-        <id>https://darrenjw.wordpress.com/2024/07/06/using-optimised-blas-and-lapack-libraries-with-scala-breeze/</id>
-        <link href="https://darrenjw.wordpress.com/2024/07/06/using-optimised-blas-and-lapack-libraries-with-scala-breeze/"/>
-        <updated>2024-07-06T12:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Breeze is the standard scientific and numerical library for Scala. For linear algebra operations, it builds on top of the Java library, netlib. This provides a nice interface to BLAS and related li…]]></summary>
-        <author>
-            <name>Darren Wilkinson's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drawings by Alisa Vos]]></title>
-        <id>http://impossible-world.blogspot.com/2024/07/drawings-by-alisa-vos.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/07/drawings-by-alisa-vos.html"/>
-        <updated>2024-07-06T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Drawings by Alisa Vos (artavos)   https://im-possible.info/english/art/pencil/alisa-vos.html    Author -  https://artavos.com/]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The magic of trigonometry]]></title>
-        <id>http://www.bbc.co.uk/programmes/p0j8nh23</id>
-        <link href="http://www.bbc.co.uk/programmes/p0j8nh23"/>
-        <updated>2024-07-06T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tim Harford interviews Matt Parker on his latest book ‘Love Triangle’]]></summary>
-        <author>
-            <name>More or Less: Behind the Stats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Μοιρολόι]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_6.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_6.html"/>
-        <updated>2024-07-06T04:24:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insurance, Biases, Discrimination and Fairness]]></title>
-        <id>https://freakonometrics.hypotheses.org/76555</id>
-        <link href="https://freakonometrics.hypotheses.org/76555"/>
-        <updated>2024-07-06T01:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Insurance, Biases, Discrimination and Fairness was published a few weeks ago. I still plan to spend some time this summer on the R package, including data and some functions… This book offers an introduction to the technical foundations of discrimination and equity issues in insurance models, catering to undergraduates, postgraduates, and practitioners. It is a … Continue reading Insurance, Biases, Discrimination and Fairness →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next week in Chicago, IL]]></title>
-        <id>https://freakonometrics.hypotheses.org/69522</id>
-        <link href="https://freakonometrics.hypotheses.org/69522"/>
-        <updated>2024-07-06T00:35:42.000Z</updated>
-        <summary type="html"><![CDATA[I will be in Chicago next week, invited by 冯润桓 (Runhuan Feng). On Monday, with Jan Dhaene and Marco Mirabella, we will give some short courses “on decentralized insurance and risk sharing“. Then, we will attend the IME Congress 2024 (that will be held between July 9th and 11th). OpenEdition suggests that you cite this … Continue reading Next week in Chicago, IL →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Possible?]]></title>
-        <id>https://blog.tanyakhovanova.com/2024/07/is-it-possible/</id>
-        <link href="https://blog.tanyakhovanova.com/2024/07/is-it-possible/"/>
-        <updated>2024-07-05T23:57:58.000Z</updated>
-        <author>
-            <name>Tanya Khovanova's Math Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warsaw Actuarial School (September 2024)]]></title>
-        <id>https://freakonometrics.hypotheses.org/76540</id>
-        <link href="https://freakonometrics.hypotheses.org/76540"/>
-        <updated>2024-07-05T21:50:03.000Z</updated>
-        <summary type="html"><![CDATA[In September, I will be in Warsaw, in Poland, to give a course on Insurance, Biases, Discrimination and Fairness (based on the textbook recently published). More to come after the summer break OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Warsaw Actuarial School (September 2024). Freakonometrics. Retrieved July 29, 2024 … Continue reading Warsaw Actuarial School (September 2024) →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/5/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/755196543635685376</id>
-        <link href="https://purenumbers.tumblr.com/post/755196543635685376"/>
-        <updated>2024-07-05T20:32:27.000Z</updated>
-        <summary type="html"><![CDATA[7 - 5 = 2 = √4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Croissance, décroissance, de quoi parle-t-on ?]]></title>
-        <id>https://freakonometrics.hypotheses.org/76513</id>
-        <link href="https://freakonometrics.hypotheses.org/76513"/>
-        <updated>2024-07-05T19:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Notre article, avec Ewen Gallic, “Croissance, décroissance, de quoi parle-t-on ?” a été remis en forme pour être publié dans le prochain numéro de la revue (du magazine ?) Risques. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 5, 2024). Croissance, décroissance, de quoi parle-t-on ? Freakonometrics. Retrieved July 29, 2024 from … Continue reading Croissance, décroissance, de quoi parle-t-on ? →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A triviality about numbers that look like abbc]]></title>
-        <id>https://blog.plover.com/math/multiple-of-37.html</id>
-        <link href="https://blog.plover.com/math/multiple-of-37.html"/>
-        <updated>2024-07-05T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
-        <author>
-            <name>The Universe of Disco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good bye, Arno Penzias]]></title>
-        <id>http://docmadhattan.fieldofscience.com/2024/07/good-bye-arno-penzias.html</id>
-        <link href="http://docmadhattan.fieldofscience.com/2024/07/good-bye-arno-penzias.html"/>
-        <updated>2024-07-05T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unfortunately I heared of this news  now through the Physics World  newsletter, whose releases from the beginning of the year I am guilty ...]]></summary>
-        <author>
-            <name>Doc Madhattan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Momma Math]]></title>
-        <id>https://poetrywithmathematics.blogspot.com/2024/07/black-momma-math.html</id>
-        <link href="https://poetrywithmathematics.blogspot.com/2024/07/black-momma-math.html"/>
-        <updated>2024-07-05T17:28:00.000Z</updated>
-        <summary type="html"><![CDATA[mathematics poetry]]></summary>
-        <author>
-            <name>Intersections -- Poetry with Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursed office building]]></title>
-        <id>http://impossible-world.blogspot.com/2024/07/cursed-office-building.html</id>
-        <link href="http://impossible-world.blogspot.com/2024/07/cursed-office-building.html"/>
-        <updated>2024-07-05T17:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon by Eviack   https://im-possible.info/english/art/cartoons/eviack.html]]></summary>
-        <author>
-            <name>Impossible world site blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computation and Visualization]]></title>
-        <id>https://jbuzzi.wordpress.com/2024/07/05/computation-and-visualization/</id>
-        <link href="https://jbuzzi.wordpress.com/2024/07/05/computation-and-visualization/"/>
-        <updated>2024-07-05T14:58:40.000Z</updated>
-        <summary type="html"><![CDATA[I participated in a conference in Pisa (June 18-21, 2024) on the use of computers for the development of mathematical dynamical systems theory. I gave a talk underlining the many difficulties to sa…]]></summary>
-        <author>
-            <name>Jérôme Buzzi’s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebra+ 09 - Progressions: UNIZOR.COM - Math+ & Problems - Algebra]]></title>
-        <id>https://unizor.blogspot.com/2024/07/algebra-09-progressions-unizorcom-math.html</id>
-        <link href="https://unizor.blogspot.com/2024/07/algebra-09-progressions-unizorcom-math.html"/>
-        <updated>2024-07-05T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Algebra+ 09 - Progression   Problem A   Solve the following equation  X 3 +7·X 2 −21·X...]]></summary>
-        <author>
-            <name>Unizor - Creative Mind through Art of Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry Problems of the Day (Geometry Regents, June 2024 Part I)]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry.html"/>
-        <updated>2024-07-05T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endlich Sommerferien – aber ein wirklich schönes Ende!]]></title>
-        <id>https://halbtagsblog.de/2024/07/05/endlich-sommerferien-aber-ein-wirklich-schoenes-ende/</id>
-        <link href="https://halbtagsblog.de/2024/07/05/endlich-sommerferien-aber-ein-wirklich-schoenes-ende/"/>
-        <updated>2024-07-05T13:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Manchmal sind es die Kleinigkeiten, die den Kindern am meisten Freude bereiten.]]></summary>
-        <author>
-            <name>Schule, Schulleitung, Familie, DIY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can guarantee that the term “statistical guarantee” will irritate me.  Here’s why, and let’s go into some details.]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/05/you-can-guarantee-that-the-term-statistical-guarantee-will-irritate-me-heres-why-and-lets-go-into-some-details/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/05/you-can-guarantee-that-the-term-statistical-guarantee-will-irritate-me-heres-why-and-lets-go-into-some-details/"/>
-        <updated>2024-07-05T13:08:22.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From τὰ φυσικά (ta physika) to physics – XXIV]]></title>
-        <id>https://thonyc.wordpress.com/2024/07/05/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-xxiv/</id>
-        <link href="https://thonyc.wordpress.com/2024/07/05/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-xxiv/"/>
-        <updated>2024-07-05T13:06:51.000Z</updated>
-        <author>
-            <name>The Renaissance Mathematicus</name>
         </author>
     </entry>
 </feed>
