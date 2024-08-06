@@ -6,6 +6,216 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://poetrywithmathematics.blogspot.com/2024/08/bridges-poetry-and-clerihews.html",
+          "author": "Intersections -- Poetry with Mathematics",
+          "description": "mathematics poetry",
+          "link": "https://poetrywithmathematics.blogspot.com/2024/08/bridges-poetry-and-clerihews.html",
+          "publishedOn": "2024-08-05T20:12:00.000Z",
+          "wordCount": 7220,
+          "title": "BRIDGES Poetry -- and Clerihews",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRHkyhvwEUVPqXMKaz3L9GWiIiJyymFXe-NZl8GozVIl9icQ3cw2XDuHdhcSDrDA8XXa4We44Z4l300EBKQIoBHaDe_fXCBfysgg3gsPSOQuLcg27GsYIwJ7C4MQQO7Uk-tI2gCMiS0XvdAFj2mbMx3ZQHptdI0jFQESYCRW45MFOaeiCiVcUglyf90I/w1200-h630-p-k-no-nu/Screenshot%202024-08-05%20142631.png"
+        },
+        {
+          "id": "https://blog.plover.com/math/inverses.html",
+          "author": "The Universe of Disco",
+          "description": "From the highly eclectic blog of Mark Dominus",
+          "link": "https://blog.plover.com/math/inverses.html",
+          "publishedOn": "2024-08-05T19:08:00.000Z",
+          "wordCount": 1196,
+          "title": "Examples of left and right inverses",
+          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+        },
+        {
+          "id": "https://inquiryintoinquiry.com/2024/08/05/logic-of-relatives-a/",
+          "author": "Inquiry Into Inquiry",
+          "description": "The logic of relatives, more precisely, the logic of relative terms, is the study of relations as represented in symbolic forms known as “rhemes”, “rhemata”, or “relat…",
+          "link": "https://inquiryintoinquiry.com/2024/08/05/logic-of-relatives-a/",
+          "publishedOn": "2024-08-05T16:34:47.000Z",
+          "wordCount": 5141,
+          "title": "Logic of Relatives",
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8f5ed48ac9c783a31cb4b1f77a40490b4586323d8f492e951c741d12d0b3fbb?s=200&ts=1722904477"
+        },
+        {
+          "id": "https://unizor.blogspot.com/2024/08/vectors-05-more-about-n-vectors.html",
+          "author": "Unizor - Creative Mind through Art of Mathematics",
+          "description": "Notes to a video lecture on http://www.unizor.com    Vectors+ 05  More N-dimensional Vectors   Theory   Let's summarize the characteristics...",
+          "link": "https://unizor.blogspot.com/2024/08/vectors-05-more-about-n-vectors.html",
+          "publishedOn": "2024-08-05T14:52:00.000Z",
+          "wordCount": 2629,
+          "title": "Vectors+ 05  More about N-vectors: UNIZOR.COM - Math+ & Problems - Vectors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tV8I-CuxTlhkvcHA9FUQUuZM73ALbc54CDdbNDKMbCl3UrMHQYvdGWGfLwr2Otz1Usd2sFMGsMWDKVBEY8U_D-hPIFhmRBDmALnzHb5c3E4lPWNA=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/",
+          "author": "Yet Another Mathblog",
+          "description": "“An error is a statistic charged against a fielder whose action has assisted the team on offense, as set forth in this Rule 9.12.”– MLB Rule book, 2023 These questions seem natural:1) Are the numbe…",
+          "link": "https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/",
+          "publishedOn": "2024-08-05T13:30:36.000Z",
+          "wordCount": 3718,
+          "title": "Statistics of fielding errors in baseball",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.statschat.org.nz/2024/08/06/nrl-predictions-for-round-23-9/",
+          "author": "Stats Chat",
+          "description": "",
+          "link": "https://www.statschat.org.nz/2024/08/06/nrl-predictions-for-round-23-9/",
+          "publishedOn": "2024-08-05T13:30:13.000Z",
+          "wordCount": 1171,
+          "title": "NRL Predictions for Round 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.statschat.org.nz/2024/08/06/bunnings-npc-predictions-for-week-1-3/",
+          "author": "Stats Chat",
+          "description": "",
+          "link": "https://www.statschat.org.nz/2024/08/06/bunnings-npc-predictions-for-week-1-3/",
+          "publishedOn": "2024-08-05T13:29:13.000Z",
+          "wordCount": 1054,
+          "title": "Bunnings NPC Predictions for Week 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.statschat.org.nz/2024/08/06/currie-cup-predictions-for-round-6-12/",
+          "author": "Stats Chat",
+          "description": "",
+          "link": "https://www.statschat.org.nz/2024/08/06/currie-cup-predictions-for-round-6-12/",
+          "publishedOn": "2024-08-05T13:28:06.000Z",
+          "wordCount": 1065,
+          "title": "Currie Cup Predictions for Round 6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.statschat.org.nz/2024/08/06/afl-predictions-for-week-23/",
+          "author": "Stats Chat",
+          "description": "",
+          "link": "https://www.statschat.org.nz/2024/08/06/afl-predictions-for-week-23/",
+          "publishedOn": "2024-08-05T13:27:05.000Z",
+          "wordCount": 1264,
+          "title": "AFL Predictions for Week 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/08/05/adverse-adult-research-outcomes-increased-after-increased-willingness-of-public-health-journals-to-publish-absolute-crap/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/08/05/adverse-adult-research-outcomes-increased-after-increased-willingness-of-public-health-journals-to-publish-absolute-crap/",
+          "publishedOn": "2024-08-05T13:21:29.000Z",
+          "wordCount": null,
+          "title": "Adverse Adult Research Outcomes Increased After Increased Willingness of Public Health Journals to Publish Absolute Crap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/05/oceans-tongue-blue-wave7/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/08/05/oceans-tongue-blue-wave7/",
+          "publishedOn": "2024-08-05T13:15:08.000Z",
+          "wordCount": 2362,
+          "title": "Ocean’s tongue [blue wave#7]",
+          "imageUrl": "https://www.liberation.fr/resizer/iU7hVusSBWXTcQu1J-zk2KP2TpU=/1024x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/KKOUADEGMJF4LB2YW3LFQUFY64.JPG"
+        },
+        {
+          "id": "https://aperiodical.com/2024/08/aperiodical-news-roundup-june-july-2024/",
+          "author": "The Aperiodical",
+          "description": "Here’s a round-up of some news we didn’t cover on the Aperiodical in the last couple of months.",
+          "link": "https://aperiodical.com/2024/08/aperiodical-news-roundup-june-july-2024/",
+          "publishedOn": "2024-08-05T12:28:05.000Z",
+          "wordCount": 1036,
+          "title": "Aperiodical News Roundup – June/July 2024",
+          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/08/image-4.png"
+        },
+        {
+          "id": "https://slawekk.wordpress.com/2024/08/05/panel-discussion-on-formalization-in-mathematics/",
+          "author": "Formalized Mathematics",
+          "description": "The discussion took place at the Hausdorff Center for Mathematics about a month ago. Best of the best had gathered – Mario Carneiro, Georges Gonthier, Peter Koepke, Angeliki Koutsoukou-Argyra…",
+          "link": "https://slawekk.wordpress.com/2024/08/05/panel-discussion-on-formalization-in-mathematics/",
+          "publishedOn": "2024-08-05T12:08:13.000Z",
+          "wordCount": 4326,
+          "title": "Panel Discussion on Formalization in Mathematics",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/08/who-reads-headlines-anyway-tale-told.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "Saturday morning Twitter, or at least the corner of twitter that obsesses over politics and political journalism, started furiously ex...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/08/who-reads-headlines-anyway-tale-told.html",
+          "publishedOn": "2024-08-05T11:30:00.000Z",
+          "wordCount": 3805,
+          "title": "Who reads the headlines, anyway? -- a tale told mostly in tweets",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30KZ3OpYQatQpnpW64-a1CKKM2nbcfnVxvJ4g3tEq-PonexoYYSvg9JnC14nsgYbW4vBIWPdxM6ATtOJGvpcpZO6xyArwVvRpBE2PDKUVXyuxxgwws6cS0Nix8xb43b1iNRuqtU_UJItvF7yvCaBpgftGCO6_boqcGeBQ0hHQteisSfBnvh58mSpTbPIN/w1200-h630-p-k-no-nu/NYT_8_3.png"
+        },
+        {
+          "id": "https://aperiodical.com/2024/08/carnival-of-maths-230/",
+          "author": "The Aperiodical",
+          "description": "The next issue of the Carnival of Mathematics, rounding up blog posts from the month of July 2024, is now online at Theorem of the Day. The Carnival rounds up maths blog posts from all over the int…",
+          "link": "https://aperiodical.com/2024/08/carnival-of-maths-230/",
+          "publishedOn": "2024-08-05T09:00:06.000Z",
+          "wordCount": 785,
+          "title": "Carnival of Maths 230",
+          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/08/image.png"
+        },
+        {
+          "id": "https://thalescircles.tumblr.com/post/757954563559047168",
+          "author": "Thales’ circles",
+          "description": "cruelty is so easy. youre not special for choosing it",
+          "link": "https://thalescircles.tumblr.com/post/757954563559047168",
+          "publishedOn": "2024-08-05T07:10:00.000Z",
+          "wordCount": 614,
+          "title": "cruelty is so easy. youre not special for choosing it",
+          "imageUrl": "https://64.media.tumblr.com/2d9a1dc63774c18a1fb5648bccdee8cc/d12154670ec5bc5a-e3/s1280x1920/2138569cb8b436c171bae2f6a5954f381893823c.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-5.html",
+          "author": "Pat'sBlog",
+          "description": "Mathematics is like checkers in being suitable for the young, not too difficult, amusing, and without peril to the state.  ~ Plato On non-...",
+          "link": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-5.html",
+          "publishedOn": "2024-08-05T04:00:00.000Z",
+          "wordCount": 7257,
+          "title": "On This Day in Math - August 5",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfe-_x5ES46sIKPkrsy2xXXvL0i5Zc8NjA0u3TI7tkAJpZncprwTtnS-wA5hIlVRCeESSnDGSTpKIN86ILJ4bgYK8dGwwBC-GuEnuq0sBmJ5OHnCfwf6y-hSoAB-v5M53bEJxEB20E-4Q/w1200-h630-p-k-no-nu/aug+5.jpg"
+        },
+        {
+          "id": "https://blog.computationalcomplexity.org/2024/08/determing-which-math-problems-are-hard.html",
+          "author": "Computational Complexity",
+          "description": "I was wondering what the hardest math problems were, and how to define it. So I googled  Hardest Math Problems The first hit is  here . The...",
+          "link": "https://blog.computationalcomplexity.org/2024/08/determing-which-math-problems-are-hard.html",
+          "publishedOn": "2024-08-05T02:13:00.000Z",
+          "wordCount": 6434,
+          "title": "Determing which math problems are hard is a hard problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2024/08/04/too-clever-monte-carlo/",
+          "author": "John D. Cook",
+          "description": "A clever way to approximate the volume of a high-dimensional sphere than turns out to be too clever. A cautionary tale about using the central limit theorem.",
+          "link": "https://www.johndcook.com/blog/2024/08/04/too-clever-monte-carlo/",
+          "publishedOn": "2024-08-04T23:05:54.000Z",
+          "wordCount": 1663,
+          "title": "Too clever Monte Carlo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/05/mount-hood-jatp/",
+          "author": "Xi'an's Og",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/08/05/mount-hood-jatp/",
+          "publishedOn": "2024-08-04T22:24:21.000Z",
+          "wordCount": 2452,
+          "title": "Mount Hood [jatp]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/08/mthood17-e1722693820574.jpg"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/757914702014824449",
+          "author": "Pure Numbers Daily Blog",
+          "description": "8 / 4 = 2 = √4\nAlso:\n8 - √4 = 2 + 4\nAlso:\n8 - 4 = 2 + √4",
+          "link": "https://purenumbers.tumblr.com/post/757914702014824449",
+          "publishedOn": "2024-08-04T20:36:25.000Z",
+          "wordCount": 1779,
+          "title": "8/4/24",
+          "imageUrl": null
+        },
+        {
           "id": "https://errorstatistics.com/2024/08/04/guest-post-yudi-pawitan-behavioral-aspects-in-the-statistical-significance-war-game-thoughts-on-abandon-statistical-significance-5-years-on/",
           "author": "Error Statistics Philosophy",
           "description": "Professor Yudi Pawitan Department of Medical Epidemiology and Biostatistics Karolinska Institutet, Stockholm, Sweden [An earlier guest post on this topic by Y. Pawitan is Jan 10, 2022: Yudi Pawitan…",
@@ -33,6 +243,16 @@
           "publishedOn": "2024-08-04T16:40:00.000Z",
           "wordCount": 3790,
           "title": "Pipewire Sound Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jeremykun.com/2024/08/04/mlir-pdll/",
+          "author": "Math ∩ Programming",
+          "description": "Table of Contents\nIn this article I’ll show how to use PDLL, a tool for defining MLIR patterns, which itself is built with MLIR. PDLL is intended to be a replacement for defining patterns in tablegen, though there are few public examples of its use. In fact, the main impetus for PDLL is that tablegen makes it difficult to express things like:\nOperations that return multiple results Operations with regions Operations with variadic operands Arithmetic on static values While not all these features are fully supported in PDLL yet, they are within scope of the language and tooling.",
+          "link": "https://www.jeremykun.com/2024/08/04/mlir-pdll/",
+          "publishedOn": "2024-08-04T14:00:00.000Z",
+          "wordCount": 3074,
+          "title": "MLIR — Defining Patterns with PDLL",
           "imageUrl": null
         },
         {
@@ -5003,156 +5223,6 @@
           "publishedOn": "2024-07-07T13:33:28.000Z",
           "wordCount": null,
           "title": "It’s $ time!  How much should we charge for a link?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gilkalai.wordpress.com/2024/07/07/noga-alon-and-adi-shamir-won-the-2024-wolf-prize/",
-          "author": "Combinatorics and more",
-          "description": "Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,…",
-          "link": "https://gilkalai.wordpress.com/2024/07/07/noga-alon-and-adi-shamir-won-the-2024-wolf-prize/",
-          "publishedOn": "2024-07-07T09:35:54.000Z",
-          "wordCount": 4126,
-          "title": "Noga Alon and Adi Shamir won the 2024 Wolf Prize",
-          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/noga-adi.jpg"
-        },
-        {
-          "id": "https://cameroncounts.wordpress.com/2024/07/07/new-bcc-website/",
-          "author": "Peter Cameron's Blog",
-          "description": "The British Combinatorial Committee has a new website: www.britishcombinatorics.org.uk/ Take a look, and pass on any comments! My personal thanks to Julia Wolf. The WordPress site I maintained for …",
-          "link": "https://cameroncounts.wordpress.com/2024/07/07/new-bcc-website/",
-          "publishedOn": "2024-07-07T07:02:19.000Z",
-          "wordCount": 2544,
-          "title": "New BCC website",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-7/",
-          "author": "The Aperiodical",
-          "description": "Here’s the seventh match in Round 1 of The Big Internet Math-Off. Today, we’re pitting Fran Herr against Tom Edgar. Take a look at both pitches, vote for the bit of maths that made you …",
-          "link": "https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-7/",
-          "publishedOn": "2024-07-07T07:00:00.000Z",
-          "wordCount": 4016,
-          "title": "The Big Internet Math-Off 2024, Round 1, Match 7",
-          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/07/match-7.png"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/07/07/vocabulary/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "Mathematics - Vocabulary",
-          "link": "https://colleenyoung.org/2024/07/07/vocabulary/",
-          "publishedOn": "2024-07-07T06:53:56.000Z",
-          "wordCount": 3061,
-          "title": "Vocabulary",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/07/Addvance-Math-EAL-vocabulary-German.png"
-        },
-        {
-          "id": "https://colleenyoung.org/2024/07/07/vocabulary/",
-          "author": "Mathematics, Learning and Technology",
-          "description": "Mathematics - Vocabulary",
-          "link": "https://colleenyoung.org/2024/07/07/vocabulary/",
-          "publishedOn": "2024-07-07T06:53:56.000Z",
-          "wordCount": 3061,
-          "title": "Vocabulary",
-          "imageUrl": "https://colleenyoung.org/wp-content/uploads/2024/07/Addvance-Math-EAL-vocabulary-German.png"
-        },
-        {
-          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html",
-          "author": "Pat'sBlog",
-          "description": "Probability is a mathematical discipline whose aims are akin to those,  for example, of geometry of analytical mechanics. In each field we m...",
-          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html",
-          "publishedOn": "2024-07-07T05:00:00.000Z",
-          "wordCount": 7657,
-          "title": "On This Day in Math - July 7",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO8yUsauZB_07mTzVyR77HLKYAKMJ8ZbRT_ANyhSZa6Wfcur21HcsdW5kVGM9c2B6JxL8HL72QKtbu-E-79Y1qiCYyKSMDT_ZJMcxOyD5N_0bqqsWhJ2BzIIG1JiPBmyfF_OUxbaIDydA/w1200-h630-p-k-no-nu/july+7.jpg"
-        },
-        {
-          "id": "https://ncatlab.org/nlab/show/analytic+LPO",
-          "author": "nLab",
-          "description": "",
-          "link": "https://ncatlab.org/nlab/show/analytic+LPO",
-          "publishedOn": "2024-07-07T04:10:56.000Z",
-          "wordCount": 3572,
-          "title": "analytic LPO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/kempes-link.html",
-          "author": "Μαθη...μαγικά",
-          "description": "΄΄ Ένα από τα πλέον γνωστά άλυτα προβλήματα της αρχαιότητας είναι  η τριχοτόμηση τυχαίας γωνίας, η αδυναμία της «διαίρεσης γωνίας σε τρία ...",
-          "link": "https://mathhmagic.blogspot.com/2024/07/kempes-link.html",
-          "publishedOn": "2024-07-07T04:10:00.000Z",
-          "wordCount": 4447,
-          "title": "Μηχανικοί Τριχοτόμοι, Kempe's Link",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_suOk0euqAA1QDrW0qgOnG9qBo44FS38SevbcZj5G503eWoEP7A_P-JPdvjzYClGMYTB8WxlIhF10Dmio3KVoWq2rdF1_2GsTPl_F0Fn7CNN01LyQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_26.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_26.html",
-          "publishedOn": "2024-07-07T04:09:00.000Z",
-          "wordCount": 4279,
-          "title": "Τα εισιτήρια",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosIRooOUTMJ-REtFa98JPv1vcisdENHrl2_F73_VltXW5YH2fRjIKQdfc8yF8i9jyYpY3XoN6WjqLngj5DEEwiB5YO5xi0EIUYUNBuZeGsErEkokwEQTrzOl8G9ETWxrNffLbmPUVDmP7BXOv8HwYMvEWdyTXAP2ihCdA3AqxNuY5aj6bD9a_g8f44lzo/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-07T063602.724.png"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_7.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_7.html",
-          "publishedOn": "2024-07-07T04:08:00.000Z",
-          "wordCount": 4279,
-          "title": "Αληθινές στιχομυθίες",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6Ud_kc2YJE1-EwbYFuX7Eqwz_xa5xjh04j-eFGMmno-5ZpouukpPvFZEOwgfIKfxVt1_3_Cieu_JezEHFdvCr7M4RvNlP4q6asntTx149XX-ddOAMMDWpwC88u6mjNFifJbbBC8admxM67JmEHOQq-NAnbBmUhvOGBPxbYYwW6TfAqBiDHtn3qjOMqq8/w1200-h630-p-k-no-nu/T%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%BF%CF%85%20%CF%83%CE%B1%CE%BA%CE%B9%CE%B4%CE%AF%CE%BF%CF%85%20knapsack%20problem%20-%202024-07-07T064344.050.png"
-        },
-        {
-          "id": "http://pbelmans.ncag.info/blog/2024/07/07/quivertools/",
-          "author": "Pieter Belmans",
-          "description": "This post concerns QuiverTools.  If you use it for your research, please cite it using .",
-          "link": "http://pbelmans.ncag.info/blog/2024/07/07/quivertools/",
-          "publishedOn": "2024-07-07T00:00:00.000Z",
-          "wordCount": 451,
-          "title": "QuiverTools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://purenumbers.tumblr.com/post/755287522872033280",
-          "author": "Pure Numbers Daily Blog",
-          "description": "(7 - 6) * 2 = √4\nAlso:\n7 - (6 / 2) = 4",
-          "link": "https://purenumbers.tumblr.com/post/755287522872033280",
-          "publishedOn": "2024-07-06T20:38:32.000Z",
-          "wordCount": 1767,
-          "title": "7/6/24",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html",
-          "author": "(x, why?)",
-          "description": "This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...",
-          "link": "https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html",
-          "publishedOn": "2024-07-06T20:18:00.000Z",
-          "wordCount": 5242,
-          "title": "Geometry Problems of the Day (Geometry Regents, June 2024 Part I)",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4RnluDdCnt5hSgAMEIANhLMf1hafpY95-mfIuLrrn3FXghRn4n60BVqYKDmnElxOczGcGRvQq5TWQ4Im_hzt2wgtb6KcAAHyANRd5q2Y5LXAf9e7JUSfebKvieiycTSdtrOeYTKTH8Z7fLXjfN4zSz6zyi_wkkZd9yCXIcskCFvQvNIyDXPsecg/w1200-h630-p-k-no-nu/temp00.png"
-        },
-        {
-          "id": "https://www.johndcook.com/blog/2024/07/06/retrograde/",
-          "author": "John D. Cook",
-          "description": "Retrograde motion occurs when planets will appear to reverse course in the sky from the vantage point of Earth. Calculating when this will happen.",
-          "link": "https://www.johndcook.com/blog/2024/07/06/retrograde/",
-          "publishedOn": "2024-07-06T15:03:48.000Z",
-          "wordCount": 2003,
-          "title": "Calculating when a planet will appear to move backwards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/",
-          "publishedOn": "2024-07-06T13:54:53.000Z",
-          "wordCount": null,
-          "title": "Cross validation and pointwise or joint measures of prediction accuracy",
           "imageUrl": null
         }
       ]

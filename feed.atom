@@ -2,10 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T00:36:03.461Z</updated>
+    <updated>2024-08-06T00:34:40.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BRIDGES Poetry -- and Clerihews]]></title>
+        <id>https://poetrywithmathematics.blogspot.com/2024/08/bridges-poetry-and-clerihews.html</id>
+        <link href="https://poetrywithmathematics.blogspot.com/2024/08/bridges-poetry-and-clerihews.html"/>
+        <updated>2024-08-05T20:12:00.000Z</updated>
+        <summary type="html"><![CDATA[mathematics poetry]]></summary>
+        <author>
+            <name>Intersections -- Poetry with Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Examples of left and right inverses]]></title>
+        <id>https://blog.plover.com/math/inverses.html</id>
+        <link href="https://blog.plover.com/math/inverses.html"/>
+        <updated>2024-08-05T19:08:00.000Z</updated>
+        <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
+        <author>
+            <name>The Universe of Disco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic of Relatives]]></title>
+        <id>https://inquiryintoinquiry.com/2024/08/05/logic-of-relatives-a/</id>
+        <link href="https://inquiryintoinquiry.com/2024/08/05/logic-of-relatives-a/"/>
+        <updated>2024-08-05T16:34:47.000Z</updated>
+        <summary type="html"><![CDATA[The logic of relatives, more precisely, the logic of relative terms, is the study of relations as represented in symbolic forms known as “rhemes”, “rhemata”, or “relat…]]></summary>
+        <author>
+            <name>Inquiry Into Inquiry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 05  More about N-vectors: UNIZOR.COM - Math+ & Problems - Vectors]]></title>
+        <id>https://unizor.blogspot.com/2024/08/vectors-05-more-about-n-vectors.html</id>
+        <link href="https://unizor.blogspot.com/2024/08/vectors-05-more-about-n-vectors.html"/>
+        <updated>2024-08-05T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 05  More N-dimensional Vectors   Theory   Let's summarize the characteristics...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistics of fielding errors in baseball]]></title>
+        <id>https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/</id>
+        <link href="https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/"/>
+        <updated>2024-08-05T13:30:36.000Z</updated>
+        <summary type="html"><![CDATA[“An error is a statistic charged against a fielder whose action has assisted the team on offense, as set forth in this Rule 9.12.”– MLB Rule book, 2023 These questions seem natural:1) Are the numbe…]]></summary>
+        <author>
+            <name>Yet Another Mathblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NRL Predictions for Round 23]]></title>
+        <id>https://www.statschat.org.nz/2024/08/06/nrl-predictions-for-round-23-9/</id>
+        <link href="https://www.statschat.org.nz/2024/08/06/nrl-predictions-for-round-23-9/"/>
+        <updated>2024-08-05T13:30:13.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bunnings NPC Predictions for Week 1]]></title>
+        <id>https://www.statschat.org.nz/2024/08/06/bunnings-npc-predictions-for-week-1-3/</id>
+        <link href="https://www.statschat.org.nz/2024/08/06/bunnings-npc-predictions-for-week-1-3/"/>
+        <updated>2024-08-05T13:29:13.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currie Cup Predictions for Round 6]]></title>
+        <id>https://www.statschat.org.nz/2024/08/06/currie-cup-predictions-for-round-6-12/</id>
+        <link href="https://www.statschat.org.nz/2024/08/06/currie-cup-predictions-for-round-6-12/"/>
+        <updated>2024-08-05T13:28:06.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AFL Predictions for Week 23]]></title>
+        <id>https://www.statschat.org.nz/2024/08/06/afl-predictions-for-week-23/</id>
+        <link href="https://www.statschat.org.nz/2024/08/06/afl-predictions-for-week-23/"/>
+        <updated>2024-08-05T13:27:05.000Z</updated>
+        <author>
+            <name>Stats Chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adverse Adult Research Outcomes Increased After Increased Willingness of Public Health Journals to Publish Absolute Crap]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/05/adverse-adult-research-outcomes-increased-after-increased-willingness-of-public-health-journals-to-publish-absolute-crap/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/05/adverse-adult-research-outcomes-increased-after-increased-willingness-of-public-health-journals-to-publish-absolute-crap/"/>
+        <updated>2024-08-05T13:21:29.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s tongue [blue wave#7]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/05/oceans-tongue-blue-wave7/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/05/oceans-tongue-blue-wave7/"/>
+        <updated>2024-08-05T13:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aperiodical News Roundup – June/July 2024]]></title>
+        <id>https://aperiodical.com/2024/08/aperiodical-news-roundup-june-july-2024/</id>
+        <link href="https://aperiodical.com/2024/08/aperiodical-news-roundup-june-july-2024/"/>
+        <updated>2024-08-05T12:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a round-up of some news we didn’t cover on the Aperiodical in the last couple of months.]]></summary>
+        <author>
+            <name>The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panel Discussion on Formalization in Mathematics]]></title>
+        <id>https://slawekk.wordpress.com/2024/08/05/panel-discussion-on-formalization-in-mathematics/</id>
+        <link href="https://slawekk.wordpress.com/2024/08/05/panel-discussion-on-formalization-in-mathematics/"/>
+        <updated>2024-08-05T12:08:13.000Z</updated>
+        <summary type="html"><![CDATA[The discussion took place at the Hausdorff Center for Mathematics about a month ago. Best of the best had gathered – Mario Carneiro, Georges Gonthier, Peter Koepke, Angeliki Koutsoukou-Argyra…]]></summary>
+        <author>
+            <name>Formalized Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who reads the headlines, anyway? -- a tale told mostly in tweets]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/08/who-reads-headlines-anyway-tale-told.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/08/who-reads-headlines-anyway-tale-told.html"/>
+        <updated>2024-08-05T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Saturday morning Twitter, or at least the corner of twitter that obsesses over politics and political journalism, started furiously ex...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnival of Maths 230]]></title>
+        <id>https://aperiodical.com/2024/08/carnival-of-maths-230/</id>
+        <link href="https://aperiodical.com/2024/08/carnival-of-maths-230/"/>
+        <updated>2024-08-05T09:00:06.000Z</updated>
+        <summary type="html"><![CDATA[The next issue of the Carnival of Mathematics, rounding up blog posts from the month of July 2024, is now online at Theorem of the Day. The Carnival rounds up maths blog posts from all over the int…]]></summary>
+        <author>
+            <name>The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cruelty is so easy. youre not special for choosing it]]></title>
+        <id>https://thalescircles.tumblr.com/post/757954563559047168</id>
+        <link href="https://thalescircles.tumblr.com/post/757954563559047168"/>
+        <updated>2024-08-05T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[cruelty is so easy. youre not special for choosing it]]></summary>
+        <author>
+            <name>Thales’ circles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 5]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-5.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-5.html"/>
+        <updated>2024-08-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mathematics is like checkers in being suitable for the young, not too difficult, amusing, and without peril to the state.  ~ Plato On non-...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Determing which math problems are hard is a hard problem]]></title>
+        <id>https://blog.computationalcomplexity.org/2024/08/determing-which-math-problems-are-hard.html</id>
+        <link href="https://blog.computationalcomplexity.org/2024/08/determing-which-math-problems-are-hard.html"/>
+        <updated>2024-08-05T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[I was wondering what the hardest math problems were, and how to define it. So I googled  Hardest Math Problems The first hit is  here . The...]]></summary>
+        <author>
+            <name>Computational Complexity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too clever Monte Carlo]]></title>
+        <id>https://www.johndcook.com/blog/2024/08/04/too-clever-monte-carlo/</id>
+        <link href="https://www.johndcook.com/blog/2024/08/04/too-clever-monte-carlo/"/>
+        <updated>2024-08-04T23:05:54.000Z</updated>
+        <summary type="html"><![CDATA[A clever way to approximate the volume of a high-dimensional sphere than turns out to be too clever. A cautionary tale about using the central limit theorem.]]></summary>
+        <author>
+            <name>John D. Cook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mount Hood [jatp]]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/05/mount-hood-jatp/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/05/mount-hood-jatp/"/>
+        <updated>2024-08-04T22:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/4/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/757914702014824449</id>
+        <link href="https://purenumbers.tumblr.com/post/757914702014824449"/>
+        <updated>2024-08-04T20:36:25.000Z</updated>
+        <summary type="html"><![CDATA[8 / 4 = 2 = √4
+Also:
+8 - √4 = 2 + 4
+Also:
+8 - 4 = 2 + √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guest Post: Yudi Pawitan: “Update on Behavioral aspects in the statistical significance war-game (‘abandon statistical significance 5 years on’)]]></title>
         <id>https://errorstatistics.com/2024/08/04/guest-post-yudi-pawitan-behavioral-aspects-in-the-statistical-significance-war-game-thoughts-on-abandon-statistical-significance-5-years-on/</id>
@@ -33,6 +242,18 @@
         <summary type="html"><![CDATA[Ramblings about operations research, mathematical optimization and (mostly open-source) software.]]></summary>
         <author>
             <name>OR in an OB World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Defining Patterns with PDLL]]></title>
+        <id>https://www.jeremykun.com/2024/08/04/mlir-pdll/</id>
+        <link href="https://www.jeremykun.com/2024/08/04/mlir-pdll/"/>
+        <updated>2024-08-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents
+In this article I’ll show how to use PDLL, a tool for defining MLIR patterns, which itself is built with MLIR. PDLL is intended to be a replacement for defining patterns in tablegen, though there are few public examples of its use. In fact, the main impetus for PDLL is that tablegen makes it difficult to express things like:
+Operations that return multiple results Operations with regions Operations with variadic operands Arithmetic on static values While not all these features are fully supported in PDLL yet, they are within scope of the language and tooling.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
@@ -5034,154 +5255,6 @@ Fun interview, lots about the...]]></summary>
         <id>https://statmodeling.stat.columbia.edu/2024/07/07/its-time-how-much-should-we-charge-for-a-link/</id>
         <link href="https://statmodeling.stat.columbia.edu/2024/07/07/its-time-how-much-should-we-charge-for-a-link/"/>
         <updated>2024-07-07T13:33:28.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noga Alon and Adi Shamir won the 2024 Wolf Prize]]></title>
-        <id>https://gilkalai.wordpress.com/2024/07/07/noga-alon-and-adi-shamir-won-the-2024-wolf-prize/</id>
-        <link href="https://gilkalai.wordpress.com/2024/07/07/noga-alon-and-adi-shamir-won-the-2024-wolf-prize/"/>
-        <updated>2024-07-07T09:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,…]]></summary>
-        <author>
-            <name>Combinatorics and more</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New BCC website]]></title>
-        <id>https://cameroncounts.wordpress.com/2024/07/07/new-bcc-website/</id>
-        <link href="https://cameroncounts.wordpress.com/2024/07/07/new-bcc-website/"/>
-        <updated>2024-07-07T07:02:19.000Z</updated>
-        <summary type="html"><![CDATA[The British Combinatorial Committee has a new website: www.britishcombinatorics.org.uk/ Take a look, and pass on any comments! My personal thanks to Julia Wolf. The WordPress site I maintained for …]]></summary>
-        <author>
-            <name>Peter Cameron's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Internet Math-Off 2024, Round 1, Match 7]]></title>
-        <id>https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-7/</id>
-        <link href="https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-7/"/>
-        <updated>2024-07-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s the seventh match in Round 1 of The Big Internet Math-Off. Today, we’re pitting Fran Herr against Tom Edgar. Take a look at both pitches, vote for the bit of maths that made you …]]></summary>
-        <author>
-            <name>The Aperiodical</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vocabulary]]></title>
-        <id>https://colleenyoung.org/2024/07/07/vocabulary/</id>
-        <link href="https://colleenyoung.org/2024/07/07/vocabulary/"/>
-        <updated>2024-07-07T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Mathematics - Vocabulary]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vocabulary]]></title>
-        <id>https://colleenyoung.org/2024/07/07/vocabulary/</id>
-        <link href="https://colleenyoung.org/2024/07/07/vocabulary/"/>
-        <updated>2024-07-07T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Mathematics - Vocabulary]]></summary>
-        <author>
-            <name>Mathematics, Learning and Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On This Day in Math - July 7]]></title>
-        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html</id>
-        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-7.html"/>
-        <updated>2024-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Probability is a mathematical discipline whose aims are akin to those,  for example, of geometry of analytical mechanics. In each field we m...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[analytic LPO]]></title>
-        <id>https://ncatlab.org/nlab/show/analytic+LPO</id>
-        <link href="https://ncatlab.org/nlab/show/analytic+LPO"/>
-        <updated>2024-07-07T04:10:56.000Z</updated>
-        <author>
-            <name>nLab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Μηχανικοί Τριχοτόμοι, Kempe's Link]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/kempes-link.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/kempes-link.html"/>
-        <updated>2024-07-07T04:10:00.000Z</updated>
-        <summary type="html"><![CDATA[΄΄ Ένα από τα πλέον γνωστά άλυτα προβλήματα της αρχαιότητας είναι  η τριχοτόμηση τυχαίας γωνίας, η αδυναμία της «διαίρεσης γωνίας σε τρία ...]]></summary>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Τα εισιτήρια]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_26.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_26.html"/>
-        <updated>2024-07-07T04:09:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Αληθινές στιχομυθίες]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_7.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_7.html"/>
-        <updated>2024-07-07T04:08:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuiverTools]]></title>
-        <id>http://pbelmans.ncag.info/blog/2024/07/07/quivertools/</id>
-        <link href="http://pbelmans.ncag.info/blog/2024/07/07/quivertools/"/>
-        <updated>2024-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post concerns QuiverTools.  If you use it for your research, please cite it using .]]></summary>
-        <author>
-            <name>Pieter Belmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/6/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/755287522872033280</id>
-        <link href="https://purenumbers.tumblr.com/post/755287522872033280"/>
-        <updated>2024-07-06T20:38:32.000Z</updated>
-        <summary type="html"><![CDATA[(7 - 6) * 2 = √4
-Also:
-7 - (6 / 2) = 4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry Problems of the Day (Geometry Regents, June 2024 Part I)]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html"/>
-        <updated>2024-07-06T20:18:00.000Z</updated>
-        <summary type="html"><![CDATA[This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculating when a planet will appear to move backwards]]></title>
-        <id>https://www.johndcook.com/blog/2024/07/06/retrograde/</id>
-        <link href="https://www.johndcook.com/blog/2024/07/06/retrograde/"/>
-        <updated>2024-07-06T15:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Retrograde motion occurs when planets will appear to reverse course in the sky from the vantage point of Earth. Calculating when this will happen.]]></summary>
-        <author>
-            <name>John D. Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross validation and pointwise or joint measures of prediction accuracy]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/"/>
-        <updated>2024-07-06T13:54:53.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
