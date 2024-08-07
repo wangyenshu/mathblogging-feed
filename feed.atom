@@ -2,10 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T00:34:40.408Z</updated>
+    <updated>2024-08-07T00:34:49.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unsolicited feedback on your research from the LLMs at large]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/06/unsolicited-feedback-on-your-research-from-the-llms-at-large/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/06/unsolicited-feedback-on-your-research-from-the-llms-at-large/"/>
+        <updated>2024-08-06T18:19:34.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PNAS corrects article by Kavli prize winner who threatened to sue critic]]></title>
+        <id>https://retractionwatch.com/2024/08/06/pnas-corrects-article-by-kavli-prize-winner-who-threatened-to-sue-critic/</id>
+        <link href="https://retractionwatch.com/2024/08/06/pnas-corrects-article-by-kavli-prize-winner-who-threatened-to-sue-critic/"/>
+        <updated>2024-08-06T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Chad Mirkin Proceedings of the National Academy of Sciences has corrected an article by a prize-winning chemist following a report by Retraction Watch his threat to sue a fellow scientist who had s…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore Math Weighing Scale Question]]></title>
+        <id>https://mindyourdecisions.com/blog/2024/08/06/singapore-math-weighing-scale-question/</id>
+        <link href="https://mindyourdecisions.com/blog/2024/08/06/singapore-math-weighing-scale-question/"/>
+        <updated>2024-08-06T17:52:05.000Z</updated>
+        <author>
+            <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look at what they tried to take from us]]></title>
+        <id>https://blog.plover.com/music/revolver.html</id>
+        <link href="https://blog.plover.com/music/revolver.html"/>
+        <updated>2024-08-06T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[From the highly eclectic blog of Mark Dominus]]></summary>
+        <author>
+            <name>The Universe of Disco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 06 More N-vectors: UNIZOR.COM - Math+ &Problems - Vectors]]></title>
+        <id>https://unizor.blogspot.com/2024/08/vectors-06-more-n-vectors-unizorcom.html</id>
+        <link href="https://unizor.blogspot.com/2024/08/vectors-06-more-n-vectors-unizorcom.html"/>
+        <updated>2024-08-06T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 06  Cauchy-Schwarz-Bunyakovsky Inequality   This inequality is also known as ...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He wants to compute “the effect of a predictor” (that is, an average predictive comparison) for a hierarchical mixture model.  You can do it in Stan!]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/"/>
+        <updated>2024-08-06T13:52:41.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which “mean” do you mean?]]></title>
+        <id>https://mathwithbaddrawings.com/2024/08/06/which-mean-do-you-mean/</id>
+        <link href="https://mathwithbaddrawings.com/2024/08/06/which-mean-do-you-mean/"/>
+        <updated>2024-08-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arithmetic vs. geometric (and more).]]></summary>
+        <author>
+            <name>Math with Bad Drawings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Biden to Harris – – a view from the ground (mostly)]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/08/from-biden-to-harris-view-from-ground.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/08/from-biden-to-harris-view-from-ground.html"/>
+        <updated>2024-08-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The past few weeks, particularly since the debate, I have been collecting a largely anecdotal and entirely unscientific sample of opinions a...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spherical function]]></title>
+        <id>https://ncatlab.org/nlab/show/spherical+function</id>
+        <link href="https://ncatlab.org/nlab/show/spherical+function"/>
+        <updated>2024-08-06T10:41:48.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blogparade #7: Schule & Leben? Schule trotz Leben? Leben nach der Schule?]]></title>
+        <id>https://halbtagsblog.de/2024/08/06/schule-leben/</id>
+        <link href="https://halbtagsblog.de/2024/08/06/schule-leben/"/>
+        <updated>2024-08-06T07:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Dann habe ich eine Weile darüber nachgedacht, was das eigentlich ist: "leben".]]></summary>
+        <author>
+            <name>Schule, Schulleitung, Familie, DIY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Visceral Understanding of Quantum Phenomena]]></title>
+        <id>https://quantumfrontiers.com/2024/08/05/building-a-visceral-understanding-of-quantum-phenomena/</id>
+        <link href="https://quantumfrontiers.com/2024/08/05/building-a-visceral-understanding-of-quantum-phenomena/"/>
+        <updated>2024-08-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A great childhood memory that I have comes from first playing “The Incredible Machine” on PC in the early 90’s. For those not in the know, this is a physics-based puzzle game abou…]]></summary>
+        <author>
+            <name>Quantum Frontiers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Subfactorial and Some Historical Notes]]></title>
+        <id>https://pballew.blogspot.com/2024/08/the-subfactorial-and-some-historical.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/the-subfactorial-and-some-historical.html"/>
+        <updated>2024-08-06T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Subfactorial  the name subractorial was created by W. A Whitworth in The Messenger of Mathematics in May of 1877.  The symbol for the subf...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 6]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-6.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-6.html"/>
+        <updated>2024-08-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[God exists since mathematics is consistent, and the Devil exists since we cannot prove it . ~André Weil The 218th Day of the Year 109 is t...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSM 2024, Portland, Day 1]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/06/jsm-2024-portland-day-1/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/06/jsm-2024-portland-day-1/"/>
+        <updated>2024-08-05T22:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Strolling through the Oregon Conference Centre on 5 Aug, I am as always amazed at how the JSM conference centres have the ability to swallow in thousands of participants without giving an impressio…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal republishes chiropractic paper it had retracted after legal threats]]></title>
+        <id>https://retractionwatch.com/2024/08/05/journal-republishes-chiropractic-paper-it-had-retracted-after-legal-threats/</id>
+        <link href="https://retractionwatch.com/2024/08/05/journal-republishes-chiropractic-paper-it-had-retracted-after-legal-threats/"/>
+        <updated>2024-08-05T21:25:19.000Z</updated>
+        <summary type="html"><![CDATA[A journal has republished an edited version of a paper it retracted after a distributor of a chiropractic product the paper criticized wrote in to complain.  The distributor accused the public…]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encounter with an anteater]]></title>
+        <id>https://alanrendall.wordpress.com/2024/08/05/encounter-with-an-anteater/</id>
+        <link href="https://alanrendall.wordpress.com/2024/08/05/encounter-with-an-anteater/"/>
+        <updated>2024-08-05T20:58:55.000Z</updated>
+        <summary type="html"><![CDATA[In a previous post I wrote about the first time I saw an aardvark live. Here I want to do the same for the anteater. To be clear, when I say anteater without further qualification I mean the giant …]]></summary>
+        <author>
+            <name>Hydrobates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25% OFF August 6 & 7, 2024]]></title>
+        <id>https://www.scaffoldedmath.com/2024/08/25-off-august-6-7-2024.html</id>
+        <link href="https://www.scaffoldedmath.com/2024/08/25-off-august-6-7-2024.html"/>
+        <updated>2024-08-05T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Differentiated math teaching ideas, including math word walls, math escape rooms, math pennants, math cheat sheets, consumer math, and math décor]]></summary>
+        <author>
+            <name>Scaffolded Math and Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/5/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/758005310362451968</id>
+        <link href="https://purenumbers.tumblr.com/post/758005310362451968"/>
+        <updated>2024-08-05T20:36:36.000Z</updated>
+        <summary type="html"><![CDATA[(8 - 5)! = 2 + 4
+Also:
+8 = (5 * 2) - √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BRIDGES Poetry -- and Clerihews]]></title>
         <id>https://poetrywithmathematics.blogspot.com/2024/08/bridges-poetry-and-clerihews.html</id>
@@ -5112,149 +5290,6 @@ Also:
         <id>https://statmodeling.stat.columbia.edu/2024/07/08/the-election-is-coming-what-forecasts-should-we-trust/</id>
         <link href="https://statmodeling.stat.columbia.edu/2024/07/08/the-election-is-coming-what-forecasts-should-we-trust/"/>
         <updated>2024-07-08T13:06:52.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you call a dense, well-planned, innovative exurb? ... An exurb.]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/what-do-you-call-dense-well-planned.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/what-do-you-call-dense-well-planned.html"/>
-        <updated>2024-07-08T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[However,  the East Solano Plan, as proposed, can offer a model for how to build  new cities with the whole ecosystem in mind, intentionally:...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk on collaborative insurance, unfairness and discrimination]]></title>
-        <id>https://freakonometrics.hypotheses.org/76098</id>
-        <link href="https://freakonometrics.hypotheses.org/76098"/>
-        <updated>2024-07-08T09:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Monday, I will be giving a short course at the workshop on Decentralized Insurance and Risk Sharing (SAC 161), in Chicago Decentralized Finance and Blockchain: Implications for the Insurance Industry, by Marco Mirabella Decentralized risk sharing: definitions, properties, and characterizations, by Jan Dhaene Collaborative insurance, unfairness, and discrimination, by Arthur Charpentier Decentralized insurance: bridging the … Continue reading Talk on collaborative insurance, unfairness and discrimination →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Internet Math-Off 2024, Round 1, Match 8]]></title>
-        <id>https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-8/</id>
-        <link href="https://aperiodical.com/2024/07/the-big-internet-math-off-2024-round-1-match-8/"/>
-        <updated>2024-07-08T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s the eighth and final match in Round 1 of The Big Internet Math-Off. Today, we’re pitting Dave Richeson against Kit Yates. Take a look at both pitches, vote for the bit of maths t…]]></summary>
-        <author>
-            <name>The Aperiodical</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On This Day in Math - July 8]]></title>
-        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-8.html</id>
-        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-8.html"/>
-        <updated>2024-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I never came across one of Laplace's "Thus it plainly appears" without feeling sure that I have hours of hard work before me to fill up th...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A computation-outsourced discussion of zero density theorems for the Riemann zeta function]]></title>
-        <id>https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/</id>
-        <link href="https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/"/>
-        <updated>2024-07-08T00:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Many modern mathematical proofs are a combination of conceptual arguments and technical calculations. There is something of a tradeoff between the two: one can add more conceptual arguments to try …]]></summary>
-        <author>
-            <name>What's new</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A computation-outsourced discussion of zero density theorems for the Riemann zeta function]]></title>
-        <id>https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/</id>
-        <link href="https://terrytao.wordpress.com/2024/07/07/a-computation-outsourced-discussion-of-zero-density-theorems-for-the-riemann-zeta-function/"/>
-        <updated>2024-07-08T00:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Many modern mathematical proofs are a combination of conceptual arguments and technical calculations. There is something of a tradeoff between the two: one can add more conceptual arguments to try …]]></summary>
-        <author>
-            <name>What's new</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My favorite rocket scientist]]></title>
-        <id>https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/</id>
-        <link href="https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/"/>
-        <updated>2024-07-08T00:07:02.000Z</updated>
-        <summary type="html"><![CDATA[Whenever someone protests, “I’m not a rocket scientist,” I think of my friend Jamie Rankin. Jamie is a researcher at Princeton University, and she showed me her lab this June. When I first met Jami…]]></summary>
-        <author>
-            <name>Quantum Frontiers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talks in Chicago]]></title>
-        <id>https://freakonometrics.hypotheses.org/76575</id>
-        <link href="https://freakonometrics.hypotheses.org/76575"/>
-        <updated>2024-07-07T21:46:26.000Z</updated>
-        <summary type="html"><![CDATA[This week, I will give a short course at the “decentralized insurance and risk sharing” workshop, and then at the IME Congress 2024. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 7, 2024). Talks in Chicago. Freakonometrics. Retrieved July 29, 2024 from https://freakonometrics.hypotheses.org/76575]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/7/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/755378285107707904</id>
-        <link href="https://purenumbers.tumblr.com/post/755378285107707904"/>
-        <updated>2024-07-07T20:41:09.000Z</updated>
-        <summary type="html"><![CDATA[(7 / 7) * 2 = √4
-Also:
-7 - √(7 + 2) = 4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The combinatorics of picking a Vice President]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/07/the-combinatorics-of-picking-vice.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/07/the-combinatorics-of-picking-vice.html"/>
-        <updated>2024-07-07T19:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Trump is pondering who to pick for his vice president. For a recent podcast about it go  here . Spoiler alert: Doug B or Marco R or J.D. Va...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Joy of Wh(y) - Tiling]]></title>
-        <id>https://thalescircles.tumblr.com/post/755374174870093824</id>
-        <link href="https://thalescircles.tumblr.com/post/755374174870093824"/>
-        <updated>2024-07-07T19:35:49.000Z</updated>
-        <summary type="html"><![CDATA[If you cover a surface with tiles, repetitive patterns always emerge — or do they? In this week’s episode, mathematician Natalie Priebe Fran
-The Joy of Wh(y) - Tiling
-Fun interview, lots about the...]]></summary>
-        <author>
-            <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridges 2024 -- in Richmond, VA]]></title>
-        <id>https://poetrywithmathematics.blogspot.com/2024/07/bridges-2024-in-richmond-va.html</id>
-        <link href="https://poetrywithmathematics.blogspot.com/2024/07/bridges-2024-in-richmond-va.html"/>
-        <updated>2024-07-07T19:29:00.000Z</updated>
-        <summary type="html"><![CDATA[mathematics poetry]]></summary>
-        <author>
-            <name>Intersections -- Poetry with Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry Problems of the Day (Geometry Regents, June 2024 Part I)]]></title>
-        <id>https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_7.html</id>
-        <link href="https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_7.html"/>
-        <updated>2024-07-07T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[This exam was adminstered in June 2024.         More Regents problems .       June 2024 Geometry Regents   Part I   Each correct answer ...]]></summary>
-        <author>
-            <name>(x, why?)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s $ time!  How much should we charge for a link?]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/07/its-time-how-much-should-we-charge-for-a-link/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/07/its-time-how-much-should-we-charge-for-a-link/"/>
-        <updated>2024-07-07T13:33:28.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
         </author>
