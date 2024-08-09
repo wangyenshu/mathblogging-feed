@@ -6,6 +6,236 @@
       "siteUrl": "https://mathblogging.org/",
       "articles": [
         {
+          "id": "https://www.logicmatters.net/2024/08/08/marshalling-the-grey-cells/",
+          "author": "Logic Matters",
+          "description": "You now know why I wrapped up work on Introducing Category Theory a bit prematurely, and paperbacked what I frankly admitted was/is a beta version, broadly functional but surely not bug-free. I got an earlier-than-expected slot for my scheduled heart operation, and just didn’t know when (or indeed if) I would be up for returning […]",
+          "link": "https://www.logicmatters.net/2024/08/08/marshalling-the-grey-cells/",
+          "publishedOn": "2024-08-08T19:29:09.000Z",
+          "wordCount": 5140,
+          "title": "Marshalling the grey cells …",
+          "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/08/IMG_1221-1024x768.jpeg"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/",
+          "publishedOn": "2024-08-08T19:00:12.000Z",
+          "wordCount": null,
+          "title": "Nicholas Carlini on LLMs and AI for research programmers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/",
+          "author": "Error Statistics Philosophy",
+          "description": "Aris Spanos Wilson Schmidt Professor of Economics Department of Economics Virginia Tech The following guest post (link to PDF of this post) was written as a comment to Mayo’s recent post: \b…",
+          "link": "https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/",
+          "publishedOn": "2024-08-08T17:22:42.000Z",
+          "wordCount": 6511,
+          "title": "Aris Spanos Guest Post: “On Frequentist Testing: revisiting widely held confusions and misinterpretations”",
+          "imageUrl": "https://errorstatistics.com/wp-content/uploads/2024/08/aris-spanos-suit.png"
+        },
+        {
+          "id": "https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-iii.html",
+          "author": "(x, why?)",
+          "description": "This exam was adminstered in January 2024 .      June 2024 Algebra 2, Part III    Each correct answer is worth up to 4 credits. Partial cr...",
+          "link": "https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-iii.html",
+          "publishedOn": "2024-08-08T15:37:00.000Z",
+          "wordCount": 4795,
+          "title": "June 2024 Algebra 2 Regents Part III",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj00VYzUQEW6SEdHixM_Rqx-Ugm4k3aD6fdNbX2fgKWjZVFbLbVlKl8CX2BNxO_3fwd_8RWpGcN02kLFD3GKhVZMM1RT07Jmuvt06-boR0S-Rie3eHDG76EtO6GdSv179QNicp1hQgt62Txsw7n9kyrby71XGo7HtTJblFkiYIv7bppRDrKCgtj7g/w1200-h630-p-k-no-nu/temp00.png"
+        },
+        {
+          "id": "https://unizor.blogspot.com/2024/08/vectors-07-abstract-vector-space.html",
+          "author": "Unizor - Creative Mind through Art of Mathematics",
+          "description": "Notes to a video lecture on http://www.unizor.com    Vectors+ 07 - Abstract Vector Space   This lecture represents a typical mathematical a...",
+          "link": "https://unizor.blogspot.com/2024/08/vectors-07-abstract-vector-space.html",
+          "publishedOn": "2024-08-08T14:31:00.000Z",
+          "wordCount": 2678,
+          "title": "Vectors+ 07 Abstract Vector Space: UNIZOR.COM - Math+ & Problems - Vectors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t_m2JrG9TmIE4d9q666gxwFLerzKLJVEB8OvYL4zdua3ToihVF3ewUIyP1ZC67Uh567zUheFsVpMv25CHKO4aYzS3LOT-oh9iDCZOt9Pr1GgFZ=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "https://thonyc.wordpress.com/2024/08/08/johannes-keplers-preoccupation-with-the-concept-of-harmony/",
+          "author": "The Renaissance Mathematicus",
+          "description": "Johannes Kepler was an incredibly prolific writer, as well as more than sixty books and pamphlets, he corresponded with a wide range of people writing a huge number of oft, very long letters, on an…",
+          "link": "https://thonyc.wordpress.com/2024/08/08/johannes-keplers-preoccupation-with-the-concept-of-harmony/",
+          "publishedOn": "2024-08-08T14:11:14.000Z",
+          "wordCount": 6612,
+          "title": "Johannes Kepler’s preoccupation with the concept of harmony.",
+          "imageUrl": "https://thonyc.wordpress.com/wp-content/uploads/2024/08/frontispiece-of-the-rudolphine-tables-by-georg-coeler-celer-1599-1638-based-on-a.png"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2024/08/08/free-book-of-stories-activities/",
+          "author": "Statistical Modeling, Causal Inference, and Social Science",
+          "description": "",
+          "link": "https://statmodeling.stat.columbia.edu/2024/08/08/free-book-of-stories-activities/",
+          "publishedOn": "2024-08-08T13:39:49.000Z",
+          "wordCount": null,
+          "title": "Free Book of Stories, Activities, Computer Demonstrations, and Problems in Applied Regression and Causal Inference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retractionwatch.com/2024/08/08/no-animosity-between-us-lungless-frog-finding-retracted-after-16-years/",
+          "author": "Retraction Watch",
+          "description": "The Bornean flat-headed frog, via Current Biology In 2008, a group of researchers published a paper in Current Biology reporting on what they said was a lungless water-loving frog in Borneo.  …",
+          "link": "https://retractionwatch.com/2024/08/08/no-animosity-between-us-lungless-frog-finding-retracted-after-16-years/",
+          "publishedOn": "2024-08-08T11:32:12.000Z",
+          "wordCount": 2668,
+          "title": "‘No animosity between us’: Lungless frog finding retracted after 16 years",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/08/Screenshot-2024-08-08-at-7.26.40 AM.png"
+        },
+        {
+          "id": "https://observationalepidemiology.blogspot.com/2024/08/with-procrustean-editing-headline.html",
+          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
+          "description": "The only way I'm going to get free of this thread is to stop looking at the New York Times. Remember a few days ago when the New York Times ...",
+          "link": "https://observationalepidemiology.blogspot.com/2024/08/with-procrustean-editing-headline.html",
+          "publishedOn": "2024-08-08T11:30:00.000Z",
+          "wordCount": 3564,
+          "title": "With Procrustean editing, the headline always fits the narrative",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMyLjdq7S1MMpARkRBRG6tySVLNEK6Qtv8aBQsO92TKz2-4iR50ngI6Vuq_JgdKvQDbFtyMTCNfYNGkhtynkV0BoTaxgWeGm4jgnOfFD9sQM9IJaZI2Wmq8lGz3mDqXVUlDpq_wvi-Jmgkyks77vqhznbaeoiKtHVIxDUjbt9UJrCOF_9tMAmYKZLR_uNA/w1200-h630-p-k-no-nu/Screenshot%202024-08-07%20105016.png"
+        },
+        {
+          "id": "https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/",
+          "author": "Travels in a Mathematical World – The Aperiodical",
+          "description": "Earlier this week I posted a matrix multiplication worksheet on Mastodon. If you do some of these, you might spot what’s funny about them. For example. \\[ \\Large \\begin{bmatrix}\\color{navy}{4…",
+          "link": "https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/",
+          "publishedOn": "2024-08-08T10:25:45.000Z",
+          "wordCount": 1067,
+          "title": "Matrix multiplication doesn’t work like that",
+          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/08/worksheet-sm.png"
+        },
+        {
+          "id": "https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/",
+          "author": "The Aperiodical",
+          "description": "Earlier this week I posted a matrix multiplication worksheet on Mastodon. If you do some of these, you might spot what’s funny about them. For example. \\[ \\Large \\begin{bmatrix}\\color{navy}{4…",
+          "link": "https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/",
+          "publishedOn": "2024-08-08T10:25:45.000Z",
+          "wordCount": 1067,
+          "title": "Matrix multiplication doesn’t work like that",
+          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/08/worksheet-sm.png"
+        },
+        {
+          "id": "https://mathhmagic.blogspot.com/2024/08/blog-post_89.html",
+          "author": "Μαθη...μαγικά",
+          "description": "",
+          "link": "https://mathhmagic.blogspot.com/2024/08/blog-post_89.html",
+          "publishedOn": "2024-08-08T05:34:00.000Z",
+          "wordCount": 4281,
+          "title": "Μαθηματικά αστειάκια",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN2W8MBAd6SGGQ_-tsvFwoQz5-OJlzreSGxcOHO5ov7s1U4qvLGNib-a8F1u7Y4ODydVrfGzsMbQOXMxkszt2cfCiT85QuhNnLta0vebJrwbmyiBbXBGyerIFCrmYmBhkqrvCbLhobItH-ai-H-fXXKf04VNDvhaYz7AHE3R_8zoO15kk04TkpY5Q3vExg/w1200-h630-p-k-no-nu/Blue%20and%20Red%20Cute%20Alphabet%20Notebook%20Cover%20A4%20Document%20(1).png"
+        },
+        {
+          "id": "https://mathhmagic.blogspot.com/2024/08/blog-post_11.html",
+          "author": "Μαθη...μαγικά",
+          "description": "",
+          "link": "https://mathhmagic.blogspot.com/2024/08/blog-post_11.html",
+          "publishedOn": "2024-08-08T05:08:00.000Z",
+          "wordCount": 4281,
+          "title": "Κατασκευή επταγώνου",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sPKuZOW2FbtvlS_UMrawgC3soZza5OZ5TMzuCnulXtaIPJfhOqQvmFSh_Zyp5CYL5P4VFE_BhaMw7zvf05bkcUorU6h8D4AOsGa_rhYr-9fPPh=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/08/not-all-math-symbols-are-equal-or-how.html",
+          "author": "Pat'sBlog",
+          "description": "Another from the Archives:2008 I have a friend named Dave Refro who writes and edits questions for one of those high stakes tests that is ...",
+          "link": "https://pballew.blogspot.com/2024/08/not-all-math-symbols-are-equal-or-how.html",
+          "publishedOn": "2024-08-08T05:00:00.000Z",
+          "wordCount": 3968,
+          "title": "Not All Math Symbols are Equal, or How \"=\" Became Ubiquitous",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguP1_tSU06oyqYtitRq9JvFyNGLK2JuThZx4LCldaOE0xyYbJSLl96dpoFYrbKMpyYJkVA6xM4Erc03Y43S0-2S86Fi56BGuD683s-E2PgrvvwFHLRyQj6XA1w-Ey0lDBNGCDT1gwQw08/w1200-h630-p-k-no-nu/mathsymb.jpg"
+        },
+        {
+          "id": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-8.html",
+          "author": "Pat'sBlog",
+          "description": "This result is too beautiful to be false; it is more important to have beauty in one's equations than to have them fit experiment. Paul ...",
+          "link": "https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-8.html",
+          "publishedOn": "2024-08-08T04:00:00.000Z",
+          "wordCount": 7191,
+          "title": "On This Day in Math - August 8",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiojV1qmw9qxeknls0i6ueZoLs5ljNlpWZW6UHrJ5RYxrNZXNrU41dwCGqfcBPUU4Ct30vIIKESnfh8c2kmFrCYX-zXevnsILb9zRylpjC1ERv3EHn1yesfwja-B-sSXUg7ztFasUOJVJ4/w1200-h630-p-k-no-nu/aug+8.jpg"
+        },
+        {
+          "id": "https://mathhmagic.blogspot.com/2024/08/blog-post_8.html",
+          "author": "Μαθη...μαγικά",
+          "description": "",
+          "link": "https://mathhmagic.blogspot.com/2024/08/blog-post_8.html",
+          "publishedOn": "2024-08-08T03:45:00.000Z",
+          "wordCount": 4286,
+          "title": "Πάλι βγαίνει πρώτος",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3be7l9PKbqAMm0Wa8L9beuUwkCjjG4DTb4VHbRmi0-dnKHQLke_x8qMuSGuE2ApPhYQ2PUFoOfeoZ7-aXc2BVQSc-TBFbTfDwLlfSDxUebCkwVaqLw7p2Pa_wqEhYDiuxqPNRwWVIVAarVL3J-r8EAPs1A7KDAHiP0cY4UufFfXvt9xPtZYLzJOlOy4-/w1200-h630-p-k-no-nu/Blue%20and%20Red%20Cute%20Alphabet%20Notebook%20Cover%20A4%20Document.png"
+        },
+        {
+          "id": "https://mathhmagic.blogspot.com/2024/08/ungee-jumping-physics.html",
+          "author": "Μαθη...μαγικά",
+          "description": "",
+          "link": "https://mathhmagic.blogspot.com/2024/08/ungee-jumping-physics.html",
+          "publishedOn": "2024-08-08T03:44:00.000Z",
+          "wordCount": 4289,
+          "title": "Βungee jumping Physics",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vB3FnnYC-M-U0WPbe883pE0y4sj-kFkD1_gG0mZf_CgbGtKv8nmR3gcehDyNCbZSCxmKP7B0TVIuY8fCfFKwktACbMc_QQ55zCRZphlMvj-lzSmg=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "https://freakonometrics.hypotheses.org/76930",
+          "author": "Freakonometrics",
+          "description": "Our paper “Probabilistic Scores of Classifiers, Calibration is not Enough”, with Agathe Fernandes Machado, Emmanuel Flachaire, Ewen Gallic and François Hu is now available on https://arxiv.org/abs/2408.03421 In binary classification tasks, accurate representation of probabilistic predictions is essential for various real-world applications such as predicting payment defaults or assessing medical risks. The model must then be … Continue reading Probabilistic Scores of Classifiers, Calibration is not Enough →",
+          "link": "https://freakonometrics.hypotheses.org/76930",
+          "publishedOn": "2024-08-08T03:16:56.000Z",
+          "wordCount": 4325,
+          "title": "Probabilistic Scores of Classifiers, Calibration is not Enough",
+          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
+        },
+        {
+          "id": "https://freakonometrics.hypotheses.org/76902",
+          "author": "Freakonometrics",
+          "description": "Our paper “Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness“, written with Agathe Fernandes Machado and Ewen Gallic, is now online In this paper, we link two existing approaches to derive counterfactuals: adaptations based on a causal graph, as suggested in Plečko and Meinshausen (2020) and optimal transport, as in De Lara et … Continue reading Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness →",
+          "link": "https://freakonometrics.hypotheses.org/76902",
+          "publishedOn": "2024-08-08T03:09:03.000Z",
+          "wordCount": 4211,
+          "title": "Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness",
+          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
+        },
+        {
+          "id": "https://purenumbers.tumblr.com/post/758193569298284544",
+          "author": "Pure Numbers Daily Blog",
+          "description": "8 - 7 = 2 / √4\nAlso:\n8 - [√(7 + 2)]! = √4",
+          "link": "https://purenumbers.tumblr.com/post/758193569298284544",
+          "publishedOn": "2024-08-07T22:28:53.000Z",
+          "wordCount": 1767,
+          "title": "8/7/24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xianblog.wordpress.com/2024/08/08/deep-bayes-factor/",
+          "author": "Xi'an's Og",
+          "description": "A recently arXived paper proposes an alternative approach to computing Bayes factors via deep learning, Deep Bayes Factors written by Jungeum Kim and Veronika Ročková (whom I have known from her Ph…",
+          "link": "https://xianblog.wordpress.com/2024/08/08/deep-bayes-factor/",
+          "publishedOn": "2024-08-07T22:24:13.000Z",
+          "wordCount": 2814,
+          "title": "deep Bayes factor",
+          "imageUrl": "http://jungeumkim.com/wp-content/uploads/2023/12/featured.png"
+        },
+        {
+          "id": "https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-ii.html",
+          "author": "(x, why?)",
+          "description": "This exam was adminstered in January 2024 .      June 2024 Algebra 2, Part II    Each correct answer is worth up to 2 credits. Partial cre...",
+          "link": "https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-ii.html",
+          "publishedOn": "2024-08-07T22:07:00.000Z",
+          "wordCount": 4982,
+          "title": "June 2024 Algebra 2 Regents Part II",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VO5LesRP3a1HUvYyHddOaehvNShDBlnEsEkkGq06cUEfkaTh4WaBOW8T5XYGF12exFUegqNg4LZFI-vlQ0L_MapU5nANfJ3uCxkI-czWntVT7MRkZ1ygCcc8QyA-ZZdOeBMJVAfGhx9MfflCSKi8OPcsw-YdgpsRYe4CKTKBCG96SNro_BTEtQ/w1200-h630-p-k-no-nu/temp00.png"
+        },
+        {
+          "id": "https://www.jeremykun.com/shortform/2024-08-07-1414/",
+          "author": "Math ∩ Programming",
+          "description": "This blog now accepts webmentions.\nI used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post.\nAfter my initial experiments with POSSE, I’ve made a few improvements to the system. Now shortform posts are syndicated to Mastodon, Bluesky, and Twitter, and the links to the syndicated posts are automatically added to the end of each post. I don’t have any automatic social media posting for longform posts yet, though I plan to add a very simple version of that soon.",
+          "link": "https://www.jeremykun.com/shortform/2024-08-07-1414/",
+          "publishedOn": "2024-08-07T21:14:00.000Z",
+          "wordCount": 456,
+          "title": "Webmentions and POSSE improvements",
+          "imageUrl": null
+        },
+        {
           "id": "https://math.williams.edu/12032-2/",
           "author": "Blog – Mathematics & Statistics",
           "description": "Assistant Professor of Mathematics at Williams College The Williams College Department of Mathematics and Statistics invites applications for a tenure-track position in applied mathematics, beginning fall 2025, at the rank of assistant professor. The candidate should have a Ph.D. in Applied Mathematics, Mathematics, or a closely related field by the time of appointment. We are seeking candidates who are committed to inclusive undergraduate education and show evidence and/or promise of excellence in teaching students from diverse backgrounds as well as a strong research program in applied mathematics that can engage undergraduate students. Williams College is committed to fostering a diverse and inclusive academic community. We strongly encourage candidates from under-represented identities and others who will contribute to the diversification and enrichment of ideas and perspectives to apply. Preference will be given to candidates whose research area complements the department’s current research areas. The candidate will join a department that actively supports interdisciplinary research and is expanding its existing applied curriculum. We welcome applications from all applied areas. The teaching load is two courses per semester and a winter term course every other January. Our department offers a vibrant undergraduate program with majors in mathematics (including an applied mathematics emphasis) and statistics; for more information, see math.williams.edu. The multidisciplinary environment is a rich and collegial setting for student education and faculty research. Williams College provides the opportunity to apply for student research assistant support, an annual allocation of funds to support travel and research, a shared computer cluster for parallel computation, a grants office, and several internal research funding opportunities. In addition, Williams College offers faculty participation in the college’s professional development program First3 and in the NCFDD Faculty Success Program, and support through the newly established Rice Center for Teaching. Please submit your application via MathJobs: https://www.mathjobs.org/jobs/list/24857. In your application…",
@@ -43,6 +273,16 @@
           "publishedOn": "2024-08-07T18:14:41.000Z",
           "wordCount": 2698,
           "title": "9.11 is larger than 9.9 according to AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://11011110.github.io/blog/2024/08/07/range-voting-harmful.html",
+          "author": "11011110",
+          "description": "Many of Wikipedia’s articles on voting systems appear to me to have been overrun by advocacy for range voting. This is a system in which each voter rates eac...",
+          "link": "https://11011110.github.io/blog/2024/08/07/range-voting-harmful.html",
+          "publishedOn": "2024-08-07T18:09:00.000Z",
+          "wordCount": 1482,
+          "title": "Range voting considered harmful",
           "imageUrl": null
         },
         {
@@ -3906,6 +4146,16 @@
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
+          "id": "https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html",
+          "author": "Scaffolded Math and Science",
+          "description": "I have been working on a budget project where high school students choose a career, apartment, car and habit and see if they can stay within budget.",
+          "link": "https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html",
+          "publishedOn": "2024-07-18T12:59:00.000Z",
+          "wordCount": 3055,
+          "title": "Budget Project for High School Consumer Math",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK1gqCIeBxyEhb0M7cF6ukconOkj0ASwXYeZ7xaafcmIY4imI3cSLLd-K7ysgSKeB8o4ILaXCQj6PhlXbA9e9VKfz0aa9QlBjh_82yV5EqaUUcsqCnPNNDcCuRVLB7kuDPcfJevwHehf-Wu5UW_sJiarOXfWY0Qv0TMJnVsacNWn9eKUW-SQ8ysx5opPU/w1200-h630-p-k-no-nu/budget%20project.png"
+        },
+        {
           "id": "https://retractionwatch.com/2024/07/18/supplement-maker-sues-critic-for-defamation-spurring-removal-of-accepted-abstract/",
           "author": "Retraction Watch",
           "description": "A Frontiers journal has taken down the abstract of a “provisionally accepted” article about harms from an herbal supplement after the company that sells the products sued the first author for defam…",
@@ -5126,6 +5376,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjbsOEoS7V4ukf22tX46NoptyeZGI-eOAqbzKNuFUfT8nOo_zSmOtzsPh7Iv7HiTQ6Uw7pDvlVrkWzgRwsPRoZuuOsXjpA7tIFO9dMOBQzQVMExbzu3qK46jja1vfS8dW97y_sQd5waSDpcID6aSlNKAszl345XN7XXm-NcTqsYk-HL3B9f0OrFF5IArC/w1200-h630-p-k-no-nu/screenshot.jpg"
         },
         {
+          "id": "https://ncatlab.org/nlab/show/regular+directed+complex",
+          "author": "nLab",
+          "description": "",
+          "link": "https://ncatlab.org/nlab/show/regular+directed+complex",
+          "publishedOn": "2024-07-10T15:07:58.000Z",
+          "wordCount": 4608,
+          "title": "regular directed complex",
+          "imageUrl": null
+        },
+        {
           "id": "https://inquiryintoinquiry.com/2024/07/10/pragmatic-truth-2/",
           "author": "Inquiry Into Inquiry",
           "description": "Truth as the Good of Logic Pragmatic theories of truth enter on a stage set by the philosophies of former ages, with special reference to the Ancient Greeks, the Scholastics, and Immanuel Kant.&nbs…",
@@ -5154,206 +5414,6 @@
           "wordCount": null,
           "title": "(Trying to) clear up a misunderstanding about decision analysis and significance testing",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html",
-          "author": "Computational Complexity",
-          "description": "June Edition Two decades ago, I named the recently departed Luca Trevisan's paper  connecting extractors to psuedorandom generators as one o...",
-          "link": "https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html",
-          "publishedOn": "2024-07-10T11:34:00.000Z",
-          "wordCount": 4862,
-          "title": "Favorite Theorems: Extracting Ramsey Graphs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://observationalepidemiology.blogspot.com/2024/07/this-isnt-post-about-politics-its-post.html",
-          "author": "West Coast Stat Views (on Observational Epidemiology and more)",
-          "description": "Even more than usual, the best political commentary over the past few days has been coming from Josh Marshall. Though I want to wait until t...",
-          "link": "https://observationalepidemiology.blogspot.com/2024/07/this-isnt-post-about-politics-its-post.html",
-          "publishedOn": "2024-07-10T11:30:00.000Z",
-          "wordCount": 4331,
-          "title": "This isn't a post about politics; it's a post about the poitical press.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html",
-          "author": "The n-Category Café",
-          "description": "",
-          "link": "https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html",
-          "publishedOn": "2024-07-10T10:20:32.000Z",
-          "wordCount": 4760,
-          "title": "An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/blog-post_10.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/blog-post_10.html",
-          "publishedOn": "2024-07-10T09:53:00.000Z",
-          "wordCount": 4277,
-          "title": "Χρυσή Τομή",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_unU47wjKD7c_iQuFh7iZorLUMBBuclQsggI3Okb5s1EJ3ztf07nIY9UKYYNpNB1wtK68FI7lyA9L2SXLxk3ZgoJIW9qkXzeZ220qbNnDTzoPU6ZQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://thonyc.wordpress.com/2024/07/10/a-monumental-astronomy-tome-from-the-seventeenth-century/",
-          "author": "The Renaissance Mathematicus",
-          "description": "Giovanni Battista Riccioli (1598–1671) was a third generation, seventeenth-century, Jesuit mathematician and astronomer. A student of Giuseppe Biancani (1566–1624) at the University of Parma, who w…",
-          "link": "https://thonyc.wordpress.com/2024/07/10/a-monumental-astronomy-tome-from-the-seventeenth-century/",
-          "publishedOn": "2024-07-10T07:45:48.000Z",
-          "wordCount": 4360,
-          "title": "A monumental astronomy tome from the seventeenth century",
-          "imageUrl": "https://thonyc.wordpress.com/wp-content/uploads/2024/07/almagestumnovumfrontispiece.jpg"
-        },
-        {
-          "id": "https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-1/",
-          "author": "The Aperiodical",
-          "description": "Here’s the first quarter-final match of The Big Internet Math-Off. Today, we’re pitting Benjamin Dickman against Matt Enlow. Take a look at both pitches, vote for the bit of maths that …",
-          "link": "https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-1/",
-          "publishedOn": "2024-07-10T07:00:00.000Z",
-          "wordCount": 3105,
-          "title": "The Big Internet Math-Off 2024, Quarter-final 1",
-          "imageUrl": "https://aperiodical.com/wp-content/uploads/2024/07/match-9.png"
-        },
-        {
-          "id": "https://pballew.blogspot.com/2024/07/the-rules-of-three-and-probability-of.html",
-          "author": "Pat'sBlog",
-          "description": "A Re-edit and Posting of a 2008 Blog From 1827 Pike's Arithmetic In my youth, back when dinosaurs roamed the earth, there was “the rule of t...",
-          "link": "https://pballew.blogspot.com/2024/07/the-rules-of-three-and-probability-of.html",
-          "publishedOn": "2024-07-10T05:30:00.000Z",
-          "wordCount": 4424,
-          "title": "The Rule(s) of Three and the Probability of Nothing",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjccQBLwVq0GmML0VEaGxx3DAuFjuNJ6k9EcruxBtEJtfRhZm2VM3dRa75_c3d5TR3wmKl4OkPTdoz0qy432OYx2RS7Y0aiXgbbMrrdiM69VYgt6Zytd6uwvDu3BH4ATr9ooBJGSidEAyk/w1200-h630-p-k-no-nu/Rule+of+three+Pikes+Arithmetic.jpg"
-        },
-        {
-          "id": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-10.html",
-          "author": "Pat'sBlog",
-          "description": "That which is not good for the bee-hive cannot be good for the bees.   ~ Marcus Aurelius The 191st day of the year ; 191 is a palindromic ...",
-          "link": "https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-10.html",
-          "publishedOn": "2024-07-10T05:00:00.000Z",
-          "wordCount": 6932,
-          "title": "On This Day in Math - July 10",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghFwcqb5pH6QP5bMYcKneorh1faUY4Ox5FCGx1xGgIdugtwOoJAExe3-KPxldYfjK1QCznHI-1K21YsPSCDtAq4m6CZS5PB3P-ByTvzjhhyphenhyphenRWWcsXGh9UPbl_kTa6wVgSciTgX4e2iIHg/w1200-h630-p-k-no-nu/july+10.jpg"
-        },
-        {
-          "id": "https://thalescircles.tumblr.com/post/755588794110050304",
-          "author": "Thales’ circles",
-          "description": "Image description under cut\nKeep reading",
-          "link": "https://thalescircles.tumblr.com/post/755588794110050304",
-          "publishedOn": "2024-07-10T04:27:06.000Z",
-          "wordCount": 458,
-          "title": "adjoint-law:\n\nthe-light-is-dim:derinthescarletpescatarian:kactusn...",
-          "imageUrl": "https://64.media.tumblr.com/3595fd033088ffb5ba8ca28385a426ee/873e2875c187c265-60/s640x960/cbdb23db1ae43376bb3030f036c6eae584c86ed6.png"
-        },
-        {
-          "id": "https://freakonometrics.hypotheses.org/76109",
-          "author": "Freakonometrics",
-          "description": "On Wednesday morning, I will be chairing our session “Discrimination-free Insurance Pricing” at the Insurance: Mathematics & Insurance Conference, in Chicago. With Olivier Côté, Lydia Gabric and Hong Beng Lim, we will be four speaker, just before lunch time. My talk will be a mix of recent work on quantifying and mitigating discrimination in scores … Continue reading Talk at the 27th International Congress on Insurance: Mathematics and Economics →",
-          "link": "https://freakonometrics.hypotheses.org/76109",
-          "publishedOn": "2024-07-10T02:52:00.000Z",
-          "wordCount": 4193,
-          "title": "Talk at the 27th International Congress on Insurance: Mathematics and Economics",
-          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
-        },
-        {
-          "id": "https://freakonometrics.hypotheses.org/76646",
-          "author": "Freakonometrics",
-          "description": "Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 29, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →",
-          "link": "https://freakonometrics.hypotheses.org/76646",
-          "publishedOn": "2024-07-10T02:23:26.000Z",
-          "wordCount": 4220,
-          "title": "Portrait de Franklin, lauréat du Prix des Sciences du Risque",
-          "imageUrl": "https://freakonometrics.hypotheses.org/wp-content/cleo-commons/images/favicon_150x150.png"
-        },
-        {
-          "id": "https://dantopology.wordpress.com/2024/07/09/when-a-product-of-two-sequential-fans-is-sequential/",
-          "author": "Dan Ma's Topology Blog",
-          "description": "We consider the product $latex S(\\omega) \\times S(\\kappa)$ where the first factor is the sequential fan with countably many spines and the second factor is the sequential fan with $latex \\kappa$ ma…",
-          "link": "https://dantopology.wordpress.com/2024/07/09/when-a-product-of-two-sequential-fans-is-sequential/",
-          "publishedOn": "2024-07-09T23:55:01.000Z",
-          "wordCount": 5912,
-          "title": "When a product of two sequential fans is sequential",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://purenumbers.tumblr.com/post/755567867840413696",
-          "author": "Pure Numbers Daily Blog",
-          "description": "7/9/24\n|7 - 9| = 2 = √4\nAlso:\n7 + 9 = 2^4",
-          "link": "https://purenumbers.tumblr.com/post/755567867840413696",
-          "publishedOn": "2024-07-09T22:54:29.000Z",
-          "wordCount": 1775,
-          "title": "7/9/24",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2024/07/09/a-guide-to-detecting-ai-generated-images-informed-by-experiments-on-peoples-ability-to-detect-them/",
-          "author": "Statistical Modeling, Causal Inference, and Social Science",
-          "description": "",
-          "link": "https://statmodeling.stat.columbia.edu/2024/07/09/a-guide-to-detecting-ai-generated-images-informed-by-experiments-on-peoples-ability-to-detect-them/",
-          "publishedOn": "2024-07-09T21:21:11.000Z",
-          "wordCount": null,
-          "title": "A guide to detecting AI-generated images, informed by experiments on people’s ability to detect them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/",
-          "author": "Logic Matters",
-          "description": "The headline news: there is now an inexpensive (but quite acceptably produced) paperback of Introducing Category Theory. Amazon-only to minimize cost, ISBN 978-1916906396: US $14.99, UK £10.99, DE €14.82, IT €14.40, etc. I’m very sure this could be improved in all kinds of ways. As I say at the end of the Preface, the current […]",
-          "link": "https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/",
-          "publishedOn": "2024-07-09T17:00:15.000Z",
-          "wordCount": 4481,
-          "title": "Introducing Category Theory — the paperback!",
-          "imageUrl": "https://www.logicmatters.net/wp-content/uploads/2024/06/SmithCatTheory-209x300.jpg"
-        },
-        {
-          "id": "https://mathhmagic.blogspot.com/2024/07/origami.html",
-          "author": "Μαθη...μαγικά",
-          "description": "",
-          "link": "https://mathhmagic.blogspot.com/2024/07/origami.html",
-          "publishedOn": "2024-07-09T16:43:00.000Z",
-          "wordCount": 4297,
-          "title": "Η τριχοτόμηση μιας γωνίας με origami",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tZbkjvsltk1vPhjAtUWwmiZsBtNxQuPegcyDf61fRRDSzfnGCTLUM74rwtklf2sCePPb2t2dxh_z4s9jsLmrN4cVQE6zeKO6yarpXPL4DWPjGWqA=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://golem.ph.utexas.edu/category/2024/07/imprecise_probabilities_toward.html",
-          "author": "The n-Category Café",
-          "description": "",
-          "link": "https://golem.ph.utexas.edu/category/2024/07/imprecise_probabilities_toward.html",
-          "publishedOn": "2024-07-09T16:37:28.000Z",
-          "wordCount": 8131,
-          "title": "Imprecise Probabilities: Towards a Categorical Perspective",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/",
-          "author": "Combinatorics and more",
-          "description": "Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the…",
-          "link": "https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/",
-          "publishedOn": "2024-07-09T16:02:33.000Z",
-          "wordCount": 4048,
-          "title": "Prague 2024: The First Jiří Matoušek’s Lecture",
-          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/gil-jirka-ascona.png"
-        },
-        {
-          "id": "https://11011110.github.io/blog/2024/07/09/celtix-np-complete.html",
-          "author": "11011110",
-          "description": "Celtix is a puzzle recently developed by Andrew Taylor, in which one is given a rectangular array filled with thick diagonal lines that reflect off the walls...",
-          "link": "https://11011110.github.io/blog/2024/07/09/celtix-np-complete.html",
-          "publishedOn": "2024-07-09T15:20:00.000Z",
-          "wordCount": 1431,
-          "title": "Celtix is NP-complete",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathwithbaddrawings.com/2024/07/09/kind-vs-nice/",
-          "author": "Math with Bad Drawings",
-          "description": "In partial defense of niceness.",
-          "link": "https://mathwithbaddrawings.com/2024/07/09/kind-vs-nice/",
-          "publishedOn": "2024-07-09T13:00:00.000Z",
-          "wordCount": 3541,
-          "title": "Kind vs. nice.",
-          "imageUrl": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2024/06/kind-vs.-nice2.jpg?fit=1200%2C1200&ssl=1"
         }
       ]
     }

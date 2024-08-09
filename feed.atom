@@ -2,10 +2,238 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathblogging-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T00:34:36.179Z</updated>
+    <updated>2024-08-09T00:34:46.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathblogging-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathblogging-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marshalling the grey cells …]]></title>
+        <id>https://www.logicmatters.net/2024/08/08/marshalling-the-grey-cells/</id>
+        <link href="https://www.logicmatters.net/2024/08/08/marshalling-the-grey-cells/"/>
+        <updated>2024-08-08T19:29:09.000Z</updated>
+        <summary type="html"><![CDATA[You now know why I wrapped up work on Introducing Category Theory a bit prematurely, and paperbacked what I frankly admitted was/is a beta version, broadly functional but surely not bug-free. I got an earlier-than-expected slot for my scheduled heart operation, and just didn’t know when (or indeed if) I would be up for returning […]]]></summary>
+        <author>
+            <name>Logic Matters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nicholas Carlini on LLMs and AI for research programmers]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/"/>
+        <updated>2024-08-08T19:00:12.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aris Spanos Guest Post: “On Frequentist Testing: revisiting widely held confusions and misinterpretations”]]></title>
+        <id>https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/</id>
+        <link href="https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/"/>
+        <updated>2024-08-08T17:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Aris Spanos Wilson Schmidt Professor of Economics Department of Economics Virginia Tech The following guest post (link to PDF of this post) was written as a comment to Mayo’s recent post: …]]></summary>
+        <author>
+            <name>Error Statistics Philosophy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2024 Algebra 2 Regents Part III]]></title>
+        <id>https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-iii.html</id>
+        <link href="https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-iii.html"/>
+        <updated>2024-08-08T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[This exam was adminstered in January 2024 .      June 2024 Algebra 2, Part III    Each correct answer is worth up to 4 credits. Partial cr...]]></summary>
+        <author>
+            <name>(x, why?)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectors+ 07 Abstract Vector Space: UNIZOR.COM - Math+ & Problems - Vectors]]></title>
+        <id>https://unizor.blogspot.com/2024/08/vectors-07-abstract-vector-space.html</id>
+        <link href="https://unizor.blogspot.com/2024/08/vectors-07-abstract-vector-space.html"/>
+        <updated>2024-08-08T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes to a video lecture on http://www.unizor.com    Vectors+ 07 - Abstract Vector Space   This lecture represents a typical mathematical a...]]></summary>
+        <author>
+            <name>Unizor - Creative Mind through Art of Mathematics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johannes Kepler’s preoccupation with the concept of harmony.]]></title>
+        <id>https://thonyc.wordpress.com/2024/08/08/johannes-keplers-preoccupation-with-the-concept-of-harmony/</id>
+        <link href="https://thonyc.wordpress.com/2024/08/08/johannes-keplers-preoccupation-with-the-concept-of-harmony/"/>
+        <updated>2024-08-08T14:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Johannes Kepler was an incredibly prolific writer, as well as more than sixty books and pamphlets, he corresponded with a wide range of people writing a huge number of oft, very long letters, on an…]]></summary>
+        <author>
+            <name>The Renaissance Mathematicus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Book of Stories, Activities, Computer Demonstrations, and Problems in Applied Regression and Causal Inference]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2024/08/08/free-book-of-stories-activities/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2024/08/08/free-book-of-stories-activities/"/>
+        <updated>2024-08-08T13:39:49.000Z</updated>
+        <author>
+            <name>Statistical Modeling, Causal Inference, and Social Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘No animosity between us’: Lungless frog finding retracted after 16 years]]></title>
+        <id>https://retractionwatch.com/2024/08/08/no-animosity-between-us-lungless-frog-finding-retracted-after-16-years/</id>
+        <link href="https://retractionwatch.com/2024/08/08/no-animosity-between-us-lungless-frog-finding-retracted-after-16-years/"/>
+        <updated>2024-08-08T11:32:12.000Z</updated>
+        <summary type="html"><![CDATA[The Bornean flat-headed frog, via Current Biology In 2008, a group of researchers published a paper in Current Biology reporting on what they said was a lungless water-loving frog in Borneo.  …]]></summary>
+        <author>
+            <name>Retraction Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Procrustean editing, the headline always fits the narrative]]></title>
+        <id>https://observationalepidemiology.blogspot.com/2024/08/with-procrustean-editing-headline.html</id>
+        <link href="https://observationalepidemiology.blogspot.com/2024/08/with-procrustean-editing-headline.html"/>
+        <updated>2024-08-08T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The only way I'm going to get free of this thread is to stop looking at the New York Times. Remember a few days ago when the New York Times ...]]></summary>
+        <author>
+            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix multiplication doesn’t work like that]]></title>
+        <id>https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/</id>
+        <link href="https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/"/>
+        <updated>2024-08-08T10:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I posted a matrix multiplication worksheet on Mastodon. If you do some of these, you might spot what’s funny about them. For example. \[ \Large \begin{bmatrix}\color{navy}{4…]]></summary>
+        <author>
+            <name>Travels in a Mathematical World – The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix multiplication doesn’t work like that]]></title>
+        <id>https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/</id>
+        <link href="https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/"/>
+        <updated>2024-08-08T10:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I posted a matrix multiplication worksheet on Mastodon. If you do some of these, you might spot what’s funny about them. For example. \[ \Large \begin{bmatrix}\color{navy}{4…]]></summary>
+        <author>
+            <name>The Aperiodical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Μαθηματικά αστειάκια]]></title>
+        <id>https://mathhmagic.blogspot.com/2024/08/blog-post_89.html</id>
+        <link href="https://mathhmagic.blogspot.com/2024/08/blog-post_89.html"/>
+        <updated>2024-08-08T05:34:00.000Z</updated>
+        <author>
+            <name>Μαθη...μαγικά</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Κατασκευή επταγώνου]]></title>
+        <id>https://mathhmagic.blogspot.com/2024/08/blog-post_11.html</id>
+        <link href="https://mathhmagic.blogspot.com/2024/08/blog-post_11.html"/>
+        <updated>2024-08-08T05:08:00.000Z</updated>
+        <author>
+            <name>Μαθη...μαγικά</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not All Math Symbols are Equal, or How "=" Became Ubiquitous]]></title>
+        <id>https://pballew.blogspot.com/2024/08/not-all-math-symbols-are-equal-or-how.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/not-all-math-symbols-are-equal-or-how.html"/>
+        <updated>2024-08-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Another from the Archives:2008 I have a friend named Dave Refro who writes and edits questions for one of those high stakes tests that is ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On This Day in Math - August 8]]></title>
+        <id>https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-8.html</id>
+        <link href="https://pballew.blogspot.com/2024/08/on-this-day-in-math-august-8.html"/>
+        <updated>2024-08-08T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This result is too beautiful to be false; it is more important to have beauty in one's equations than to have them fit experiment. Paul ...]]></summary>
+        <author>
+            <name>Pat'sBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Πάλι βγαίνει πρώτος]]></title>
+        <id>https://mathhmagic.blogspot.com/2024/08/blog-post_8.html</id>
+        <link href="https://mathhmagic.blogspot.com/2024/08/blog-post_8.html"/>
+        <updated>2024-08-08T03:45:00.000Z</updated>
+        <author>
+            <name>Μαθη...μαγικά</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Βungee jumping Physics]]></title>
+        <id>https://mathhmagic.blogspot.com/2024/08/ungee-jumping-physics.html</id>
+        <link href="https://mathhmagic.blogspot.com/2024/08/ungee-jumping-physics.html"/>
+        <updated>2024-08-08T03:44:00.000Z</updated>
+        <author>
+            <name>Μαθη...μαγικά</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Scores of Classifiers, Calibration is not Enough]]></title>
+        <id>https://freakonometrics.hypotheses.org/76930</id>
+        <link href="https://freakonometrics.hypotheses.org/76930"/>
+        <updated>2024-08-08T03:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Our paper “Probabilistic Scores of Classifiers, Calibration is not Enough”, with Agathe Fernandes Machado, Emmanuel Flachaire, Ewen Gallic and François Hu is now available on https://arxiv.org/abs/2408.03421 In binary classification tasks, accurate representation of probabilistic predictions is essential for various real-world applications such as predicting payment defaults or assessing medical risks. The model must then be … Continue reading Probabilistic Scores of Classifiers, Calibration is not Enough →]]></summary>
+        <author>
+            <name>Freakonometrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness]]></title>
+        <id>https://freakonometrics.hypotheses.org/76902</id>
+        <link href="https://freakonometrics.hypotheses.org/76902"/>
+        <updated>2024-08-08T03:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Our paper “Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness“, written with Agathe Fernandes Machado and Ewen Gallic, is now online In this paper, we link two existing approaches to derive counterfactuals: adaptations based on a causal graph, as suggested in Plečko and Meinshausen (2020) and optimal transport, as in De Lara et … Continue reading Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness →]]></summary>
+        <author>
+            <name>Freakonometrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/7/24]]></title>
+        <id>https://purenumbers.tumblr.com/post/758193569298284544</id>
+        <link href="https://purenumbers.tumblr.com/post/758193569298284544"/>
+        <updated>2024-08-07T22:28:53.000Z</updated>
+        <summary type="html"><![CDATA[8 - 7 = 2 / √4
+Also:
+8 - [√(7 + 2)]! = √4]]></summary>
+        <author>
+            <name>Pure Numbers Daily Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deep Bayes factor]]></title>
+        <id>https://xianblog.wordpress.com/2024/08/08/deep-bayes-factor/</id>
+        <link href="https://xianblog.wordpress.com/2024/08/08/deep-bayes-factor/"/>
+        <updated>2024-08-07T22:24:13.000Z</updated>
+        <summary type="html"><![CDATA[A recently arXived paper proposes an alternative approach to computing Bayes factors via deep learning, Deep Bayes Factors written by Jungeum Kim and Veronika Ročková (whom I have known from her Ph…]]></summary>
+        <author>
+            <name>Xi'an's Og</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2024 Algebra 2 Regents Part II]]></title>
+        <id>https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-ii.html</id>
+        <link href="https://mrburkemath.blogspot.com/2024/08/june-2024-algebra-2-regents-part-ii.html"/>
+        <updated>2024-08-07T22:07:00.000Z</updated>
+        <summary type="html"><![CDATA[This exam was adminstered in January 2024 .      June 2024 Algebra 2, Part II    Each correct answer is worth up to 2 credits. Partial cre...]]></summary>
+        <author>
+            <name>(x, why?)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webmentions and POSSE improvements]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-08-07-1414/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-08-07-1414/"/>
+        <updated>2024-08-07T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog now accepts webmentions.
+I used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post.
+After my initial experiments with POSSE, I’ve made a few improvements to the system. Now shortform posts are syndicated to Mastodon, Bluesky, and Twitter, and the links to the syndicated posts are automatically added to the end of each post. I don’t have any automatic social media posting for longform posts yet, though I plan to add a very simple version of that soon.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assistant Professor of Mathematics]]></title>
         <id>https://math.williams.edu/12032-2/</id>
@@ -43,6 +271,16 @@
         <updated>2024-08-07T18:14:41.000Z</updated>
         <author>
             <name>Mind Your Decisions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Range voting considered harmful]]></title>
+        <id>https://11011110.github.io/blog/2024/08/07/range-voting-harmful.html</id>
+        <link href="https://11011110.github.io/blog/2024/08/07/range-voting-harmful.html"/>
+        <updated>2024-08-07T18:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of Wikipedia’s articles on voting systems appear to me to have been overrun by advocacy for range voting. This is a system in which each voter rates eac...]]></summary>
+        <author>
+            <name>11011110</name>
         </author>
     </entry>
     <entry>
@@ -3933,6 +4171,16 @@ Feat.: Derek Boshier, Patrick...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Budget Project for High School Consumer Math]]></title>
+        <id>https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html</id>
+        <link href="https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html"/>
+        <updated>2024-07-18T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been working on a budget project where high school students choose a career, apartment, car and habit and see if they can stay within budget.]]></summary>
+        <author>
+            <name>Scaffolded Math and Science</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supplement maker sues critic for defamation, spurring removal of accepted abstract]]></title>
         <id>https://retractionwatch.com/2024/07/18/supplement-maker-sues-critic-for-defamation-spurring-removal-of-accepted-abstract/</id>
         <link href="https://retractionwatch.com/2024/07/18/supplement-maker-sues-critic-for-defamation-spurring-removal-of-accepted-abstract/"/>
@@ -5157,6 +5405,15 @@ Also:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[regular directed complex]]></title>
+        <id>https://ncatlab.org/nlab/show/regular+directed+complex</id>
+        <link href="https://ncatlab.org/nlab/show/regular+directed+complex"/>
+        <updated>2024-07-10T15:07:58.000Z</updated>
+        <author>
+            <name>nLab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pragmatic Truth • 2]]></title>
         <id>https://inquiryintoinquiry.com/2024/07/10/pragmatic-truth-2/</id>
         <link href="https://inquiryintoinquiry.com/2024/07/10/pragmatic-truth-2/"/>
@@ -5182,207 +5439,6 @@ Also:
         <updated>2024-07-10T13:03:18.000Z</updated>
         <author>
             <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favorite Theorems: Extracting Ramsey Graphs]]></title>
-        <id>https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html</id>
-        <link href="https://blog.computationalcomplexity.org/2024/07/favorite-theorems-extracting-ramsey.html"/>
-        <updated>2024-07-10T11:34:00.000Z</updated>
-        <summary type="html"><![CDATA[June Edition Two decades ago, I named the recently departed Luca Trevisan's paper  connecting extractors to psuedorandom generators as one o...]]></summary>
-        <author>
-            <name>Computational Complexity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This isn't a post about politics; it's a post about the poitical press.]]></title>
-        <id>https://observationalepidemiology.blogspot.com/2024/07/this-isnt-post-about-politics-its-post.html</id>
-        <link href="https://observationalepidemiology.blogspot.com/2024/07/this-isnt-post-about-politics-its-post.html"/>
-        <updated>2024-07-10T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Even more than usual, the best political commentary over the past few days has been coming from Josh Marshall. Though I want to wait until t...]]></summary>
-        <author>
-            <name>West Coast Stat Views (on Observational Epidemiology and more)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams]]></title>
-        <id>https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html</id>
-        <link href="https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html"/>
-        <updated>2024-07-10T10:20:32.000Z</updated>
-        <author>
-            <name>The n-Category Café</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Χρυσή Τομή]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/blog-post_10.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/blog-post_10.html"/>
-        <updated>2024-07-10T09:53:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A monumental astronomy tome from the seventeenth century]]></title>
-        <id>https://thonyc.wordpress.com/2024/07/10/a-monumental-astronomy-tome-from-the-seventeenth-century/</id>
-        <link href="https://thonyc.wordpress.com/2024/07/10/a-monumental-astronomy-tome-from-the-seventeenth-century/"/>
-        <updated>2024-07-10T07:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Giovanni Battista Riccioli (1598–1671) was a third generation, seventeenth-century, Jesuit mathematician and astronomer. A student of Giuseppe Biancani (1566–1624) at the University of Parma, who w…]]></summary>
-        <author>
-            <name>The Renaissance Mathematicus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Internet Math-Off 2024, Quarter-final 1]]></title>
-        <id>https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-1/</id>
-        <link href="https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-1/"/>
-        <updated>2024-07-10T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s the first quarter-final match of The Big Internet Math-Off. Today, we’re pitting Benjamin Dickman against Matt Enlow. Take a look at both pitches, vote for the bit of maths that …]]></summary>
-        <author>
-            <name>The Aperiodical</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rule(s) of Three and the Probability of Nothing]]></title>
-        <id>https://pballew.blogspot.com/2024/07/the-rules-of-three-and-probability-of.html</id>
-        <link href="https://pballew.blogspot.com/2024/07/the-rules-of-three-and-probability-of.html"/>
-        <updated>2024-07-10T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A Re-edit and Posting of a 2008 Blog From 1827 Pike's Arithmetic In my youth, back when dinosaurs roamed the earth, there was “the rule of t...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On This Day in Math - July 10]]></title>
-        <id>https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-10.html</id>
-        <link href="https://pballew.blogspot.com/2024/07/on-this-day-in-math-july-10.html"/>
-        <updated>2024-07-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[That which is not good for the bee-hive cannot be good for the bees.   ~ Marcus Aurelius The 191st day of the year ; 191 is a palindromic ...]]></summary>
-        <author>
-            <name>Pat'sBlog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adjoint-law:
-
-the-light-is-dim:derinthescarletpescatarian:kactusn...]]></title>
-        <id>https://thalescircles.tumblr.com/post/755588794110050304</id>
-        <link href="https://thalescircles.tumblr.com/post/755588794110050304"/>
-        <updated>2024-07-10T04:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Image description under cut
-Keep reading]]></summary>
-        <author>
-            <name>Thales’ circles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk at the 27th International Congress on Insurance: Mathematics and Economics]]></title>
-        <id>https://freakonometrics.hypotheses.org/76109</id>
-        <link href="https://freakonometrics.hypotheses.org/76109"/>
-        <updated>2024-07-10T02:52:00.000Z</updated>
-        <summary type="html"><![CDATA[On Wednesday morning, I will be chairing our session “Discrimination-free Insurance Pricing” at the Insurance: Mathematics & Insurance Conference, in Chicago. With Olivier Côté, Lydia Gabric and Hong Beng Lim, we will be four speaker, just before lunch time. My talk will be a mix of recent work on quantifying and mitigating discrimination in scores … Continue reading Talk at the 27th International Congress on Insurance: Mathematics and Economics →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portrait de Franklin, lauréat du Prix des Sciences du Risque]]></title>
-        <id>https://freakonometrics.hypotheses.org/76646</id>
-        <link href="https://freakonometrics.hypotheses.org/76646"/>
-        <updated>2024-07-10T02:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Joli portrait publié sur Linkedin, de Franklin Feukam Kouhoue pour son mémoire d’actuariat sur l’explicabilité des modèles boites noires, qu’on avait supervisé avec Laurence Barry. Bravo Franklin. OpenEdition suggests that you cite this post as follows:Arthur Charpentier (July 9, 2024). Portrait de Franklin, lauréat du Prix des Sciences du Risque. Freakonometrics. Retrieved July 29, 2024 … Continue reading Portrait de Franklin, lauréat du Prix des Sciences du Risque →]]></summary>
-        <author>
-            <name>Freakonometrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When a product of two sequential fans is sequential]]></title>
-        <id>https://dantopology.wordpress.com/2024/07/09/when-a-product-of-two-sequential-fans-is-sequential/</id>
-        <link href="https://dantopology.wordpress.com/2024/07/09/when-a-product-of-two-sequential-fans-is-sequential/"/>
-        <updated>2024-07-09T23:55:01.000Z</updated>
-        <summary type="html"><![CDATA[We consider the product $latex S(\omega) \times S(\kappa)$ where the first factor is the sequential fan with countably many spines and the second factor is the sequential fan with $latex \kappa$ ma…]]></summary>
-        <author>
-            <name>Dan Ma's Topology Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/9/24]]></title>
-        <id>https://purenumbers.tumblr.com/post/755567867840413696</id>
-        <link href="https://purenumbers.tumblr.com/post/755567867840413696"/>
-        <updated>2024-07-09T22:54:29.000Z</updated>
-        <summary type="html"><![CDATA[7/9/24
-|7 - 9| = 2 = √4
-Also:
-7 + 9 = 2^4]]></summary>
-        <author>
-            <name>Pure Numbers Daily Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to detecting AI-generated images, informed by experiments on people’s ability to detect them]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2024/07/09/a-guide-to-detecting-ai-generated-images-informed-by-experiments-on-peoples-ability-to-detect-them/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2024/07/09/a-guide-to-detecting-ai-generated-images-informed-by-experiments-on-peoples-ability-to-detect-them/"/>
-        <updated>2024-07-09T21:21:11.000Z</updated>
-        <author>
-            <name>Statistical Modeling, Causal Inference, and Social Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Category Theory — the paperback!]]></title>
-        <id>https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/</id>
-        <link href="https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/"/>
-        <updated>2024-07-09T17:00:15.000Z</updated>
-        <summary type="html"><![CDATA[The headline news: there is now an inexpensive (but quite acceptably produced) paperback of Introducing Category Theory. Amazon-only to minimize cost, ISBN 978-1916906396: US $14.99, UK £10.99, DE €14.82, IT €14.40, etc. I’m very sure this could be improved in all kinds of ways. As I say at the end of the Preface, the current […]]]></summary>
-        <author>
-            <name>Logic Matters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Η τριχοτόμηση μιας γωνίας με origami]]></title>
-        <id>https://mathhmagic.blogspot.com/2024/07/origami.html</id>
-        <link href="https://mathhmagic.blogspot.com/2024/07/origami.html"/>
-        <updated>2024-07-09T16:43:00.000Z</updated>
-        <author>
-            <name>Μαθη...μαγικά</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imprecise Probabilities: Towards a Categorical Perspective]]></title>
-        <id>https://golem.ph.utexas.edu/category/2024/07/imprecise_probabilities_toward.html</id>
-        <link href="https://golem.ph.utexas.edu/category/2024/07/imprecise_probabilities_toward.html"/>
-        <updated>2024-07-09T16:37:28.000Z</updated>
-        <author>
-            <name>The n-Category Café</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prague 2024: The First Jiří Matoušek’s Lecture]]></title>
-        <id>https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/</id>
-        <link href="https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/"/>
-        <updated>2024-07-09T16:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the…]]></summary>
-        <author>
-            <name>Combinatorics and more</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtix is NP-complete]]></title>
-        <id>https://11011110.github.io/blog/2024/07/09/celtix-np-complete.html</id>
-        <link href="https://11011110.github.io/blog/2024/07/09/celtix-np-complete.html"/>
-        <updated>2024-07-09T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtix is a puzzle recently developed by Andrew Taylor, in which one is given a rectangular array filled with thick diagonal lines that reflect off the walls...]]></summary>
-        <author>
-            <name>11011110</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kind vs. nice.]]></title>
-        <id>https://mathwithbaddrawings.com/2024/07/09/kind-vs-nice/</id>
-        <link href="https://mathwithbaddrawings.com/2024/07/09/kind-vs-nice/"/>
-        <updated>2024-07-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In partial defense of niceness.]]></summary>
-        <author>
-            <name>Math with Bad Drawings</name>
         </author>
     </entry>
 </feed>
